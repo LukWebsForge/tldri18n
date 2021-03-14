@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 14-Mar-21 01:00:07 CET",
+	"last_update": "Sunday, 14-Mar-21 17:44:32 CET",
 	"languages": [
 		"en",
 		"bs",
@@ -5364,6 +5364,11 @@
 						"de": 2,
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"nbtscan": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nc": {
