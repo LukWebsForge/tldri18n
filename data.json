@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 15-Mar-21 01:00:06 CET",
+	"last_update": "Tuesday, 16-Mar-21 01:00:06 CET",
 	"languages": [
 		"en",
 		"bs",
@@ -5372,6 +5372,11 @@
 					}
 				},
 				"nc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ncc": {
 					"status": {
 						"en": 2
 					}
