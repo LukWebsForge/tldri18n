@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 16-Mar-21 01:00:06 CET",
+	"last_update": "Wednesday, 17-Mar-21 01:00:08 CET",
 	"languages": [
 		"en",
 		"bs",
@@ -55,7 +55,7 @@
 				"ta": 1,
 				"th": 0,
 				"tr": 2,
-				"zh": 7,
+				"zh": 6,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -5335,6 +5335,11 @@
 						"pt_BR": 1
 					}
 				},
+				"mysqld": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mysqldump": {
 					"status": {
 						"en": 2,
@@ -7533,11 +7538,16 @@
 						"zh_TW": 1
 					}
 				},
-				"tldrl": {
+				"tldr-lint": {
 					"status": {
 						"en": 2,
 						"hbs": 2,
 						"tr": 2
+					}
+				},
+				"tldrl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tlmgr": {
@@ -11458,12 +11468,14 @@
 				},
 				"whatis": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"whereis": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"whiptail": {
@@ -11648,7 +11660,8 @@
 				},
 				"yum": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"zenity": {
