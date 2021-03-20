@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 19-Mar-21 00:00:07 UTC",
+	"last_update": "Saturday, 20-Mar-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2006,6 +2006,11 @@
 						"ko": 2
 					}
 				},
+				"docker-cp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-exec": {
 					"status": {
 						"en": 2,
@@ -2123,6 +2128,26 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"dolt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dolt-add": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dolt-blame": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dolt-branch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dot": {
@@ -7547,7 +7572,8 @@
 				},
 				"tldrl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"tlmgr": {
