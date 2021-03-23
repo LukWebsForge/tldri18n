@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 22-Mar-21 00:00:06 UTC",
+	"last_update": "Tuesday, 23-Mar-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1370,6 +1370,11 @@
 						"zh": 2
 					}
 				},
+				"codespell": {
+					"status": {
+						"en": 2
+					}
+				},
 				"coffee": {
 					"status": {
 						"en": 2,
@@ -2146,6 +2151,11 @@
 					}
 				},
 				"dolt-branch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dolt-checkout": {
 					"status": {
 						"en": 2
 					}
@@ -10832,7 +10842,8 @@
 				},
 				"rig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rofi": {
