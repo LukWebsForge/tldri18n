@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 23-Mar-21 00:00:07 UTC",
+	"last_update": "Wednesday, 24-Mar-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3266,6 +3266,11 @@
 						"fr": 2
 					}
 				},
+				"git-for-each-repo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-format-patch": {
 					"status": {
 						"en": 2,
@@ -3372,6 +3377,11 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-maintenance": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-merge": {
@@ -5112,6 +5122,7 @@
 				"mkdir": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
@@ -5555,6 +5566,7 @@
 				"nmap": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2
 					}
 				},
@@ -7628,6 +7640,7 @@
 				"touch": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"id": 2,
 						"pt_BR": 1,
