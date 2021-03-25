@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 24-Mar-21 00:00:07 UTC",
+	"last_update": "Thursday, 25-Mar-21 00:00:09 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -147,9 +147,9 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1,
-						"pl": 2,
+						"pl": 1,
 						"pt_BR": 1,
-						"ru": 2,
+						"ru": 1,
 						"ta": 1,
 						"zh": 1
 					}
@@ -311,6 +311,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"zh": 2
@@ -1127,7 +1128,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
-						"fr": 1,
+						"fr": 2,
 						"hi": 2,
 						"id": 2,
 						"it": 1,
@@ -1207,7 +1208,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 1,
-						"fr": 1,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
@@ -5622,6 +5623,7 @@
 				},
 				"npm": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"id": 2
 					}
@@ -6209,6 +6211,11 @@
 					}
 				},
 				"pio-boards": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pio-project": {
 					"status": {
 						"en": 2
 					}
@@ -8548,7 +8555,8 @@
 				},
 				"a2ensite": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"a2query": {
@@ -10086,6 +10094,11 @@
 					}
 				},
 				"lvextend": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvm": {
 					"status": {
 						"en": 2
 					}
@@ -13408,6 +13421,7 @@
 				"whoami": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
