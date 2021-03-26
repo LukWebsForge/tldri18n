@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 25-Mar-21 00:00:09 UTC",
+	"last_update": "Friday, 26-Mar-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -29,6 +29,63 @@
 		"zh_TW"
 	],
 	"entries": {
+		"android": {
+			"progress": {
+				"bs": 0,
+				"da": 0,
+				"de": 0,
+				"en": 100,
+				"es": 0,
+				"fa": 0,
+				"fr": 0,
+				"hbs": 0,
+				"hi": 0,
+				"id": 0,
+				"it": 0,
+				"ja": 0,
+				"ko": 0,
+				"ml": 0,
+				"nl": 0,
+				"no": 0,
+				"pl": 0,
+				"pt_BR": 0,
+				"pt_PT": 0,
+				"ru": 0,
+				"sv": 0,
+				"ta": 0,
+				"th": 0,
+				"tr": 0,
+				"zh": 0,
+				"zh_TW": 0
+			},
+			"pages": {
+				"am": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cmd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dalvikvm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"settings": {
+					"status": {
+						"en": 2
+					}
+				}
+			}
+		},
 		"common": {
 			"progress": {
 				"bs": 0,
@@ -3991,6 +4048,11 @@
 						"en": 2
 					}
 				},
+				"hakyll-init": {
+					"status": {
+						"en": 2
+					}
+				},
 				"handbrakecli": {
 					"status": {
 						"en": 2
@@ -4996,9 +5058,9 @@
 				"man": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"it": 1,
+						"pt_BR": 1,
+						"tr": 1
 					}
 				},
 				"mat2": {
@@ -5569,6 +5631,12 @@
 						"en": 2,
 						"es": 2,
 						"it": 2
+					}
+				},
+				"nms": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"node": {
@@ -6211,6 +6279,11 @@
 					}
 				},
 				"pio-boards": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pio-home": {
 					"status": {
 						"en": 2
 					}
@@ -8806,6 +8879,11 @@
 						"en": 2
 					}
 				},
+				"aurman": {
+					"status": {
+						"en": 2
+					}
+				},
 				"authconfig": {
 					"status": {
 						"en": 2,
@@ -9664,8 +9742,8 @@
 				"halt": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"it": 2
+						"es": 1,
+						"it": 1
 					}
 				},
 				"hardinfo": {
@@ -10089,6 +10167,11 @@
 					}
 				},
 				"lvcreate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvdisplay": {
 					"status": {
 						"en": 2
 					}
@@ -10697,9 +10780,9 @@
 				"poweroff": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"it": 2,
-						"zh": 2
+						"es": 1,
+						"it": 1,
+						"zh": 1
 					}
 				},
 				"powertop": {
@@ -10754,6 +10837,11 @@
 					}
 				},
 				"pvcreate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pvdisplay": {
 					"status": {
 						"en": 2
 					}
@@ -10822,8 +10910,8 @@
 				"reboot": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"zh": 2
+						"es": 1,
+						"zh": 1
 					}
 				},
 				"reflector": {
@@ -11459,6 +11547,11 @@
 						"en": 2
 					}
 				},
+				"vgdisplay": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vgs": {
 					"status": {
 						"en": 2
@@ -11722,8 +11815,8 @@
 				"yay": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"zh": 2
+						"fr": 1,
+						"zh": 1
 					}
 				},
 				"yetris": {
