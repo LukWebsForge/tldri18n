@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 26-Mar-21 00:00:07 UTC",
+	"last_update": "Saturday, 27-Mar-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -92,7 +92,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 100,
-				"es": 5,
+				"es": 6,
 				"fa": 1,
 				"fr": 9,
 				"hbs": 0,
@@ -810,7 +810,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 1,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"zh": 2
@@ -4244,6 +4244,7 @@
 				"htop": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 1
 					}
 				},
@@ -8957,7 +8958,8 @@
 				},
 				"bpytop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"brctl": {
@@ -11394,6 +11396,7 @@
 				"top": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 1
 					}
 				},
