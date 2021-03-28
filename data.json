@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 27-Mar-21 00:00:06 UTC",
+	"last_update": "Sunday, 28-Mar-21 00:00:11 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -577,6 +577,7 @@
 				"at": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
@@ -3058,7 +3059,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 1,
+						"fr": 2,
 						"id": 2,
 						"it": 1,
 						"nl": 2,
@@ -8577,7 +8578,7 @@
 				"en": 99,
 				"es": 5,
 				"fa": 0,
-				"fr": 2,
+				"fr": 3,
 				"hbs": 0,
 				"hi": 0,
 				"id": 0,
@@ -9609,7 +9610,7 @@
 				"flatpak": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"foreman": {
@@ -9832,7 +9833,8 @@
 				},
 				"ifdown": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"iftop": {
@@ -9842,7 +9844,8 @@
 				},
 				"ifup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"imgp": {
@@ -9868,13 +9871,15 @@
 				"ip": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ip-address": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ipcalc": {
