@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 29-Mar-21 00:00:34 UTC",
+	"last_update": "Tuesday, 30-Mar-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -11778,6 +11778,12 @@
 				"xdg-mime": {
 					"status": {
 						"en": 2
+					}
+				},
+				"xdg-open": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"xdotool": {
