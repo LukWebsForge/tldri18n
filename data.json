@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 02-Apr-21 00:00:06 UTC",
+	"last_update": "Saturday, 03-Apr-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -634,6 +634,12 @@
 						"en": 2,
 						"it": 2,
 						"zh": 2
+					}
+				},
+				"autopep8": {
+					"status": {
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"autossh": {
@@ -9036,6 +9042,11 @@
 						"zh": 2
 					}
 				},
+				"archinstall": {
+					"status": {
+						"en": 2
+					}
+				},
 				"archlinux-java": {
 					"status": {
 						"en": 2
@@ -11423,6 +11434,11 @@
 					}
 				},
 				"snmpwalk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"spectre-meltdown-checker": {
 					"status": {
 						"en": 2
 					}
