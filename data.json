@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 03-Apr-21 00:00:06 UTC",
+	"last_update": "Sunday, 04-Apr-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -8,7 +8,6 @@
 		"es",
 		"fa",
 		"fr",
-		"hbs",
 		"hi",
 		"id",
 		"it",
@@ -21,6 +20,7 @@
 		"pt_BR",
 		"pt_PT",
 		"ru",
+		"sh",
 		"sv",
 		"ta",
 		"th",
@@ -38,7 +38,6 @@
 				"es": 0,
 				"fa": 0,
 				"fr": 0,
-				"hbs": 0,
 				"hi": 0,
 				"id": 0,
 				"it": 0,
@@ -51,6 +50,7 @@
 				"pt_BR": 0,
 				"pt_PT": 0,
 				"ru": 0,
+				"sh": 0,
 				"sv": 0,
 				"ta": 0,
 				"th": 0,
@@ -70,6 +70,11 @@
 					}
 				},
 				"dalvikvm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"getprop": {
 					"status": {
 						"en": 2
 					}
@@ -100,7 +105,6 @@
 				"es": 5,
 				"fa": 1,
 				"fr": 9,
-				"hbs": 0,
 				"hi": 0,
 				"id": 3,
 				"it": 19,
@@ -113,6 +117,7 @@
 				"pt_BR": 5,
 				"pt_PT": 0,
 				"ru": 1,
+				"sh": 0,
 				"sv": 1,
 				"ta": 1,
 				"th": 0,
@@ -2478,6 +2483,11 @@
 						"it": 2
 					}
 				},
+				"encfs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"enscript": {
 					"status": {
 						"en": 2,
@@ -4098,8 +4108,8 @@
 				"head": {
 					"status": {
 						"en": 2,
-						"hbs": 2,
-						"it": 2
+						"it": 2,
+						"sh": 2
 					}
 				},
 				"helm": {
@@ -7247,37 +7257,37 @@
 				"sh": {
 					"status": {
 						"en": 2,
-						"hbs": 2
+						"sh": 2
 					}
 				},
 				"sha1sum": {
 					"status": {
 						"en": 2,
-						"hbs": 1
+						"sh": 1
 					}
 				},
 				"sha224sum": {
 					"status": {
 						"en": 2,
-						"hbs": 1
+						"sh": 1
 					}
 				},
 				"sha256sum": {
 					"status": {
 						"en": 2,
-						"hbs": 1
+						"sh": 1
 					}
 				},
 				"sha384sum": {
 					"status": {
 						"en": 2,
-						"hbs": 1
+						"sh": 1
 					}
 				},
 				"sha512sum": {
 					"status": {
 						"en": 2,
-						"hbs": 1
+						"sh": 1
 					}
 				},
 				"shards": {
@@ -7327,6 +7337,11 @@
 					}
 				},
 				"siege": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sindresorhus": {
 					"status": {
 						"en": 2
 					}
@@ -7736,7 +7751,7 @@
 				"tail": {
 					"status": {
 						"en": 2,
-						"hbs": 1
+						"sh": 1
 					}
 				},
 				"takeout": {
@@ -7871,12 +7886,12 @@
 				"tldr": {
 					"status": {
 						"en": 2,
-						"hbs": 1,
 						"hi": 2,
 						"ja": 1,
 						"ko": 1,
 						"pl": 1,
 						"ru": 2,
+						"sh": 1,
 						"th": 2,
 						"tr": 2,
 						"zh": 2,
@@ -7886,7 +7901,7 @@
 				"tldr-lint": {
 					"status": {
 						"en": 2,
-						"hbs": 2,
+						"sh": 2,
 						"tr": 2
 					}
 				},
@@ -8802,7 +8817,6 @@
 				"es": 5,
 				"fa": 0,
 				"fr": 4,
-				"hbs": 0,
 				"hi": 0,
 				"id": 0,
 				"it": 4,
@@ -8815,6 +8829,7 @@
 				"pt_BR": 8,
 				"pt_PT": 0,
 				"ru": 0,
+				"sh": 0,
 				"sv": 0,
 				"ta": 0,
 				"th": 0,
@@ -12085,7 +12100,6 @@
 				"es": 7,
 				"fa": 0,
 				"fr": 0,
-				"hbs": 0,
 				"hi": 0,
 				"id": 0,
 				"it": 10,
@@ -12098,6 +12112,7 @@
 				"pt_BR": 0,
 				"pt_PT": 0,
 				"ru": 0,
+				"sh": 0,
 				"sv": 0,
 				"ta": 0,
 				"th": 0,
@@ -12891,7 +12906,6 @@
 				"es": 0,
 				"fa": 0,
 				"fr": 0,
-				"hbs": 0,
 				"hi": 0,
 				"id": 0,
 				"it": 0,
@@ -12904,6 +12918,7 @@
 				"pt_BR": 0,
 				"pt_PT": 0,
 				"ru": 0,
+				"sh": 0,
 				"sv": 0,
 				"ta": 0,
 				"th": 0,
@@ -12969,7 +12984,6 @@
 				"es": 0,
 				"fa": 2,
 				"fr": 0,
-				"hbs": 0,
 				"hi": 0,
 				"id": 2,
 				"it": 0,
@@ -12982,6 +12996,7 @@
 				"pt_BR": 16,
 				"pt_PT": 0,
 				"ru": 0,
+				"sh": 0,
 				"sv": 0,
 				"ta": 2,
 				"th": 0,
