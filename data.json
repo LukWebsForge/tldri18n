@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 04-Apr-21 00:00:06 UTC",
+	"last_update": "Monday, 05-Apr-21 00:00:41 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3287,13 +3287,13 @@
 				},
 				"git-commit": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ta": 2
+						"es": 1,
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"ta": 1
 					}
 				},
 				"git-commit-graph": {
@@ -4206,6 +4206,11 @@
 					}
 				},
 				"hg-update": {
+					"status": {
+						"en": 2
+					}
+				},
+				"histexpand": {
 					"status": {
 						"en": 2
 					}
@@ -9363,6 +9368,11 @@
 					}
 				},
 				"compose": {
+					"status": {
+						"en": 2
+					}
+				},
+				"compsize": {
 					"status": {
 						"en": 2
 					}
