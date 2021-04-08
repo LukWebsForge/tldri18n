@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 07-Apr-21 00:00:06 UTC",
+	"last_update": "Thursday, 08-Apr-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -6815,6 +6815,11 @@
 						"en": 2
 					}
 				},
+				"rails-destroy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rails-generate": {
 					"status": {
 						"en": 2,
@@ -11391,6 +11396,11 @@
 					"status": {
 						"en": 2,
 						"es": 1
+					}
+				},
+				"sic": {
+					"status": {
+						"en": 2
 					}
 				},
 				"silentcast": {
