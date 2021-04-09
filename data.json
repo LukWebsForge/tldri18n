@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 08-Apr-21 00:00:07 UTC",
+	"last_update": "Friday, 09-Apr-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -10150,6 +10150,11 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"ip-neighbour": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ipcalc": {
