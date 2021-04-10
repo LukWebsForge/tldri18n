@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 09-Apr-21 00:00:07 UTC",
+	"last_update": "Saturday, 10-Apr-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -6442,6 +6442,11 @@
 						"en": 2
 					}
 				},
+				"plesk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pm2": {
 					"status": {
 						"en": 2
@@ -8659,6 +8664,11 @@
 						"en": 2
 					}
 				},
+				"xxh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xz": {
 					"status": {
 						"en": 2,
@@ -9873,6 +9883,11 @@
 					}
 				},
 				"flash": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flashrom": {
 					"status": {
 						"en": 2
 					}
