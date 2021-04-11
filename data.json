@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 10-Apr-21 00:00:06 UTC",
+	"last_update": "Sunday, 11-Apr-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -109,7 +109,7 @@
 				"id": 3,
 				"it": 19,
 				"ja": 0,
-				"ko": 12,
+				"ko": 11,
 				"ml": 0,
 				"nl": 1,
 				"no": 0,
@@ -1015,6 +1015,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"brew": {
+					"status": {
+						"en": 2
 					}
 				},
 				"brotli": {
@@ -2240,6 +2245,11 @@
 						"en": 2
 					}
 				},
+				"dolt-config": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dot": {
 					"status": {
 						"en": 2,
@@ -2415,7 +2425,7 @@
 				"ect": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 1
 					}
 				},
 				"ed": {
@@ -2643,6 +2653,11 @@
 					}
 				},
 				"factor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fakedata": {
 					"status": {
 						"en": 2
 					}
@@ -6154,6 +6169,11 @@
 						"en": 2
 					}
 				},
+				"peludna-prognoza": {
+					"status": {
+						"en": 2
+					}
+				},
 				"perl": {
 					"status": {
 						"en": 2
@@ -6351,12 +6371,22 @@
 						"en": 2
 					}
 				},
+				"pio-device": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pio-home": {
 					"status": {
 						"en": 2
 					}
 				},
 				"pio-org": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pio-package": {
 					"status": {
 						"en": 2
 					}
@@ -8649,6 +8679,11 @@
 						"en": 2
 					}
 				},
+				"xonsh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xpdf": {
 					"status": {
 						"en": 2
@@ -9246,7 +9281,6 @@
 				},
 				"brew": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"pt_BR": 2
 					}
@@ -10168,6 +10202,11 @@
 					}
 				},
 				"ip-neighbour": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ip-route": {
 					"status": {
 						"en": 2
 					}
@@ -12141,7 +12180,7 @@
 				"bs": 0,
 				"da": 0,
 				"de": 3,
-				"en": 99,
+				"en": 98,
 				"es": 7,
 				"fa": 0,
 				"fr": 0,
@@ -12240,7 +12279,6 @@
 				},
 				"brew": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"it": 2,
 						"zh": 2
