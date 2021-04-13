@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 12-Apr-21 00:00:45 UTC",
+	"last_update": "Tuesday, 13-Apr-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -75,6 +75,11 @@
 					}
 				},
 				"getprop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"logcat": {
 					"status": {
 						"en": 2
 					}
@@ -2100,6 +2105,11 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"docker-image": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-images": {
@@ -10391,11 +10401,6 @@
 					}
 				},
 				"locate": {
-					"status": {
-						"en": 2
-					}
-				},
-				"logcat": {
 					"status": {
 						"en": 2
 					}
