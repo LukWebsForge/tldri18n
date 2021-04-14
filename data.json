@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 13-Apr-21 00:00:07 UTC",
+	"last_update": "Wednesday, 14-Apr-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -75,6 +75,11 @@
 					}
 				},
 				"getprop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"input": {
 					"status": {
 						"en": 2
 					}
@@ -10109,6 +10114,11 @@
 					}
 				},
 				"hlint": {
+					"status": {
+						"en": 2
+					}
+				},
+				"homectl": {
 					"status": {
 						"en": 2
 					}
