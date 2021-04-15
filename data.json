@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 14-Apr-21 00:00:08 UTC",
+	"last_update": "Thursday, 15-Apr-21 00:00:10 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -70,6 +70,11 @@
 					}
 				},
 				"dalvikvm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dumpsys": {
 					"status": {
 						"en": 2
 					}
@@ -1855,6 +1860,11 @@
 						"ko": 2
 					}
 				},
+				"dash": {
+					"status": {
+						"en": 2
+					}
+				},
 				"date": {
 					"status": {
 						"en": 2,
@@ -1874,6 +1884,11 @@
 					}
 				},
 				"dcg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dcode": {
 					"status": {
 						"en": 2
 					}
@@ -2792,7 +2807,7 @@
 				},
 				"fish": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
@@ -6401,6 +6416,11 @@
 						"en": 2
 					}
 				},
+				"pio-lib": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pio-org": {
 					"status": {
 						"en": 2
@@ -8874,10 +8894,10 @@
 				},
 				"zsh": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"it": 2,
-						"zh": 2
+						"it": 1,
+						"zh": 1
 					}
 				},
 				"zstd": {
@@ -9532,11 +9552,6 @@
 					}
 				},
 				"daemonize": {
-					"status": {
-						"en": 2
-					}
-				},
-				"dash": {
 					"status": {
 						"en": 2
 					}
@@ -10709,6 +10724,11 @@
 						"en": 2
 					}
 				},
+				"mocp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"modinfo": {
 					"status": {
 						"en": 2,
@@ -10772,6 +10792,11 @@
 					}
 				},
 				"namei": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nautilus": {
 					"status": {
 						"en": 2
 					}
