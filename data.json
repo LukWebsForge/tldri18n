@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 15-Apr-21 00:00:10 UTC",
+	"last_update": "Friday, 16-Apr-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -391,12 +391,12 @@
 				},
 				"ansible": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"zh": 2
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"ansible-doc": {
@@ -2060,6 +2060,11 @@
 						"tr": 2
 					}
 				},
+				"diskonaut": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dive": {
 					"status": {
 						"en": 2,
@@ -3060,6 +3065,11 @@
 					}
 				},
 				"gh-pr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-pr-merge": {
 					"status": {
 						"en": 2
 					}
@@ -6547,6 +6557,11 @@
 						"en": 2
 					}
 				},
+				"popd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"popeye": {
 					"status": {
 						"en": 2
@@ -6758,6 +6773,11 @@
 					}
 				},
 				"pup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pushd": {
 					"status": {
 						"en": 2
 					}
@@ -7673,12 +7693,22 @@
 						"en": 2
 					}
 				},
+				"steam": {
+					"status": {
+						"en": 2
+					}
+				},
 				"stern": {
 					"status": {
 						"en": 2
 					}
 				},
 				"stolonctl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"stormlock": {
 					"status": {
 						"en": 2
 					}
@@ -7856,7 +7886,7 @@
 						"es": 1,
 						"fr": 1,
 						"pt_BR": 2,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"task": {
@@ -11148,11 +11178,6 @@
 						"en": 2
 					}
 				},
-				"popd": {
-					"status": {
-						"en": 2
-					}
-				},
 				"ports": {
 					"status": {
 						"en": 2
@@ -11215,11 +11240,6 @@
 					"status": {
 						"en": 2,
 						"tr": 2
-					}
-				},
-				"pushd": {
-					"status": {
-						"en": 2
 					}
 				},
 				"pvcreate": {
@@ -12240,13 +12260,13 @@
 				"bs": 0,
 				"da": 0,
 				"de": 3,
-				"en": 98,
+				"en": 96,
 				"es": 7,
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
 				"id": 0,
-				"it": 10,
+				"it": 9,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -12261,7 +12281,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 75,
+				"zh": 74,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -12734,7 +12754,6 @@
 				},
 				"popd": {
 					"status": {
-						"en": 2,
 						"zh": 2
 					}
 				},
@@ -12746,7 +12765,6 @@
 				},
 				"pushd": {
 					"status": {
-						"en": 2,
 						"zh": 2
 					}
 				},
@@ -12934,6 +12952,11 @@
 					}
 				},
 				"uptime": {
+					"status": {
+						"en": 2
+					}
+				},
+				"uuidgen": {
 					"status": {
 						"en": 2
 					}
