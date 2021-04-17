@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 16-Apr-21 00:00:08 UTC",
+	"last_update": "Saturday, 17-Apr-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -119,9 +119,9 @@
 				"en": 100,
 				"es": 5,
 				"fa": 1,
-				"fr": 9,
+				"fr": 8,
 				"hi": 0,
-				"id": 3,
+				"id": 2,
 				"it": 19,
 				"ja": 0,
 				"ko": 11,
@@ -137,7 +137,7 @@
 				"ta": 1,
 				"th": 0,
 				"tr": 2,
-				"zh": 7,
+				"zh": 6,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -411,6 +411,11 @@
 						"it": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"ansible-inventory": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ansible-playbook": {
@@ -3090,12 +3095,22 @@
 						"zh": 1
 					}
 				},
+				"gh-run": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-secret": {
 					"status": {
 						"en": 2
 					}
 				},
 				"gh-ssh-key": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-workflow": {
 					"status": {
 						"en": 2
 					}
@@ -6011,6 +6026,11 @@
 						"en": 2
 					}
 				},
+				"openttd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"openvpn": {
 					"status": {
 						"en": 2
@@ -7239,6 +7259,11 @@
 					}
 				},
 				"satis": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sbcl": {
 					"status": {
 						"en": 2
 					}
@@ -9633,6 +9658,11 @@
 						"ko": 1
 					}
 				},
+				"dex": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dget": {
 					"status": {
 						"en": 2
@@ -11787,6 +11817,11 @@
 						"en": 2,
 						"es": 2,
 						"pt_BR": 1
+					}
+				},
+				"tracepath": {
+					"status": {
+						"en": 2
 					}
 				},
 				"trap": {
