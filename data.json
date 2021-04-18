@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 17-Apr-21 00:00:08 UTC",
+	"last_update": "Sunday, 18-Apr-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2104,6 +2104,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"it": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -2113,7 +2114,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
-						"it": 1,
+						"it": 2,
 						"ko": 1,
 						"tr": 2
 					}
@@ -2128,18 +2129,21 @@
 				},
 				"docker-cp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"docker-exec": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"tr": 2
 					}
 				},
 				"docker-image": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"docker-images": {
@@ -2155,12 +2159,14 @@
 				"docker-inspect": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"tr": 2
 					}
 				},
 				"docker-logs": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
@@ -2177,6 +2183,7 @@
 				"docker-network": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"tr": 2
 					}
 				},
@@ -9152,11 +9159,11 @@
 				"apt-file": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"apt-get": {
@@ -11447,6 +11454,11 @@
 					}
 				},
 				"runuser": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rusnapshot": {
 					"status": {
 						"en": 2
 					}
