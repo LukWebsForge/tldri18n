@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 18-Apr-21 00:00:07 UTC",
+	"last_update": "Monday, 19-Apr-21 00:00:48 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -5287,6 +5287,12 @@
 						"en": 2
 					}
 				},
+				"minisign": {
+					"status": {
+						"de": 2,
+						"en": 2
+					}
+				},
 				"mitmdump": {
 					"status": {
 						"en": 2
@@ -6443,6 +6449,11 @@
 						"en": 2
 					}
 				},
+				"pio-debug": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pio-device": {
 					"status": {
 						"en": 2
@@ -6499,6 +6510,11 @@
 					}
 				},
 				"pio-upgrade": {
+					"status": {
+						"en": 2
+					}
+				},
+				"piodebuggdb": {
 					"status": {
 						"en": 2
 					}
@@ -11301,6 +11317,11 @@
 					}
 				},
 				"pwgen": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qjoypad": {
 					"status": {
 						"en": 2
 					}
