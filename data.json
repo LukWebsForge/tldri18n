@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 03-May-21 00:00:49 UTC",
+	"last_update": "Tuesday, 04-May-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -5474,7 +5474,8 @@
 				},
 				"more": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"moro": {
@@ -6657,6 +6658,16 @@
 					}
 				},
 				"pngcrush": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnpm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnpx": {
 					"status": {
 						"en": 2
 					}
