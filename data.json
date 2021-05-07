@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 06-May-21 00:00:08 UTC",
+	"last_update": "Friday, 07-May-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -202,7 +202,8 @@
 				"[": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pt_BR": 2
 					}
 				},
 				"aapt": {
@@ -540,12 +541,14 @@
 				},
 				"arduino": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"arduino-builder": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"aria2": {
@@ -892,6 +895,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				},
@@ -1428,6 +1432,7 @@
 						"fr": 2,
 						"it": 1,
 						"ko": 1,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -4107,7 +4112,7 @@
 				"gradle": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"grep": {
