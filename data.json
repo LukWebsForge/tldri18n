@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 07-May-21 00:00:08 UTC",
+	"last_update": "Saturday, 08-May-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -147,7 +147,7 @@
 				"ta": 1,
 				"th": 0,
 				"tr": 2,
-				"zh": 6,
+				"zh": 7,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -1662,8 +1662,10 @@
 						"fr": 2,
 						"id": 2,
 						"it": 2,
+						"ja": 2,
 						"ko": 1,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"cpdf": {
@@ -5141,6 +5143,7 @@
 						"hi": 2,
 						"id": 2,
 						"it": 1,
+						"ja": 2,
 						"pt_BR": 1,
 						"ru": 2,
 						"ta": 1,
@@ -6928,6 +6931,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
+						"ja": 2,
 						"zh_TW": 2
 					}
 				},
@@ -8036,6 +8040,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"ja": 2,
 						"pt_BR": 2,
 						"ru": 2
 					}
@@ -8588,6 +8593,11 @@
 					}
 				},
 				"virsh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-domblklist": {
 					"status": {
 						"en": 2
 					}
