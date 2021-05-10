@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 09-May-21 00:00:07 UTC",
+	"last_update": "Monday, 10-May-21 00:00:37 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -147,7 +147,7 @@
 				"ta": 1,
 				"th": 0,
 				"tr": 2,
-				"zh": 7,
+				"zh": 6,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -4471,6 +4471,11 @@
 						"en": 2
 					}
 				},
+				"ibmcloud-login": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ical": {
 					"status": {
 						"en": 2
@@ -8593,6 +8598,11 @@
 					}
 				},
 				"virsh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-connect": {
 					"status": {
 						"en": 2
 					}
