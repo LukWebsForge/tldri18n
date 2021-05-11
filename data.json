@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 10-May-21 00:00:37 UTC",
+	"last_update": "Tuesday, 11-May-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -7720,6 +7720,11 @@
 						"en": 2
 					}
 				},
+				"speedtest": {
+					"status": {
+						"en": 2
+					}
+				},
 				"speedtest-cli": {
 					"status": {
 						"en": 2
@@ -7854,6 +7859,11 @@
 					}
 				},
 				"steam": {
+					"status": {
+						"en": 2
+					}
+				},
+				"steamcmd": {
 					"status": {
 						"en": 2
 					}
@@ -11010,6 +11020,11 @@
 						"en": 2
 					}
 				},
+				"mmcli": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mocp": {
 					"status": {
 						"en": 2
@@ -11900,11 +11915,6 @@
 					}
 				},
 				"speedometer": {
-					"status": {
-						"en": 2
-					}
-				},
-				"speedtest": {
 					"status": {
 						"en": 2
 					}
