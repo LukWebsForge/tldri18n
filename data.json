@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 11-May-21 00:00:08 UTC",
+	"last_update": "Wednesday, 12-May-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -133,7 +133,7 @@
 				"hi": 0,
 				"id": 2,
 				"it": 19,
-				"ja": 0,
+				"ja": 1,
 				"ko": 11,
 				"ml": 0,
 				"nl": 1,
@@ -2067,6 +2067,7 @@
 					"status": {
 						"en": 2,
 						"it": 1,
+						"ja": 2,
 						"ko": 1
 					}
 				},
@@ -2504,6 +2505,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ja": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -3884,6 +3886,11 @@
 						"en": 2
 					}
 				},
+				"git-whatchanged": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-worktree": {
 					"status": {
 						"en": 2,
@@ -3953,6 +3960,16 @@
 					}
 				},
 				"gnomon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnucash": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnucash-cli": {
 					"status": {
 						"en": 2
 					}
@@ -5027,7 +5044,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ja": 2
 					}
 				},
 				"lex": {
@@ -5409,6 +5427,11 @@
 						"en": 2
 					}
 				},
+				"mkvmerge": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mlr": {
 					"status": {
 						"en": 2
@@ -5645,6 +5668,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ja": 2,
 						"pl": 2,
 						"pt_BR": 1
 					}
@@ -6773,7 +6797,8 @@
 				},
 				"ps": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ja": 2
 					}
 				},
 				"psalm": {
@@ -7491,7 +7516,8 @@
 				},
 				"sed": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ja": 2
 					}
 				},
 				"sendmail": {
@@ -8592,6 +8618,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ja": 2,
 						"pl": 2,
 						"zh": 2
 					}
@@ -8618,6 +8645,16 @@
 					}
 				},
 				"virsh-domblklist": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-help": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-list": {
 					"status": {
 						"en": 2
 					}
@@ -9297,6 +9334,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"anbox": {
+					"status": {
+						"en": 2
 					}
 				},
 				"apache2ctl": {
@@ -10312,6 +10354,11 @@
 					}
 				},
 				"genfstab": {
+					"status": {
+						"en": 2
+					}
+				},
+				"genid": {
 					"status": {
 						"en": 2
 					}
@@ -12172,6 +12219,11 @@
 					}
 				},
 				"updatedb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"upower": {
 					"status": {
 						"en": 2
 					}
