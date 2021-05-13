@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 12-May-21 00:00:08 UTC",
+	"last_update": "Thursday, 13-May-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2666,9 +2666,9 @@
 				},
 				"exa": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"it": 2
+						"it": 1
 					}
 				},
 				"exec": {
@@ -3433,6 +3433,11 @@
 					}
 				},
 				"git-count-objects": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-cp": {
 					"status": {
 						"en": 2
 					}
@@ -8362,6 +8367,11 @@
 					}
 				},
 				"truncate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ts-node": {
 					"status": {
 						"en": 2
 					}
