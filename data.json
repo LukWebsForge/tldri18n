@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 13-May-21 00:00:08 UTC",
+	"last_update": "Friday, 14-May-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3447,6 +3447,11 @@
 						"en": 2
 					}
 				},
+				"git-delete-tag": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-describe": {
 					"status": {
 						"en": 2,
@@ -3687,6 +3692,11 @@
 						"id": 2,
 						"it": 2,
 						"pt_BR": 2
+					}
+				},
+				"git-rename-branch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-repack": {
@@ -4868,6 +4878,11 @@
 					}
 				},
 				"kate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kdeconnect-cli": {
 					"status": {
 						"en": 2
 					}
@@ -9634,6 +9649,12 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"boltctl": {
+					"status": {
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"bpftrace": {
