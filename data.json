@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 14-May-21 00:00:07 UTC",
+	"last_update": "Saturday, 15-May-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -251,6 +251,11 @@
 					}
 				},
 				"acme.sh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"acme.sh-dns": {
 					"status": {
 						"en": 2
 					}
@@ -2110,6 +2115,11 @@
 						"en": 2
 					}
 				},
+				"distccd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dive": {
 					"status": {
 						"en": 2,
@@ -3300,6 +3310,11 @@
 						"id": 2,
 						"it": 1,
 						"ta": 2
+					}
+				},
+				"git-browse": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-bugreport": {
@@ -5178,19 +5193,19 @@
 				},
 				"ls": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
+						"es": 1,
+						"fa": 1,
 						"fr": 1,
-						"hi": 2,
-						"id": 2,
+						"hi": 1,
+						"id": 1,
 						"it": 1,
-						"ja": 2,
+						"ja": 1,
 						"pt_BR": 1,
-						"ru": 2,
+						"ru": 1,
 						"ta": 1,
-						"zh_TW": 2
+						"zh_TW": 1
 					}
 				},
 				"lsof": {
@@ -6304,6 +6319,11 @@
 					}
 				},
 				"pdfinfo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pdfjam": {
 					"status": {
 						"en": 2
 					}
@@ -7894,6 +7914,11 @@
 						"en": 2
 					}
 				},
+				"starship": {
+					"status": {
+						"en": 2
+					}
+				},
 				"stat": {
 					"status": {
 						"en": 2
@@ -8291,12 +8316,12 @@
 				"touch": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"id": 2,
-						"pt_BR": 1,
-						"pt_PT": 1,
-						"zh_TW": 2
+						"es": 1,
+						"hi": 1,
+						"id": 1,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"zh_TW": 1
 					}
 				},
 				"tox": {
@@ -9997,7 +10022,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"dmidecode": {
@@ -10483,6 +10509,11 @@
 					}
 				},
 				"hardinfo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hashcat": {
 					"status": {
 						"en": 2
 					}
@@ -12289,6 +12320,11 @@
 					}
 				},
 				"utmpdump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"uuid": {
 					"status": {
 						"en": 2
 					}
