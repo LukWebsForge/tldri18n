@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 15-May-21 00:00:08 UTC",
+	"last_update": "Sunday, 16-May-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3317,6 +3317,11 @@
 						"en": 2
 					}
 				},
+				"git-brv": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-bugreport": {
 					"status": {
 						"en": 2
@@ -3435,6 +3440,11 @@
 					}
 				},
 				"git-commit-tree": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-commits-since": {
 					"status": {
 						"en": 2
 					}
