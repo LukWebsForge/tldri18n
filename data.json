@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 16-May-21 00:00:06 UTC",
+	"last_update": "Monday, 17-May-21 00:00:42 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -125,7 +125,7 @@
 			"progress": {
 				"bs": 0,
 				"da": 0,
-				"de": 8,
+				"de": 7,
 				"en": 100,
 				"es": 6,
 				"fa": 1,
@@ -3922,6 +3922,11 @@
 					}
 				},
 				"git-var": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-verify-commit": {
 					"status": {
 						"en": 2
 					}
@@ -9953,6 +9958,16 @@
 					}
 				},
 				"dbus-daemon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dconf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dconf-write": {
 					"status": {
 						"en": 2
 					}
