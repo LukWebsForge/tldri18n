@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 17-May-21 00:00:42 UTC",
+	"last_update": "Tuesday, 18-May-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3242,6 +3242,11 @@
 						"ta": 2
 					}
 				},
+				"git-alias": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-am": {
 					"status": {
 						"de": 2,
@@ -3279,6 +3284,11 @@
 						"fr": 2,
 						"it": 2,
 						"ta": 2
+					}
+				},
+				"git-archive-file": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-bisect": {
@@ -4716,7 +4726,8 @@
 				"jar": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"jarsigner": {
@@ -9291,7 +9302,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 2,
-				"zh": 10,
+				"zh": 11,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -9723,27 +9734,32 @@
 				},
 				"btrfs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"btrfs-device": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"btrfs-filesystem": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"btrfs-scrub": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"btrfs-subvolume": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cal": {
