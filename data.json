@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 18-May-21 00:00:08 UTC",
+	"last_update": "Wednesday, 19-May-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -559,9 +559,9 @@
 				"aria2": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"zh": 2
+						"it": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"aria2c": {
@@ -975,6 +975,11 @@
 					}
 				},
 				"betty": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bfg": {
 					"status": {
 						"en": 2
 					}
@@ -3291,6 +3296,11 @@
 						"en": 2
 					}
 				},
+				"git-authors": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-bisect": {
 					"status": {
 						"de": 2,
@@ -3473,6 +3483,11 @@
 					}
 				},
 				"git-cp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-create-branch": {
 					"status": {
 						"en": 2
 					}
@@ -3741,6 +3756,11 @@
 						"it": 2
 					}
 				},
+				"git-repl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-replace": {
 					"status": {
 						"en": 2,
@@ -3916,6 +3936,11 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-undo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-update-index": {
@@ -7945,6 +7970,11 @@
 						"en": 2
 					}
 				},
+				"starship-init": {
+					"status": {
+						"en": 2
+					}
+				},
 				"stat": {
 					"status": {
 						"en": 2
@@ -8597,6 +8627,11 @@
 						"sv": 2
 					}
 				},
+				"uudecode": {
+					"status": {
+						"en": 2
+					}
+				},
 				"uuencode": {
 					"status": {
 						"en": 2
@@ -8968,6 +9003,11 @@
 					}
 				},
 				"wormhole": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wp": {
 					"status": {
 						"en": 2
 					}
