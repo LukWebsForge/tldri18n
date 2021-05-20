@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 19-May-21 00:00:08 UTC",
+	"last_update": "Thursday, 20-May-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3477,6 +3477,11 @@
 						"it": 1
 					}
 				},
+				"git-count": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-count-objects": {
 					"status": {
 						"en": 2
@@ -3600,7 +3605,7 @@
 				},
 				"git-init": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"es": 2,
 						"fr": 1,
@@ -12406,6 +12411,11 @@
 					}
 				},
 				"uuid": {
+					"status": {
+						"en": 2
+					}
+				},
+				"uuidd": {
 					"status": {
 						"en": 2
 					}
