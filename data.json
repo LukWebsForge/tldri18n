@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 20-May-21 00:00:08 UTC",
+	"last_update": "Friday, 21-May-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1659,8 +1659,8 @@
 				"cowsay": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2
+						"it": 1,
+						"ko": 1
 					}
 				},
 				"cp": {
@@ -3626,6 +3626,11 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-local-commits": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-log": {
