@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 21-May-21 00:00:07 UTC",
+	"last_update": "Saturday, 22-May-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -138,7 +138,7 @@
 				"ml": 0,
 				"nl": 1,
 				"no": 0,
-				"pl": 3,
+				"pl": 2,
 				"pt_BR": 5,
 				"pt_PT": 0,
 				"ru": 1,
@@ -3168,6 +3168,11 @@
 						"en": 2
 					}
 				},
+				"gh-secret-set": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-ssh-key": {
 					"status": {
 						"en": 2
@@ -3507,6 +3512,11 @@
 						"en": 2
 					}
 				},
+				"git-delta": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-describe": {
 					"status": {
 						"en": 2,
@@ -3791,6 +3801,11 @@
 						"it": 2
 					}
 				},
+				"git-reset-file": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-restore": {
 					"status": {
 						"en": 2,
@@ -3830,6 +3845,11 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-root": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-send-email": {
@@ -4767,7 +4787,8 @@
 				},
 				"jarsigner": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"java": {
@@ -4859,6 +4880,11 @@
 					}
 				},
 				"join": {
+					"status": {
+						"en": 2
+					}
+				},
+				"josm": {
 					"status": {
 						"en": 2
 					}
@@ -5741,12 +5767,12 @@
 				},
 				"mv": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"it": 2,
-						"ta": 2
+						"es": 1,
+						"id": 1,
+						"it": 1,
+						"ta": 1
 					}
 				},
 				"mvn": {
@@ -8006,6 +8032,11 @@
 					}
 				},
 				"stern": {
+					"status": {
+						"en": 2
+					}
+				},
+				"stl2gts": {
 					"status": {
 						"en": 2
 					}
