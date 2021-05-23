@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 22-May-21 00:00:07 UTC",
+	"last_update": "Sunday, 23-May-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -147,7 +147,7 @@
 				"ta": 1,
 				"th": 0,
 				"tr": 2,
-				"zh": 6,
+				"zh": 7,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -4809,7 +4809,8 @@
 				},
 				"javadoc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"jc": {
@@ -11990,6 +11991,11 @@
 					}
 				},
 				"scontrol": {
+					"status": {
+						"en": 2
+					}
+				},
+				"screenkey": {
 					"status": {
 						"en": 2
 					}
