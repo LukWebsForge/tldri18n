@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 23-May-21 00:00:06 UTC",
+	"last_update": "Monday, 24-May-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -55,26 +55,29 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 0,
+				"zh": 70,
 				"zh_TW": 0
 			},
 			"pages": {
 				"am": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cmd": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"dalvikvm": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"dumpsys": {
@@ -86,13 +89,15 @@
 				"getprop": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"input": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"logcat": {
@@ -110,13 +115,15 @@
 				"settings": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"wm": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				}
 			}
@@ -132,7 +139,7 @@
 				"fr": 8,
 				"hi": 0,
 				"id": 2,
-				"it": 19,
+				"it": 18,
 				"ja": 1,
 				"ko": 11,
 				"ml": 0,
@@ -2661,7 +2668,8 @@
 				},
 				"etcd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"etcdctl": {
@@ -2706,7 +2714,8 @@
 				"exit": {
 					"status": {
 						"en": 2,
-						"sv": 2
+						"sv": 2,
+						"zh": 2
 					}
 				},
 				"exiv2": {
@@ -3539,6 +3548,11 @@
 						"it": 2
 					}
 				},
+				"git-effort": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-fetch": {
 					"status": {
 						"de": 2,
@@ -3555,6 +3569,11 @@
 					}
 				},
 				"git-for-each-repo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-fork": {
 					"status": {
 						"en": 2
 					}
@@ -3670,6 +3689,11 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-mailinfo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-maintenance": {
@@ -3966,6 +3990,11 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-touch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-undo": {
@@ -4902,7 +4931,8 @@
 				},
 				"jps": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"jq": {
@@ -5599,7 +5629,8 @@
 				"mongod": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"zh": 2
 					}
 				},
 				"mongodump": {
@@ -6713,6 +6744,11 @@
 					}
 				},
 				"pio-project": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pio-remote": {
 					"status": {
 						"en": 2
 					}
