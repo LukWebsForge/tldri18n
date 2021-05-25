@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 24-May-21 00:00:07 UTC",
+	"last_update": "Tuesday, 25-May-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3553,6 +3553,16 @@
 						"en": 2
 					}
 				},
+				"git-extras": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-fame": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-fetch": {
 					"status": {
 						"de": 2,
@@ -3598,6 +3608,11 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-graft": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-grep": {
@@ -12590,7 +12605,8 @@
 				},
 				"watch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"wg": {
