@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 25-May-21 00:00:06 UTC",
+	"last_update": "Wednesday, 26-May-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -55,7 +55,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 70,
+				"zh": 100,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -83,7 +83,8 @@
 				"dumpsys": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"getprop": {
@@ -103,13 +104,15 @@
 				"logcat": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"pm": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"settings": {
@@ -5416,7 +5419,8 @@
 				},
 				"make": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"makebuildserver": {
@@ -10903,6 +10907,11 @@
 					}
 				},
 				"kde-inhibit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kdocker": {
 					"status": {
 						"en": 2
 					}
