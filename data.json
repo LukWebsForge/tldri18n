@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 27-May-21 00:00:07 UTC",
+	"last_update": "Friday, 28-May-21 00:00:10 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1607,6 +1607,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"conda-create": {
+					"status": {
+						"en": 2
 					}
 				},
 				"consul": {
@@ -3519,6 +3524,11 @@
 						"en": 2
 					}
 				},
+				"git-delete-branch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-delete-tag": {
 					"status": {
 						"en": 2
@@ -4672,6 +4682,11 @@
 					}
 				},
 				"identify": {
+					"status": {
+						"en": 2
+					}
+				},
+				"idnits": {
 					"status": {
 						"en": 2
 					}
@@ -7654,7 +7669,8 @@
 				},
 				"scrcpy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"screen": {
@@ -13147,6 +13163,11 @@
 						"zh": 2
 					}
 				},
+				"fileicon": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fsck": {
 					"status": {
 						"en": 2,
@@ -13766,7 +13787,7 @@
 				"fa": 2,
 				"fr": 0,
 				"hi": 0,
-				"id": 2,
+				"id": 3,
 				"it": 0,
 				"ja": 13,
 				"ko": 0,
@@ -14121,6 +14142,7 @@
 				"ipconfig": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ja": 2,
 						"zh": 2
 					}
