@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 30-May-21 00:00:10 UTC",
+	"last_update": "Monday, 31-May-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -5682,6 +5682,11 @@
 					}
 				},
 				"mongodump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mongoimport": {
 					"status": {
 						"en": 2
 					}
@@ -13806,7 +13811,7 @@
 				"fa": 2,
 				"fr": 0,
 				"hi": 0,
-				"id": 5,
+				"id": 6,
 				"it": 0,
 				"ja": 13,
 				"ko": 0,
@@ -13857,7 +13862,8 @@
 				},
 				"chkdsk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"choco": {
