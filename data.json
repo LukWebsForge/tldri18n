@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 31-May-21 00:00:07 UTC",
+	"last_update": "Tuesday, 01-Jun-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -5863,7 +5863,8 @@
 				"mvn": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"mycli": {
