@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 05-Jun-21 00:00:07 UTC",
+	"last_update": "Sunday, 06-Jun-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1969,9 +1969,9 @@
 				},
 				"dd": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"it": 2
+						"it": 1
 					}
 				},
 				"decaffeinate": {
@@ -3842,6 +3842,11 @@
 					}
 				},
 				"git-rename-branch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-rename-tag": {
 					"status": {
 						"en": 2
 					}
@@ -10605,6 +10610,11 @@
 					"status": {
 						"en": 2,
 						"zh": 1
+					}
+				},
+				"flatpak-builder": {
+					"status": {
+						"en": 2
 					}
 				},
 				"foreman": {
