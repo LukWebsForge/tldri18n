@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 06-Jun-21 00:00:06 UTC",
+	"last_update": "Monday, 07-Jun-21 00:00:09 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3828,6 +3828,11 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-release": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-remote": {
