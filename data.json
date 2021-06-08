@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 07-Jun-21 00:00:09 UTC",
+	"last_update": "Tuesday, 08-Jun-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3154,6 +3154,11 @@
 						"en": 2
 					}
 				},
+				"gh-issue-create": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-pr": {
 					"status": {
 						"en": 2
@@ -4032,6 +4037,11 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-summary": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-svn": {
@@ -5310,6 +5320,11 @@
 					}
 				},
 				"lldb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"llvm-dis": {
 					"status": {
 						"en": 2
 					}
@@ -13861,7 +13876,7 @@
 				"nl": 4,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 16,
+				"pt_BR": 15,
 				"pt_PT": 0,
 				"ru": 0,
 				"sh": 0,
@@ -14464,13 +14479,6 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"zh": 2
-					}
-				},
-				"sigverif": {
-					"status": {
-						"en": 2,
-						"pt_BR": 2,
 						"zh": 2
 					}
 				},
