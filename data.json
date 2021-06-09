@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 08-Jun-21 00:00:07 UTC",
+	"last_update": "Wednesday, 09-Jun-21 00:00:09 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -6235,7 +6235,8 @@
 				},
 				"nvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"objdump": {
@@ -12993,7 +12994,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 74,
+				"zh": 73,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -13495,6 +13496,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"readlink": {
+					"status": {
+						"en": 2
 					}
 				},
 				"reboot": {
