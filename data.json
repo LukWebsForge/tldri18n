@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 10-Jun-21 00:00:07 UTC",
+	"last_update": "Friday, 11-Jun-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3461,9 +3461,9 @@
 				},
 				"git-clone": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
 						"id": 1,
 						"it": 1,
@@ -3477,9 +3477,9 @@
 				},
 				"git-commit": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
 						"id": 1,
 						"it": 1,
@@ -7914,6 +7914,11 @@
 					}
 				},
 				"singularity": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sk": {
 					"status": {
 						"en": 2
 					}
