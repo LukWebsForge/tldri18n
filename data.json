@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 11-Jun-21 00:00:07 UTC",
+	"last_update": "Saturday, 12-Jun-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -55,7 +55,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 100,
+				"zh": 83,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -64,6 +64,18 @@
 						"de": 2,
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"bugreport": {
+					"status": {
+						"de": 2,
+						"en": 2
+					}
+				},
+				"bugreportz": {
+					"status": {
+						"de": 2,
+						"en": 2
 					}
 				},
 				"cmd": {
@@ -1544,6 +1556,11 @@
 					}
 				},
 				"colordiff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"colorpicker": {
 					"status": {
 						"en": 2
 					}
@@ -3539,6 +3556,11 @@
 						"en": 2
 					}
 				},
+				"git-daemon": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-delete-branch": {
 					"status": {
 						"en": 2
@@ -3781,6 +3803,11 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"git-obliterate": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-pr": {
@@ -11630,6 +11657,11 @@
 					}
 				},
 				"openrc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openvpn3": {
 					"status": {
 						"en": 2
 					}
