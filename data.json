@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 12-Jun-21 00:00:07 UTC",
+	"last_update": "Sunday, 13-Jun-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1217,6 +1217,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"caddy": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cake": {
@@ -4971,6 +4976,11 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"jello": {
+					"status": {
+						"en": 2
 					}
 				},
 				"jenv": {
