@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 14-Jun-21 00:00:05 UTC",
+	"last_update": "Tuesday, 15-Jun-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3045,7 +3045,7 @@
 				},
 				"fuck": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
@@ -5332,6 +5332,11 @@
 					}
 				},
 				"light-arionum-cli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lighthouse": {
 					"status": {
 						"en": 2
 					}
