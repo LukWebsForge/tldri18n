@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 15-Jun-21 00:00:06 UTC",
+	"last_update": "Wednesday, 16-Jun-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -149,8 +149,8 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 6,
-				"fa": 1,
+				"es": 5,
+				"fa": 0,
 				"fr": 8,
 				"hi": 0,
 				"id": 3,
@@ -6640,6 +6640,11 @@
 					}
 				},
 				"pdfunite": {
+					"status": {
+						"en": 2
+					}
+				},
+				"peco": {
 					"status": {
 						"en": 2
 					}
