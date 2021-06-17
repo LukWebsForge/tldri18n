@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 16-Jun-21 00:00:07 UTC",
+	"last_update": "Thursday, 17-Jun-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -55,7 +55,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 83,
+				"zh": 91,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -69,7 +69,8 @@
 				"bugreport": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"bugreportz": {
