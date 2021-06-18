@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 17-Jun-21 00:00:05 UTC",
+	"last_update": "Friday, 18-Jun-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -4281,6 +4281,11 @@
 						"en": 2
 					}
 				},
+				"go-test": {
+					"status": {
+						"en": 2
+					}
+				},
 				"go-version": {
 					"status": {
 						"en": 2
@@ -6428,6 +6433,11 @@
 					}
 				},
 				"openssl-s_client": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openssl-ts": {
 					"status": {
 						"en": 2
 					}
@@ -11775,6 +11785,11 @@
 						"en": 2
 					}
 				},
+				"partprobe": {
+					"status": {
+						"en": 2
+					}
+				},
 				"partx": {
 					"status": {
 						"en": 2
@@ -12934,6 +12949,11 @@
 					}
 				},
 				"xman": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xmount": {
 					"status": {
 						"en": 2
 					}
