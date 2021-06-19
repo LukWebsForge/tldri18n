@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 18-Jun-21 00:00:05 UTC",
+	"last_update": "Saturday, 19-Jun-21 00:00:04 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -813,6 +813,11 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-secretsmanager": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-vault": {
@@ -2122,6 +2127,11 @@
 						"it": 1,
 						"ja": 2,
 						"ko": 1
+					}
+				},
+				"dillo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dircolors": {
@@ -3796,6 +3806,11 @@
 						"fr": 2
 					}
 				},
+				"git-missing": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-mv": {
 					"status": {
 						"en": 2,
@@ -3885,6 +3900,11 @@
 					}
 				},
 				"git-rename-branch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-rename-remote": {
 					"status": {
 						"en": 2
 					}
