@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 21-Jun-21 00:00:05 UTC",
+	"last_update": "Tuesday, 22-Jun-21 00:00:04 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1663,11 +1663,11 @@
 				},
 				"convert": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
+						"fr": 1,
 						"it": 1,
-						"ko": 2,
+						"ko": 1,
 						"pt_BR": 1
 					}
 				},
