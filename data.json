@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 23-Jun-21 00:00:05 UTC",
+	"last_update": "Thursday, 24-Jun-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -157,7 +157,7 @@
 				"id": 3,
 				"it": 18,
 				"ja": 1,
-				"ko": 11,
+				"ko": 10,
 				"ml": 0,
 				"nl": 1,
 				"no": 0,
@@ -764,11 +764,21 @@
 						"pt_BR": 2
 					}
 				},
+				"aws-cur": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aws-ec2": {
 					"status": {
 						"de": 2,
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-ecr": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-glue": {
@@ -813,6 +823,11 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-s3api": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-secretsmanager": {
@@ -2269,6 +2284,11 @@
 						"en": 2,
 						"it": 2,
 						"tr": 2
+					}
+				},
+				"docker-login": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-logs": {
@@ -4030,6 +4050,11 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-show-index": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-show-ref": {
@@ -9034,6 +9059,51 @@
 					}
 				},
 				"virsh-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-pool-autostart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-pool-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-pool-define-as": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-pool-delete": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-pool-destroy": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-pool-info": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-pool-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-pool-start": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virsh-pool-undefine": {
 					"status": {
 						"en": 2
 					}
