@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 25-Jun-21 00:00:05 UTC",
+	"last_update": "Saturday, 26-Jun-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2226,10 +2226,10 @@
 				"docker-build": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"it": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"fr": 1,
+						"it": 1,
+						"pt_BR": 1,
+						"tr": 1
 					}
 				},
 				"docker-compose": {
@@ -5286,6 +5286,11 @@
 						"en": 2
 					}
 				},
+				"kubectl-run": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectx": {
 					"status": {
 						"en": 2
@@ -7028,6 +7033,11 @@
 					}
 				},
 				"pipx": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pixiecore": {
 					"status": {
 						"en": 2
 					}
@@ -10074,6 +10084,11 @@
 						"en": 2
 					}
 				},
+				"bluetoothd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bmon": {
 					"status": {
 						"en": 2,
@@ -11189,6 +11204,16 @@
 					}
 				},
 				"kreadconfig5": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kscreen-console": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kscreen-doctor": {
 					"status": {
 						"en": 2
 					}
@@ -12808,6 +12833,11 @@
 						"en": 2
 					}
 				},
+				"vgchange": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vgcreate": {
 					"status": {
 						"en": 2
@@ -12819,6 +12849,11 @@
 					}
 				},
 				"vgs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vgscan": {
 					"status": {
 						"en": 2
 					}
