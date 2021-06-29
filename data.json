@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 28-Jun-21 00:00:04 UTC",
+	"last_update": "Tuesday, 29-Jun-21 00:00:04 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3213,6 +3213,11 @@
 					}
 				},
 				"gh-pr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-pr-create": {
 					"status": {
 						"en": 2
 					}
