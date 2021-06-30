@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 29-Jun-21 00:00:04 UTC",
+	"last_update": "Wednesday, 30-Jun-21 00:00:04 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -55,7 +55,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 91,
+				"zh": 100,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -76,7 +76,8 @@
 				"bugreportz": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cmd": {
@@ -4186,6 +4187,11 @@
 						"en": 2
 					}
 				},
+				"git-verify-tag": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-whatchanged": {
 					"status": {
 						"en": 2
@@ -4727,7 +4733,7 @@
 				"htop": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"pt_BR": 1
 					}
 				},
@@ -11447,6 +11453,11 @@
 					}
 				},
 				"lxc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lxi": {
 					"status": {
 						"en": 2
 					}
