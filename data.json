@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 30-Jun-21 00:00:04 UTC",
+	"last_update": "Thursday, 01-Jul-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -5137,6 +5137,11 @@
 						"en": 2
 					}
 				},
+				"jtbl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"julia": {
 					"status": {
 						"en": 2
@@ -5203,6 +5208,11 @@
 					}
 				},
 				"keepass2": {
+					"status": {
+						"en": 2
+					}
+				},
+				"keepassxc-cli": {
 					"status": {
 						"en": 2
 					}
