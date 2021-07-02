@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 01-Jul-21 00:00:06 UTC",
+	"last_update": "Friday, 02-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -5842,6 +5842,11 @@
 					}
 				},
 				"mongodump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mongoexport": {
 					"status": {
 						"en": 2
 					}
