@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 02-Jul-21 00:00:05 UTC",
+	"last_update": "Saturday, 03-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -4068,6 +4068,11 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2
+					}
+				},
+				"git-show-tree": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-sizer": {
@@ -9233,7 +9238,8 @@
 				"w": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 1
 					}
 				},
 				"w3m": {
