@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 07-Jul-21 00:00:05 UTC",
+	"last_update": "Thursday, 08-Jul-21 00:00:04 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1740,7 +1740,8 @@
 						"ja": 2,
 						"ko": 1,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cpdf": {
@@ -7901,6 +7902,11 @@
 					}
 				},
 				"sd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sdcv": {
 					"status": {
 						"en": 2
 					}
