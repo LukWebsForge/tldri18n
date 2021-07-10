@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 09-Jul-21 00:00:04 UTC",
+	"last_update": "Saturday, 10-Jul-21 00:00:04 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -151,7 +151,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 5,
+				"es": 6,
 				"fa": 0,
 				"fr": 8,
 				"hi": 0,
@@ -991,6 +991,7 @@
 				"bc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -2927,7 +2928,8 @@
 				},
 				"figlet": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fin": {
