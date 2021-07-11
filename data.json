@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 10-Jul-21 00:00:04 UTC",
+	"last_update": "Sunday, 11-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1569,7 +1569,8 @@
 						"it": 1,
 						"ko": 1,
 						"pt_BR": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"codespell": {
@@ -6948,6 +6949,11 @@
 					}
 				},
 				"pio-check": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pio-ci": {
 					"status": {
 						"en": 2
 					}
