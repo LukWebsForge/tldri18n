@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 11-Jul-21 00:00:05 UTC",
+	"last_update": "Monday, 12-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1552,7 +1552,8 @@
 				},
 				"cmatrix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"cmp": {
@@ -5666,6 +5667,7 @@
 				"md5sum": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"zh": 1
 					}
 				},
@@ -5894,7 +5896,8 @@
 				"more": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"it": 2
 					}
 				},
 				"moro": {
@@ -7383,6 +7386,7 @@
 				"pwd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ja": 2,
@@ -9694,6 +9698,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"zh": 1
 					}
