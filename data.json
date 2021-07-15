@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 14-Jul-21 00:00:05 UTC",
+	"last_update": "Thursday, 15-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -7182,6 +7182,11 @@
 						"en": 2
 					}
 				},
+				"prettier": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pretty-bytes": {
 					"status": {
 						"en": 2
@@ -8054,6 +8059,12 @@
 				"shopt": {
 					"status": {
 						"en": 2
+					}
+				},
+				"showfigfonts": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"shred": {
@@ -13013,6 +13024,11 @@
 						"en": 2
 					}
 				},
+				"wifi-menu": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wine": {
 					"status": {
 						"en": 2
@@ -13233,7 +13249,7 @@
 				"zypper": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				}
 			}
