@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 15-Jul-21 00:00:05 UTC",
+	"last_update": "Friday, 16-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2226,7 +2226,9 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"docker-build": {
@@ -9738,7 +9740,7 @@
 				"fr": 4,
 				"hi": 0,
 				"id": 0,
-				"it": 4,
+				"it": 3,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -9752,7 +9754,7 @@
 				"sv": 0,
 				"ta": 0,
 				"th": 0,
-				"tr": 2,
+				"tr": 1,
 				"zh": 11,
 				"zh_TW": 0
 			},
@@ -10801,6 +10803,11 @@
 						"en": 2
 					}
 				},
+				"ffuf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"file": {
 					"status": {
 						"en": 2
@@ -11088,6 +11095,7 @@
 				"i3": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
@@ -13249,6 +13257,7 @@
 				"zypper": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 1
 					}
 				}
