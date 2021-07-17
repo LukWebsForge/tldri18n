@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 16-Jul-21 00:00:05 UTC",
+	"last_update": "Saturday, 17-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -863,6 +863,11 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"az-vm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"b2sum": {
@@ -5060,7 +5065,8 @@
 				},
 				"jenv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"jest": {
