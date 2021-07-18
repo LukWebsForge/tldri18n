@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 17-Jul-21 00:00:05 UTC",
+	"last_update": "Sunday, 18-Jul-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -863,6 +863,11 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"az-logout": {
+					"status": {
+						"en": 2
 					}
 				},
 				"az-vm": {
@@ -12981,6 +12986,11 @@
 					}
 				},
 				"vnstat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vnstati": {
 					"status": {
 						"en": 2
 					}
