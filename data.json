@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 18-Jul-21 00:00:07 UTC",
+	"last_update": "Monday, 19-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -202,7 +202,7 @@
 				},
 				"7za": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"id": 2,
 						"it": 1,
@@ -216,7 +216,7 @@
 				},
 				"7zr": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"id": 2,
 						"it": 1,
@@ -467,7 +467,7 @@
 				},
 				"ansible-galaxy": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"it": 1,
 						"ko": 1,
@@ -863,6 +863,11 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"az-account": {
+					"status": {
+						"en": 2
 					}
 				},
 				"az-logout": {
@@ -1693,7 +1698,7 @@
 				},
 				"convert": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"fr": 1,
 						"it": 1,
@@ -2028,7 +2033,7 @@
 				},
 				"dd": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"it": 1
 					}
@@ -2773,7 +2778,7 @@
 				},
 				"exa": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"it": 1
 					}
@@ -3095,7 +3100,7 @@
 				},
 				"fuck": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -3538,7 +3543,7 @@
 				},
 				"git-clone": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 1,
 						"fr": 1,
@@ -3554,7 +3559,7 @@
 				},
 				"git-commit": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 1,
 						"fr": 1,
@@ -3769,7 +3774,7 @@
 				},
 				"git-init": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 1,
@@ -4437,7 +4442,7 @@
 				},
 				"gpg": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"pt_BR": 1,
 						"zh": 2
@@ -5542,7 +5547,7 @@
 				},
 				"ls": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 1,
 						"fa": 1,
@@ -6023,6 +6028,7 @@
 				},
 				"musescore": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -6043,7 +6049,7 @@
 				},
 				"mv": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 1,
 						"id": 1,
@@ -9988,11 +9994,6 @@
 						"pt_BR": 1,
 						"tr": 2,
 						"zh": 1
-					}
-				},
-				"arch": {
-					"status": {
-						"zh": 2
 					}
 				},
 				"arch-chroot": {
