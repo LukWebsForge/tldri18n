@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 19-Jul-21 00:00:05 UTC",
+	"last_update": "Tuesday, 20-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -9110,6 +9110,7 @@
 				"vim": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ja": 2,
@@ -9119,12 +9120,14 @@
 				},
 				"vimdiff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"vimtutor": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"sv": 2
 					}
 				},
