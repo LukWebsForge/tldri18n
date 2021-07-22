@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 21-Jul-21 00:00:05 UTC",
+	"last_update": "Thursday, 22-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3352,6 +3352,11 @@
 						"it": 1,
 						"nl": 2,
 						"pt_BR": 2
+					}
+				},
+				"git-abort": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-add": {
