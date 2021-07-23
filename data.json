@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 22-Jul-21 00:00:05 UTC",
+	"last_update": "Friday, 23-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -40,7 +40,7 @@
 				"fr": 0,
 				"hi": 0,
 				"id": 0,
-				"it": 0,
+				"it": 8,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -63,6 +63,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"it": 2,
 						"zh": 2
 					}
 				},
@@ -389,6 +390,7 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -984,7 +986,8 @@
 				},
 				"bastet": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"bat": {
@@ -1608,7 +1611,8 @@
 				},
 				"colordiff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"colorpicker": {
@@ -2005,7 +2009,8 @@
 				},
 				"dash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"date": {
@@ -9770,7 +9775,7 @@
 				"fr": 4,
 				"hi": 0,
 				"id": 0,
-				"it": 3,
+				"it": 4,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -10815,7 +10820,7 @@
 				"fdisk": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 1
 					}
 				},
 				"feedreader": {
@@ -11025,6 +11030,11 @@
 						"en": 2
 					}
 				},
+				"gsettings": {
+					"status": {
+						"en": 2
+					}
+				},
 				"guake": {
 					"status": {
 						"en": 2
@@ -11121,6 +11131,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"zh": 2
 					}
 				},
@@ -11864,7 +11875,8 @@
 				},
 				"nmtui": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"nologin": {
@@ -12255,7 +12267,8 @@
 				},
 				"radeontop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"rankmirrors": {
@@ -12830,7 +12843,8 @@
 				},
 				"ufw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"ul": {
@@ -13288,6 +13302,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 1,
 						"zh": 1
 					}
 				}
