@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 23-Jul-21 00:00:05 UTC",
+	"last_update": "Saturday, 24-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -6441,6 +6441,11 @@
 					}
 				},
 				"ocamlopt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ocrmypdf": {
 					"status": {
 						"en": 2
 					}
