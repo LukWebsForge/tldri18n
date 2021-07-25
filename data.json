@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 24-Jul-21 00:00:05 UTC",
+	"last_update": "Sunday, 25-Jul-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -7711,6 +7711,11 @@
 						"en": 2
 					}
 				},
+				"resume": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rev": {
 					"status": {
 						"de": 2,
@@ -8504,7 +8509,7 @@
 				"sv": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"svgcleaner": {
@@ -8947,9 +8952,9 @@
 				"uname": {
 					"status": {
 						"en": 2,
-						"fa": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"fa": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"unar": {
@@ -9551,11 +9556,11 @@
 				"xkill": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"it": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2
+						"es": 1,
+						"it": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1
 					}
 				},
 				"xmllint": {
@@ -12203,6 +12208,16 @@
 						"en": 2
 					}
 				},
+				"protonvpn-cli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"protonvpn-cli-connect": {
+					"status": {
+						"en": 2
+					}
+				},
 				"prt-get": {
 					"status": {
 						"en": 2
@@ -13317,8 +13332,8 @@
 			"progress": {
 				"bs": 0,
 				"da": 0,
-				"de": 3,
-				"en": 96,
+				"de": 2,
+				"en": 97,
 				"es": 7,
 				"fa": 0,
 				"fr": 0,
@@ -13733,6 +13748,11 @@
 						"zh": 2
 					}
 				},
+				"nettop": {
+					"status": {
+						"en": 2
+					}
+				},
 				"networksetup": {
 					"status": {
 						"en": 2,
@@ -14016,7 +14036,7 @@
 				"uname": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"uptime": {
