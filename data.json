@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 27-Jul-21 00:00:06 UTC",
+	"last_update": "Wednesday, 28-Jul-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2921,6 +2921,11 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"ffe": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ffmpeg": {
@@ -9800,7 +9805,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 1,
-				"zh": 11,
+				"zh": 10,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -12722,6 +12727,16 @@
 					}
 				},
 				"sxiv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"synopkg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"synoupgrade": {
 					"status": {
 						"en": 2
 					}
