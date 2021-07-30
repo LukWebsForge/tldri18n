@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 29-Jul-21 00:00:06 UTC",
+	"last_update": "Friday, 30-Jul-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -7440,6 +7440,11 @@
 						"id": 2,
 						"ja": 2,
 						"zh_TW": 2
+					}
+				},
+				"pwsh": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pycodestyle": {
