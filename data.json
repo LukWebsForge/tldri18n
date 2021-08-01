@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 30-Jul-21 00:00:06 UTC",
+	"last_update": "Sunday, 01-Aug-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -9810,7 +9810,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 1,
-				"zh": 10,
+				"zh": 11,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -11408,7 +11408,8 @@
 				"line": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"locate": {
