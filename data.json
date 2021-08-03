@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 02-Aug-21 00:00:06 UTC",
+	"last_update": "Tuesday, 03-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1487,6 +1487,11 @@
 						"sv": 2
 					}
 				},
+				"circo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cksum": {
 					"status": {
 						"en": 2,
@@ -2461,8 +2466,8 @@
 				"dot": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2
+						"it": 1,
+						"ko": 1
 					}
 				},
 				"dotnet": {
@@ -2905,6 +2910,11 @@
 						"en": 2
 					}
 				},
+				"fdp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fdroid": {
 					"status": {
 						"de": 2,
@@ -3211,6 +3221,11 @@
 					}
 				},
 				"gh-auth": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-browse": {
 					"status": {
 						"en": 2
 					}
@@ -4313,6 +4328,11 @@
 						"en": 2
 					}
 				},
+				"gml2gv": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gnomon": {
 					"status": {
 						"en": 2
@@ -4493,6 +4513,11 @@
 						"es": 1
 					}
 				},
+				"graphml2gv": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grep": {
 					"status": {
 						"de": 2,
@@ -4563,6 +4588,21 @@
 					}
 				},
 				"gunzip": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gv2gml": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gv2gxl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gxl2gv": {
 					"status": {
 						"en": 2
 					}
@@ -5848,6 +5888,11 @@
 						"en": 2
 					}
 				},
+				"mm2gv": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mmdc": {
 					"status": {
 						"en": 2
@@ -6150,6 +6195,11 @@
 					}
 				},
 				"ncmpcpp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"neato": {
 					"status": {
 						"en": 2
 					}
@@ -6606,6 +6656,11 @@
 						"it": 2
 					}
 				},
+				"osage": {
+					"status": {
+						"en": 2
+					}
+				},
 				"p4": {
 					"status": {
 						"en": 2
@@ -6703,6 +6758,11 @@
 					}
 				},
 				"patch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"patchwork": {
 					"status": {
 						"en": 2
 					}
@@ -8038,6 +8098,11 @@
 						"en": 2
 					}
 				},
+				"sfdp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sftp": {
 					"status": {
 						"en": 2
@@ -8925,6 +8990,11 @@
 						"en": 2
 					}
 				},
+				"twopi": {
+					"status": {
+						"en": 2
+					}
+				},
 				"type": {
 					"status": {
 						"en": 2
@@ -9623,6 +9693,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"yacas": {
+					"status": {
+						"en": 2
 					}
 				},
 				"yapf": {
@@ -14255,7 +14330,7 @@
 				"bs": 0,
 				"da": 0,
 				"de": 15,
-				"en": 100,
+				"en": 99,
 				"es": 0,
 				"fa": 2,
 				"fr": 0,
@@ -14871,6 +14946,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
+						"zh": 2
+					}
+				},
+				"sigverif": {
+					"status": {
 						"zh": 2
 					}
 				},
