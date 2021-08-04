@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 03-Aug-21 00:00:06 UTC",
+	"last_update": "Wednesday, 04-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1437,6 +1437,11 @@
 						"nl": 2,
 						"pt_PT": 2,
 						"ru": 2
+					}
+				},
+				"choose": {
+					"status": {
+						"en": 2
 					}
 				},
 				"chown": {
@@ -3262,6 +3267,11 @@
 					}
 				},
 				"gh-issue-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-mintty": {
 					"status": {
 						"en": 2
 					}
@@ -10135,11 +10145,7 @@
 				},
 				"arecord": {
 					"status": {
-						"en": 2
-					}
-				},
-				"arecored": {
-					"status": {
+						"en": 2,
 						"zh": 2
 					}
 				},
@@ -14330,7 +14336,7 @@
 				"bs": 0,
 				"da": 0,
 				"de": 15,
-				"en": 99,
+				"en": 100,
 				"es": 0,
 				"fa": 2,
 				"fr": 0,
@@ -14946,11 +14952,6 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"zh": 2
-					}
-				},
-				"sigverif": {
-					"status": {
 						"zh": 2
 					}
 				},
