@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 04-Aug-21 00:00:06 UTC",
+	"last_update": "Thursday, 05-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2154,6 +2154,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"dict": {
+					"status": {
+						"en": 2
 					}
 				},
 				"diff": {
