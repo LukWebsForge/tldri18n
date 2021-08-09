@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 08-Aug-21 00:00:04 UTC",
+	"last_update": "Monday, 09-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -12302,6 +12302,11 @@
 					}
 				},
 				"print": {
+					"status": {
+						"en": 2
+					}
+				},
+				"procs": {
 					"status": {
 						"en": 2
 					}
