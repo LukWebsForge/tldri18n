@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 09-Aug-21 00:00:06 UTC",
+	"last_update": "Tuesday, 10-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1497,6 +1497,11 @@
 						"en": 2
 					}
 				},
+				"circup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cksum": {
 					"status": {
 						"en": 2,
@@ -2625,6 +2630,11 @@
 					}
 				},
 				"dvc-unfreeze": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dwebp": {
 					"status": {
 						"en": 2
 					}
@@ -9633,6 +9643,11 @@
 						"pt_BR": 2
 					}
 				},
+				"xdelta": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xdg-user-dirs-update": {
 					"status": {
 						"en": 2
@@ -12992,7 +13007,8 @@
 				},
 				"ul": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"unix2dos": {
