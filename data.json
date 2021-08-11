@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 10-Aug-21 00:00:06 UTC",
+	"last_update": "Wednesday, 11-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3266,6 +3266,11 @@
 					}
 				},
 				"gh-environment": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-formatting": {
 					"status": {
 						"en": 2
 					}
