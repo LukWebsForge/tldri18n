@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 13-Aug-21 00:00:06 UTC",
+	"last_update": "Saturday, 14-Aug-21 00:00:05 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -233,7 +233,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"sv": 2
 					}
 				},
 				"aapt": {
@@ -5855,6 +5856,11 @@
 						"en": 2
 					}
 				},
+				"miniserve": {
+					"status": {
+						"en": 2
+					}
+				},
 				"minisign": {
 					"status": {
 						"de": 2,
@@ -5889,13 +5895,13 @@
 				"mkdir": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ta": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ta": 1,
+						"zh_TW": 1
 					}
 				},
 				"mkfifo": {
@@ -9931,7 +9937,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 1,
-				"zh": 11,
+				"zh": 12,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -10527,7 +10533,8 @@
 				"cp": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"zh": 2
 					}
 				},
 				"cpufreq-aperf": {
@@ -11154,12 +11161,14 @@
 				},
 				"grub-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"grub-mkconfig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"gs": {
@@ -11211,7 +11220,8 @@
 				},
 				"hexdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"hlint": {
@@ -12451,7 +12461,8 @@
 				},
 				"readelf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"reboot": {
@@ -13201,7 +13212,8 @@
 				},
 				"w": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"wall": {
