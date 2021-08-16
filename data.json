@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 15-Aug-21 00:00:05 UTC",
+	"last_update": "Monday, 16-Aug-21 00:00:10 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -19,6 +19,7 @@
 		"pl",
 		"pt_BR",
 		"pt_PT",
+		"ro",
 		"ru",
 		"sh",
 		"sv",
@@ -49,6 +50,7 @@
 				"pl": 0,
 				"pt_BR": 0,
 				"pt_PT": 0,
+				"ro": 0,
 				"ru": 0,
 				"sh": 0,
 				"sv": 0,
@@ -166,6 +168,7 @@
 				"pl": 2,
 				"pt_BR": 5,
 				"pt_PT": 0,
+				"ro": 0,
 				"ru": 1,
 				"sh": 0,
 				"sv": 1,
@@ -180,7 +183,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"7z": {
@@ -2283,7 +2287,8 @@
 						"fr": 1,
 						"it": 1,
 						"pt_BR": 1,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"docker-compose": {
@@ -2994,7 +2999,7 @@
 				"figlet": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"fin": {
@@ -3975,11 +3980,11 @@
 				},
 				"git-push": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1
 					}
 				},
 				"git-range-diff": {
@@ -8884,6 +8889,12 @@
 						"en": 2
 					}
 				},
+				"todoist": {
+					"status": {
+						"en": 2,
+						"ro": 2
+					}
+				},
 				"tokei": {
 					"status": {
 						"en": 2
@@ -9669,6 +9680,11 @@
 						"en": 2
 					}
 				},
+				"xetex": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xgettext": {
 					"status": {
 						"en": 2
@@ -9931,6 +9947,7 @@
 				"pl": 0,
 				"pt_BR": 8,
 				"pt_PT": 0,
+				"ro": 0,
 				"ru": 0,
 				"sh": 0,
 				"sv": 0,
@@ -13125,6 +13142,11 @@
 						"en": 2
 					}
 				},
+				"vcgencmd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"veracrypt": {
 					"status": {
 						"en": 2
@@ -13506,13 +13528,14 @@
 				"pl": 0,
 				"pt_BR": 0,
 				"pt_PT": 0,
+				"ro": 0,
 				"ru": 0,
 				"sh": 0,
 				"sv": 0,
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 73,
+				"zh": 72,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -13828,6 +13851,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"lipo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lldb": {
@@ -14329,6 +14357,7 @@
 				"pl": 0,
 				"pt_BR": 0,
 				"pt_PT": 0,
+				"ro": 0,
 				"ru": 0,
 				"sh": 0,
 				"sv": 0,
@@ -14407,6 +14436,7 @@
 				"pl": 0,
 				"pt_BR": 15,
 				"pt_PT": 0,
+				"ro": 0,
 				"ru": 0,
 				"sh": 0,
 				"sv": 0,
