@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 16-Aug-21 00:00:10 UTC",
+	"last_update": "Tuesday, 17-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -11221,6 +11221,11 @@
 					}
 				},
 				"hashcat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hcitool": {
 					"status": {
 						"en": 2
 					}
