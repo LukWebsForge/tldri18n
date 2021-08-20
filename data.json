@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 19-Aug-21 00:00:07 UTC",
+	"last_update": "Friday, 20-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -11620,7 +11620,8 @@
 				},
 				"lsattr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"lsb_release": {
