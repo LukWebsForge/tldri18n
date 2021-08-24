@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 23-Aug-21 00:00:05 UTC",
+	"last_update": "Tuesday, 24-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2026,6 +2026,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"dart": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dash": {
@@ -5957,6 +5962,11 @@
 					}
 				},
 				"mocha": {
+					"status": {
+						"en": 2
+					}
+				},
+				"moe": {
 					"status": {
 						"en": 2
 					}
@@ -10053,7 +10063,7 @@
 						"en": 2,
 						"it": 2,
 						"pt_BR": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"alpine": {
@@ -10111,7 +10121,7 @@
 						"it": 2,
 						"ml": 2,
 						"pt_BR": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"apt-add-repository": {
@@ -10141,7 +10151,7 @@
 						"fr": 1,
 						"it": 1,
 						"pt_BR": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"apt-get": {
@@ -10153,7 +10163,7 @@
 						"it": 2,
 						"pt_BR": 2,
 						"tr": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"apt-key": {
@@ -10181,7 +10191,7 @@
 						"es": 2,
 						"pt_BR": 1,
 						"tr": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"arch-chroot": {
@@ -10269,7 +10279,7 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"auracle": {
@@ -10279,6 +10289,11 @@
 					}
 				},
 				"aurman": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aurvote": {
 					"status": {
 						"en": 2
 					}
