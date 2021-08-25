@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 24-Aug-21 00:00:06 UTC",
+	"last_update": "Wednesday, 25-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -9727,6 +9727,71 @@
 						"pt_PT": 1
 					}
 				},
+				"xml": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-canonic": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-depyx": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-edit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-elements": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-escape": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-format": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-pyx": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-select": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-transform": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-unescape": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xml-validate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xmllint": {
 					"status": {
 						"en": 2
@@ -9891,6 +9956,11 @@
 						"nl": 2,
 						"no": 2,
 						"sv": 2
+					}
+				},
+				"zm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zmv": {
@@ -12512,6 +12582,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"readpe": {
+					"status": {
+						"en": 2
 					}
 				},
 				"reboot": {
