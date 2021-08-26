@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 25-Aug-21 00:00:06 UTC",
+	"last_update": "Thursday, 26-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -3282,6 +3282,11 @@
 						"en": 2
 					}
 				},
+				"gh-extension": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-formatting": {
 					"status": {
 						"en": 2
@@ -5215,7 +5220,8 @@
 				},
 				"jmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"jobs": {
@@ -11154,6 +11160,11 @@
 					}
 				},
 				"flatpak-builder": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flock": {
 					"status": {
 						"en": 2
 					}
