@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 27-Aug-21 00:00:06 UTC",
+	"last_update": "Saturday, 28-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -6797,6 +6797,11 @@
 						"en": 2
 					}
 				},
+				"paperkey": {
+					"status": {
+						"en": 2
+					}
+				},
 				"parallel": {
 					"status": {
 						"en": 2
@@ -9042,6 +9047,11 @@
 						"en": 2
 					}
 				},
+				"ts": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ts-node": {
 					"status": {
 						"en": 2
@@ -10063,7 +10073,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 1,
-				"zh": 12,
+				"zh": 15,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -10392,7 +10402,8 @@
 				},
 				"aurvote": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"authconfig": {
@@ -10417,55 +10428,65 @@
 				},
 				"balooctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"beep": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"betterlockscreen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"binwalk": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"zh": 2
 					}
 				},
 				"bitwise": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"blkdiscard": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"blkid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"bluetoothctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"bluetoothd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"bmon": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"boltctl": {
@@ -10477,25 +10498,29 @@
 				"bpftrace": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"bpytop": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"brctl": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"brew": {
 					"status": {
 						"es": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"btrfs": {
