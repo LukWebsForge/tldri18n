@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 29-Aug-21 00:00:03 UTC",
+	"last_update": "Monday, 30-Aug-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -6960,6 +6960,11 @@
 					}
 				},
 				"pest": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pfetch": {
 					"status": {
 						"en": 2
 					}
