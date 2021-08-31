@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 30-Aug-21 00:00:06 UTC",
+	"last_update": "Tuesday, 31-Aug-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -4592,7 +4592,8 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
-						"fr": 2
+						"fr": 2,
+						"ta": 2
 					}
 				},
 				"grex": {
@@ -7707,6 +7708,11 @@
 						"pl": 1
 					}
 				},
+				"r2": {
+					"status": {
+						"en": 2
+					}
+				},
 				"r2e": {
 					"status": {
 						"en": 2
@@ -9308,6 +9314,11 @@
 					}
 				},
 				"vercel": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vi": {
 					"status": {
 						"en": 2
 					}
