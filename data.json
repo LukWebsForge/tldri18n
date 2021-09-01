@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 31-Aug-21 00:00:08 UTC",
+	"last_update": "Wednesday, 01-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -41,7 +41,7 @@
 				"fr": 0,
 				"hi": 0,
 				"id": 100,
-				"it": 8,
+				"it": 16,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -91,6 +91,7 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"zh": 2
 					}
 				},
@@ -4949,7 +4950,8 @@
 				},
 				"hyperfine": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"ibmcloud": {
@@ -6293,7 +6295,8 @@
 				},
 				"neofetch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"netlify": {
@@ -12127,6 +12130,11 @@
 						"en": 2
 					}
 				},
+				"ncal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ncat": {
 					"status": {
 						"en": 2
@@ -13661,6 +13669,11 @@
 					"status": {
 						"en": 2,
 						"fa": 2
+					}
+				},
+				"zathura": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zenity": {
