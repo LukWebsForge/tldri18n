@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 01-Sep-21 00:00:06 UTC",
+	"last_update": "Thursday, 02-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -171,7 +171,7 @@
 				"fa": 0,
 				"fr": 7,
 				"hi": 0,
-				"id": 3,
+				"id": 2,
 				"it": 18,
 				"ja": 1,
 				"ko": 10,
@@ -187,7 +187,7 @@
 				"sv": 1,
 				"ta": 1,
 				"th": 0,
-				"tr": 2,
+				"tr": 1,
 				"zh": 7,
 				"zh_TW": 0
 			},
@@ -315,6 +315,11 @@
 						"ko": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"acyclic": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adb": {
@@ -1038,6 +1043,11 @@
 						"ko": 2
 					}
 				},
+				"bcomps": {
+					"status": {
+						"en": 2
+					}
+				},
 				"beanstalkd": {
 					"status": {
 						"en": 2,
@@ -1379,6 +1389,11 @@
 						"ru": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"ccomps": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cd": {
@@ -2691,6 +2706,11 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"edgepaint": {
+					"status": {
+						"en": 2
 					}
 				},
 				"electron-packager": {
@@ -4673,6 +4693,16 @@
 						"en": 2
 					}
 				},
+				"gvcolor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gvpack": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gxl2gv": {
 					"status": {
 						"en": 2
@@ -5882,6 +5912,11 @@
 						"tr": 2
 					}
 				},
+				"mingle": {
+					"status": {
+						"en": 2
+					}
+				},
 				"minifab": {
 					"status": {
 						"en": 2,
@@ -6460,6 +6495,11 @@
 					}
 				},
 				"nomad": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nop": {
 					"status": {
 						"en": 2
 					}
@@ -8101,6 +8141,11 @@
 						"pt_BR": 2
 					}
 				},
+				"sccmap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"scheme": {
 					"status": {
 						"en": 2
@@ -9050,6 +9095,11 @@
 						"en": 2
 					}
 				},
+				"tred": {
+					"status": {
+						"en": 2
+					}
+				},
 				"true": {
 					"status": {
 						"en": 2,
@@ -9174,6 +9224,11 @@
 					}
 				},
 				"unexpand": {
+					"status": {
+						"en": 2
+					}
+				},
+				"unflatten": {
 					"status": {
 						"en": 2
 					}
@@ -11888,7 +11943,8 @@
 				},
 				"lvs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"lxc": {
@@ -14629,7 +14685,7 @@
 				"fa": 2,
 				"fr": 0,
 				"hi": 0,
-				"id": 6,
+				"id": 7,
 				"it": 0,
 				"ja": 13,
 				"ko": 0,
@@ -15361,6 +15417,7 @@
 				"xcopy": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 2
 					}
 				}
