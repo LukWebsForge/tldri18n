@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 02-Sep-21 00:00:06 UTC",
+	"last_update": "Friday, 03-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -370,6 +370,11 @@
 						"en": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"adscript": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ag": {
