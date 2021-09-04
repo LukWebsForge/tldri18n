@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 03-Sep-21 00:00:06 UTC",
+	"last_update": "Saturday, 04-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -656,6 +656,11 @@
 						"it": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"asciidoctor": {
+					"status": {
+						"en": 2
 					}
 				},
 				"asciinema": {
@@ -1467,15 +1472,15 @@
 				},
 				"chmod": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"es": 1,
-						"fr": 2,
+						"fr": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 2,
-						"pt_PT": 2,
-						"ru": 2
+						"nl": 1,
+						"pt_PT": 1,
+						"ru": 1
 					}
 				},
 				"choose": {
@@ -3581,6 +3586,11 @@
 						"en": 2
 					}
 				},
+				"git-bug": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-bugreport": {
 					"status": {
 						"en": 2
@@ -3675,6 +3685,11 @@
 						"id": 1,
 						"it": 1,
 						"ta": 1
+					}
+				},
+				"git-cola": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-column": {
@@ -4136,9 +4151,9 @@
 				"git-rev-list": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1
 					}
 				},
 				"git-rev-parse": {
@@ -4379,6 +4394,11 @@
 					}
 				},
 				"gitlab-runner": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gitlint": {
 					"status": {
 						"en": 2
 					}
@@ -10131,7 +10151,7 @@
 				"da": 0,
 				"de": 1,
 				"en": 99,
-				"es": 6,
+				"es": 5,
 				"fa": 0,
 				"fr": 4,
 				"hi": 0,
@@ -12705,6 +12725,16 @@
 						"en": 2
 					}
 				},
+				"raspi-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"raspinfo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rc-service": {
 					"status": {
 						"en": 2
@@ -14690,7 +14720,7 @@
 				"fa": 2,
 				"fr": 0,
 				"hi": 0,
-				"id": 7,
+				"id": 8,
 				"it": 0,
 				"ja": 13,
 				"ko": 0,
@@ -15134,6 +15164,7 @@
 				"print": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
