@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 04-Sep-21 00:00:06 UTC",
+	"last_update": "Sunday, 05-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -828,6 +828,11 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"aws-help": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-iam": {
