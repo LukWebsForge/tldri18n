@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 05-Sep-21 00:00:06 UTC",
+	"last_update": "Monday, 06-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -172,7 +172,7 @@
 				"fr": 7,
 				"hi": 0,
 				"id": 2,
-				"it": 18,
+				"it": 17,
 				"ja": 1,
 				"ko": 10,
 				"ml": 0,
@@ -1381,6 +1381,11 @@
 						"en": 2
 					}
 				},
+				"carp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"case": {
 					"status": {
 						"en": 2,
@@ -1671,6 +1676,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"cola": {
+					"status": {
+						"en": 2
 					}
 				},
 				"colordiff": {
@@ -8999,6 +9009,16 @@
 						"en": 2
 					}
 				},
+				"tlmgr-gui": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-paper": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tmpmail": {
 					"status": {
 						"en": 2
@@ -11781,6 +11801,11 @@
 						"en": 2
 					}
 				},
+				"ldapdomaindump": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ldconfig": {
 					"status": {
 						"en": 2
@@ -12684,6 +12709,11 @@
 					}
 				},
 				"pvs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pw-loopback": {
 					"status": {
 						"en": 2
 					}
