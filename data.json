@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 07-Sep-21 00:00:07 UTC",
+	"last_update": "Wednesday, 08-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1619,6 +1619,12 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"clojure": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"cloudflared": {
@@ -8844,6 +8850,11 @@
 						"sh": 1
 					}
 				},
+				"tailscale": {
+					"status": {
+						"en": 2
+					}
+				},
 				"takeout": {
 					"status": {
 						"en": 2
@@ -13869,7 +13880,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 72,
+				"zh": 71,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -14202,6 +14213,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"log": {
+					"status": {
+						"en": 2
 					}
 				},
 				"logger": {
