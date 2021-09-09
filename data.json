@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 08-Sep-21 00:00:06 UTC",
+	"last_update": "Thursday, 09-Sep-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -58,7 +58,7 @@
 				"th": 0,
 				"tr": 0,
 				"zh": 100,
-				"zh_TW": 0
+				"zh_TW": 100
 			},
 			"pages": {
 				"am": {
@@ -67,7 +67,8 @@
 						"en": 2,
 						"id": 2,
 						"it": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"bugreport": {
@@ -75,7 +76,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"bugreportz": {
@@ -83,7 +85,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cmd": {
@@ -92,7 +95,8 @@
 						"en": 2,
 						"id": 2,
 						"it": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"dalvikvm": {
@@ -100,7 +104,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"dumpsys": {
@@ -108,7 +113,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"getprop": {
@@ -116,7 +122,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"input": {
@@ -124,7 +131,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"logcat": {
@@ -132,7 +140,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"pm": {
@@ -140,7 +149,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"settings": {
@@ -148,7 +158,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"wm": {
@@ -156,7 +167,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				}
 			}
@@ -642,6 +654,13 @@
 						"zh": 2
 					}
 				},
+				"arp-scan": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2,
+						"zh": 2
+					}
+				},
 				"arping": {
 					"status": {
 						"en": 2,
@@ -771,6 +790,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"avo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"avrdude": {
@@ -1202,7 +1226,10 @@
 				},
 				"brew": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"brotli": {
@@ -3001,6 +3028,12 @@
 						"en": 2
 					}
 				},
+				"fc": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
 				"fd": {
 					"status": {
 						"en": 2
@@ -3027,6 +3060,12 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"feh": {
+					"status": {
+						"en": 2,
+						"zh": 1
 					}
 				},
 				"ffe": {
@@ -3292,6 +3331,11 @@
 					}
 				},
 				"gdrive": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdu": {
 					"status": {
 						"en": 2
 					}
@@ -4939,6 +4983,12 @@
 						"sv": 2
 					}
 				},
+				"hostname": {
+					"status": {
+						"en": 2,
+						"zh": 1
+					}
+				},
 				"hping": {
 					"status": {
 						"en": 2,
@@ -5605,6 +5655,11 @@
 					}
 				},
 				"latexmk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lb": {
 					"status": {
 						"en": 2
 					}
@@ -8578,6 +8633,12 @@
 						"fr": 2
 					}
 				},
+				"ssh-add": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
 				"ssh-agent": {
 					"status": {
 						"de": 2,
@@ -10199,7 +10260,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 8,
+				"pt_BR": 7,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -10208,7 +10269,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 1,
-				"zh": 15,
+				"zh": 14,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -10477,13 +10538,6 @@
 						"zh": 2
 					}
 				},
-				"arp-scan": {
-					"status": {
-						"en": 2,
-						"pt_BR": 2,
-						"zh": 2
-					}
-				},
 				"as": {
 					"status": {
 						"en": 2,
@@ -10653,9 +10707,7 @@
 				},
 				"brew": {
 					"status": {
-						"es": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"pt_BR": 2
 					}
 				},
 				"btrfs": {
@@ -11224,7 +11276,6 @@
 				},
 				"fc": {
 					"status": {
-						"en": 2,
 						"pt_BR": 2
 					}
 				},
@@ -11263,11 +11314,6 @@
 					}
 				},
 				"feedreader": {
-					"status": {
-						"en": 2
-					}
-				},
-				"feh": {
 					"status": {
 						"en": 2
 					}
@@ -11540,11 +11586,6 @@
 					}
 				},
 				"homeshick": {
-					"status": {
-						"en": 2
-					}
-				},
-				"hostname": {
 					"status": {
 						"en": 2
 					}
@@ -12272,6 +12313,11 @@
 						"en": 2
 					}
 				},
+				"needrestart": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nemo": {
 					"status": {
 						"en": 2
@@ -12585,6 +12631,11 @@
 					}
 				},
 				"pihole": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pinout": {
 					"status": {
 						"en": 2
 					}
@@ -13168,11 +13219,6 @@
 					}
 				},
 				"ss": {
-					"status": {
-						"en": 2
-					}
-				},
-				"ssh-add": {
 					"status": {
 						"en": 2
 					}
@@ -13857,9 +13903,9 @@
 			"progress": {
 				"bs": 0,
 				"da": 0,
-				"de": 2,
-				"en": 97,
-				"es": 7,
+				"de": 3,
+				"en": 96,
+				"es": 6,
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
@@ -13880,7 +13926,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 71,
+				"zh": 69,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -13958,9 +14004,7 @@
 				},
 				"brew": {
 					"status": {
-						"es": 2,
-						"it": 2,
-						"zh": 2
+						"it": 2
 					}
 				},
 				"brew-bundle": {
@@ -14108,21 +14152,9 @@
 						"zh": 2
 					}
 				},
-				"fc": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
 				"fdesetup": {
 					"status": {
 						"en": 2
-					}
-				},
-				"feh": {
-					"status": {
-						"en": 2,
-						"zh": 2
 					}
 				},
 				"file": {
@@ -14160,12 +14192,6 @@
 					}
 				},
 				"hexdump": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
-				"hostname": {
 					"status": {
 						"en": 2,
 						"zh": 2
@@ -14500,12 +14526,6 @@
 					"status": {
 						"en": 2,
 						"es": 2
-					}
-				},
-				"ssh-add": {
-					"status": {
-						"en": 2,
-						"zh": 2
 					}
 				},
 				"sshuttle": {
