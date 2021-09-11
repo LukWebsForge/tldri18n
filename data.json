@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 10-Sep-21 00:00:06 UTC",
+	"last_update": "Saturday, 11-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -13414,6 +13414,11 @@
 					}
 				},
 				"tuxi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"udevadm": {
 					"status": {
 						"en": 2
 					}
