@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 11-Sep-21 00:00:06 UTC",
+	"last_update": "Sunday, 12-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1602,6 +1602,11 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1
+					}
+				},
+				"clang++": {
+					"status": {
+						"en": 2
 					}
 				},
 				"clang-format": {
