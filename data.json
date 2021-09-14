@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 13-Sep-21 00:00:07 UTC",
+	"last_update": "Tuesday, 14-Sep-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -178,7 +178,7 @@
 				"bs": 0,
 				"da": 0,
 				"de": 7,
-				"en": 100,
+				"en": 99,
 				"es": 6,
 				"fa": 0,
 				"fr": 7,
@@ -1228,8 +1228,29 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
+						"pt_BR": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"brew-bundle": {
+					"status": {
+						"de": 2,
+						"en": 2,
+						"it": 2
+					}
+				},
+				"brew-cask": {
+					"status": {
+						"en": 2,
+						"it": 2,
+						"zh": 2
+					}
+				},
+				"brew-mas": {
+					"status": {
+						"zh": 2
 					}
 				},
 				"brotli": {
@@ -1760,6 +1781,13 @@
 					"status": {
 						"de": 2,
 						"en": 2
+					}
+				},
+				"compgen": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"complete": {
@@ -2919,6 +2947,12 @@
 						"en": 2
 					}
 				},
+				"eval": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
 				"evil-winrm": {
 					"status": {
 						"en": 2
@@ -2964,6 +2998,12 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"export": {
+					"status": {
+						"en": 2,
+						"zh": 1
 					}
 				},
 				"expose": {
@@ -3041,7 +3081,31 @@
 				"fc": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"fc-cache": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
+				"fc-list": {
+					"status": {
+						"en": 2,
+						"pt_BR": 1,
+						"zh": 2
+					}
+				},
+				"fc-match": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fc-pattern": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fd": {
@@ -3119,6 +3183,12 @@
 					"status": {
 						"en": 2,
 						"es": 1
+					}
+				},
+				"file": {
+					"status": {
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"fin": {
@@ -9101,6 +9171,11 @@
 						"en": 2
 					}
 				},
+				"tlmgr-info": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tlmgr-paper": {
 					"status": {
 						"en": 2
@@ -10262,7 +10337,7 @@
 				"bs": 0,
 				"da": 0,
 				"de": 1,
-				"en": 99,
+				"en": 100,
 				"es": 5,
 				"fa": 0,
 				"fr": 4,
@@ -10720,11 +10795,6 @@
 						"zh": 2
 					}
 				},
-				"brew": {
-					"status": {
-						"pt_BR": 2
-					}
-				},
 				"btrfs": {
 					"status": {
 						"en": 2,
@@ -10863,12 +10933,6 @@
 				"colrm": {
 					"status": {
 						"en": 2
-					}
-				},
-				"compgen": {
-					"status": {
-						"en": 2,
-						"pt_BR": 2
 					}
 				},
 				"compose": {
@@ -11227,22 +11291,12 @@
 						"en": 2
 					}
 				},
-				"eval": {
-					"status": {
-						"en": 2
-					}
-				},
 				"exif": {
 					"status": {
 						"en": 2
 					}
 				},
 				"expect": {
-					"status": {
-						"en": 2
-					}
-				},
-				"export": {
 					"status": {
 						"en": 2
 					}
@@ -11289,34 +11343,6 @@
 						"pt_BR": 2
 					}
 				},
-				"fc": {
-					"status": {
-						"pt_BR": 2
-					}
-				},
-				"fc-cache": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
-				"fc-list": {
-					"status": {
-						"en": 2,
-						"pt_BR": 1,
-						"zh": 2
-					}
-				},
-				"fc-match": {
-					"status": {
-						"en": 2
-					}
-				},
-				"fc-pattern": {
-					"status": {
-						"en": 2
-					}
-				},
 				"fcrackzip": {
 					"status": {
 						"en": 2
@@ -11334,11 +11360,6 @@
 					}
 				},
 				"ffuf": {
-					"status": {
-						"en": 2
-					}
-				},
-				"file": {
 					"status": {
 						"en": 2
 					}
@@ -13923,14 +13944,14 @@
 			"progress": {
 				"bs": 0,
 				"da": 0,
-				"de": 3,
-				"en": 96,
-				"es": 6,
+				"de": 2,
+				"en": 98,
+				"es": 7,
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
 				"id": 0,
-				"it": 9,
+				"it": 8,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -14022,30 +14043,6 @@
 						"en": 2
 					}
 				},
-				"brew": {
-					"status": {
-						"it": 2
-					}
-				},
-				"brew-bundle": {
-					"status": {
-						"de": 2,
-						"en": 2,
-						"it": 2
-					}
-				},
-				"brew-cask": {
-					"status": {
-						"en": 2,
-						"it": 2,
-						"zh": 2
-					}
-				},
-				"brew-mas": {
-					"status": {
-						"zh": 2
-					}
-				},
 				"brightness": {
 					"status": {
 						"en": 2,
@@ -14079,12 +14076,6 @@
 					}
 				},
 				"codesign": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
-				"compgen": {
 					"status": {
 						"en": 2,
 						"zh": 2
@@ -14160,27 +14151,9 @@
 						"zh": 2
 					}
 				},
-				"eval": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
-				"export": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
 				"fdesetup": {
 					"status": {
 						"en": 2
-					}
-				},
-				"file": {
-					"status": {
-						"en": 2,
-						"zh": 2
 					}
 				},
 				"fileicon": {
