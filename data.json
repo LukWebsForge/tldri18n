@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 14-Sep-21 00:00:07 UTC",
+	"last_update": "Wednesday, 15-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -4655,6 +4655,11 @@
 						"en": 2
 					}
 				},
+				"go-get": {
+					"status": {
+						"en": 2
+					}
+				},
 				"go-list": {
 					"status": {
 						"en": 2
@@ -5813,6 +5818,11 @@
 					}
 				},
 				"lldb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"llvm-config": {
 					"status": {
 						"en": 2
 					}
@@ -8997,6 +9007,11 @@
 					}
 				},
 				"tailscale": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tailscale-up": {
 					"status": {
 						"en": 2
 					}
