@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 15-Sep-21 00:00:06 UTC",
+	"last_update": "Thursday, 16-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -10845,7 +10845,8 @@
 						"en": 2,
 						"es": 2,
 						"ml": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"calc": {
@@ -10887,7 +10888,8 @@
 				"chage": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"chattr": {
@@ -11752,6 +11754,11 @@
 					}
 				},
 				"ip-route": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ip-rule": {
 					"status": {
 						"en": 2
 					}
