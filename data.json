@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 17-Sep-21 00:00:06 UTC",
+	"last_update": "Saturday, 18-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1626,6 +1626,11 @@
 					}
 				},
 				"clang++": {
+					"status": {
+						"en": 2
+					}
+				},
+				"clang-cpp": {
 					"status": {
 						"en": 2
 					}
@@ -3369,6 +3374,11 @@
 						"de": 2,
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"ganache-cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gatsby": {
@@ -5232,6 +5242,11 @@
 						"en": 2
 					}
 				},
+				"img2pdf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"import": {
 					"status": {
 						"en": 2
@@ -5828,6 +5843,11 @@
 					}
 				},
 				"llvm-dis": {
+					"status": {
+						"en": 2
+					}
+				},
+				"llvm-g++": {
 					"status": {
 						"en": 2
 					}
@@ -8913,6 +8933,11 @@
 						"en": 2
 					}
 				},
+				"sup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"supervisorctl": {
 					"status": {
 						"en": 2
@@ -10156,6 +10181,11 @@
 						"en": 2
 					}
 				},
+				"xprop": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xsv": {
 					"status": {
 						"en": 2
@@ -10685,6 +10715,11 @@
 						"en": 2,
 						"pt_BR": 1,
 						"zh": 2
+					}
+				},
+				"aura": {
+					"status": {
+						"en": 2
 					}
 				},
 				"auracle": {
