@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 18-Sep-21 00:00:06 UTC",
+	"last_update": "Sunday, 19-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -179,7 +179,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 99,
-				"es": 6,
+				"es": 5,
 				"fa": 0,
 				"fr": 7,
 				"hi": 0,
@@ -200,7 +200,7 @@
 				"ta": 1,
 				"th": 0,
 				"tr": 1,
-				"zh": 7,
+				"zh": 8,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -4948,6 +4948,12 @@
 						"zh": 2
 					}
 				},
+				"hexdump": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
 				"hexo": {
 					"status": {
 						"en": 2,
@@ -5837,6 +5843,11 @@
 						"en": 2
 					}
 				},
+				"llvm-as": {
+					"status": {
+						"en": 2
+					}
+				},
 				"llvm-config": {
 					"status": {
 						"en": 2
@@ -5877,6 +5888,12 @@
 				"locust": {
 					"status": {
 						"en": 2
+					}
+				},
+				"logger": {
+					"status": {
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"logname": {
@@ -6495,6 +6512,12 @@
 						"en": 2
 					}
 				},
+				"n": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
 				"nano": {
 					"status": {
 						"en": 2,
@@ -6553,6 +6576,12 @@
 				"netlify": {
 					"status": {
 						"en": 2
+					}
+				},
+				"netstat": {
+					"status": {
+						"en": 2,
+						"zh": 1
 					}
 				},
 				"newman": {
@@ -6662,6 +6691,11 @@
 					}
 				},
 				"nload": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nm": {
 					"status": {
 						"en": 2
 					}
@@ -7132,6 +7166,12 @@
 				"pdffonts": {
 					"status": {
 						"en": 2
+					}
+				},
+				"pdfgrep": {
+					"status": {
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"pdfimages": {
@@ -9317,6 +9357,11 @@
 						"en": 2
 					}
 				},
+				"transfersh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"transmission-cli": {
 					"status": {
 						"en": 2
@@ -9356,6 +9401,11 @@
 					"status": {
 						"en": 2,
 						"sv": 2
+					}
+				},
+				"truffle": {
+					"status": {
+						"en": 2
 					}
 				},
 				"truncate": {
@@ -10060,6 +10110,11 @@
 						"en": 2
 					}
 				},
+				"xev": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xgettext": {
 					"status": {
 						"en": 2
@@ -10387,7 +10442,7 @@
 				"bs": 0,
 				"da": 0,
 				"de": 1,
-				"en": 100,
+				"en": 99,
 				"es": 5,
 				"fa": 0,
 				"fr": 4,
@@ -10409,7 +10464,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 1,
-				"zh": 14,
+				"zh": 15,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -10719,7 +10774,8 @@
 				},
 				"aura": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"auracle": {
@@ -10852,7 +10908,8 @@
 				},
 				"brightnessctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"btrfs": {
@@ -11669,7 +11726,6 @@
 				},
 				"hexdump": {
 					"status": {
-						"en": 2,
 						"zh": 2
 					}
 				},
@@ -11999,11 +12055,6 @@
 					}
 				},
 				"locate": {
-					"status": {
-						"en": 2
-					}
-				},
-				"logger": {
 					"status": {
 						"en": 2
 					}
@@ -12376,11 +12427,6 @@
 						"en": 2
 					}
 				},
-				"n": {
-					"status": {
-						"en": 2
-					}
-				},
 				"named": {
 					"status": {
 						"en": 2
@@ -12441,11 +12487,6 @@
 						"en": 2
 					}
 				},
-				"netstat": {
-					"status": {
-						"en": 2
-					}
-				},
 				"newgrp": {
 					"status": {
 						"en": 2
@@ -12457,11 +12498,6 @@
 					}
 				},
 				"nixos-rebuild": {
-					"status": {
-						"en": 2
-					}
-				},
-				"nm": {
 					"status": {
 						"en": 2
 					}
@@ -12672,11 +12708,6 @@
 						"en": 2
 					}
 				},
-				"pdfgrep": {
-					"status": {
-						"en": 2
-					}
-				},
 				"perf": {
 					"status": {
 						"en": 2
@@ -12785,6 +12816,26 @@
 					}
 				},
 				"pmount": {
+					"status": {
+						"en": 2
+					}
+				},
+				"po4a": {
+					"status": {
+						"en": 2
+					}
+				},
+				"po4a-gettextize": {
+					"status": {
+						"en": 2
+					}
+				},
+				"po4a-translate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"po4a-updatepo": {
 					"status": {
 						"en": 2
 					}
@@ -14034,7 +14085,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 69,
+				"zh": 68,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -14251,12 +14302,6 @@
 						"zh": 2
 					}
 				},
-				"hexdump": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
 				"icalbuddy": {
 					"status": {
 						"en": 2
@@ -14304,12 +14349,6 @@
 				"log": {
 					"status": {
 						"en": 2
-					}
-				},
-				"logger": {
-					"status": {
-						"en": 2,
-						"zh": 2
 					}
 				},
 				"look": {
@@ -14363,18 +14402,6 @@
 						"zh": 2
 					}
 				},
-				"n": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
-				"netstat": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
 				"nettop": {
 					"status": {
 						"en": 2
@@ -14384,11 +14411,6 @@
 					"status": {
 						"en": 2,
 						"zh": 2
-					}
-				},
-				"nm": {
-					"status": {
-						"en": 2
 					}
 				},
 				"oathtool": {
@@ -14423,12 +14445,6 @@
 					}
 				},
 				"pbpaste": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
-				"pdfgrep": {
 					"status": {
 						"en": 2,
 						"zh": 2
