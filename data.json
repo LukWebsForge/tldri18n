@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 19-Sep-21 00:00:06 UTC",
+	"last_update": "Monday, 20-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -5848,6 +5848,11 @@
 						"en": 2
 					}
 				},
+				"llvm-bcanalyzer": {
+					"status": {
+						"en": 2
+					}
+				},
 				"llvm-config": {
 					"status": {
 						"en": 2
@@ -7898,6 +7903,12 @@
 						"zh_TW": 2
 					}
 				},
+				"pwgen": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
 				"pwsh": {
 					"status": {
 						"en": 2
@@ -8830,6 +8841,12 @@
 						"en": 2
 					}
 				},
+				"sshuttle": {
+					"status": {
+						"en": 2,
+						"zh": 1
+					}
+				},
 				"st-flash": {
 					"status": {
 						"en": 2
@@ -9377,6 +9394,12 @@
 						"en": 2
 					}
 				},
+				"trap": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
 				"trash-cli": {
 					"status": {
 						"en": 2
@@ -9395,6 +9418,15 @@
 				"tred": {
 					"status": {
 						"en": 2
+					}
+				},
+				"tree": {
+					"status": {
+						"en": 2,
+						"it": 2,
+						"pt_BR": 2,
+						"tr": 2,
+						"zh": 1
 					}
 				},
 				"true": {
@@ -9988,6 +10020,13 @@
 						"zh": 2
 					}
 				},
+				"whereis": {
+					"status": {
+						"en": 2,
+						"fa": 2,
+						"zh": 1
+					}
+				},
 				"which": {
 					"status": {
 						"en": 2,
@@ -10070,6 +10109,11 @@
 					}
 				},
 				"x_x": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xar": {
 					"status": {
 						"en": 2
 					}
@@ -10266,6 +10310,12 @@
 				"yacas": {
 					"status": {
 						"en": 2
+					}
+				},
+				"yank": {
+					"status": {
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"yapf": {
@@ -12945,11 +12995,6 @@
 						"es": 2
 					}
 				},
-				"pwgen": {
-					"status": {
-						"en": 2
-					}
-				},
 				"qjoypad": {
 					"status": {
 						"en": 2
@@ -13377,11 +13422,6 @@
 						"en": 2
 					}
 				},
-				"sshuttle": {
-					"status": {
-						"en": 2
-					}
-				},
 				"sstat": {
 					"status": {
 						"en": 2
@@ -13529,22 +13569,9 @@
 						"en": 2
 					}
 				},
-				"trap": {
-					"status": {
-						"en": 2
-					}
-				},
 				"trash": {
 					"status": {
 						"en": 2
-					}
-				},
-				"tree": {
-					"status": {
-						"en": 2,
-						"it": 2,
-						"pt_BR": 2,
-						"tr": 2
 					}
 				},
 				"trizen": {
@@ -13810,12 +13837,6 @@
 						"fa": 2
 					}
 				},
-				"whereis": {
-					"status": {
-						"en": 2,
-						"fa": 2
-					}
-				},
 				"whiptail": {
 					"status": {
 						"en": 2
@@ -13878,11 +13899,6 @@
 					}
 				},
 				"x11vnc": {
-					"status": {
-						"en": 2
-					}
-				},
-				"xar": {
 					"status": {
 						"en": 2
 					}
@@ -13994,11 +14010,6 @@
 						"en": 2
 					}
 				},
-				"yank": {
-					"status": {
-						"en": 2
-					}
-				},
 				"yaourt": {
 					"status": {
 						"en": 2,
@@ -14064,7 +14075,7 @@
 				"da": 0,
 				"de": 2,
 				"en": 98,
-				"es": 7,
+				"es": 8,
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
@@ -14085,7 +14096,7 @@
 				"ta": 0,
 				"th": 0,
 				"tr": 0,
-				"zh": 68,
+				"zh": 67,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -14494,12 +14505,6 @@
 						"zh": 2
 					}
 				},
-				"pwgen": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
 				"qlmanage": {
 					"status": {
 						"en": 2,
@@ -14604,12 +14609,6 @@
 						"es": 2
 					}
 				},
-				"sshuttle": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
 				"stat": {
 					"status": {
 						"en": 2,
@@ -14658,18 +14657,6 @@
 						"zh": 2
 					}
 				},
-				"trap": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
-				"tree": {
-					"status": {
-						"en": 2,
-						"zh": 1
-					}
-				},
 				"uname": {
 					"status": {
 						"en": 2,
@@ -14713,21 +14700,10 @@
 						"en": 2
 					}
 				},
-				"whereis": {
-					"status": {
-						"en": 2,
-						"zh": 2
-					}
-				},
 				"wifi-password": {
 					"status": {
 						"en": 2,
 						"zh": 2
-					}
-				},
-				"xar": {
-					"status": {
-						"en": 2
 					}
 				},
 				"xattr": {
@@ -14778,12 +14754,6 @@
 				"yabai": {
 					"status": {
 						"en": 2
-					}
-				},
-				"yank": {
-					"status": {
-						"en": 2,
-						"zh": 2
 					}
 				}
 			}
