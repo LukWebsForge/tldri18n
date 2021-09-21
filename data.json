@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 20-Sep-21 00:00:06 UTC",
+	"last_update": "Tuesday, 21-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2308,11 +2308,11 @@
 				},
 				"diff": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"pl": 2
+						"it": 1,
+						"ko": 1,
+						"pl": 1
 					}
 				},
 				"diffoscope": {
@@ -5250,7 +5250,8 @@
 				},
 				"img2pdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"import": {
@@ -5843,12 +5844,22 @@
 						"en": 2
 					}
 				},
+				"llvm-ar": {
+					"status": {
+						"en": 2
+					}
+				},
 				"llvm-as": {
 					"status": {
 						"en": 2
 					}
 				},
 				"llvm-bcanalyzer": {
+					"status": {
+						"en": 2
+					}
+				},
+				"llvm-cat": {
 					"status": {
 						"en": 2
 					}
@@ -5869,6 +5880,21 @@
 					}
 				},
 				"llvm-gcc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"llvm-nm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"llvm-objdump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"llvm-strings": {
 					"status": {
 						"en": 2
 					}
