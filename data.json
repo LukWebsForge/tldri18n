@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 21-Sep-21 00:00:06 UTC",
+	"last_update": "Wednesday, 22-Sep-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -1582,16 +1582,16 @@
 				},
 				"chsh": {
 					"status": {
-						"bs": 2,
-						"da": 2,
-						"de": 2,
+						"bs": 1,
+						"da": 1,
+						"de": 1,
 						"en": 2,
-						"hi": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"no": 2,
-						"sv": 2
+						"hi": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"no": 1,
+						"sv": 1
 					}
 				},
 				"circo": {
@@ -9299,7 +9299,22 @@
 						"en": 2
 					}
 				},
+				"tlmgr-install": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tlmgr-paper": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-path": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-shell": {
 					"status": {
 						"en": 2
 					}
