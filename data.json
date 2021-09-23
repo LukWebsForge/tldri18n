@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 22-Sep-21 00:00:07 UTC",
+	"last_update": "Thursday, 23-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2148,6 +2148,11 @@
 						"es": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"d8": {
+					"status": {
+						"en": 2
 					}
 				},
 				"darkhttpd": {
@@ -9289,6 +9294,11 @@
 						"en": 2
 					}
 				},
+				"tlmgr-arch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tlmgr-gui": {
 					"status": {
 						"en": 2
@@ -9310,6 +9320,11 @@
 					}
 				},
 				"tlmgr-path": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-platform": {
 					"status": {
 						"en": 2
 					}
@@ -11533,6 +11548,11 @@
 					}
 				},
 				"fail2ban-client": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fakeroot": {
 					"status": {
 						"en": 2
 					}
