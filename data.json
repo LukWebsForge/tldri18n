@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 23-Sep-21 00:00:06 UTC",
+	"last_update": "Friday, 24-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -9295,6 +9295,16 @@
 					}
 				},
 				"tlmgr-arch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-backup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-candidates": {
 					"status": {
 						"en": 2
 					}
