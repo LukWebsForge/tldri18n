@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 24-Sep-21 00:00:06 UTC",
+	"last_update": "Saturday, 25-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -186,7 +186,7 @@
 				"id": 2,
 				"it": 17,
 				"ja": 1,
-				"ko": 10,
+				"ko": 9,
 				"ml": 0,
 				"nl": 1,
 				"no": 0,
@@ -3557,6 +3557,11 @@
 						"en": 2
 					}
 				},
+				"gh-screensaver": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-secret": {
 					"status": {
 						"en": 2
@@ -3723,6 +3728,11 @@
 						"fr": 2,
 						"it": 2,
 						"ta": 2
+					}
+				},
+				"git-blame-someone-else": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-branch": {
@@ -9344,6 +9354,11 @@
 						"en": 2
 					}
 				},
+				"tlmgr-update": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tmpmail": {
 					"status": {
 						"en": 2
@@ -10471,6 +10486,11 @@
 					}
 				},
 				"zfs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zig": {
 					"status": {
 						"en": 2
 					}
