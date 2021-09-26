@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 25-Sep-21 00:00:06 UTC",
+	"last_update": "Sunday, 26-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2550,6 +2550,11 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"docker-slim": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-start": {
@@ -11320,6 +11325,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"debsecan": {
+					"status": {
+						"en": 2
 					}
 				},
 				"debugfs": {
