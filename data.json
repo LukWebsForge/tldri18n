@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 26-Sep-21 00:00:06 UTC",
+	"last_update": "Monday, 27-Sep-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -4357,6 +4357,11 @@
 					}
 				},
 				"git-root": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-secret": {
 					"status": {
 						"en": 2
 					}
