@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 28-Sep-21 00:00:05 UTC",
+	"last_update": "Wednesday, 29-Sep-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -2969,6 +2969,11 @@
 					}
 				},
 				"evil-winrm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ex": {
 					"status": {
 						"en": 2
 					}
@@ -11734,6 +11739,11 @@
 						"en": 2
 					}
 				},
+				"fwupdmgr": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gcov": {
 					"status": {
 						"en": 2
@@ -13090,7 +13100,22 @@
 						"en": 2
 					}
 				},
+				"pw-cat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pw-loopback": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pw-play": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pw-record": {
 					"status": {
 						"en": 2
 					}
@@ -14086,6 +14111,11 @@
 					}
 				},
 				"xrandr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xrdb": {
 					"status": {
 						"en": 2
 					}
