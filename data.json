@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 02-Oct-21 00:00:06 UTC",
+	"last_update": "Sunday, 03-Oct-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -177,7 +177,7 @@
 		},
 		"common": {
 			"progress": {
-				"bs": 0,
+				"bs": 1,
 				"da": 0,
 				"de": 7,
 				"en": 99,
@@ -633,6 +633,7 @@
 				},
 				"aria2": {
 					"status": {
+						"bs": 2,
 						"en": 2,
 						"it": 1,
 						"ko": 1,
@@ -1640,6 +1641,7 @@
 				},
 				"clang-cpp": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -1689,6 +1691,7 @@
 				},
 				"clojure": {
 					"status": {
+						"bs": 2,
 						"en": 2,
 						"pt_BR": 2
 					}
@@ -1752,6 +1755,7 @@
 				},
 				"cola": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -5889,6 +5893,7 @@
 				},
 				"llvm-ar": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -5919,26 +5924,31 @@
 				},
 				"llvm-g++": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
 				"llvm-gcc": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
 				"llvm-nm": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
 				"llvm-objdump": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
 				"llvm-strings": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -6484,6 +6494,7 @@
 				},
 				"mscore": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -7557,6 +7568,7 @@
 				},
 				"pio-init": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -7627,6 +7639,7 @@
 				},
 				"piodebuggdb": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -7678,6 +7691,7 @@
 				},
 				"platformio": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -8095,6 +8109,7 @@
 				},
 				"r2": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -9334,6 +9349,7 @@
 				},
 				"tldrl": {
 					"status": {
+						"bs": 2,
 						"en": 2,
 						"tr": 2
 					}
@@ -9346,6 +9362,7 @@
 				},
 				"tlmgr-arch": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -9833,6 +9850,7 @@
 				},
 				"vi": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
