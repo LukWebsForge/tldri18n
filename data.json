@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 05-Oct-21 00:00:07 UTC",
+	"last_update": "Wednesday, 06-Oct-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"bs",
@@ -200,7 +200,7 @@
 				"id": 3,
 				"it": 17,
 				"ja": 1,
-				"ko": 10,
+				"ko": 9,
 				"ml": 0,
 				"nl": 1,
 				"no": 0,
@@ -354,6 +354,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -960,6 +961,11 @@
 						"en": 2
 					}
 				},
+				"az-feedback": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-login": {
 					"status": {
 						"en": 2
@@ -971,6 +977,16 @@
 					}
 				},
 				"az-storage": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-storage-blob": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-storage-entity": {
 					"status": {
 						"en": 2
 					}
@@ -5001,6 +5017,11 @@
 					}
 				},
 				"hangups": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hardhat": {
 					"status": {
 						"en": 2
 					}
@@ -10716,7 +10737,7 @@
 			"progress": {
 				"bs": 0,
 				"da": 0,
-				"de": 1,
+				"de": 2,
 				"en": 99,
 				"es": 5,
 				"fa": 0,
@@ -11832,6 +11853,7 @@
 				"flatpak": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				},
@@ -11861,6 +11883,11 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"fscrypt": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fstrim": {
@@ -12918,6 +12945,7 @@
 				},
 				"pacman": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"ml": 2,
@@ -13365,6 +13393,11 @@
 						"en": 2
 					}
 				},
+				"repo-add": {
+					"status": {
+						"en": 2
+					}
+				},
 				"reportbug": {
 					"status": {
 						"en": 2
@@ -13585,7 +13618,8 @@
 				"shutdown": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"fr": 2
 					}
 				},
 				"sic": {
@@ -13761,12 +13795,14 @@
 				"sysctl": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"systemctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"systemd-analyze": {
@@ -14273,7 +14309,8 @@
 				},
 				"xsel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"xsetwacom": {
