@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 07-Oct-21 00:00:07 UTC",
+	"last_update": "Friday, 08-Oct-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -426,7 +426,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"pt_BR": 2
 					}
 				},
 				"airmon-ng": {
@@ -472,6 +473,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
+						"fr": 2,
 						"hi": 2,
 						"id": 2,
 						"it": 2,
@@ -907,6 +909,11 @@
 				"aws-quicksight": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"aws-rds": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -2784,7 +2791,8 @@
 						"de": 2,
 						"en": 2,
 						"it": 2,
-						"ja": 2
+						"ja": 2,
+						"nl": 2
 					}
 				},
 				"dua": {
@@ -4567,6 +4575,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"it": 2,
 						"uk": 2
@@ -4843,6 +4852,7 @@
 				},
 				"gobuster": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -5085,6 +5095,11 @@
 						"en": 2,
 						"it": 2,
 						"sh": 2
+					}
+				},
+				"helix": {
+					"status": {
+						"en": 2
 					}
 				},
 				"helm": {
@@ -6170,6 +6185,11 @@
 						"zh_TW": 1
 					}
 				},
+				"lsd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lsof": {
 					"status": {
 						"en": 2,
@@ -6286,7 +6306,8 @@
 				},
 				"maza": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"mc": {
@@ -8353,6 +8374,11 @@
 						"en": 2
 					}
 				},
+				"rc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rclone": {
 					"status": {
 						"en": 2
@@ -8782,6 +8808,7 @@
 				"sh": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"sh": 2
 					}
 				},
@@ -9389,6 +9416,11 @@
 						"en": 2
 					}
 				},
+				"tbl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tcpdump": {
 					"status": {
 						"en": 2
@@ -9579,6 +9611,11 @@
 					}
 				},
 				"tlmgr-platform": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-remove": {
 					"status": {
 						"en": 2
 					}
@@ -9807,6 +9844,11 @@
 					}
 				},
 				"twopi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tye": {
 					"status": {
 						"en": 2
 					}
@@ -10794,6 +10836,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 1,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				},
@@ -10815,7 +10858,7 @@
 				"ar": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 2,
+				"de": 3,
 				"en": 99,
 				"es": 5,
 				"fa": 0,
@@ -13051,16 +13094,19 @@
 				},
 				"pacman-database": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"pacman-deptest": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"pacman-files": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13077,24 +13123,28 @@
 				},
 				"pacman-query": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"tr": 2
 					}
 				},
 				"pacman-remove": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"tr": 2
 					}
 				},
 				"pacman-sync": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"tr": 2
 					}
 				},
 				"pacman-upgrade": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -14706,6 +14756,7 @@
 				"du": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
