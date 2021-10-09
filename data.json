@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 08-Oct-21 00:00:07 UTC",
+	"last_update": "Saturday, 09-Oct-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2541,7 +2541,8 @@
 				"docker-cp": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-exec": {
@@ -2613,6 +2614,7 @@
 				"docker-rmi": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -2656,6 +2658,7 @@
 				"docker-stats": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -5098,6 +5101,11 @@
 					}
 				},
 				"helix": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hello": {
 					"status": {
 						"en": 2
 					}
@@ -10858,7 +10866,7 @@
 				"ar": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 3,
+				"de": 4,
 				"en": 99,
 				"es": 5,
 				"fa": 0,
@@ -10889,6 +10897,7 @@
 			"pages": {
 				"a2disconf": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"pt_BR": 2,
@@ -10897,6 +10906,7 @@
 				},
 				"a2dismod": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"pt_BR": 2,
@@ -10905,6 +10915,7 @@
 				},
 				"a2dissite": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"zh": 2
@@ -10912,6 +10923,7 @@
 				},
 				"a2enconf": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"zh": 2
@@ -10919,6 +10931,7 @@
 				},
 				"a2enmod": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"zh": 2
@@ -10926,6 +10939,7 @@
 				},
 				"a2ensite": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"zh": 2
@@ -10933,6 +10947,7 @@
 				},
 				"a2query": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"zh": 2
@@ -12176,11 +12191,6 @@
 					}
 				},
 				"hdparm": {
-					"status": {
-						"en": 2
-					}
-				},
-				"hello": {
 					"status": {
 						"en": 2
 					}
