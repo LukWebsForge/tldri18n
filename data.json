@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 09-Oct-21 00:00:06 UTC",
+	"last_update": "Sunday, 10-Oct-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -539,7 +539,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"it": 1,
+						"it": 2,
 						"ko": 1,
 						"zh": 1
 					}
@@ -578,6 +578,11 @@
 					}
 				},
 				"ant": {
+					"status": {
+						"en": 2
+					}
+				},
+				"antibody": {
 					"status": {
 						"en": 2
 					}
@@ -1683,6 +1688,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"clamdscan": {
+					"status": {
+						"en": 2
 					}
 				},
 				"clamscan": {
@@ -3042,7 +3052,8 @@
 				},
 				"espanso": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"espeak": {
@@ -6644,6 +6655,11 @@
 						"en": 2
 					}
 				},
+				"mplayer": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mpv": {
 					"status": {
 						"en": 2,
@@ -9530,6 +9546,11 @@
 						"en": 2
 					}
 				},
+				"timetrap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"timew": {
 					"status": {
 						"en": 2
@@ -10955,6 +10976,7 @@
 				},
 				"ac": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"zh": 2
 					}
@@ -11207,6 +11229,11 @@
 						"en": 2,
 						"pt_BR": 1,
 						"zh": 2
+					}
+				},
+				"atool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aura": {
@@ -13560,6 +13587,11 @@
 					}
 				},
 				"repquota": {
+					"status": {
+						"en": 2
+					}
+				},
+				"reptyr": {
 					"status": {
 						"en": 2
 					}
