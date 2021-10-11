@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 10-Oct-21 00:00:06 UTC",
+	"last_update": "Monday, 11-Oct-21 00:00:10 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -210,7 +210,7 @@
 				"nl": 1,
 				"no": 0,
 				"pl": 2,
-				"pt_BR": 5,
+				"pt_BR": 6,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 1,
@@ -418,6 +418,7 @@
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -763,7 +764,8 @@
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"atom": {
@@ -991,12 +993,22 @@
 						"en": 2
 					}
 				},
+				"az-lock": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-login": {
 					"status": {
 						"en": 2
 					}
 				},
 				"az-logout": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-network": {
 					"status": {
 						"en": 2
 					}
@@ -1553,6 +1565,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"pt_PT": 2,
 						"sr": 2,
 						"sv": 2,
@@ -1731,6 +1744,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"hi": 2,
 						"it": 1,
 						"ko": 1,
 						"pt_BR": 2,
@@ -2537,6 +2551,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 1,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -2756,6 +2771,11 @@
 						"ru": 2
 					}
 				},
+				"dotnet-ef": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dotnet-publish": {
 					"status": {
 						"en": 2,
@@ -2912,6 +2932,7 @@
 						"fr": 2,
 						"it": 2,
 						"ja": 2,
+						"pt_BR": 2,
 						"sr": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -3201,7 +3222,8 @@
 				},
 				"fast": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"fastboot": {
@@ -4022,22 +4044,26 @@
 						"fr": 1,
 						"id": 1,
 						"it": 1,
-						"ta": 1
+						"ta": 1,
+						"uk": 2
 					}
 				},
 				"git-commit-graph": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"git-commit-tree": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"git-commits-since": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"git-config": {
@@ -4974,6 +5000,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
@@ -5240,6 +5267,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"pt_BR": 2,
 						"pt_PT": 1
 					}
 				},
@@ -5398,6 +5426,7 @@
 				},
 				"id": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -5590,6 +5619,7 @@
 						"en": 2,
 						"id": 2,
 						"pl": 1,
+						"pt_BR": 2,
 						"ta": 2,
 						"zh": 2
 					}
@@ -5597,6 +5627,7 @@
 				"javac": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"ta": 2,
 						"zh": 2
 					}
@@ -5689,7 +5720,8 @@
 				},
 				"join": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"josm": {
@@ -6122,6 +6154,11 @@
 						"fr": 2,
 						"hi": 2,
 						"it": 2
+					}
+				},
+				"loadtest": {
+					"status": {
+						"en": 2
 					}
 				},
 				"loc": {
@@ -6793,7 +6830,8 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"fr": 1
+						"fr": 1,
+						"pt_BR": 2
 					}
 				},
 				"nasm": {
@@ -6867,7 +6905,8 @@
 				},
 				"next": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"nextflow": {
@@ -7059,6 +7098,16 @@
 						"en": 2
 					}
 				},
+				"npm-home": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-name": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-why": {
 					"status": {
 						"de": 2,
@@ -7083,6 +7132,11 @@
 					}
 				},
 				"nslookup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nth": {
 					"status": {
 						"en": 2
 					}
@@ -8330,28 +8384,33 @@
 				"rails": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"pt_BR": 2
 					}
 				},
 				"rails-db": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"rails-destroy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"rails-generate": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"pt_BR": 1
 					}
 				},
 				"rails-routes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"rainbowstream": {
@@ -8399,6 +8458,11 @@
 					}
 				},
 				"rc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rcat": {
 					"status": {
 						"en": 2
 					}
@@ -9527,6 +9591,7 @@
 				},
 				"tig": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -9552,6 +9617,11 @@
 					}
 				},
 				"timew": {
+					"status": {
+						"en": 2
+					}
+				},
+				"timidity": {
 					"status": {
 						"en": 2
 					}
@@ -10405,6 +10475,7 @@
 				"where": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -10419,12 +10490,14 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"while": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"who": {
@@ -10435,7 +10508,8 @@
 				"whoami": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"whois": {
@@ -10831,6 +10905,11 @@
 						"en": 2
 					}
 				},
+				"zmore": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zmv": {
 					"status": {
 						"en": 2
@@ -10897,7 +10976,7 @@
 				"it": 4,
 				"ja": 0,
 				"ko": 0,
-				"ml": 0,
+				"ml": 1,
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
@@ -10912,7 +10991,7 @@
 				"th": 0,
 				"tr": 1,
 				"uk": 0,
-				"zh": 15,
+				"zh": 14,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -11208,6 +11287,7 @@
 				"asciiart": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -11419,6 +11499,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ml": 2,
 						"pt_BR": 2
 					}
 				},
@@ -11474,6 +11555,11 @@
 						"en": 2
 					}
 				},
+				"checkinstall": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chfn": {
 					"status": {
 						"en": 2
@@ -11505,6 +11591,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ml": 2,
 						"pt_BR": 2
 					}
 				},
@@ -11750,7 +11837,8 @@
 				},
 				"dolphin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"dos2unix": {
@@ -12129,7 +12217,8 @@
 				},
 				"gnome-terminal": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ml": 2
 					}
 				},
 				"goaccess": {
@@ -13072,6 +13161,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"ntpdate": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ntpq": {
@@ -14101,6 +14195,11 @@
 					}
 				},
 				"tuxi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ubuntu-bug": {
 					"status": {
 						"en": 2
 					}
@@ -15379,7 +15478,7 @@
 				"ar": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 16,
+				"de": 15,
 				"en": 100,
 				"es": 0,
 				"fa": 2,
@@ -15404,7 +15503,7 @@
 				"th": 0,
 				"tr": 0,
 				"uk": 0,
-				"zh": 80,
+				"zh": 79,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -15713,6 +15812,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"fsutil": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ftp": {
