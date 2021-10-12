@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 11-Oct-21 00:00:10 UTC",
+	"last_update": "Tuesday, 12-Oct-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -203,7 +203,7 @@
 				"fr": 7,
 				"hi": 1,
 				"id": 3,
-				"it": 17,
+				"it": 16,
 				"ja": 1,
 				"ko": 9,
 				"ml": 0,
@@ -6077,6 +6077,11 @@
 						"en": 2
 					}
 				},
+				"llc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lldb": {
 					"status": {
 						"en": 2
@@ -8288,6 +8293,11 @@
 						"pl": 1
 					}
 				},
+				"python3": {
+					"status": {
+						"en": 2
+					}
+				},
 				"q": {
 					"status": {
 						"en": 2
@@ -10441,7 +10451,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 1
+						"fr": 2
 					}
 				},
 				"weasyprint": {
@@ -12177,6 +12187,7 @@
 				"gedit": {
 					"status": {
 						"en": 2,
+						"ml": 2,
 						"pt_PT": 2
 					}
 				},
@@ -13067,7 +13078,8 @@
 				},
 				"nemo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ml": 2
 					}
 				},
 				"nethogs": {
@@ -13773,6 +13785,11 @@
 					}
 				},
 				"runcon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"runlim": {
 					"status": {
 						"en": 2
 					}
@@ -14526,6 +14543,7 @@
 				},
 				"xclip": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"fr": 2
 					}
@@ -14622,6 +14640,11 @@
 					}
 				},
 				"xvfb-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xwinwrap": {
 					"status": {
 						"en": 2
 					}
