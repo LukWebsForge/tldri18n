@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 13-Oct-21 00:00:06 UTC",
+	"last_update": "Thursday, 14-Oct-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -261,7 +261,7 @@
 						"ko": 1,
 						"pl": 1,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -275,7 +275,7 @@
 						"ko": 1,
 						"pl": 1,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -328,7 +328,7 @@
 						"ko": 1,
 						"pl": 1,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"ta": 1,
 						"zh": 1
 					}
@@ -1039,6 +1039,11 @@
 						"en": 2
 					}
 				},
+				"az-tag": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-term": {
 					"status": {
 						"en": 2
@@ -1111,6 +1116,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -1641,7 +1647,7 @@
 						"ko": 1,
 						"nl": 1,
 						"pt_PT": 1,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"choose": {
@@ -2556,8 +2562,14 @@
 						"zh": 2
 					}
 				},
+				"docker-commit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-compose": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 1,
 						"fr": 2,
@@ -3092,7 +3104,8 @@
 				"espanso": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"espeak": {
@@ -4424,6 +4437,11 @@
 						"en": 2
 					}
 				},
+				"git-reauthor": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-rebase": {
 					"status": {
 						"en": 2,
@@ -5748,6 +5766,11 @@
 						"zh": 2
 					}
 				},
+				"jmtpfs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jobs": {
 					"status": {
 						"en": 2
@@ -6286,7 +6309,7 @@
 						"ja": 1,
 						"ko": 2,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"ta": 1,
 						"zh_TW": 1
 					}
@@ -7188,7 +7211,8 @@
 				},
 				"nth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"nu": {
@@ -7544,6 +7568,11 @@
 					}
 				},
 				"pax": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pdf-parser": {
 					"status": {
 						"en": 2
 					}
@@ -10536,8 +10565,9 @@
 				"wc": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2
+						"es": 1,
+						"fr": 1,
+						"zh": 1
 					}
 				},
 				"weasyprint": {
@@ -11081,7 +11111,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 7,
+				"pt_BR": 8,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -11507,6 +11537,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -12791,6 +12822,7 @@
 				},
 				"locate": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13363,6 +13395,7 @@
 						"en": 2,
 						"fr": 2,
 						"ml": 2,
+						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -14784,6 +14817,7 @@
 				"yaourt": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -14791,6 +14825,7 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				},
@@ -15033,7 +15068,8 @@
 				},
 				"dark-mode": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"date": {
@@ -15581,6 +15617,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"wc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"whatis": {
