@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 14-Oct-21 00:00:06 UTC",
+	"last_update": "Friday, 15-Oct-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -1402,6 +1402,11 @@
 						"pt_BR": 1
 					}
 				},
+				"bundler": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bundletool": {
 					"status": {
 						"en": 2
@@ -1563,6 +1568,11 @@
 						"ru": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"cbonsai": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ccomps": {
@@ -4064,6 +4074,11 @@
 						"ta": 1
 					}
 				},
+				"git-coauthor": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-cola": {
 					"status": {
 						"en": 2
@@ -4323,6 +4338,11 @@
 						"en": 2
 					}
 				},
+				"git-lock": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-log": {
 					"status": {
 						"de": 2,
@@ -4476,7 +4496,8 @@
 				},
 				"git-rename-branch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"git-rename-remote": {
@@ -5184,6 +5205,11 @@
 						"en": 2
 					}
 				},
+				"hashid": {
+					"status": {
+						"en": 2
+					}
+				},
 				"haxelib": {
 					"status": {
 						"en": 2
@@ -5447,6 +5473,11 @@
 					}
 				},
 				"hunspell": {
+					"status": {
+						"en": 2
+					}
+				},
+				"husky": {
 					"status": {
 						"en": 2
 					}
@@ -5999,6 +6030,16 @@
 					}
 				},
 				"kubectl-get": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kubectl-logs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kubectl-rollout": {
 					"status": {
 						"en": 2
 					}
@@ -8961,6 +9002,11 @@
 						"en": 2
 					}
 				},
+				"searchsploit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"secrethub": {
 					"status": {
 						"en": 2
@@ -11522,6 +11568,7 @@
 				},
 				"beep": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -11617,6 +11664,11 @@
 						"zh": 2
 					}
 				},
+				"btrfs-check": {
+					"status": {
+						"en": 2
+					}
+				},
 				"btrfs-device": {
 					"status": {
 						"en": 2,
@@ -11653,6 +11705,7 @@
 				},
 				"calc": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"ml": 2,
@@ -11855,6 +11908,7 @@
 				},
 				"cuyo": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -14371,6 +14425,11 @@
 						"en": 2
 					}
 				},
+				"ttyplot": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tune2fs": {
 					"status": {
 						"en": 2
@@ -14615,7 +14674,8 @@
 				},
 				"wg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"wg-quick": {
@@ -15779,7 +15839,7 @@
 				"ar": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 15,
+				"de": 16,
 				"en": 100,
 				"es": 0,
 				"fa": 2,
@@ -16525,6 +16585,7 @@
 				},
 				"winget": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"zh": 2
 					}
