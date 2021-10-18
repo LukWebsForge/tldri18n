@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 17-Oct-21 00:00:06 UTC",
+	"last_update": "Monday, 18-Oct-21 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -196,7 +196,7 @@
 				"ar": 0,
 				"bs": 1,
 				"da": 0,
-				"de": 7,
+				"de": 9,
 				"en": 99,
 				"es": 5,
 				"fa": 0,
@@ -2567,6 +2567,7 @@
 				},
 				"docker-build": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 1,
 						"it": 1,
@@ -2594,6 +2595,7 @@
 				},
 				"docker-container": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"it": 2,
@@ -2602,6 +2604,7 @@
 				},
 				"docker-cp": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"pt_BR": 2
@@ -2609,6 +2612,7 @@
 				},
 				"docker-exec": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"tr": 2
@@ -2616,12 +2620,14 @@
 				},
 				"docker-image": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2
 					}
 				},
 				"docker-images": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 1,
 						"ko": 1,
@@ -2632,6 +2638,7 @@
 				},
 				"docker-inspect": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"tr": 2
@@ -2639,11 +2646,13 @@
 				},
 				"docker-login": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"docker-logs": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"ko": 2,
@@ -2653,6 +2662,7 @@
 				},
 				"docker-machine": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"ko": 2,
@@ -2661,6 +2671,7 @@
 				},
 				"docker-network": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"tr": 2
@@ -2668,6 +2679,7 @@
 				},
 				"docker-ps": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"pt_BR": 2,
 						"tr": 2
@@ -2675,6 +2687,7 @@
 				},
 				"docker-rmi": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"pt_BR": 2,
 						"tr": 2
@@ -2682,6 +2695,7 @@
 				},
 				"docker-run": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"pt_BR": 2,
 						"tr": 2
@@ -2689,29 +2703,34 @@
 				},
 				"docker-save": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"tr": 2
 					}
 				},
 				"docker-secret": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"tr": 2
 					}
 				},
 				"docker-service": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"tr": 2
 					}
 				},
 				"docker-slim": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"docker-start": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"pt_BR": 2,
 						"tr": 2
@@ -2719,6 +2738,7 @@
 				},
 				"docker-stats": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"pt_BR": 2,
 						"tr": 2
@@ -2726,12 +2746,14 @@
 				},
 				"docker-swarm": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"tr": 2
 					}
 				},
 				"docker-system": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"tr": 2
 					}
@@ -3259,6 +3281,7 @@
 						"en": 2,
 						"fa": 2,
 						"hi": 2,
+						"ko": 2,
 						"nl": 2,
 						"no": 2,
 						"sv": 2
@@ -3354,7 +3377,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"pt_BR": 2
 					}
 				},
 				"ffprobe": {
@@ -4957,6 +4981,11 @@
 						"en": 2
 					}
 				},
+				"go-tool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"go-version": {
 					"status": {
 						"en": 2
@@ -5087,6 +5116,11 @@
 					}
 				},
 				"grex": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grip": {
 					"status": {
 						"en": 2
 					}
@@ -5255,7 +5289,7 @@
 				"hexdump": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"hexo": {
@@ -6001,6 +6035,11 @@
 						"sv": 2
 					}
 				},
+				"kotlinc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ksh": {
 					"status": {
 						"en": 2
@@ -6463,6 +6502,11 @@
 						"it": 1,
 						"pt_BR": 1,
 						"tr": 1
+					}
+				},
+				"masscan": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mat2": {
@@ -9889,6 +9933,11 @@
 						"en": 2
 					}
 				},
+				"tlmgr-option": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tlmgr-paper": {
 					"status": {
 						"en": 2
@@ -10192,6 +10241,7 @@
 				"unclutter": {
 					"status": {
 						"bs": 2,
+						"de": 2,
 						"en": 2,
 						"fa": 2,
 						"nl": 2,
@@ -10521,6 +10571,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -11887,6 +11938,7 @@
 						"de": 2,
 						"en": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -12035,6 +12087,11 @@
 					}
 				},
 				"dir": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dirb": {
 					"status": {
 						"en": 2
 					}
@@ -12385,6 +12442,11 @@
 					}
 				},
 				"foreman": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil": {
 					"status": {
 						"en": 2
 					}
@@ -13984,6 +14046,11 @@
 						"en": 2
 					}
 				},
+				"rgrep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rig": {
 					"status": {
 						"en": 2,
@@ -14822,6 +14889,11 @@
 						"en": 2
 					}
 				},
+				"xcowsay": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xcursorgen": {
 					"status": {
 						"en": 2
@@ -14927,6 +14999,7 @@
 				},
 				"yay": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 1,
 						"pt_BR": 2,
@@ -15009,7 +15082,7 @@
 				"th": 0,
 				"tr": 0,
 				"uk": 0,
-				"zh": 56,
+				"zh": 55,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -15042,6 +15115,11 @@
 						"es": 2,
 						"it": 2,
 						"zh": 2
+					}
+				},
+				"applecamerad": {
+					"status": {
+						"en": 2
 					}
 				},
 				"appsleepd": {
@@ -15602,6 +15680,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"sntpd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"softwareupdate": {
