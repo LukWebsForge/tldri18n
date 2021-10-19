@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 18-Oct-21 00:00:06 UTC",
+	"last_update": "Tuesday, 19-Oct-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -12451,6 +12451,11 @@
 						"en": 2
 					}
 				},
+				"fossil-ci": {
+					"status": {
+						"en": 2
+					}
+				},
 				"free": {
 					"status": {
 						"en": 2,
@@ -14821,6 +14826,11 @@
 					}
 				},
 				"wipefs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wl-copy": {
 					"status": {
 						"en": 2
 					}
