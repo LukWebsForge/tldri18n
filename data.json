@@ -1,8 +1,9 @@
 {
-	"last_update": "Tuesday, 19-Oct-21 00:00:07 UTC",
+	"last_update": "Wednesday, 20-Oct-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
+		"bn",
 		"bs",
 		"da",
 		"de",
@@ -36,6 +37,7 @@
 		"android": {
 			"progress": {
 				"ar": 0,
+				"bn": 8,
 				"bs": 0,
 				"da": 0,
 				"de": 100,
@@ -100,6 +102,7 @@
 				},
 				"cmd": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"fr": 2,
@@ -194,6 +197,7 @@
 		"common": {
 			"progress": {
 				"ar": 0,
+				"bn": 0,
 				"bs": 1,
 				"da": 0,
 				"de": 9,
@@ -367,6 +371,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -377,6 +382,7 @@
 						"id": 2,
 						"it": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -1659,6 +1665,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 2
 					}
@@ -2260,6 +2267,16 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"cups-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cupsd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"curl": {
@@ -3022,7 +3039,8 @@
 				},
 				"egrep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"electron-packager": {
@@ -3296,7 +3314,8 @@
 				"fastboot": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"pt_BR": 2
 					}
 				},
 				"fastlane": {
@@ -4064,6 +4083,7 @@
 				},
 				"git-cherry-pick": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -5553,7 +5573,8 @@
 				"id": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"id3tag": {
@@ -6365,6 +6386,11 @@
 					}
 				},
 				"lpass": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lpinfo": {
 					"status": {
 						"en": 2
 					}
@@ -7217,8 +7243,8 @@
 				"nohup": {
 					"status": {
 						"en": 2,
-						"fa": 2,
-						"sv": 2
+						"fa": 1,
+						"sv": 1
 					}
 				},
 				"nokogiri": {
@@ -8793,6 +8819,7 @@
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
+						"sv": 2,
 						"ta": 2,
 						"zh_TW": 2
 					}
@@ -9247,7 +9274,8 @@
 				"sl": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"slackcat": {
@@ -9410,31 +9438,36 @@
 				"ssh-add": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"zh": 2
 					}
 				},
 				"ssh-agent": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ssh-copy-id": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ssh-keygen": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ssh-keyscan": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"sshd": {
@@ -11221,6 +11254,7 @@
 		"linux": {
 			"progress": {
 				"ar": 0,
+				"bn": 0,
 				"bs": 0,
 				"da": 0,
 				"de": 8,
@@ -11363,6 +11397,11 @@
 						"zh": 2
 					}
 				},
+				"alien": {
+					"status": {
+						"en": 2
+					}
+				},
 				"alpine": {
 					"status": {
 						"de": 2,
@@ -11418,6 +11457,7 @@
 				},
 				"apt": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -11966,7 +12006,8 @@
 				},
 				"cpulimit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"create_ap": {
@@ -12045,6 +12086,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"deborphan": {
+					"status": {
+						"en": 2
 					}
 				},
 				"debsecan": {
@@ -14327,6 +14373,7 @@
 				},
 				"snap": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"ml": 2
 					}
@@ -15065,6 +15112,7 @@
 		"osx": {
 			"progress": {
 				"ar": 0,
+				"bn": 0,
 				"bs": 0,
 				"da": 0,
 				"de": 2,
@@ -15082,7 +15130,7 @@
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 0,
-				"pt_PT": 0,
+				"pt_PT": 2,
 				"ro": 0,
 				"ru": 0,
 				"sh": 0,
@@ -15139,7 +15187,8 @@
 				},
 				"arch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_PT": 2
 					}
 				},
 				"archey": {
@@ -15296,6 +15345,7 @@
 				},
 				"ditto": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"zh": 2
 					}
@@ -15614,12 +15664,14 @@
 				},
 				"rename": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_PT": 2
 					}
 				},
 				"route": {
 					"status": {
 						"en": 2,
+						"pt_PT": 2,
 						"zh": 2
 					}
 				},
@@ -15897,6 +15949,7 @@
 		"sunos": {
 			"progress": {
 				"ar": 0,
+				"bn": 11,
 				"bs": 0,
 				"da": 0,
 				"de": 0,
@@ -15951,6 +16004,7 @@
 				},
 				"snoop": {
 					"status": {
+						"bn": 2,
 						"en": 2
 					}
 				},
@@ -15979,6 +16033,7 @@
 		"windows": {
 			"progress": {
 				"ar": 0,
+				"bn": 0,
 				"bs": 0,
 				"da": 0,
 				"de": 16,
@@ -16031,6 +16086,7 @@
 				},
 				"cd": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"id": 2,
