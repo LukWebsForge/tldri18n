@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 21-Oct-21 00:00:07 UTC",
+	"last_update": "Friday, 22-Oct-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -339,7 +339,7 @@
 						"en": 2,
 						"it": 2,
 						"ko": 1,
-						"pl": 1,
+						"pl": 2,
 						"pt_BR": 1,
 						"ru": 2,
 						"ta": 1,
@@ -3150,6 +3150,11 @@
 						"it": 2
 					}
 				},
+				"eqn": {
+					"status": {
+						"en": 2
+					}
+				},
 				"erl": {
 					"status": {
 						"en": 2,
@@ -4254,6 +4259,11 @@
 						"it": 2
 					}
 				},
+				"git-diff-files": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-difftool": {
 					"status": {
 						"en": 2,
@@ -5138,6 +5148,11 @@
 					"status": {
 						"en": 2,
 						"es": 1
+					}
+				},
+				"grap": {
+					"status": {
+						"en": 2
 					}
 				},
 				"graphml2gv": {
@@ -7985,6 +8000,11 @@
 						"en": 2
 					}
 				},
+				"pic": {
+					"status": {
+						"en": 2
+					}
+				},
 				"picard": {
 					"status": {
 						"en": 2
@@ -10214,6 +10234,11 @@
 						"en": 2
 					}
 				},
+				"troff": {
+					"status": {
+						"en": 2
+					}
+				},
 				"true": {
 					"status": {
 						"en": 2,
@@ -11319,7 +11344,7 @@
 				"bn": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 8,
+				"de": 10,
 				"en": 99,
 				"es": 5,
 				"fa": 0,
@@ -12565,6 +12590,11 @@
 						"en": 2
 					}
 				},
+				"fossil-commit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"free": {
 					"status": {
 						"en": 2,
@@ -13033,16 +13063,19 @@
 				},
 				"lastb": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"lastcomm": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"lastlog": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13053,11 +13086,13 @@
 				},
 				"ldconfig": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"ldd": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13083,6 +13118,7 @@
 				},
 				"line": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"zh": 2
@@ -13106,12 +13142,14 @@
 				},
 				"logsave": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"zh": 2
 					}
 				},
 				"logwatch": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13180,6 +13218,7 @@
 				},
 				"lsmod": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"it": 2,
@@ -14169,6 +14208,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"rmmod": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rofi": {
