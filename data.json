@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 22-Oct-21 00:00:07 UTC",
+	"last_update": "Saturday, 23-Oct-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -3533,7 +3533,8 @@
 				},
 				"flutter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"fluxctl": {
@@ -15691,6 +15692,7 @@
 				"pbcopy": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 2
 					}
 				},
@@ -16407,7 +16409,8 @@
 						"ja": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"doskey": {
