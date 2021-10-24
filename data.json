@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 23-Oct-21 00:00:07 UTC",
+	"last_update": "Sunday, 24-Oct-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -3028,6 +3028,7 @@
 						"fr": 2,
 						"it": 2,
 						"ja": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"sr": 2,
 						"zh": 2,
@@ -3481,7 +3482,8 @@
 				"firefox": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"fish": {
@@ -4824,6 +4826,11 @@
 						"en": 2
 					}
 				},
+				"git-unlock": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-update-index": {
 					"status": {
 						"en": 2,
@@ -5970,7 +5977,8 @@
 				},
 				"jrnl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"json5": {
@@ -6238,7 +6246,8 @@
 				},
 				"lb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"no": 2
 					}
 				},
 				"ldapsearch": {
@@ -7290,7 +7299,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -8561,12 +8570,14 @@
 				},
 				"pyenv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pyenv-virtualenv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pyflakes": {
@@ -9113,7 +9124,8 @@
 				},
 				"scp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"hi": 2
 					}
 				},
 				"scrapy": {
@@ -9508,7 +9520,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"hi": 2
 					}
 				},
 				"ssh-add": {
@@ -10759,6 +10772,16 @@
 						"en": 2
 					}
 				},
+				"warp-cli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"warp-diag": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wasm-objdump": {
 					"status": {
 						"en": 2
@@ -11847,6 +11870,11 @@
 						"zh": 2
 					}
 				},
+				"bpftool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bpftrace": {
 					"status": {
 						"en": 2,
@@ -11895,6 +11923,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"btrfs-inspect-internal": {
+					"status": {
+						"en": 2
 					}
 				},
 				"btrfs-scrub": {
@@ -12672,6 +12705,11 @@
 					}
 				},
 				"getfacl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"getopt": {
 					"status": {
 						"en": 2
 					}
@@ -16158,13 +16196,13 @@
 				"hi": 0,
 				"id": 9,
 				"it": 0,
-				"ja": 13,
+				"ja": 12,
 				"ko": 0,
 				"ml": 0,
 				"nl": 4,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 14,
+				"pt_BR": 15,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -16175,7 +16213,7 @@
 				"th": 0,
 				"tr": 0,
 				"uk": 0,
-				"zh": 78,
+				"zh": 77,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -16206,6 +16244,7 @@
 						"id": 2,
 						"ja": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
@@ -16511,6 +16550,11 @@
 					}
 				},
 				"get-content": {
+					"status": {
+						"en": 2
+					}
+				},
+				"get-filehash": {
 					"status": {
 						"en": 2
 					}
