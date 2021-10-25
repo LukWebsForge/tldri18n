@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 24-Oct-21 00:00:07 UTC",
+	"last_update": "Monday, 25-Oct-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -231,7 +231,7 @@
 				"sv": 1,
 				"ta": 1,
 				"th": 0,
-				"tr": 2,
+				"tr": 1,
 				"uk": 0,
 				"zh": 8,
 				"zh_TW": 0
@@ -1463,6 +1463,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"bzgrep": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bzip2": {
@@ -6161,6 +6166,11 @@
 						"pt_BR": 2
 					}
 				},
+				"kubectl-delete": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-describe": {
 					"status": {
 						"en": 2
@@ -8393,6 +8403,11 @@
 						"en": 2
 					}
 				},
+				"ptargrep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pueue": {
 					"status": {
 						"en": 2
@@ -8586,6 +8601,11 @@
 					}
 				},
 				"pygmentize": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pypy": {
 					"status": {
 						"en": 2
 					}
@@ -10115,6 +10135,11 @@
 						"ro": 2
 					}
 				},
+				"todoman": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tokei": {
 					"status": {
 						"en": 2
@@ -11370,7 +11395,7 @@
 				"da": 0,
 				"de": 10,
 				"en": 99,
-				"es": 5,
+				"es": 6,
 				"fa": 0,
 				"fr": 4,
 				"hi": 0,
@@ -14514,7 +14539,8 @@
 				},
 				"snake4scores": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"snap": {
@@ -14751,7 +14777,8 @@
 				},
 				"ubuntu-bug": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"udevadm": {
@@ -14916,7 +14943,8 @@
 				},
 				"vipw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"virt-manager": {
@@ -15137,6 +15165,11 @@
 						"tr": 2
 					}
 				},
+				"xfreerdp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xinput": {
 					"status": {
 						"en": 2
@@ -15269,7 +15302,7 @@
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
-				"id": 2,
+				"id": 5,
 				"it": 7,
 				"ja": 0,
 				"ko": 0,
@@ -15409,6 +15442,7 @@
 				"cal": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 2
 					}
 				},
@@ -15464,6 +15498,7 @@
 				"date": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 2
 					}
 				},
@@ -15737,6 +15772,7 @@
 				"pbpaste": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 2
 					}
 				},
@@ -16213,7 +16249,7 @@
 				"th": 0,
 				"tr": 0,
 				"uk": 0,
-				"zh": 77,
+				"zh": 76,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -16555,6 +16591,11 @@
 					}
 				},
 				"get-filehash": {
+					"status": {
+						"en": 2
+					}
+				},
+				"get-history": {
 					"status": {
 						"en": 2
 					}
