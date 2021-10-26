@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 25-Oct-21 00:00:07 UTC",
+	"last_update": "Tuesday, 26-Oct-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2511,7 +2511,8 @@
 						"en": 2,
 						"it": 1,
 						"ja": 2,
-						"ko": 1
+						"ko": 1,
+						"pt_BR": 2
 					}
 				},
 				"dillo": {
@@ -2528,7 +2529,8 @@
 				},
 				"direnv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"dirname": {
@@ -5067,7 +5069,8 @@
 				},
 				"gocryptfs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"godoc": {
@@ -5939,6 +5942,11 @@
 					}
 				},
 				"jobs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"joe": {
 					"status": {
 						"en": 2
 					}
@@ -7177,6 +7185,7 @@
 				},
 				"newsboat": {
 					"status": {
+						"ar": 2,
 						"en": 2
 					}
 				},
@@ -10129,6 +10138,11 @@
 						"en": 2
 					}
 				},
+				"todo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"todoist": {
 					"status": {
 						"en": 2,
@@ -11955,6 +11969,11 @@
 						"en": 2
 					}
 				},
+				"btrfs-rescue": {
+					"status": {
+						"en": 2
+					}
+				},
 				"btrfs-scrub": {
 					"status": {
 						"en": 2,
@@ -11965,6 +11984,16 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"bzegrep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bzfgrep": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cal": {
@@ -12232,7 +12261,7 @@
 				"debootstrap": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"deborphan": {
@@ -13201,7 +13230,8 @@
 				},
 				"login": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"logsave": {
@@ -13419,6 +13449,16 @@
 					}
 				},
 				"medusa": {
+					"status": {
+						"en": 2
+					}
+				},
+				"megadl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"megatools-dl": {
 					"status": {
 						"en": 2
 					}
@@ -15224,7 +15264,8 @@
 				},
 				"xwinwrap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"yaourt": {
