@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 26-Oct-21 00:00:08 UTC",
+	"last_update": "Wednesday, 27-Oct-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -322,7 +322,7 @@
 						"pt_BR": 1,
 						"ru": 2,
 						"ta": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"abduco": {
@@ -4820,7 +4820,8 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"it": 2
+						"it": 2,
+						"pt_BR": 2
 					}
 				},
 				"git-touch": {
@@ -7940,7 +7941,7 @@
 				"php": {
 					"status": {
 						"en": 2,
-						"pl": 2
+						"pl": 1
 					}
 				},
 				"php-artisan": {
@@ -8623,7 +8624,8 @@
 					"status": {
 						"en": 2,
 						"id": 1,
-						"pl": 1
+						"pl": 1,
+						"pt_BR": 2
 					}
 				},
 				"python3": {
@@ -12113,6 +12115,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ml": 2,
 						"pt_BR": 2
 					}
@@ -16291,7 +16294,7 @@
 				"tr": 0,
 				"uk": 0,
 				"zh": 76,
-				"zh_TW": 0
+				"zh_TW": 1
 			},
 			"pages": {
 				"assoc": {
@@ -16485,7 +16488,8 @@
 						"ja": 2,
 						"pt_BR": 2,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cmstp": {
