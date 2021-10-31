@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 30-Oct-21 00:00:08 UTC",
+	"last_update": "Sunday, 31-Oct-21 00:00:09 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -332,6 +332,7 @@
 						"es": 2,
 						"it": 2,
 						"ko": 1,
+						"no": 2,
 						"pt_BR": 1,
 						"ru": 2,
 						"ta": 1,
@@ -343,6 +344,7 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2,
+						"no": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -352,6 +354,7 @@
 						"en": 2,
 						"it": 2,
 						"ko": 1,
+						"no": 2,
 						"pl": 2,
 						"pt_BR": 1,
 						"ru": 2,
@@ -8321,6 +8324,11 @@
 						"en": 2
 					}
 				},
+				"plenv": {
+					"status": {
+						"en": 2
+					}
+				},
 				"plesk": {
 					"status": {
 						"en": 2
@@ -9538,8 +9546,8 @@
 				"source": {
 					"status": {
 						"en": 2,
-						"nl": 2,
-						"sv": 2
+						"nl": 1,
+						"sv": 1
 					}
 				},
 				"sox": {
@@ -11494,7 +11502,7 @@
 				"bn": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 10,
+				"de": 9,
 				"en": 99,
 				"es": 7,
 				"fa": 0,
@@ -11509,7 +11517,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 9,
+				"pt_BR": 8,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -11665,6 +11673,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"no": 2,
 						"zh": 2
 					}
 				},
@@ -12034,6 +12043,16 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"bspc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bspwm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"btrfs": {
@@ -13209,6 +13228,11 @@
 						"en": 2
 					}
 				},
+				"keyctl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kjv": {
 					"status": {
 						"en": 2
@@ -14290,6 +14314,16 @@
 					}
 				},
 				"qjoypad": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qmrestore": {
 					"status": {
 						"en": 2
 					}
