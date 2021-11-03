@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 02-Nov-21 00:00:07 UTC",
+	"last_update": "Wednesday, 03-Nov-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2118,6 +2118,7 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 1,
+						"pl": 2,
 						"ta": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -6188,6 +6189,11 @@
 					}
 				},
 				"kitty": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kiwi-ng": {
 					"status": {
 						"en": 2
 					}
@@ -10513,7 +10519,8 @@
 						"ja": 2,
 						"nl": 2,
 						"no": 2,
-						"sv": 2
+						"sv": 2,
+						"zh": 2
 					}
 				},
 				"uname": {
@@ -11440,7 +11447,8 @@
 						"en": 2,
 						"fr": 2,
 						"pt_BR": 1,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"zipalign": {
@@ -11536,9 +11544,9 @@
 				"bn": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 10,
+				"de": 11,
 				"en": 99,
-				"es": 7,
+				"es": 9,
 				"fa": 0,
 				"fr": 4,
 				"hi": 0,
@@ -12334,6 +12342,7 @@
 				"cpuid": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -12961,6 +12970,7 @@
 				},
 				"google-chrome": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13194,6 +13204,7 @@
 				},
 				"ipcalc": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13865,7 +13876,8 @@
 				},
 				"newgrp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"nft": {
@@ -13922,11 +13934,13 @@
 				},
 				"nologin": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"nordvpn": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13968,6 +13982,7 @@
 				},
 				"numlockx": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -14191,7 +14206,8 @@
 				},
 				"pkgadd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pkgfile": {
@@ -14497,7 +14513,8 @@
 				},
 				"reset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"resize2fs": {
@@ -14679,6 +14696,7 @@
 				},
 				"see": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -14689,7 +14707,8 @@
 				},
 				"sensible-browser": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"sensible-editor": {
@@ -14699,12 +14718,14 @@
 				},
 				"sensors": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"service": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"setfacl": {
@@ -14928,12 +14949,14 @@
 				},
 				"tcpflow": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tcpkill": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tcptraceroute": {
@@ -15047,6 +15070,7 @@
 				"ufw": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2
 					}
 				},
@@ -15212,7 +15236,8 @@
 				},
 				"vmstat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"vmware-checkvm": {
@@ -15430,7 +15455,8 @@
 				},
 				"xfreerdp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"xinput": {
@@ -15553,6 +15579,7 @@
 				},
 				"zypper": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"it": 1,
@@ -15594,7 +15621,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 55,
+				"zh": 56,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -15642,7 +15669,8 @@
 				"arch": {
 					"status": {
 						"en": 2,
-						"pt_PT": 2
+						"pt_PT": 2,
+						"zh": 2
 					}
 				},
 				"archey": {
@@ -16499,7 +16527,7 @@
 				"bn": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 16,
+				"de": 17,
 				"en": 100,
 				"es": 0,
 				"fa": 2,
@@ -17287,6 +17315,7 @@
 				},
 				"wsl": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"zh": 2
 					}
