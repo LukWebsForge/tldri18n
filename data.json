@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 04-Nov-21 00:00:07 UTC",
+	"last_update": "Friday, 05-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -66,7 +66,7 @@
 				"sv": 0,
 				"ta": 0,
 				"th": 0,
-				"tr": 8,
+				"tr": 16,
 				"uk": 0,
 				"uz": 50,
 				"zh": 100,
@@ -81,6 +81,7 @@
 						"id": 2,
 						"it": 2,
 						"pt_BR": 2,
+						"tr": 2,
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -312,6 +313,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ja": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -1070,6 +1072,11 @@
 						"en": 2
 					}
 				},
+				"az-pipelines": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-storage": {
 					"status": {
 						"en": 2
@@ -1137,6 +1144,7 @@
 				"banner": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"it": 2,
 						"ko": 2,
 						"zh": 2
@@ -1891,6 +1899,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"tr": 1
@@ -6106,7 +6115,8 @@
 				},
 				"jupyter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"jupytext": {
@@ -7674,6 +7684,11 @@
 					}
 				},
 				"omf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"omz": {
 					"status": {
 						"en": 2
 					}
@@ -11569,7 +11584,7 @@
 				"it": 5,
 				"ja": 0,
 				"ko": 0,
-				"ml": 1,
+				"ml": 2,
 				"ne": 0,
 				"nl": 0,
 				"no": 0,
@@ -12374,6 +12389,11 @@
 						"en": 2
 					}
 				},
+				"cryptcat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cryptsetup": {
 					"status": {
 						"en": 2
@@ -12873,6 +12893,11 @@
 						"en": 2
 					}
 				},
+				"fprintd-delete": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fprintd-enroll": {
 					"status": {
 						"en": 2
@@ -13242,8 +13267,8 @@
 				"iptables": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"zh": 2
+						"it": 1,
+						"zh": 1
 					}
 				},
 				"isoinfo": {
@@ -14988,7 +15013,8 @@
 				},
 				"thunar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ml": 2
 					}
 				},
 				"tic": {
@@ -15567,7 +15593,8 @@
 				"zathura": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"zegrep": {
@@ -15626,9 +15653,9 @@
 				"ne": 0,
 				"nl": 0,
 				"no": 0,
-				"pl": 0,
+				"pl": 1,
 				"pt_BR": 0,
-				"pt_PT": 4,
+				"pt_PT": 7,
 				"ro": 0,
 				"ru": 0,
 				"sh": 0,
@@ -16157,7 +16184,8 @@
 				},
 				"readlink": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_PT": 2
 					}
 				},
 				"reboot": {
@@ -16199,12 +16227,14 @@
 				},
 				"screencapture": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_PT": 2
 					}
 				},
 				"scutil": {
 					"status": {
 						"en": 2,
+						"pt_PT": 2,
 						"zh": 2
 					}
 				},
@@ -16256,6 +16286,7 @@
 				"softwareupdate": {
 					"status": {
 						"en": 2,
+						"pt_PT": 2,
 						"zh": 2
 					}
 				},
@@ -16299,6 +16330,7 @@
 				"systemsetup": {
 					"status": {
 						"en": 2,
+						"pt_PT": 2,
 						"zh": 2
 					}
 				},
@@ -16364,6 +16396,7 @@
 				"w": {
 					"status": {
 						"en": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				},
@@ -16375,7 +16408,8 @@
 				},
 				"wc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"whatis": {
