@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 05-Nov-21 00:00:07 UTC",
+	"last_update": "Saturday, 06-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -11601,7 +11601,7 @@
 				"tr": 2,
 				"uk": 0,
 				"uz": 0,
-				"zh": 14,
+				"zh": 13,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -11763,6 +11763,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -12908,6 +12909,11 @@
 						"en": 2
 					}
 				},
+				"fprintd-verify": {
+					"status": {
+						"en": 2
+					}
+				},
 				"free": {
 					"status": {
 						"en": 2,
@@ -13453,6 +13459,11 @@
 					}
 				},
 				"lnav": {
+					"status": {
+						"en": 2
+					}
+				},
+				"localectl": {
 					"status": {
 						"en": 2
 					}
