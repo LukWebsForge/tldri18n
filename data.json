@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 06-Nov-21 00:00:07 UTC",
+	"last_update": "Sunday, 07-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -1111,7 +1111,8 @@
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ta": 2
 					}
 				},
 				"babel": {
@@ -1800,7 +1801,8 @@
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ta": 2
 					}
 				},
 				"clamdscan": {
@@ -2794,10 +2796,10 @@
 				},
 				"docker-run": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"pt_BR": 1,
+						"tr": 1
 					}
 				},
 				"docker-save": {
@@ -2890,6 +2892,11 @@
 					}
 				},
 				"dolt-checkout": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dolt-clone": {
 					"status": {
 						"en": 2
 					}
@@ -4150,6 +4157,11 @@
 						"fr": 2,
 						"it": 2,
 						"ta": 2
+					}
+				},
+				"git-changelog": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-check-attr": {
@@ -5418,6 +5430,7 @@
 				},
 				"head": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"sh": 2
@@ -6768,6 +6781,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ta": 2,
 						"zh": 1
 					}
 				},
@@ -9417,31 +9431,36 @@
 				"sha1sum": {
 					"status": {
 						"en": 2,
-						"sh": 1
+						"sh": 1,
+						"ta": 2
 					}
 				},
 				"sha224sum": {
 					"status": {
 						"en": 2,
-						"sh": 1
+						"sh": 1,
+						"ta": 2
 					}
 				},
 				"sha256sum": {
 					"status": {
 						"en": 2,
-						"sh": 1
+						"sh": 1,
+						"ta": 2
 					}
 				},
 				"sha384sum": {
 					"status": {
 						"en": 2,
-						"sh": 1
+						"sh": 1,
+						"ta": 2
 					}
 				},
 				"sha512sum": {
 					"status": {
 						"en": 2,
-						"sh": 1
+						"sh": 1,
+						"ta": 2
 					}
 				},
 				"shards": {
@@ -9452,6 +9471,7 @@
 				"shasum": {
 					"status": {
 						"en": 2,
+						"ta": 2,
 						"zh": 1
 					}
 				},
@@ -9891,7 +9911,8 @@
 				},
 				"sum": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"sup": {
@@ -9988,6 +10009,7 @@
 				},
 				"tail": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"sh": 1
 					}
@@ -11576,7 +11598,7 @@
 				"da": 0,
 				"de": 11,
 				"en": 99,
-				"es": 9,
+				"es": 8,
 				"fa": 0,
 				"fr": 4,
 				"hi": 0,
@@ -13629,6 +13651,16 @@
 					}
 				},
 				"lxc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lxc-network": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lxc-profile": {
 					"status": {
 						"en": 2
 					}
@@ -17294,6 +17326,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"time": {
+					"status": {
+						"en": 2
 					}
 				},
 				"title": {
