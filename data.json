@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 07-Nov-21 00:00:07 UTC",
+	"last_update": "Monday, 08-Nov-21 00:00:25 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -316,6 +316,7 @@
 						"id": 2,
 						"ja": 2,
 						"nl": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"sv": 2,
 						"zh": 2
@@ -1001,6 +1002,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-ses": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-vault": {
@@ -2364,7 +2370,8 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cut": {
@@ -4918,6 +4925,11 @@
 						"en": 2
 					}
 				},
+				"git-sync": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-tag": {
 					"status": {
 						"de": 2,
@@ -7078,6 +7090,11 @@
 						"it": 2
 					}
 				},
+				"mp3info": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mp4box": {
 					"status": {
 						"en": 2
@@ -7590,6 +7607,11 @@
 						"de": 2,
 						"en": 2,
 						"id": 2
+					}
+				},
+				"nx": {
+					"status": {
+						"en": 2
 					}
 				},
 				"objdump": {
@@ -8323,11 +8345,11 @@
 				},
 				"pip": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"fr": 1,
 						"id": 1,
-						"pt_BR": 2
+						"pt_BR": 1
 					}
 				},
 				"pip-install": {
@@ -8703,6 +8725,11 @@
 						"en": 2
 					}
 				},
+				"pvecm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pwd": {
 					"status": {
 						"en": 2,
@@ -8753,6 +8780,11 @@
 					}
 				},
 				"pygmentize": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pylint": {
 					"status": {
 						"en": 2
 					}
@@ -10101,7 +10133,8 @@
 				"test": {
 					"status": {
 						"en": 2,
-						"ja": 2
+						"ja": 2,
+						"pl": 2
 					}
 				},
 				"testssl": {
@@ -11596,11 +11629,11 @@
 				"bn": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 11,
+				"de": 10,
 				"en": 99,
 				"es": 8,
 				"fa": 0,
-				"fr": 4,
+				"fr": 6,
 				"hi": 0,
 				"id": 0,
 				"it": 5,
@@ -12900,6 +12933,11 @@
 						"en": 2
 					}
 				},
+				"fossil-add": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fossil-ci": {
 					"status": {
 						"en": 2,
@@ -12907,6 +12945,21 @@
 					}
 				},
 				"fossil-commit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil-delete": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil-forget": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil-rm": {
 					"status": {
 						"en": 2
 					}
@@ -14114,29 +14167,34 @@
 				"pacman-database": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"pacman-deptest": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"pacman-files": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 1
 					}
 				},
 				"pacman-key": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"pacman-mirrors": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"tr": 2
 					}
 				},
@@ -14144,6 +14202,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"tr": 2
 					}
 				},
@@ -14151,6 +14210,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"tr": 2
 					}
 				},
@@ -14158,13 +14218,15 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"tr": 2
 					}
 				},
 				"pacman-upgrade": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"pacman4console": {
