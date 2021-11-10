@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 09-Nov-21 00:00:07 UTC",
+	"last_update": "Wednesday, 10-Nov-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -228,7 +228,7 @@
 				"en": 99,
 				"es": 6,
 				"fa": 0,
-				"fr": 9,
+				"fr": 8,
 				"hi": 2,
 				"id": 4,
 				"it": 17,
@@ -239,7 +239,7 @@
 				"nl": 2,
 				"no": 1,
 				"pl": 3,
-				"pt_BR": 9,
+				"pt_BR": 8,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 2,
@@ -5739,6 +5739,16 @@
 						"pl": 2
 					}
 				},
+				"http-server": {
+					"status": {
+						"en": 2
+					}
+				},
+				"http-server-upload": {
+					"status": {
+						"en": 2
+					}
+				},
 				"httpflow": {
 					"status": {
 						"en": 2
@@ -8990,6 +9000,11 @@
 						"en": 2
 					}
 				},
+				"pveperf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pwd": {
 					"status": {
 						"en": 2,
@@ -10282,6 +10297,11 @@
 						"en": 2
 					}
 				},
+				"swc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"swift": {
 					"status": {
 						"en": 2
@@ -11419,7 +11439,7 @@
 				"wc": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"pl": 2,
 						"zh": 1
@@ -12631,6 +12651,11 @@
 						"en": 2
 					}
 				},
+				"cgcreate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cgexec": {
 					"status": {
 						"en": 2
@@ -13360,6 +13385,11 @@
 					}
 				},
 				"fwupdmgr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gbp": {
 					"status": {
 						"en": 2
 					}
