@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 11-Nov-21 00:00:09 UTC",
+	"last_update": "Friday, 12-Nov-21 00:00:11 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -7280,6 +7280,11 @@
 						"it": 2
 					}
 				},
+				"mozillavpn": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mp3info": {
 					"status": {
 						"en": 2
@@ -13610,6 +13615,11 @@
 						"es": 2,
 						"it": 2,
 						"zh": 2
+					}
+				},
+				"i3exit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"i3lock": {
