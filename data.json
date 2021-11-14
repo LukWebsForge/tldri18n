@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 13-Nov-21 00:00:09 UTC",
+	"last_update": "Sunday, 14-Nov-21 00:00:11 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -1127,7 +1127,7 @@
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"badblocks": {
@@ -2316,6 +2316,11 @@
 						"ko": 2
 					}
 				},
+				"csh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"csslint": {
 					"status": {
 						"en": 2,
@@ -3227,6 +3232,11 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"elvish": {
+					"status": {
+						"en": 2
 					}
 				},
 				"emacs": {
@@ -9045,7 +9055,8 @@
 				"pyenv": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"zh": 2
 					}
 				},
 				"pyenv-virtualenv": {
@@ -10425,6 +10436,11 @@
 					}
 				},
 				"terraform-fmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"terraform-plan": {
 					"status": {
 						"en": 2
 					}
@@ -16187,7 +16203,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 56,
+				"zh": 57,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -16491,7 +16507,8 @@
 				},
 				"istats": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"launchctl": {
@@ -16546,7 +16563,8 @@
 				},
 				"mas": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"md5": {
@@ -16790,7 +16808,7 @@
 				"shutdown": {
 					"status": {
 						"en": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"sips": {
