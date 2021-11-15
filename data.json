@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 14-Nov-21 00:00:11 UTC",
+	"last_update": "Monday, 15-Nov-21 00:00:14 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -10409,6 +10409,11 @@
 						"en": 2
 					}
 				},
+				"tcsh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tea": {
 					"status": {
 						"en": 2
@@ -12008,7 +12013,7 @@
 				"bn": 0,
 				"bs": 0,
 				"da": 0,
-				"de": 11,
+				"de": 10,
 				"en": 99,
 				"es": 8,
 				"fa": 0,
@@ -12512,6 +12517,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"blurlock": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bmon": {
@@ -13031,6 +13041,11 @@
 						"en": 2,
 						"es": 2,
 						"zh": 2
+					}
+				},
+				"dphys-swapfile": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dpkg": {
@@ -13641,7 +13656,7 @@
 				"i3lock": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 1
 					}
 				},
 				"i7z": {
@@ -15926,6 +15941,11 @@
 						"en": 2
 					}
 				},
+				"wl-paste": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wmctrl": {
 					"status": {
 						"en": 2
@@ -17118,7 +17138,7 @@
 				"bn": 0,
 				"bs": 2,
 				"da": 0,
-				"de": 20,
+				"de": 19,
 				"en": 100,
 				"es": 2,
 				"fa": 2,
@@ -17126,26 +17146,26 @@
 				"hi": 2,
 				"id": 14,
 				"it": 3,
-				"ja": 15,
+				"ja": 14,
 				"ko": 0,
 				"ml": 2,
 				"ne": 0,
 				"nl": 6,
 				"no": 2,
-				"pl": 5,
+				"pl": 4,
 				"pt_BR": 17,
 				"pt_PT": 0,
 				"ro": 0,
-				"ru": 2,
+				"ru": 3,
 				"sh": 0,
 				"sr": 0,
 				"sv": 2,
-				"ta": 5,
+				"ta": 4,
 				"th": 2,
 				"tr": 0,
 				"uk": 2,
 				"uz": 0,
-				"zh": 77,
+				"zh": 76,
 				"zh_TW": 8
 			},
 			"pages": {
@@ -17640,6 +17660,12 @@
 				"octo": {
 					"status": {
 						"en": 2
+					}
+				},
+				"pabcnetcclear": {
+					"status": {
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"path": {
