@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 15-Nov-21 00:00:14 UTC",
+	"last_update": "Tuesday, 16-Nov-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -39,17 +39,17 @@
 		"android": {
 			"progress": {
 				"ar": 0,
-				"bn": 8,
+				"bn": 7,
 				"bs": 0,
 				"da": 0,
-				"de": 100,
+				"de": 92,
 				"en": 100,
 				"es": 0,
 				"fa": 0,
-				"fr": 100,
+				"fr": 92,
 				"hi": 0,
-				"id": 100,
-				"it": 16,
+				"id": 92,
+				"it": 15,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -57,7 +57,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 100,
+				"pt_BR": 92,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -66,11 +66,11 @@
 				"sv": 0,
 				"ta": 0,
 				"th": 0,
-				"tr": 16,
+				"tr": 15,
 				"uk": 0,
-				"uz": 50,
-				"zh": 100,
-				"zh_TW": 100
+				"uz": 46,
+				"zh": 92,
+				"zh_TW": 92
 			},
 			"pages": {
 				"am": {
@@ -181,6 +181,11 @@
 						"pt_BR": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"pkg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pm": {
@@ -10324,6 +10329,11 @@
 					}
 				},
 				"swig": {
+					"status": {
+						"en": 2
+					}
+				},
+				"swipl": {
 					"status": {
 						"en": 2
 					}
