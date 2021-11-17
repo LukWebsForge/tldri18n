@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 16-Nov-21 00:00:08 UTC",
+	"last_update": "Wednesday, 17-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -4728,6 +4728,7 @@
 				},
 				"git-rebase": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -5814,6 +5815,11 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"ia": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ibmcloud": {
@@ -11860,6 +11866,16 @@
 						"en": 2
 					}
 				},
+				"ykinfo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ykman": {
+					"status": {
+						"en": 2
+					}
+				},
 				"youtube-dl": {
 					"status": {
 						"en": 2,
@@ -13667,6 +13683,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 1
+					}
+				},
+				"i3status": {
+					"status": {
+						"en": 2
 					}
 				},
 				"i7z": {
