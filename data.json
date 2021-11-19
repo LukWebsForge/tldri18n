@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 18-Nov-21 00:00:07 UTC",
+	"last_update": "Friday, 19-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -10121,6 +10121,11 @@
 					"status": {
 						"en": 2,
 						"zh": 1
+					}
+				},
+				"sslscan": {
+					"status": {
+						"en": 2
 					}
 				},
 				"st-flash": {
