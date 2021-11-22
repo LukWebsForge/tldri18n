@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 21-Nov-21 00:00:07 UTC",
+	"last_update": "Monday, 22-Nov-21 00:00:13 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -256,7 +256,7 @@
 				"tr": 2,
 				"uk": 1,
 				"uz": 0,
-				"zh": 9,
+				"zh": 8,
 				"zh_TW": 1
 			},
 			"pages": {
@@ -9927,6 +9927,11 @@
 					}
 				},
 				"smartctl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"smbmap": {
 					"status": {
 						"en": 2
 					}
