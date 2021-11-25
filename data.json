@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 24-Nov-21 00:00:07 UTC",
+	"last_update": "Thursday, 25-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -5002,7 +5002,8 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"it": 2
+						"it": 2,
+						"zh": 2
 					}
 				},
 				"git-symbolic-ref": {
@@ -12047,50 +12048,6 @@
 				"zsteg": {
 					"status": {
 						"en": 2
-					}
-				}
-			}
-		},
-		"common 公共的": {
-			"progress": {
-				"ar": 0,
-				"bn": 0,
-				"bs": 0,
-				"da": 0,
-				"de": 0,
-				"en": 0,
-				"es": 0,
-				"fa": 0,
-				"fr": 0,
-				"hi": 0,
-				"id": 0,
-				"it": 0,
-				"ja": 0,
-				"ko": 0,
-				"ml": 0,
-				"ne": 0,
-				"nl": 0,
-				"no": 0,
-				"pl": 0,
-				"pt_BR": 0,
-				"pt_PT": 0,
-				"ro": 0,
-				"ru": 0,
-				"sh": 0,
-				"sr": 0,
-				"sv": 0,
-				"ta": 0,
-				"th": 0,
-				"tr": 0,
-				"uk": 0,
-				"uz": 0,
-				"zh": 100,
-				"zh_TW": 0
-			},
-			"pages": {
-				"git-switch": {
-					"status": {
-						"zh": 2
 					}
 				}
 			}
