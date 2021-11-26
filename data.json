@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 25-Nov-21 00:00:07 UTC",
+	"last_update": "Friday, 26-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -3655,9 +3655,9 @@
 				},
 				"fish": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2
+						"fr": 1
 					}
 				},
 				"fisher": {
@@ -11354,8 +11354,8 @@
 				"visudo": {
 					"status": {
 						"en": 2,
-						"nl": 2,
-						"sv": 2
+						"nl": 1,
+						"sv": 1
 					}
 				},
 				"viu": {
@@ -15936,6 +15936,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"wajig": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wall": {
