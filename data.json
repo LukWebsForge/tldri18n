@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 26-Nov-21 00:00:07 UTC",
+	"last_update": "Saturday, 27-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2483,8 +2483,8 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1,
-						"pt_BR": 2,
-						"tr": 2
+						"pt_BR": 1,
+						"tr": 1
 					}
 				},
 				"dc": {
@@ -5971,6 +5971,11 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"install-tl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"interdiff": {
