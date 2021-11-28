@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 27-Nov-21 00:00:07 UTC",
+	"last_update": "Sunday, 28-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -8059,6 +8059,11 @@
 					}
 				},
 				"osage": {
+					"status": {
+						"en": 2
+					}
+				},
+				"p10k": {
 					"status": {
 						"en": 2
 					}
