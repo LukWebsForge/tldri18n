@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 28-Nov-21 00:00:07 UTC",
+	"last_update": "Monday, 29-Nov-21 00:00:14 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -9249,6 +9249,7 @@
 				},
 				"rails": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"id": 2,
 						"pt_BR": 2
@@ -12502,6 +12503,11 @@
 						"zh": 2
 					}
 				},
+				"autopkgtest": {
+					"status": {
+						"en": 2
+					}
+				},
 				"autorandr": {
 					"status": {
 						"en": 2,
@@ -13702,6 +13708,11 @@
 						"es": 2,
 						"it": 2,
 						"zh": 2
+					}
+				},
+				"i3-scrot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"i3exit": {
@@ -16222,6 +16233,11 @@
 						"en": 2
 					}
 				},
+				"ytfzf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"yum": {
 					"status": {
 						"en": 2,
@@ -17230,7 +17246,7 @@
 				"fa": 2,
 				"fr": 3,
 				"hi": 2,
-				"id": 14,
+				"id": 13,
 				"it": 3,
 				"ja": 14,
 				"ko": 0,
@@ -18056,6 +18072,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"vswhere": {
+					"status": {
+						"en": 2
 					}
 				},
 				"where": {
