@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 29-Nov-21 00:00:14 UTC",
+	"last_update": "Tuesday, 30-Nov-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -316,6 +316,7 @@
 				},
 				"[": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"id": 2,
@@ -676,6 +677,11 @@
 						"it": 1,
 						"ko": 2,
 						"zh": 1
+					}
+				},
+				"apt-moo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ar": {
@@ -12683,6 +12689,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"btrfs-version": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bzegrep": {
