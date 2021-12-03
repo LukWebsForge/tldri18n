@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 02-Dec-21 00:00:07 UTC",
+	"last_update": "Friday, 03-Dec-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -3797,8 +3797,8 @@
 				"ftp": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"pt_BR": 2
+						"fr": 1,
+						"pt_BR": 1
 					}
 				},
 				"fuck": {
@@ -5730,6 +5730,11 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"hping3": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hr": {
