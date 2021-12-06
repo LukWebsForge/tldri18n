@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 05-Dec-21 00:00:06 UTC",
+	"last_update": "Monday, 06-Dec-21 00:00:21 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -5236,6 +5236,11 @@
 					}
 				},
 				"go-get": {
+					"status": {
+						"en": 2
+					}
+				},
+				"go-install": {
 					"status": {
 						"en": 2
 					}
@@ -15219,6 +15224,11 @@
 					}
 				},
 				"resize2fs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"resolvectl": {
 					"status": {
 						"en": 2
 					}
