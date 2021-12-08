@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 07-Dec-21 00:00:06 UTC",
+	"last_update": "Wednesday, 08-Dec-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -11001,6 +11001,11 @@
 						"en": 2
 					}
 				},
+				"typeorm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"u3d": {
 					"status": {
 						"en": 2
@@ -16228,6 +16233,11 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"xset": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xsetwacom": {
