@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 10-Dec-21 00:00:07 UTC",
+	"last_update": "Saturday, 11-Dec-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2466,6 +2466,11 @@
 					}
 				},
 				"d8": {
+					"status": {
+						"en": 2
+					}
+				},
+				"daps": {
 					"status": {
 						"en": 2
 					}
@@ -12110,7 +12115,7 @@
 				"en": 99,
 				"es": 8,
 				"fa": 0,
-				"fr": 6,
+				"fr": 5,
 				"hi": 0,
 				"id": 0,
 				"it": 5,
@@ -12798,6 +12803,11 @@
 						"en": 2
 					}
 				},
+				"cgroups": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chage": {
 					"status": {
 						"en": 2,
@@ -13002,6 +13012,11 @@
 					}
 				},
 				"dconf-write": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ddcutil": {
 					"status": {
 						"en": 2
 					}
