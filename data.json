@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 16-Dec-21 00:00:08 UTC",
+	"last_update": "Friday, 17-Dec-21 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -1709,13 +1709,6 @@
 						"ko": 2
 					}
 				},
-				"chcon": {
-					"status": {
-						"en": 2,
-						"it": 2,
-						"ko": 2
-					}
-				},
 				"cheat": {
 					"status": {
 						"en": 2
@@ -2947,6 +2940,11 @@
 						"de": 2,
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"doctl-apps": {
+					"status": {
+						"en": 2
 					}
 				},
 				"doctum": {
@@ -11435,6 +11433,11 @@
 						"zh": 2
 					}
 				},
+				"volta": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vsce": {
 					"status": {
 						"en": 2
@@ -12825,6 +12828,13 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"chcon": {
+					"status": {
+						"en": 2,
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"chcpu": {
