@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 18-Dec-21 00:00:06 UTC",
+	"last_update": "Sunday, 19-Dec-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2531,6 +2531,11 @@
 						"it": 2
 					}
 				},
+				"declare": {
+					"status": {
+						"en": 2
+					}
+				},
 				"deemix": {
 					"status": {
 						"en": 2
@@ -2943,6 +2948,11 @@
 					}
 				},
 				"doctl-apps": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-compute-droplet": {
 					"status": {
 						"en": 2
 					}
@@ -6819,6 +6829,11 @@
 					}
 				},
 				"loc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"local": {
 					"status": {
 						"en": 2
 					}
@@ -11016,6 +11031,11 @@
 					}
 				},
 				"typeorm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"typeset": {
 					"status": {
 						"en": 2
 					}
