@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 21-Dec-21 00:00:08 UTC",
+	"last_update": "Wednesday, 22-Dec-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -316,16 +316,21 @@
 				},
 				"[": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"ja": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"sv": 2,
-						"zh": 2
+						"es": 1,
+						"id": 1,
+						"ja": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"sv": 1,
+						"zh": 1
+					}
+				},
+				"[[": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aapt": {
@@ -2948,6 +2953,11 @@
 					}
 				},
 				"doctl-apps": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-balance": {
 					"status": {
 						"en": 2
 					}
