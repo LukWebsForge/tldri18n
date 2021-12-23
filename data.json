@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 22-Dec-21 00:00:07 UTC",
+	"last_update": "Thursday, 23-Dec-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -16425,7 +16425,7 @@
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
-				"id": 5,
+				"id": 4,
 				"it": 7,
 				"ja": 0,
 				"ko": 0,
@@ -16446,7 +16446,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 57,
+				"zh": 56,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -17075,6 +17075,11 @@
 						"en": 2,
 						"pt_PT": 2,
 						"zh": 2
+					}
+				},
+				"spctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"split": {
