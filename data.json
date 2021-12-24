@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 23-Dec-21 00:00:07 UTC",
+	"last_update": "Friday, 24-Dec-21 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -11250,7 +11250,8 @@
 				},
 				"vegeta": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"vela": {
