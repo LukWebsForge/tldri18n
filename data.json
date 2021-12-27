@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 26-Dec-21 00:00:07 UTC",
+	"last_update": "Monday, 27-Dec-21 00:00:16 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2037,6 +2037,11 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"colorls": {
+					"status": {
+						"en": 2
 					}
 				},
 				"colorpicker": {
@@ -12741,6 +12746,11 @@
 						"zh": 2
 					}
 				},
+				"btrfs-balance": {
+					"status": {
+						"en": 2
+					}
+				},
 				"btrfs-check": {
 					"status": {
 						"en": 2
@@ -13259,6 +13269,11 @@
 					}
 				},
 				"dumpe2fs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dunstctl": {
 					"status": {
 						"en": 2
 					}
@@ -15928,6 +15943,11 @@
 					}
 				},
 				"updatedb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"updpkgsums": {
 					"status": {
 						"en": 2
 					}
