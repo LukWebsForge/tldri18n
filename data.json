@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 31-Dec-21 00:00:07 UTC",
+	"last_update": "Saturday, 01-Jan-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -4497,6 +4497,11 @@
 						"en": 2
 					}
 				},
+				"git-delete-merged-branches": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-delete-tag": {
 					"status": {
 						"en": 2
@@ -6484,6 +6489,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"keychain": {
+					"status": {
+						"en": 2
 					}
 				},
 				"khal": {
@@ -15580,7 +15590,8 @@
 				},
 				"sacctmgr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"sam": {
