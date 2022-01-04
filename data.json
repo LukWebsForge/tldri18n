@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 03-Jan-22 00:00:13 UTC",
+	"last_update": "Tuesday, 04-Jan-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -10989,7 +10989,8 @@
 				},
 				"topydo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"touch": {
