@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 04-Jan-22 00:00:07 UTC",
+	"last_update": "Wednesday, 05-Jan-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -244,7 +244,7 @@
 				"en": 99,
 				"es": 6,
 				"fa": 0,
-				"fr": 8,
+				"fr": 9,
 				"hi": 2,
 				"id": 4,
 				"it": 17,
@@ -5350,7 +5350,8 @@
 				},
 				"go": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"go-bug": {
