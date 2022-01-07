@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 06-Jan-22 00:00:07 UTC",
+	"last_update": "Friday, 07-Jan-22 00:00:09 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -8064,6 +8064,11 @@
 						"id": 2
 					}
 				},
+				"nvm.fish": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nx": {
 					"status": {
 						"en": 2
@@ -12536,6 +12541,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ml": 2,
 						"pt_BR": 1,
@@ -13399,6 +13405,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"pt_BR": 2
 					}
