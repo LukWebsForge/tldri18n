@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 10-Jan-22 00:00:42 UTC",
+	"last_update": "Tuesday, 11-Jan-22 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -10713,6 +10713,11 @@
 						"en": 2
 					}
 				},
+				"terragrunt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tesseract": {
 					"status": {
 						"en": 2
@@ -14610,7 +14615,8 @@
 				},
 				"mkfs.btrfs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"mkfs.cramfs": {
@@ -16479,7 +16485,7 @@
 				"xfreerdp": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"xinput": {
