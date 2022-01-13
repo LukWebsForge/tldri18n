@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 12-Jan-22 00:00:10 UTC",
+	"last_update": "Thursday, 13-Jan-22 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -244,7 +244,7 @@
 				"en": 99,
 				"es": 6,
 				"fa": 0,
-				"fr": 8,
+				"fr": 9,
 				"hi": 2,
 				"id": 4,
 				"it": 17,
@@ -274,6 +274,7 @@
 				"2to3": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -12665,6 +12666,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"pt_PT": 2,
 						"zh": 2
 					}
 				},
@@ -15003,6 +15005,7 @@
 						"fr": 2,
 						"ml": 2,
 						"pt_BR": 2,
+						"pt_PT": 2,
 						"tr": 2,
 						"zh": 2
 					}
