@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 15-Jan-22 00:00:08 UTC",
+	"last_update": "Sunday, 16-Jan-22 00:00:09 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -46,7 +46,7 @@
 				"en": 100,
 				"es": 0,
 				"fa": 0,
-				"fr": 92,
+				"fr": 100,
 				"hi": 0,
 				"id": 92,
 				"it": 15,
@@ -69,7 +69,7 @@
 				"tr": 100,
 				"uk": 0,
 				"uz": 46,
-				"zh": 92,
+				"zh": 100,
 				"zh_TW": 92
 			},
 			"pages": {
@@ -193,7 +193,9 @@
 				"pkg": {
 					"status": {
 						"en": 2,
-						"tr": 2
+						"fr": 2,
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"pm": {
@@ -527,6 +529,7 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"pt_PT": 2,
 						"zh": 2
 					}
 				},
@@ -16540,7 +16543,8 @@
 				},
 				"xrdb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_PT": 2
 					}
 				},
 				"xsel": {
