@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 16-Jan-22 00:00:09 UTC",
+	"last_update": "Monday, 17-Jan-22 00:02:14 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -269,7 +269,7 @@
 				"tr": 6,
 				"uk": 1,
 				"uz": 0,
-				"zh": 9,
+				"zh": 8,
 				"zh_TW": 1
 			},
 			"pages": {
@@ -5318,6 +5318,11 @@
 					}
 				},
 				"glab-mr-merge": {
+					"status": {
+						"en": 2
+					}
+				},
+				"glab-pipeline": {
 					"status": {
 						"en": 2
 					}
