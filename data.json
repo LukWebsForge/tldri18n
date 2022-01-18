@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 17-Jan-22 00:02:14 UTC",
+	"last_update": "Tuesday, 18-Jan-22 00:00:09 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -10717,6 +10717,12 @@
 						"en": 2
 					}
 				},
+				"termdown": {
+					"status": {
+						"de": 2,
+						"en": 2
+					}
+				},
 				"terminalizer": {
 					"status": {
 						"en": 2
@@ -15313,6 +15319,11 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"prlimit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"procs": {
