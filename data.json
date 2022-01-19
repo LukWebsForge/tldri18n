@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 18-Jan-22 00:00:09 UTC",
+	"last_update": "Wednesday, 19-Jan-22 00:00:10 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -435,6 +435,7 @@
 				"adb-install": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"pl": 2,
@@ -446,6 +447,7 @@
 				"adb-reverse": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"pl": 2,
 						"ru": 2,
@@ -455,6 +457,7 @@
 				"adb-shell": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"pl": 2,
@@ -556,6 +559,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1913,6 +1917,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"clifm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"clj": {
@@ -5307,6 +5316,11 @@
 						"en": 2
 					}
 				},
+				"glab-issue": {
+					"status": {
+						"en": 2
+					}
+				},
 				"glab-mr": {
 					"status": {
 						"en": 2
@@ -5592,6 +5606,7 @@
 						"es": 2,
 						"fr": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"ta": 2
 					}
 				},
@@ -8054,6 +8069,11 @@
 						"pt_BR": 2
 					}
 				},
+				"ntl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nu": {
 					"status": {
 						"en": 2
@@ -8554,6 +8574,11 @@
 					}
 				},
 				"pg_dump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_dumpall": {
 					"status": {
 						"en": 2
 					}
@@ -9891,6 +9916,11 @@
 					}
 				},
 				"scalafmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"scan-build": {
 					"status": {
 						"en": 2
 					}
@@ -12804,6 +12834,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"avifenc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"balooctl": {
