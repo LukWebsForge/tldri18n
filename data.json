@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 19-Jan-22 00:00:10 UTC",
+	"last_update": "Thursday, 20-Jan-22 00:00:10 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2188,6 +2188,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"core-validate-commit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"corepack": {
@@ -5341,6 +5346,11 @@
 						"en": 2
 					}
 				},
+				"glab-release": {
+					"status": {
+						"en": 2
+					}
+				},
 				"glab-repo": {
 					"status": {
 						"en": 2
@@ -5752,6 +5762,7 @@
 						"de": 2,
 						"en": 2,
 						"it": 2,
+						"ru": 2,
 						"sh": 2
 					}
 				},
@@ -13336,6 +13347,7 @@
 				"debootstrap": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 1
 					}
 				},
