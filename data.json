@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 22-Jan-22 00:00:04 UTC",
+	"last_update": "Sunday, 23-Jan-22 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -1283,9 +1283,9 @@
 				"bc": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"it": 2,
-						"ko": 2
+						"es": 1,
+						"it": 1,
+						"ko": 1
 					}
 				},
 				"bcomps": {
@@ -2534,7 +2534,7 @@
 				"dc": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 1
 					}
 				},
 				"dcfldd": {
@@ -13411,6 +13411,26 @@
 						"en": 2
 					}
 				},
+				"distrobox-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"distrobox-enter": {
+					"status": {
+						"en": 2
+					}
+				},
+				"distrobox-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"distrobox-rm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dkms": {
 					"status": {
 						"en": 2
@@ -16842,6 +16862,11 @@
 						"en": 2,
 						"it": 2,
 						"zh": 2
+					}
+				},
+				"bc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bird": {
