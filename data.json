@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 24-Jan-22 00:01:16 UTC",
+	"last_update": "Tuesday, 25-Jan-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -16150,6 +16150,11 @@
 					}
 				},
 				"trizen": {
+					"status": {
+						"en": 2
+					}
+				},
+				"trust": {
 					"status": {
 						"en": 2
 					}
