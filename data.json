@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 25-Jan-22 00:00:06 UTC",
+	"last_update": "Wednesday, 26-Jan-22 00:00:10 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -811,6 +811,7 @@
 				"asdf": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
@@ -16707,6 +16708,7 @@
 				"yum": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fa": 2
 					}
 				},
