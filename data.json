@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 26-Jan-22 00:00:10 UTC",
+	"last_update": "Thursday, 27-Jan-22 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -12387,7 +12387,7 @@
 				"fa": 0,
 				"fr": 5,
 				"hi": 0,
-				"id": 0,
+				"id": 1,
 				"it": 5,
 				"ja": 0,
 				"ko": 0,
@@ -15993,7 +15993,8 @@
 				},
 				"st": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"steghide": {
@@ -16660,6 +16661,7 @@
 				"xterm": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"tr": 2
 					}
 				},
