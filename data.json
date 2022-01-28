@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 27-Jan-22 00:00:08 UTC",
+	"last_update": "Friday, 28-Jan-22 00:00:09 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -304,6 +304,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 1,
 						"ja": 1,
@@ -318,6 +319,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 1,
 						"ja": 1,
@@ -2007,13 +2009,13 @@
 				},
 				"code": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"it": 1,
 						"ko": 1,
-						"pt_BR": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"pt_BR": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"codespell": {
@@ -2678,6 +2680,11 @@
 						"pl": 1,
 						"pt_BR": 2,
 						"tr": 2
+					}
+				},
+				"diff-pdf": {
+					"status": {
+						"en": 2
 					}
 				},
 				"diffoscope": {
@@ -4159,6 +4166,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 1,
@@ -16270,22 +16278,22 @@
 				"useradd": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2
+						"es": 1,
+						"fr": 1
 					}
 				},
 				"userdel": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1
 					}
 				},
 				"usermod": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2
+						"es": 1,
+						"fr": 1
 					}
 				},
 				"utmpdump": {
