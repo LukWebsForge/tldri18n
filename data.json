@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 30-Jan-22 00:00:08 UTC",
+	"last_update": "Monday, 31-Jan-22 00:00:48 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -9111,6 +9111,11 @@
 						"en": 2
 					}
 				},
+				"progress": {
+					"status": {
+						"en": 2
+					}
+				},
 				"promtool": {
 					"status": {
 						"en": 2
@@ -15412,11 +15417,6 @@
 						"en": 2
 					}
 				},
-				"progress": {
-					"status": {
-						"en": 2
-					}
-				},
 				"protontricks": {
 					"status": {
 						"en": 2
@@ -15470,6 +15470,11 @@
 					}
 				},
 				"pw-cat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pw-link": {
 					"status": {
 						"en": 2
 					}
@@ -16193,6 +16198,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"ubuntu-security-status": {
+					"status": {
+						"en": 2
 					}
 				},
 				"udevadm": {
