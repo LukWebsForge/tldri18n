@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 01-Feb-22 00:00:08 UTC",
+	"last_update": "Wednesday, 02-Feb-22 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2494,6 +2494,12 @@
 				"cvs": {
 					"status": {
 						"en": 2
+					}
+				},
+				"cwebp": {
+					"status": {
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"d8": {
@@ -16793,7 +16799,7 @@
 				"fr": 0,
 				"hi": 0,
 				"id": 4,
-				"it": 7,
+				"it": 6,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -16813,7 +16819,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 56,
+				"zh": 54,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -16838,6 +16844,11 @@
 						"es": 2,
 						"it": 2,
 						"zh": 2
+					}
+				},
+				"airportd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"apachectl": {
@@ -16887,6 +16898,11 @@
 						"es": 2,
 						"it": 2,
 						"zh": 2
+					}
+				},
+				"automountd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"avbdeviced": {
@@ -16973,6 +16989,16 @@
 					}
 				},
 				"coreaudiod": {
+					"status": {
+						"en": 2
+					}
+				},
+				"coreautha": {
+					"status": {
+						"en": 2
+					}
+				},
+				"coreauthd": {
 					"status": {
 						"en": 2
 					}
@@ -17225,6 +17251,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"nfcd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"notifyd": {
