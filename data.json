@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 02-Feb-22 00:00:08 UTC",
+	"last_update": "Thursday, 03-Feb-22 00:00:11 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2649,6 +2649,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 1,
 						"ko": 1
@@ -2708,6 +2709,7 @@
 				"dig": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ja": 2,
 						"ko": 1,
@@ -3148,6 +3150,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ja": 2,
 						"nl": 2
@@ -7044,6 +7047,7 @@
 				"ln": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"hi": 2,
 						"it": 2,
@@ -10305,6 +10309,7 @@
 				"source": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"nl": 1,
 						"sv": 1
 					}
@@ -11207,6 +11212,7 @@
 				"tree": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"pt_BR": 2,
 						"tr": 2,
@@ -11870,6 +11876,11 @@
 					}
 				},
 				"webpack": {
+					"status": {
+						"en": 2
+					}
+				},
+				"webstorm": {
 					"status": {
 						"en": 2
 					}
@@ -13457,6 +13468,11 @@
 					}
 				},
 				"dkms": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dm-tool": {
 					"status": {
 						"en": 2
 					}
@@ -16634,6 +16650,7 @@
 				"xfce4-terminal": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"tr": 2
 					}
 				},
