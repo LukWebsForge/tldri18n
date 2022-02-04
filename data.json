@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 03-Feb-22 00:00:11 UTC",
+	"last_update": "Friday, 04-Feb-22 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -12526,6 +12526,7 @@
 				},
 				"abbr": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -12578,6 +12579,7 @@
 				},
 				"alien": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
