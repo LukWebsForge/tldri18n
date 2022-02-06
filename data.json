@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 05-Feb-22 00:00:07 UTC",
+	"last_update": "Sunday, 06-Feb-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -5344,6 +5344,11 @@
 						"en": 2
 					}
 				},
+				"glab-auth": {
+					"status": {
+						"en": 2
+					}
+				},
 				"glab-issue": {
 					"status": {
 						"en": 2
@@ -6796,6 +6801,11 @@
 					}
 				},
 				"lein": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lerna": {
 					"status": {
 						"en": 2
 					}
@@ -17546,6 +17556,11 @@
 						"en": 2,
 						"pt_PT": 2,
 						"zh": 2
+					}
+				},
+				"tail": {
+					"status": {
+						"en": 2
 					}
 				},
 				"textutil": {
