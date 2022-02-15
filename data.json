@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 14-Feb-22 00:00:46 UTC",
+	"last_update": "Tuesday, 15-Feb-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -357,6 +357,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"ru": 2,
 						"zh": 2
@@ -367,6 +368,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 1,
 						"no": 2,
@@ -8176,6 +8178,11 @@
 						"en": 2
 					}
 				},
+				"oathtool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"objdump": {
 					"status": {
 						"en": 2
@@ -9849,6 +9856,11 @@
 					}
 				},
 				"rtv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rubocop": {
 					"status": {
 						"en": 2
 					}
@@ -12289,6 +12301,7 @@
 				"youtube-dl": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"pl": 2
 					}
@@ -13573,6 +13586,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 1,
+						"id": 2,
 						"pt_BR": 1
 					}
 				},
@@ -16936,7 +16950,7 @@
 				"ca": 0,
 				"da": 0,
 				"de": 2,
-				"en": 98,
+				"en": 97,
 				"es": 6,
 				"fa": 0,
 				"fr": 0,
@@ -17413,7 +17427,6 @@
 				},
 				"oathtool": {
 					"status": {
-						"en": 2,
 						"zh": 2
 					}
 				},
@@ -17542,7 +17555,6 @@
 				},
 				"rubocop": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"zh": 2
 					}
