@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 17-Feb-22 00:00:08 UTC",
+	"last_update": "Friday, 18-Feb-22 00:00:10 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -252,7 +252,7 @@
 				"fr": 9,
 				"hi": 2,
 				"id": 4,
-				"it": 17,
+				"it": 16,
 				"ja": 2,
 				"ko": 9,
 				"ml": 0,
@@ -1702,6 +1702,7 @@
 				},
 				"cd": {
 					"status": {
+						"ca": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -2236,6 +2237,7 @@
 				},
 				"cp": {
 					"status": {
+						"ca": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -3009,6 +3011,11 @@
 					}
 				},
 				"doctl-apps": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-auth": {
 					"status": {
 						"en": 2
 					}
@@ -7420,6 +7427,11 @@
 						"en": 2
 					}
 				},
+				"mk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mkcert": {
 					"status": {
 						"en": 2
@@ -9347,7 +9359,7 @@
 				},
 				"puppet-agent": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
@@ -13260,6 +13272,16 @@
 						"en": 2
 					}
 				},
+				"checkupdates": {
+					"status": {
+						"en": 2
+					}
+				},
+				"checkupdates-aur": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chfn": {
 					"status": {
 						"en": 2
@@ -15209,7 +15231,8 @@
 				},
 				"openvpn3": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"opkg": {
