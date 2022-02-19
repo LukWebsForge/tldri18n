@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 18-Feb-22 00:00:10 UTC",
+	"last_update": "Saturday, 19-Feb-22 00:00:11 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -290,6 +290,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -8122,7 +8123,7 @@
 				},
 				"npx": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
@@ -12107,6 +12108,11 @@
 					}
 				},
 				"xh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xidel": {
 					"status": {
 						"en": 2
 					}
