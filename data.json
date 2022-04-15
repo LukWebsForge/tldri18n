@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 14-Apr-22 00:00:06 UTC",
+	"last_update": "Friday, 15-Apr-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -14054,6 +14054,11 @@
 					}
 				},
 				"fail2ban-client": {
+					"status": {
+						"en": 2
+					}
+				},
+				"faillock": {
 					"status": {
 						"en": 2
 					}
