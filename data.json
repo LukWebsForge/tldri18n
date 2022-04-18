@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 17-Apr-22 00:00:06 UTC",
+	"last_update": "Monday, 18-Apr-22 00:00:13 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -4257,7 +4257,8 @@
 				},
 				"gist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"git": {
@@ -4277,7 +4278,8 @@
 				},
 				"git-abort": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"git-add": {
@@ -8476,7 +8478,8 @@
 				},
 				"openssl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"openssl-dgst": {
