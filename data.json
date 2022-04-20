@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 19-Apr-22 00:00:06 UTC",
+	"last_update": "Wednesday, 20-Apr-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -1821,6 +1821,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"pt_BR": 1
@@ -2037,6 +2038,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"pt_BR": 1,
@@ -4252,6 +4254,7 @@
 				"gimp": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ru": 2
 					}
 				},
@@ -7407,6 +7410,11 @@
 						"en": 2
 					}
 				},
+				"mate-dictionary": {
+					"status": {
+						"en": 2
+					}
+				},
 				"matlab": {
 					"status": {
 						"en": 2,
@@ -8965,6 +8973,11 @@
 					}
 				},
 				"pinky": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pinta": {
 					"status": {
 						"en": 2
 					}
@@ -13397,6 +13410,11 @@
 						"en": 2
 					}
 				},
+				"caja": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cal": {
 					"status": {
 						"ca": 2,
@@ -15118,6 +15136,11 @@
 					}
 				},
 				"mate-calc-cmd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mate-screenshot": {
 					"status": {
 						"en": 2
 					}
@@ -18918,6 +18941,7 @@
 				"powershell": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"zh": 2
 					}
 				},
