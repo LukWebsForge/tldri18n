@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 20-Apr-22 00:00:06 UTC",
+	"last_update": "Thursday, 21-Apr-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -3075,14 +3075,16 @@
 				},
 				"dog": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"dokku": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"uk": 2
 					}
 				},
 				"dolt": {
@@ -4272,6 +4274,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"sr": 2,
@@ -4282,6 +4285,7 @@
 				"git-abort": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"uk": 2
 					}
 				},
@@ -4293,6 +4297,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 1,
+						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 2,
@@ -4301,7 +4306,8 @@
 				},
 				"git-alias": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-am": {
@@ -4501,6 +4507,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"ko": 2,
 						"ta": 2,
 						"tr": 2
 					}
@@ -4533,6 +4540,7 @@
 						"fr": 2,
 						"id": 1,
 						"it": 1,
+						"ko": 2,
 						"ta": 1,
 						"tr": 1
 					}
