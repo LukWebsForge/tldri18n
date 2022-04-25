@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 24-Apr-22 00:00:05 UTC",
+	"last_update": "Monday, 25-Apr-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -5194,6 +5194,11 @@
 						"en": 2
 					}
 				},
+				"git-show-merged-branches": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-show-ref": {
 					"status": {
 						"en": 2,
@@ -5203,6 +5208,11 @@
 					}
 				},
 				"git-show-tree": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-show-unmerged-branches": {
 					"status": {
 						"en": 2
 					}
@@ -12208,6 +12218,11 @@
 						"en": 2
 					}
 				},
+				"wondershaper": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wordgrinder": {
 					"status": {
 						"en": 2,
@@ -12741,7 +12756,7 @@
 				"tr": 4,
 				"uk": 0,
 				"uz": 0,
-				"zh": 13,
+				"zh": 12,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -13214,6 +13229,11 @@
 					}
 				},
 				"avifenc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"backlight_control": {
 					"status": {
 						"en": 2
 					}
@@ -13942,6 +13962,11 @@
 						"en": 2,
 						"it": 2,
 						"pt_BR": 2
+					}
+				},
+				"drawing": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dstat": {
@@ -15143,6 +15168,11 @@
 						"en": 2
 					}
 				},
+				"mate-about": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mate-calc-cmd": {
 					"status": {
 						"en": 2
@@ -16195,6 +16225,11 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2
+					}
+				},
+				"rkhunter": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rmmod": {
