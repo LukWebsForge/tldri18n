@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 03-May-22 00:00:07 UTC",
+	"last_update": "Wednesday, 04-May-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -14783,6 +14783,11 @@
 					}
 				},
 				"kde-inhibit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kdialog": {
 					"status": {
 						"en": 2
 					}
