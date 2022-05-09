@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 08-May-22 00:00:03 UTC",
+	"last_update": "Monday, 09-May-22 00:00:20 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -17450,10 +17450,15 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 52,
+				"zh": 51,
 				"zh_TW": 0
 			},
 			"pages": {
+				"aa": {
+					"status": {
+						"en": 2
+					}
+				},
 				"afinfo": {
 					"status": {
 						"en": 2,
