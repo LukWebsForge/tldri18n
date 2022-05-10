@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 09-May-22 00:00:20 UTC",
+	"last_update": "Tuesday, 10-May-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -5772,6 +5772,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 2
@@ -6749,6 +6750,7 @@
 				"kill": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -7319,6 +7321,7 @@
 				"lsof": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -9211,7 +9214,8 @@
 				},
 				"pkill": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"plantuml": {
