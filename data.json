@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 13-May-22 00:00:05 UTC",
+	"last_update": "Saturday, 14-May-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -12763,7 +12763,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 8,
+				"pt_BR": 7,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 0,
@@ -16695,6 +16695,11 @@
 					}
 				},
 				"systemd-analyze": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tac": {
 					"status": {
 						"en": 2
 					}
