@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 14-May-22 00:00:05 UTC",
+	"last_update": "Sunday, 15-May-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -13652,6 +13652,11 @@
 						"es": 2
 					}
 				},
+				"conntrack": {
+					"status": {
+						"en": 2
+					}
+				},
 				"coredumpctl": {
 					"status": {
 						"ca": 2,
@@ -15065,6 +15070,11 @@
 						"es": 2,
 						"it": 2,
 						"ml": 2
+					}
+				},
+				"lsns": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lspci": {
