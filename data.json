@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 27-May-22 00:00:06 UTC",
+	"last_update": "Saturday, 28-May-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -17326,6 +17326,11 @@
 					}
 				},
 				"xman": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xmodmap": {
 					"status": {
 						"en": 2
 					}
