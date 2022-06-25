@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 24-Jun-22 00:00:03 UTC",
+	"last_update": "Saturday, 25-Jun-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -7234,7 +7234,8 @@
 						"fr": 2,
 						"hi": 2,
 						"it": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"loadtest": {
@@ -13639,6 +13640,11 @@
 					}
 				},
 				"chntpw": {
+					"status": {
+						"en": 2
+					}
+				},
+				"chpasswd": {
 					"status": {
 						"en": 2
 					}
