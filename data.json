@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 25-Jun-22 00:00:06 UTC",
+	"last_update": "Sunday, 26-Jun-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -1621,6 +1621,15 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"calc": {
+					"status": {
+						"de": 2,
+						"en": 2,
+						"es": 2,
+						"ml": 2,
+						"pt_BR": 2
 					}
 				},
 				"calendar": {
@@ -12794,7 +12803,7 @@
 				"bs": 0,
 				"ca": 9,
 				"da": 0,
-				"de": 10,
+				"de": 9,
 				"en": 99,
 				"es": 8,
 				"fa": 0,
@@ -13526,12 +13535,7 @@
 				},
 				"calc": {
 					"status": {
-						"ca": 2,
-						"de": 2,
-						"en": 2,
-						"es": 2,
-						"ml": 2,
-						"pt_BR": 2
+						"ca": 2
 					}
 				},
 				"calcurse": {
