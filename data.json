@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 27-Jun-22 00:00:52 UTC",
+	"last_update": "Tuesday, 28-Jun-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -3922,6 +3922,11 @@
 						"en": 2
 					}
 				},
+				"flyctl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fmt": {
 					"status": {
 						"en": 2,
@@ -4060,6 +4065,11 @@
 					}
 				},
 				"gcloud": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdal2tiles.py": {
 					"status": {
 						"en": 2
 					}
@@ -14186,6 +14196,11 @@
 					}
 				},
 				"enum4linux": {
+					"status": {
+						"en": 2
+					}
+				},
+				"eopkg": {
 					"status": {
 						"en": 2
 					}
