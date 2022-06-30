@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 29-Jun-22 00:00:06 UTC",
+	"last_update": "Thursday, 30-Jun-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -2376,6 +2376,11 @@
 					}
 				},
 				"createdb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"crictl": {
 					"status": {
 						"en": 2
 					}
