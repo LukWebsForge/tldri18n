@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 06-Jul-22 00:00:07 UTC",
+	"last_update": "Thursday, 07-Jul-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -3063,6 +3063,11 @@
 					}
 				},
 				"docker-volume": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docsify": {
 					"status": {
 						"en": 2
 					}
@@ -12745,10 +12750,10 @@
 				"zip": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"pt_BR": 1,
-						"ru": 2,
-						"zh": 2
+						"fr": 1,
+						"pt_BR": 2,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"zipalign": {
@@ -17563,6 +17568,11 @@
 					}
 				},
 				"zile": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zip": {
 					"status": {
 						"en": 2
 					}
