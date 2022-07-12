@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 11-Jul-22 00:00:17 UTC",
+	"last_update": "Tuesday, 12-Jul-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -424,6 +424,7 @@
 				"act": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 2,
 						"ru": 2,
 						"zh": 2
@@ -615,6 +616,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"ani-cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ansible": {
@@ -8441,6 +8447,11 @@
 						"en": 2
 					}
 				},
+				"nyxt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"oathtool": {
 					"status": {
 						"en": 2
@@ -11395,6 +11406,11 @@
 					}
 				},
 				"tlmgr-install": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-key": {
 					"status": {
 						"en": 2
 					}
@@ -17613,7 +17629,7 @@
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
-				"id": 4,
+				"id": 5,
 				"it": 6,
 				"ja": 0,
 				"ko": 0,
@@ -18108,6 +18124,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"id": 2,
 						"zh": 2
 					}
 				},
@@ -18120,6 +18137,7 @@
 				"osascript": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 2
 					}
 				},
