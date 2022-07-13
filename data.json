@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 12-Jul-22 00:00:05 UTC",
+	"last_update": "Wednesday, 13-Jul-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -558,7 +558,8 @@
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"alias": {
@@ -18637,25 +18638,25 @@
 				"bs": 2,
 				"ca": 1,
 				"da": 0,
-				"de": 18,
+				"de": 17,
 				"en": 100,
 				"es": 2,
 				"fa": 2,
 				"fr": 3,
 				"hi": 2,
 				"id": 13,
-				"it": 3,
+				"it": 2,
 				"ja": 13,
 				"ko": 0,
 				"ml": 2,
 				"ne": 0,
-				"nl": 6,
+				"nl": 5,
 				"no": 2,
 				"pl": 4,
-				"pt_BR": 16,
+				"pt_BR": 15,
 				"pt_PT": 0,
 				"ro": 0,
-				"ru": 3,
+				"ru": 2,
 				"sh": 0,
 				"sr": 0,
 				"sv": 2,
@@ -18664,7 +18665,7 @@
 				"tr": 0,
 				"uk": 2,
 				"uz": 0,
-				"zh": 72,
+				"zh": 70,
 				"zh_TW": 7
 			},
 			"pages": {
@@ -18954,6 +18955,11 @@
 						"zh_TW": 2
 					}
 				},
+				"curl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"del": {
 					"status": {
 						"en": 2,
@@ -19120,6 +19126,11 @@
 						"en": 2
 					}
 				},
+				"invoke-webrequest": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ipconfig": {
 					"status": {
 						"en": 2,
@@ -19132,6 +19143,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"iwr": {
+					"status": {
+						"en": 2
 					}
 				},
 				"logoff": {
@@ -19516,6 +19532,11 @@
 					}
 				},
 				"vswhere": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wget": {
 					"status": {
 						"en": 2
 					}
