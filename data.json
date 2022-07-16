@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 15-Jul-22 00:00:10 UTC",
+	"last_update": "Saturday, 16-Jul-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -487,18 +487,21 @@
 				"adguardhome": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ru": 2,
 						"zh": 2
 					}
 				},
 				"adscript": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ag": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
@@ -4098,6 +4101,11 @@
 					}
 				},
 				"gdalbuildvrt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdalinfo": {
 					"status": {
 						"en": 2
 					}
@@ -16812,6 +16820,11 @@
 					}
 				},
 				"strip": {
+					"status": {
+						"en": 2
+					}
+				},
+				"swaks": {
 					"status": {
 						"en": 2
 					}
