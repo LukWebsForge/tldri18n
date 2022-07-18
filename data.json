@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 17-Jul-22 00:00:05 UTC",
+	"last_update": "Monday, 18-Jul-22 00:00:16 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -44,7 +44,7 @@
 				"bs": 0,
 				"ca": 0,
 				"da": 0,
-				"de": 92,
+				"de": 100,
 				"en": 100,
 				"es": 0,
 				"fa": 0,
@@ -194,6 +194,7 @@
 				},
 				"pkg": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"pt_BR": 2,
@@ -247,7 +248,7 @@
 				"ca": 0,
 				"da": 0,
 				"de": 9,
-				"en": 99,
+				"en": 100,
 				"es": 6,
 				"fa": 0,
 				"fr": 9,
@@ -588,32 +589,38 @@
 				"amass": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"zh": 2
 					}
 				},
 				"amass-db": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"amass-enum": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"amass-intel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"amass-track": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"amass-viz": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"androguard": {
@@ -1503,11 +1510,6 @@
 						"de": 2,
 						"en": 2,
 						"it": 2,
-						"zh": 2
-					}
-				},
-				"brew-mas": {
-					"status": {
 						"zh": 2
 					}
 				},
@@ -8020,7 +8022,8 @@
 						"hi": 2,
 						"id": 1,
 						"it": 1,
-						"ta": 1
+						"ta": 1,
+						"zh": 2
 					}
 				},
 				"mvn": {
@@ -12367,12 +12370,14 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"whois": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"wipeclean": {
