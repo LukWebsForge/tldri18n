@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 18-Jul-22 00:00:16 UTC",
+	"last_update": "Tuesday, 19-Jul-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -513,7 +513,8 @@
 				},
 				"agate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"age": {
@@ -11916,6 +11917,11 @@
 						"en": 2
 					}
 				},
+				"varnishlog": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vault": {
 					"status": {
 						"en": 2
@@ -12869,10 +12875,10 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
+						"es": 1,
+						"fr": 1,
 						"it": 1,
-						"pt_BR": 2,
+						"pt_BR": 1,
 						"zh": 1
 					}
 				},
@@ -17657,7 +17663,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 1,
-				"pt_BR": 0,
+				"pt_BR": 12,
 				"pt_PT": 7,
 				"ro": 0,
 				"ru": 0,
@@ -17675,7 +17681,8 @@
 			"pages": {
 				"aa": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"afinfo": {
@@ -17683,6 +17690,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -17690,7 +17698,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"it": 2
+						"it": 2,
+						"pt_BR": 2
 					}
 				},
 				"airport": {
@@ -17698,12 +17707,14 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"airportd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"apachectl": {
@@ -17711,22 +17722,26 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"applecamerad": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"appsleepd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"arch": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"pt_PT": 2,
 						"zh": 2
 					}
@@ -17736,6 +17751,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -17744,6 +17760,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -17752,50 +17769,59 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"automountd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"avbdeviced": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"base64": {
 					"status": {
 						"en": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"bc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"bird": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"bless": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"bnepd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"brightness": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
