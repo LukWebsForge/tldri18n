@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 19-Jul-22 00:00:05 UTC",
+	"last_update": "Wednesday, 20-Jul-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -12904,7 +12904,7 @@
 				"da": 0,
 				"de": 9,
 				"en": 99,
-				"es": 8,
+				"es": 7,
 				"fa": 0,
 				"fr": 5,
 				"hi": 0,
@@ -15367,6 +15367,11 @@
 						"en": 2
 					}
 				},
+				"man": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mandb": {
 					"status": {
 						"en": 2
@@ -16736,6 +16741,11 @@
 					}
 				},
 				"smbpasswd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"smem": {
 					"status": {
 						"en": 2
 					}
