@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 20-Jul-22 00:00:05 UTC",
+	"last_update": "Thursday, 21-Jul-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -251,7 +251,7 @@
 				"en": 100,
 				"es": 6,
 				"fa": 0,
-				"fr": 9,
+				"fr": 10,
 				"hi": 1,
 				"id": 4,
 				"it": 16,
@@ -433,7 +433,8 @@
 				},
 				"acyclic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"adb": {
@@ -627,12 +628,14 @@
 				"androguard": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"zh": 2
 					}
 				},
 				"ani-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ansible": {
@@ -687,6 +690,7 @@
 				"ansiweather": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"zh": 2
@@ -695,7 +699,8 @@
 				"ant": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"antibody": {
@@ -2060,6 +2065,11 @@
 						"it": 2
 					}
 				},
+				"cmctl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cmp": {
 					"status": {
 						"en": 2,
@@ -3273,6 +3283,11 @@
 					}
 				},
 				"duc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"duf": {
 					"status": {
 						"en": 2
 					}
@@ -7065,6 +7080,11 @@
 					}
 				},
 				"license": {
+					"status": {
+						"en": 2
+					}
+				},
+				"licensor": {
 					"status": {
 						"en": 2
 					}
@@ -13023,6 +13043,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -14154,8 +14175,8 @@
 				"dpkg-query": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"pt_BR": 2
+						"it": 1,
+						"pt_BR": 1
 					}
 				},
 				"drawing": {
@@ -16484,6 +16505,11 @@
 					}
 				},
 				"rpcinfo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rpi-eeprom-update": {
 					"status": {
 						"en": 2
 					}
