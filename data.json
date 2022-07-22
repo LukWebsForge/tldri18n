@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 21-Jul-22 00:00:05 UTC",
+	"last_update": "Friday, 22-Jul-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -515,6 +515,7 @@
 				"agate": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
@@ -530,6 +531,7 @@
 				"airmon-ng": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -537,6 +539,7 @@
 				"airpaste": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -671,6 +674,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"zh": 1
@@ -678,13 +682,15 @@
 				},
 				"ansible-pull": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ansible-vault": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ansiweather": {
@@ -13053,6 +13059,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -17711,7 +17718,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 51,
+				"zh": 50,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -17916,6 +17923,11 @@
 					}
 				},
 				"coreauthd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cot": {
 					"status": {
 						"en": 2
 					}
