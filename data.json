@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 24-Jul-22 00:00:07 UTC",
+	"last_update": "Monday, 25-Jul-22 00:00:42 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -274,7 +274,7 @@
 				"tr": 6,
 				"uk": 1,
 				"uz": 0,
-				"zh": 8,
+				"zh": 9,
 				"zh_TW": 1
 			},
 			"pages": {
@@ -653,13 +653,15 @@
 				},
 				"ansible-doc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ansible-galaxy": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 1,
 						"zh": 1
@@ -667,7 +669,8 @@
 				},
 				"ansible-inventory": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ansible-playbook": {
@@ -990,7 +993,8 @@
 						"it": 1,
 						"ko": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"aws": {
@@ -1838,7 +1842,8 @@
 						"nl": 1,
 						"pt_BR": 2,
 						"pt_PT": 1,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"choose": {
@@ -1856,7 +1861,8 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"chroma": {
@@ -16028,6 +16034,11 @@
 					}
 				},
 				"pdftoppm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pdfxup": {
 					"status": {
 						"en": 2
 					}
