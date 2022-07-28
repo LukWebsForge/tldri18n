@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 27-Jul-22 00:00:05 UTC",
+	"last_update": "Thursday, 28-Jul-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -274,7 +274,7 @@
 				"tr": 6,
 				"uk": 1,
 				"uz": 0,
-				"zh": 9,
+				"zh": 8,
 				"zh_TW": 1
 			},
 			"pages": {
@@ -729,6 +729,7 @@
 				"apktool": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"ja": 2,
 						"zh": 2
@@ -737,6 +738,7 @@
 				"apm": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -1702,6 +1704,11 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"cargo-add": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cargo-build": {
@@ -9123,6 +9130,11 @@
 						"en": 2
 					}
 				},
+				"picom-trans": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pigz": {
 					"status": {
 						"en": 2
@@ -9866,6 +9878,11 @@
 					}
 				},
 				"qtcreator": {
+					"status": {
+						"en": 2
+					}
+				},
+				"quarto": {
 					"status": {
 						"en": 2
 					}
@@ -17515,6 +17532,11 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2
+					}
+				},
+				"xdg-settings": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xdg-user-dirs-update": {
