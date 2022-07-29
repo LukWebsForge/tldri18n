@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 28-Jul-22 00:00:05 UTC",
+	"last_update": "Friday, 29-Jul-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -817,6 +817,7 @@
 				"arp": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
@@ -827,6 +828,7 @@
 				"arp-scan": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -3569,6 +3571,11 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"ern": {
+					"status": {
+						"en": 2
 					}
 				},
 				"errno": {
@@ -7541,7 +7548,7 @@
 				"make": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"makebuildserver": {
@@ -10305,6 +10312,11 @@
 						"en": 2
 					}
 				},
+				"rustup-init.sh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rvm": {
 					"status": {
 						"en": 2,
@@ -12984,7 +12996,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 7,
+				"pt_BR": 8,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 0,
@@ -13111,6 +13123,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
