@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 31-Jul-22 00:00:06 UTC",
+	"last_update": "Monday, 01-Aug-22 00:01:11 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -251,7 +251,7 @@
 				"en": 100,
 				"es": 6,
 				"fa": 0,
-				"fr": 10,
+				"fr": 11,
 				"hi": 1,
 				"id": 4,
 				"it": 16,
@@ -274,7 +274,7 @@
 				"tr": 6,
 				"uk": 1,
 				"uz": 0,
-				"zh": 8,
+				"zh": 9,
 				"zh_TW": 1
 			},
 			"pages": {
@@ -788,12 +788,14 @@
 				"arduino": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
 				"arduino-builder": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1672,7 +1674,8 @@
 						"en": 2,
 						"es": 1,
 						"ml": 1,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"ta": 2
 					}
 				},
 				"calendar": {
@@ -1798,6 +1801,7 @@
 						"pt_PT": 1,
 						"sr": 1,
 						"sv": 1,
+						"ta": 2,
 						"zh": 1,
 						"zh_TW": 1
 					}
@@ -5676,27 +5680,32 @@
 				"go-bug": {
 					"status": {
 						"en": 2,
-						"sv": 2
+						"sv": 2,
+						"zh": 2
 					}
 				},
 				"go-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"go-clean": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"go-doc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"go-env": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"go-fix": {
@@ -12059,6 +12068,11 @@
 						"en": 2
 					}
 				},
+				"vgmstream_cli": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vi": {
 					"status": {
 						"bs": 2,
@@ -13729,6 +13743,7 @@
 						"es": 2,
 						"ml": 2,
 						"pt_BR": 2,
+						"ta": 2,
 						"zh": 2
 					}
 				},
