@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 01-Aug-22 00:01:11 UTC",
+	"last_update": "Tuesday, 02-Aug-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -4154,6 +4154,11 @@
 					}
 				},
 				"gdal_contour": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdal_translate": {
 					"status": {
 						"en": 2
 					}
@@ -11508,6 +11513,11 @@
 						"en": 2
 					}
 				},
+				"tlmgr-conf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tlmgr-gui": {
 					"status": {
 						"en": 2
@@ -17807,7 +17817,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 1,
-				"pt_BR": 12,
+				"pt_BR": 21,
 				"pt_PT": 7,
 				"ro": 0,
 				"ru": 0,
@@ -17975,6 +17985,7 @@
 						"en": 2,
 						"id": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -17982,70 +17993,83 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"carthage": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"cfprefsd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"chflags": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"cloudphotod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"codesign": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"coreaudiod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"coreautha": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"coreauthd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"cot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"csrutil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"csshx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"cut": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"ru": 2
 					}
 				},
