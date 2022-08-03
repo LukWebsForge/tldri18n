@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 02-Aug-22 00:00:05 UTC",
+	"last_update": "Wednesday, 03-Aug-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -803,6 +803,7 @@
 					"status": {
 						"bs": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"zh": 1
@@ -811,6 +812,7 @@
 				"aria2c": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"zh": 1
@@ -4169,6 +4171,11 @@
 					}
 				},
 				"gdalinfo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdalwarp": {
 					"status": {
 						"en": 2
 					}
