@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 03-Aug-22 00:00:06 UTC",
+	"last_update": "Thursday, 04-Aug-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -9502,6 +9502,11 @@
 						"en": 2
 					}
 				},
+				"powershell": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pppd": {
 					"status": {
 						"en": 2
@@ -13768,6 +13773,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"cc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ceph": {
@@ -18868,7 +18878,7 @@
 				"ca": 1,
 				"da": 0,
 				"de": 17,
-				"en": 100,
+				"en": 99,
 				"es": 2,
 				"fa": 2,
 				"fr": 3,
@@ -19471,7 +19481,6 @@
 				},
 				"powershell": {
 					"status": {
-						"en": 2,
 						"fr": 2,
 						"zh": 2
 					}
