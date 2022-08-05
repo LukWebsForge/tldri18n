@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 04-Aug-22 00:00:06 UTC",
+	"last_update": "Friday, 05-Aug-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -17493,7 +17493,8 @@
 				},
 				"wine": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"winetricks": {
