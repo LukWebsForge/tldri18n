@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 05-Aug-22 00:00:07 UTC",
+	"last_update": "Saturday, 06-Aug-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -885,6 +885,7 @@
 				"assimp": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -892,6 +893,7 @@
 				"astronomer": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pl": 2
@@ -4106,7 +4108,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ta": 2
 					}
 				},
 				"gacutil": {
@@ -4142,7 +4145,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ta": 2
 					}
 				},
 				"gcloud": {
@@ -5894,6 +5898,11 @@
 					"status": {
 						"en": 2,
 						"es": 1
+					}
+				},
+				"grafana-cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"grap": {
@@ -13044,7 +13053,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 8,
+				"pt_BR": 7,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 0,
@@ -13288,6 +13297,7 @@
 						"ml": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
+						"ta": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -13777,7 +13787,8 @@
 				},
 				"cc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"ceph": {
@@ -14234,6 +14245,7 @@
 						"es": 1,
 						"id": 2,
 						"pt_BR": 1,
+						"ta": 2,
 						"tr": 2
 					}
 				},
@@ -17122,6 +17134,51 @@
 					}
 				},
 				"tomb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"toolbox": {
+					"status": {
+						"en": 2
+					}
+				},
+				"toolbox-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"toolbox-enter": {
+					"status": {
+						"en": 2
+					}
+				},
+				"toolbox-help": {
+					"status": {
+						"en": 2
+					}
+				},
+				"toolbox-init-container": {
+					"status": {
+						"en": 2
+					}
+				},
+				"toolbox-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"toolbox-rm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"toolbox-rmi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"toolbox-run": {
 					"status": {
 						"en": 2
 					}
