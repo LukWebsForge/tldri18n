@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 07-Aug-22 00:00:06 UTC",
+	"last_update": "Monday, 08-Aug-22 00:01:10 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -50,7 +50,7 @@
 				"fa": 0,
 				"fr": 100,
 				"hi": 0,
-				"id": 92,
+				"id": 100,
 				"it": 15,
 				"ja": 0,
 				"ko": 0,
@@ -197,6 +197,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
@@ -548,13 +549,15 @@
 				},
 				"ajson": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"alacritty": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -566,6 +569,7 @@
 				"alex": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -906,6 +910,7 @@
 				"astyle": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -937,6 +942,7 @@
 				"atoum": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -944,6 +950,7 @@
 				"atq": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"pl": 2
 					}
@@ -951,13 +958,15 @@
 				"atrm": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"pl": 2
 					}
 				},
 				"auditd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"autoflake": {
@@ -9517,7 +9526,8 @@
 				},
 				"powershell": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"pppd": {
@@ -11589,6 +11599,11 @@
 					}
 				},
 				"tlmgr-repository": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-restore": {
 					"status": {
 						"en": 2
 					}
@@ -14590,6 +14605,7 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2,
+						"ta": 2,
 						"zh": 2
 					}
 				},
@@ -14820,6 +14836,11 @@
 					}
 				},
 				"groupmod": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grub-bios-setup": {
 					"status": {
 						"en": 2
 					}
