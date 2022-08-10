@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 09-Aug-22 00:00:08 UTC",
+	"last_update": "Wednesday, 10-Aug-22 00:00:11 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -972,6 +972,7 @@
 				"autoflake": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"pl": 2,
 						"zh": 2
@@ -980,6 +981,7 @@
 				"autojump": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"zh": 2
 					}
@@ -987,6 +989,7 @@
 				"autopep8": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"nl": 2
 					}
 				},
@@ -16694,6 +16697,11 @@
 						"en": 2
 					}
 				},
+				"rpm-ostree": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rpmbuild": {
 					"status": {
 						"en": 2
@@ -17131,6 +17139,11 @@
 					}
 				},
 				"terminator": {
+					"status": {
+						"en": 2
+					}
+				},
+				"termusic": {
 					"status": {
 						"en": 2
 					}
@@ -18911,7 +18924,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
-				"ta": 0,
+				"ta": 100,
 				"th": 0,
 				"tr": 0,
 				"uk": 0,
@@ -18922,49 +18935,58 @@
 			"pages": {
 				"devfsadm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"dmesg": {
 					"status": {
 						"en": 2,
+						"ta": 2,
 						"zh": 2
 					}
 				},
 				"prctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"prstat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"snoop": {
 					"status": {
 						"bn": 2,
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"svcadm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"svccfg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"svcs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"truss": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				}
 			}
