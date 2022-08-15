@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 14-Aug-22 00:00:06 UTC",
+	"last_update": "Monday, 15-Aug-22 00:02:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -3883,6 +3883,7 @@
 				"feh": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 1
 					}
 				},
