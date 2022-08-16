@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 15-Aug-22 00:02:07 UTC",
+	"last_update": "Tuesday, 16-Aug-22 00:00:10 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -283,7 +283,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 2,
-				"ta": 2,
+				"ta": 3,
 				"th": 0,
 				"tr": 6,
 				"uk": 1,
@@ -1054,6 +1054,7 @@
 				"aws-cur": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1061,12 +1062,14 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-ecr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"aws-glue": {
@@ -3488,7 +3491,7 @@
 				"ed": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 1
 					}
 				},
 				"edgepaint": {
@@ -11673,18 +11676,21 @@
 				"todo": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ta": 2
 					}
 				},
 				"todoist": {
 					"status": {
 						"en": 2,
-						"ro": 2
+						"ro": 2,
+						"ta": 2
 					}
 				},
 				"todoman": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"tokei": {
@@ -16660,6 +16666,11 @@
 						"en": 2
 					}
 				},
+				"retroarch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rfkill": {
 					"status": {
 						"en": 2
@@ -18304,6 +18315,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"ed": {
+					"status": {
+						"en": 2
 					}
 				},
 				"emond": {
