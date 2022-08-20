@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 19-Aug-22 00:00:08 UTC",
+	"last_update": "Saturday, 20-Aug-22 00:00:05 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -1088,24 +1088,28 @@
 				},
 				"aws-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"aws-iam": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"aws-kinesis": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"aws-lambda": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"aws-quicksight": {
@@ -1845,7 +1849,7 @@
 						"sr": 1,
 						"sv": 1,
 						"ta": 2,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -9848,12 +9852,12 @@
 				"pwd": {
 					"status": {
 						"en": 2,
-						"es": 1,
-						"fr": 1,
-						"hi": 1,
-						"id": 1,
-						"ja": 1,
-						"zh_TW": 1
+						"es": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"ja": 2,
+						"zh_TW": 2
 					}
 				},
 				"pwgen": {
@@ -13286,7 +13290,8 @@
 				"alien": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"alpine": {
@@ -14577,7 +14582,8 @@
 				"fdisk": {
 					"status": {
 						"en": 2,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"ta": 2
 					}
 				},
 				"feedreader": {
@@ -14758,7 +14764,8 @@
 				},
 				"fwupdmgr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"gbp": {
