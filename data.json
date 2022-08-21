@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 20-Aug-22 00:00:05 UTC",
+	"last_update": "Sunday, 21-Aug-22 00:00:09 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -12053,6 +12053,11 @@
 						"ru": 2
 					}
 				},
+				"unzstd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"updog": {
 					"status": {
 						"en": 2
@@ -12167,6 +12172,11 @@
 					}
 				},
 				"vgmstream_cli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vgrep": {
 					"status": {
 						"en": 2
 					}
