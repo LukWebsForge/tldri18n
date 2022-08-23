@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 22-Aug-22 00:01:40 UTC",
+	"last_update": "Tuesday, 23-Aug-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -4013,6 +4013,11 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"flarectl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"flask": {
