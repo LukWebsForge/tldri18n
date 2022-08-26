@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 25-Aug-22 00:00:08 UTC",
+	"last_update": "Friday, 26-Aug-22 00:00:08 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -9427,18 +9427,20 @@
 						"en": 2,
 						"fr": 1,
 						"id": 1,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"pip-install": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"pip-uninstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"pip3": {
@@ -11739,7 +11741,7 @@
 						"es": 1,
 						"hi": 1,
 						"id": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"zh_TW": 1
 					}
@@ -13152,7 +13154,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
-				"ta": 2,
+				"ta": 3,
 				"th": 0,
 				"tr": 4,
 				"uk": 0,
@@ -14287,22 +14289,26 @@
 				},
 				"distrobox-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"distrobox-enter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"distrobox-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"distrobox-rm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"dkms": {
