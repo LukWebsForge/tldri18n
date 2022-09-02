@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 01-Sep-22 00:00:07 UTC",
+	"last_update": "Friday, 02-Sep-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -476,6 +476,11 @@
 						"pt_BR": 1,
 						"ru": 1,
 						"zh": 1
+					}
+				},
+				"adb-logcat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adb-reverse": {
@@ -2256,7 +2261,7 @@
 						"ko": 1,
 						"pt_BR": 1,
 						"tr": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"compare": {
@@ -2839,7 +2844,8 @@
 						"es": 2,
 						"fr": 2,
 						"it": 1,
-						"ko": 1
+						"ko": 1,
+						"zh": 2
 					}
 				},
 				"dfc": {
@@ -5733,6 +5739,31 @@
 					}
 				},
 				"gmssl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnmic": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnmic-get": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnmic-set": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnmic-sub": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnmic-subscribe": {
 					"status": {
 						"en": 2
 					}
@@ -9493,6 +9524,11 @@
 					}
 				},
 				"pixiecore": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pixterm": {
 					"status": {
 						"en": 2
 					}
