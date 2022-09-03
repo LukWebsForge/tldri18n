@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 02-Sep-22 00:00:06 UTC",
+	"last_update": "Saturday, 03-Sep-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -3572,10 +3572,10 @@
 				},
 				"emacs": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"it": 1,
-						"pt_BR": 2
+						"pt_BR": 1
 					}
 				},
 				"emacsclient": {
@@ -7598,7 +7598,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 1,
-						"fr": 1,
+						"fr": 2,
 						"hi": 1,
 						"id": 1,
 						"it": 1,
@@ -7806,6 +7806,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"mg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mh_copyright": {
@@ -11414,7 +11419,7 @@
 				"task": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 1
 					}
 				},
 				"tb": {
@@ -17712,6 +17717,11 @@
 					}
 				},
 				"wajig": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wal-telegram": {
 					"status": {
 						"en": 2
 					}
