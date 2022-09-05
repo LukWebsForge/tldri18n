@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 04-Sep-22 00:00:06 UTC",
+	"last_update": "Monday, 05-Sep-22 00:00:33 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -979,6 +979,11 @@
 						"fr": 2,
 						"it": 2,
 						"pl": 2
+					}
+				},
+				"atuin": {
+					"status": {
+						"en": 2
 					}
 				},
 				"auditd": {
@@ -4150,7 +4155,7 @@
 				"ftp": {
 					"status": {
 						"en": 2,
-						"fr": 1,
+						"fr": 2,
 						"pt_BR": 1
 					}
 				},
@@ -4242,6 +4247,11 @@
 					}
 				},
 				"gdalbuildvrt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdaldem": {
 					"status": {
 						"en": 2
 					}
@@ -7912,7 +7922,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"fr": 1,
+						"fr": 2,
 						"hi": 1,
 						"id": 1,
 						"it": 1,
