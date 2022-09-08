@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 07-Sep-22 00:00:07 UTC",
+	"last_update": "Thursday, 08-Sep-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -1762,12 +1762,12 @@
 				},
 				"cargo": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"ta": 2
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"ta": 1
 					}
 				},
 				"cargo-add": {
@@ -4597,13 +4597,13 @@
 				},
 				"git-bisect": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ta": 2,
-						"tr": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ta": 1,
+						"tr": 1
 					}
 				},
 				"git-blame": {
@@ -19213,7 +19213,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 2,
-				"ta": 4,
+				"ta": 5,
 				"th": 2,
 				"tr": 0,
 				"uk": 2,
@@ -19929,6 +19929,7 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
+						"ta": 2,
 						"zh": 2
 					}
 				},
