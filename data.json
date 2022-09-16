@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 15-Sep-22 00:00:06 UTC",
+	"last_update": "Friday, 16-Sep-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -13888,6 +13888,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"broot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bspc": {
