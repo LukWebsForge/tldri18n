@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 19-Sep-22 00:00:24 UTC",
+	"last_update": "Tuesday, 20-Sep-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -4779,7 +4779,8 @@
 						"it": 1,
 						"ko": 2,
 						"ta": 1,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"git-coauthor": {
@@ -5209,7 +5210,8 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-push": {
@@ -8610,6 +8612,11 @@
 						"en": 2
 					}
 				},
+				"npm-fund": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-home": {
 					"status": {
 						"en": 2
@@ -11912,6 +11919,11 @@
 					}
 				},
 				"transmission-daemon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"transmission-edit": {
 					"status": {
 						"en": 2
 					}
