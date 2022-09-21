@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 20-Sep-22 00:00:06 UTC",
+	"last_update": "Wednesday, 21-Sep-22 00:00:07 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -4186,11 +4186,11 @@
 				},
 				"g++": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"id": 2,
-						"pt_BR": 2,
-						"ta": 2
+						"id": 1,
+						"pt_BR": 1,
+						"ta": 1
 					}
 				},
 				"gacutil": {
@@ -11719,6 +11719,11 @@
 						"en": 2
 					}
 				},
+				"tlmgr-dump-tlpdb": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tlmgr-gui": {
 					"status": {
 						"en": 2
@@ -11755,6 +11760,11 @@
 					}
 				},
 				"tlmgr-platform": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-recreate-tlpdb": {
 					"status": {
 						"en": 2
 					}
