@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 24-Sep-22 00:00:06 UTC",
+	"last_update": "Sunday, 25-Sep-22 00:00:06 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -268,7 +268,7 @@
 				"fr": 12,
 				"hi": 1,
 				"id": 4,
-				"it": 16,
+				"it": 15,
 				"ja": 2,
 				"ko": 9,
 				"ml": 0,
@@ -991,6 +991,11 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"autoconf": {
+					"status": {
+						"en": 2
 					}
 				},
 				"autoflake": {
@@ -3917,7 +3922,7 @@
 				"fdupes": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 1
 					}
 				},
 				"feh": {
@@ -8629,6 +8634,11 @@
 					}
 				},
 				"npm-name": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-query": {
 					"status": {
 						"en": 2
 					}
