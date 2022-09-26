@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 25-Sep-22 00:00:06 UTC",
+	"last_update": "Monday, 26-Sep-22 00:00:22 UTC",
 	"languages": [
 		"en",
 		"ar",
@@ -429,12 +429,14 @@
 				"acme.sh": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"acme.sh-dns": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"act": {
@@ -3532,7 +3534,8 @@
 				"ed": {
 					"status": {
 						"en": 2,
-						"it": 1
+						"it": 1,
+						"ru": 2
 					}
 				},
 				"edgepaint": {
@@ -6089,6 +6092,11 @@
 						"en": 2
 					}
 				},
+				"gsutil": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gt": {
 					"status": {
 						"en": 2
@@ -7230,6 +7238,11 @@
 				"latex": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"latexdiff": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -9928,6 +9941,11 @@
 					}
 				},
 				"pueue-switch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pulumi": {
 					"status": {
 						"en": 2
 					}
@@ -18228,7 +18246,7 @@
 				"pt_BR": 21,
 				"pt_PT": 7,
 				"ro": 0,
-				"ru": 0,
+				"ru": 1,
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
@@ -18557,7 +18575,8 @@
 				},
 				"ed": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"emond": {
