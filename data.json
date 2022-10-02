@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 01-Oct-22 02:00:10 CEST",
+	"last_update": "Sunday, 02-Oct-22 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -483,7 +483,9 @@
 				},
 				"adb-logcat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"adb-reverse": {
@@ -841,6 +843,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 1,
 						"zh": 1
@@ -987,7 +990,8 @@
 				},
 				"atuin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"auditd": {
@@ -1247,6 +1251,11 @@
 						"en": 2
 					}
 				},
+				"az-sshkey": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-storage": {
 					"status": {
 						"en": 2
@@ -1272,6 +1281,11 @@
 						"en": 2
 					}
 				},
+				"az-upgrade": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-version": {
 					"status": {
 						"en": 2
@@ -1285,6 +1299,7 @@
 				"b2sum": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"ta": 2
@@ -1293,6 +1308,7 @@
 				"babel": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
@@ -1309,6 +1325,7 @@
 				"balena": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -1425,6 +1442,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
+						"fr": 2,
 						"it": 1,
 						"ko": 1
 					}
@@ -1917,6 +1935,7 @@
 				"chgrp": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2
@@ -1982,6 +2001,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -1994,6 +2014,7 @@
 						"da": 1,
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"hi": 1,
 						"it": 1,
 						"ko": 1,
@@ -6477,6 +6498,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
+						"id": 2,
 						"pt_BR": 1
 					}
 				},
@@ -9426,6 +9448,11 @@
 						"en": 2
 					}
 				},
+				"pint": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pinta": {
 					"status": {
 						"en": 2
@@ -9716,7 +9743,8 @@
 				},
 				"pnpm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"pnpx": {
@@ -9726,7 +9754,8 @@
 				},
 				"podman": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"poetry": {
@@ -10152,6 +10181,11 @@
 					}
 				},
 				"qemu-img": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-stop": {
 					"status": {
 						"en": 2
 					}
@@ -11061,6 +11095,11 @@
 					}
 				},
 				"sort": {
+					"status": {
+						"en": 2
+					}
+				},
+				"soupault": {
 					"status": {
 						"en": 2
 					}
@@ -13494,6 +13533,11 @@
 						"zh": 2
 					}
 				},
+				"acountry": {
+					"status": {
+						"en": 2
+					}
+				},
 				"acpi": {
 					"status": {
 						"ca": 2,
@@ -13539,6 +13583,11 @@
 						"it": 1,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"ahost": {
+					"status": {
+						"en": 2
 					}
 				},
 				"alien": {
@@ -14390,6 +14439,11 @@
 					}
 				},
 				"ctrlaltdel": {
+					"status": {
+						"en": 2
+					}
+				},
+				"curlie": {
 					"status": {
 						"en": 2
 					}
@@ -16820,6 +16874,11 @@
 						"en": 2
 					}
 				},
+				"qrcp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qsub": {
 					"status": {
 						"en": 2
@@ -17237,6 +17296,11 @@
 					}
 				},
 				"sinfo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"size": {
 					"status": {
 						"en": 2
 					}
@@ -19612,6 +19676,7 @@
 						"ja": 2,
 						"pt_BR": 2,
 						"ta": 2,
+						"th": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
