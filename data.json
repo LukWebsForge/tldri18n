@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 02-Oct-22 02:00:05 CEST",
+	"last_update": "Monday, 03-Oct-22 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -46,7 +46,7 @@
 				"da": 0,
 				"de": 100,
 				"en": 100,
-				"es": 0,
+				"es": 7,
 				"fa": 0,
 				"fr": 100,
 				"hi": 0,
@@ -192,6 +192,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"pt_BR": 2,
@@ -262,11 +263,11 @@
 				"ca": 0,
 				"da": 0,
 				"de": 9,
-				"en": 100,
+				"en": 99,
 				"es": 6,
 				"fa": 0,
-				"fr": 13,
-				"hi": 1,
+				"fr": 14,
+				"hi": 2,
 				"id": 4,
 				"it": 15,
 				"ja": 2,
@@ -369,6 +370,7 @@
 				},
 				"[[": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"ko": 2,
 						"zh": 2
@@ -805,6 +807,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"hi": 2,
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
@@ -1002,7 +1005,8 @@
 				},
 				"autoconf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"autoflake": {
@@ -1068,6 +1072,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"pl": 2,
@@ -1138,18 +1143,21 @@
 				"aws-quicksight": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"aws-rds": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"aws-s3": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -1196,9 +1204,11 @@
 				"az": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh_TW": 2
 					}
 				},
 				"az-account": {
@@ -1292,6 +1302,11 @@
 					}
 				},
 				"az-vm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"azurite": {
 					"status": {
 						"en": 2
 					}
@@ -1629,6 +1644,11 @@
 						"zh": 2
 					}
 				},
+				"brittany": {
+					"status": {
+						"en": 2
+					}
+				},
 				"brotli": {
 					"status": {
 						"en": 2
@@ -1667,6 +1687,7 @@
 				"bundle": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"pt_BR": 1
@@ -1674,7 +1695,8 @@
 				},
 				"bundler": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"bundletool": {
@@ -1886,7 +1908,7 @@
 						"en": 2,
 						"es": 1,
 						"fa": 1,
-						"fr": 1,
+						"fr": 2,
 						"hi": 1,
 						"id": 1,
 						"it": 1,
@@ -1896,7 +1918,7 @@
 						"pt_PT": 1,
 						"sr": 1,
 						"sv": 1,
-						"ta": 1,
+						"ta": 2,
 						"zh": 1,
 						"zh_TW": 1
 					}
@@ -2308,7 +2330,8 @@
 				"compare": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"hi": 2
 					}
 				},
 				"compgen": {
@@ -2892,7 +2915,8 @@
 						"it": 1,
 						"ko": 1,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"dfc": {
@@ -3369,7 +3393,8 @@
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
-						"ru": 2
+						"ru": 2,
+						"zh_TW": 2
 					}
 				},
 				"dotnet-build": {
@@ -4229,7 +4254,8 @@
 				"fuck": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"hi": 2
 					}
 				},
 				"func": {
@@ -4788,13 +4814,15 @@
 						"id": 2,
 						"it": 1,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"uk": 2
 					}
 				},
 				"git-checkout-index": {
 					"status": {
 						"en": 2,
-						"tr": 2
+						"tr": 2,
+						"uk": 2
 					}
 				},
 				"git-cherry": {
@@ -4953,6 +4981,11 @@
 					}
 				},
 				"git-delete-merged-branches": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-delete-submodule": {
 					"status": {
 						"en": 2
 					}
@@ -6077,6 +6110,11 @@
 						"zh": 2
 					}
 				},
+				"gpgconf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gpgv": {
 					"status": {
 						"en": 2,
@@ -6499,7 +6537,8 @@
 						"en": 2,
 						"es": 1,
 						"id": 2,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"ta": 2
 					}
 				},
 				"htpasswd": {
@@ -6968,7 +7007,7 @@
 				"join": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 1
 					}
 				},
 				"josm": {
@@ -7829,6 +7868,7 @@
 						"en": 2,
 						"it": 1,
 						"pt_BR": 1,
+						"ta": 2,
 						"tr": 1
 					}
 				},
@@ -8170,7 +8210,8 @@
 				},
 				"mosquitto": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"mosquitto_passwd": {
@@ -9332,6 +9373,11 @@
 						"en": 2
 					}
 				},
+				"php-cs-fixer": {
+					"status": {
+						"en": 2
+					}
+				},
 				"php-yii": {
 					"status": {
 						"en": 2
@@ -9831,6 +9877,11 @@
 					}
 				},
 				"progress": {
+					"status": {
+						"en": 2
+					}
+				},
+				"projucer": {
 					"status": {
 						"en": 2
 					}
@@ -10528,6 +10579,7 @@
 				"rmdir": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ta": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -10549,6 +10601,11 @@
 					}
 				},
 				"route": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rpi-imager": {
 					"status": {
 						"en": 2
 					}
@@ -10607,6 +10664,11 @@
 					"status": {
 						"en": 2,
 						"id": 2
+					}
+				},
+				"ruget": {
+					"status": {
+						"hi": 2
 					}
 				},
 				"runit": {
@@ -11035,6 +11097,7 @@
 						"de": 2,
 						"en": 2,
 						"fa": 2,
+						"hi": 2,
 						"ml": 2,
 						"sv": 2
 					}
@@ -13163,6 +13226,7 @@
 				},
 				"yarn": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"id": 2,
 						"zh": 2
@@ -13335,6 +13399,11 @@
 					}
 				},
 				"zmv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"znew": {
 					"status": {
 						"en": 2
 					}
@@ -13583,6 +13652,11 @@
 						"it": 1,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"adig": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ahost": {
@@ -14072,6 +14146,7 @@
 				"btrfs": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -14126,6 +14201,7 @@
 				"btrfs-subvolume": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -15136,6 +15212,11 @@
 						"en": 2
 					}
 				},
+				"getcap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"getent": {
 					"status": {
 						"en": 2
@@ -15256,6 +15337,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 1,
+						"id": 2,
 						"it": 1
 					}
 				},
@@ -16423,6 +16505,11 @@
 						"en": 2
 					}
 				},
+				"pacdiff": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pacman": {
 					"status": {
 						"de": 2,
@@ -16542,7 +16629,8 @@
 				},
 				"paru": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"pasuspender": {
@@ -16720,6 +16808,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 1,
+						"id": 2,
 						"it": 1,
 						"zh": 1
 					}
@@ -16767,7 +16856,8 @@
 				},
 				"protontricks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"protonvpn-cli": {
@@ -16959,6 +17049,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"id": 2,
 						"zh": 1
 					}
 				},
@@ -17110,7 +17201,8 @@
 				},
 				"ruget": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"run-mailcap": {
@@ -17371,7 +17463,8 @@
 				},
 				"snapper": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"snmpwalk": {
@@ -18333,6 +18426,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 1,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				}
@@ -18347,7 +18441,7 @@
 				"da": 0,
 				"de": 1,
 				"en": 98,
-				"es": 5,
+				"es": 4,
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
@@ -18361,7 +18455,7 @@
 				"no": 0,
 				"pl": 1,
 				"pt_BR": 21,
-				"pt_PT": 7,
+				"pt_PT": 6,
 				"ro": 0,
 				"ru": 1,
 				"sh": 0,
@@ -18372,7 +18466,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 50,
+				"zh": 49,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -18482,6 +18576,11 @@
 						"pt_BR": 2
 					}
 				},
+				"backupd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"base64": {
 					"status": {
 						"en": 2,
@@ -18589,6 +18688,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"corebrightnessd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cot": {
@@ -18712,6 +18816,11 @@
 					}
 				},
 				"fileicon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fontd": {
 					"status": {
 						"en": 2
 					}
@@ -19175,6 +19284,11 @@
 						"zh": 2
 					}
 				},
+				"translationd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"uname": {
 					"status": {
 						"en": 2,
@@ -19228,6 +19342,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"warmd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wc": {
@@ -19447,7 +19566,7 @@
 				"uk": 2,
 				"uz": 0,
 				"zh": 70,
-				"zh_TW": 7
+				"zh_TW": 8
 			},
 			"pages": {
 				"assoc": {
@@ -20191,7 +20310,8 @@
 				"set": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"setx": {
