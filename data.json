@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 03-Oct-22 02:00:09 CEST",
+	"last_update": "Tuesday, 04-Oct-22 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -270,7 +270,7 @@
 				"hi": 2,
 				"id": 4,
 				"it": 15,
-				"ja": 2,
+				"ja": 1,
 				"ko": 9,
 				"ml": 0,
 				"ne": 0,
@@ -1232,6 +1232,11 @@
 					}
 				},
 				"az-feedback": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-group": {
 					"status": {
 						"en": 2
 					}
@@ -2824,6 +2829,11 @@
 						"it": 1
 					}
 				},
+				"ddev": {
+					"status": {
+						"en": 2
+					}
+				},
 				"deb-get": {
 					"status": {
 						"en": 2
@@ -3152,6 +3162,11 @@
 						"fr": 2,
 						"it": 2,
 						"tr": 2
+					}
+				},
+				"docker-load": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-login": {
@@ -4215,6 +4230,43 @@
 					}
 				},
 				"fossa": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil-add": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil-ci": {
+					"status": {
+						"ca": 2,
+						"en": 2,
+						"es": 2
+					}
+				},
+				"fossil-commit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil-delete": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil-forget": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil-rm": {
 					"status": {
 						"en": 2
 					}
@@ -5310,6 +5362,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"tr": 2,
 						"zh": 2
@@ -5362,15 +5415,15 @@
 				},
 				"git-remote": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"pt_BR": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"git-rename-branch": {
@@ -7204,6 +7257,11 @@
 					}
 				},
 				"kompose": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kool": {
 					"status": {
 						"en": 2
 					}
@@ -9772,6 +9830,11 @@
 						"en": 2
 					}
 				},
+				"plocate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pm2": {
 					"status": {
 						"en": 2
@@ -10232,6 +10295,11 @@
 					}
 				},
 				"qemu-img": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-nbdstop": {
 					"status": {
 						"en": 2
 					}
@@ -13324,6 +13392,11 @@
 						"en": 2
 					}
 				},
+				"zdiff": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zeek": {
 					"status": {
 						"en": 2
@@ -14014,6 +14087,11 @@
 						"en": 2
 					}
 				},
+				"battop": {
+					"status": {
+						"en": 2
+					}
+				},
 				"beep": {
 					"status": {
 						"de": 2,
@@ -14120,6 +14198,7 @@
 				"brightnessctl": {
 					"status": {
 						"en": 2,
+						"ml": 2,
 						"zh": 2
 					}
 				},
@@ -14969,6 +15048,11 @@
 						"en": 2
 					}
 				},
+				"fastfetch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fatlabel": {
 					"status": {
 						"en": 2,
@@ -15068,43 +15152,6 @@
 					}
 				},
 				"foreman": {
-					"status": {
-						"en": 2
-					}
-				},
-				"fossil": {
-					"status": {
-						"en": 2
-					}
-				},
-				"fossil-add": {
-					"status": {
-						"en": 2
-					}
-				},
-				"fossil-ci": {
-					"status": {
-						"ca": 2,
-						"en": 2,
-						"es": 2
-					}
-				},
-				"fossil-commit": {
-					"status": {
-						"en": 2
-					}
-				},
-				"fossil-delete": {
-					"status": {
-						"en": 2
-					}
-				},
-				"fossil-forget": {
-					"status": {
-						"en": 2
-					}
-				},
-				"fossil-rm": {
 					"status": {
 						"en": 2
 					}
@@ -15602,6 +15649,11 @@
 					}
 				},
 				"jpegtran": {
+					"status": {
+						"en": 2
+					}
+				},
+				"just-js": {
 					"status": {
 						"en": 2
 					}
@@ -17202,6 +17254,7 @@
 				"ruget": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ta": 2
 					}
 				},
@@ -18060,6 +18113,11 @@
 						"en": 2
 					}
 				},
+				"warpd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"watch": {
 					"status": {
 						"de": 2,
@@ -18446,7 +18504,7 @@
 				"fr": 0,
 				"hi": 0,
 				"id": 5,
-				"it": 6,
+				"it": 5,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -18454,7 +18512,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 1,
-				"pt_BR": 21,
+				"pt_BR": 19,
 				"pt_PT": 6,
 				"ro": 0,
 				"ru": 1,
@@ -18466,7 +18524,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 49,
+				"zh": 44,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -18564,6 +18622,11 @@
 						"zh": 2
 					}
 				},
+				"autofsd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"automountd": {
 					"status": {
 						"en": 2,
@@ -18593,6 +18656,16 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"biomesyncd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"biometrickitd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bird": {
@@ -18659,6 +18732,11 @@
 						"zh": 2
 					}
 				},
+				"cloudd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cloudphotod": {
 					"status": {
 						"en": 2,
@@ -18695,6 +18773,11 @@
 						"en": 2
 					}
 				},
+				"coredatad": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cot": {
 					"status": {
 						"en": 2,
@@ -18711,6 +18794,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"ctkd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cut": {
@@ -18730,6 +18818,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				},
@@ -18743,6 +18832,16 @@
 					"status": {
 						"en": 2,
 						"zh": 1
+					}
+				},
+				"deleted": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dhcp6d": {
+					"status": {
+						"en": 2
 					}
 				},
 				"diskutil": {
@@ -18848,6 +18947,11 @@
 						"zh": 2
 					}
 				},
+				"hidd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"icalbuddy": {
 					"status": {
 						"en": 2
@@ -18860,6 +18964,11 @@
 					}
 				},
 				"indent": {
+					"status": {
+						"en": 2
+					}
+				},
+				"internetsharing": {
 					"status": {
 						"en": 2
 					}
@@ -19237,6 +19346,11 @@
 						"zh": 2
 					}
 				},
+				"symptomsd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sysctl": {
 					"status": {
 						"en": 2,
@@ -19254,6 +19368,11 @@
 						"en": 2,
 						"pt_PT": 2,
 						"zh": 2
+					}
+				},
+				"systemsoundserverd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tail": {
@@ -19349,10 +19468,25 @@
 						"en": 2
 					}
 				},
+				"watchdogd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"watchlistd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wc": {
 					"status": {
 						"en": 2,
 						"pl": 2
+					}
+				},
+				"webinspectord": {
+					"status": {
+						"en": 2
 					}
 				},
 				"whatis": {
@@ -19369,6 +19503,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"wps": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xattr": {
