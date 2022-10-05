@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 04-Oct-22 02:00:06 CEST",
+	"last_update": "Wednesday, 05-Oct-22 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1744,6 +1744,16 @@
 						"ko": 2
 					}
 				},
+				"bzegrep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bzfgrep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bzgrep": {
 					"status": {
 						"en": 2
@@ -1924,11 +1934,16 @@
 						"sr": 1,
 						"sv": 1,
 						"ta": 2,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
 				"cdk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"certutil": {
 					"status": {
 						"en": 2
 					}
@@ -4266,6 +4281,16 @@
 						"en": 2
 					}
 				},
+				"fossil-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fossil-new": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fossil-rm": {
 					"status": {
 						"en": 2
@@ -4524,6 +4549,11 @@
 					}
 				},
 				"gh-issue-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-label": {
 					"status": {
 						"en": 2
 					}
@@ -4787,6 +4817,11 @@
 					}
 				},
 				"git-browse": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-browse-ci": {
 					"status": {
 						"en": 2
 					}
@@ -6941,7 +6976,7 @@
 				"java": {
 					"status": {
 						"en": 2,
-						"id": 1,
+						"id": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"ta": 2,
@@ -10615,6 +10650,11 @@
 						"en": 2
 					}
 				},
+				"rgrep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rich": {
 					"status": {
 						"en": 2
@@ -13387,6 +13427,11 @@
 						"en": 2
 					}
 				},
+				"zcmp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zdb": {
 					"status": {
 						"en": 2
@@ -13402,6 +13447,11 @@
 						"en": 2
 					}
 				},
+				"zegrep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zek": {
 					"status": {
 						"en": 2
@@ -13412,7 +13462,17 @@
 						"en": 2
 					}
 				},
+				"zfgrep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zfs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zgrep": {
 					"status": {
 						"en": 2
 					}
@@ -14289,16 +14349,6 @@
 						"en": 2
 					}
 				},
-				"bzegrep": {
-					"status": {
-						"en": 2
-					}
-				},
-				"bzfgrep": {
-					"status": {
-						"en": 2
-					}
-				},
 				"caja": {
 					"status": {
 						"en": 2
@@ -14634,6 +14684,16 @@
 						"en": 2
 					}
 				},
+				"dconf-read": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dconf-reset": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dconf-write": {
 					"status": {
 						"en": 2
@@ -14800,7 +14860,17 @@
 						"tr": 2
 					}
 				},
+				"dnsmap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dnsrecon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dnstracer": {
 					"status": {
 						"en": 2
 					}
@@ -17011,6 +17081,16 @@
 						"en": 2
 					}
 				},
+				"qm-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-start": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qmrestore": {
 					"status": {
 						"en": 2
@@ -17163,11 +17243,6 @@
 					}
 				},
 				"rfkill": {
-					"status": {
-						"en": 2
-					}
-				},
-				"rgrep": {
 					"status": {
 						"en": 2
 					}
@@ -18444,20 +18519,11 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"it": 2
-					}
-				},
-				"zegrep": {
-					"status": {
-						"en": 2
+						"it": 2,
+						"pt_BR": 2
 					}
 				},
 				"zenity": {
-					"status": {
-						"en": 2
-					}
-				},
-				"zgrep": {
 					"status": {
 						"en": 2
 					}
@@ -18631,6 +18697,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"auvaltool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"avbdeviced": {
@@ -19705,7 +19776,7 @@
 				"uk": 2,
 				"uz": 0,
 				"zh": 70,
-				"zh_TW": 8
+				"zh_TW": 14
 			},
 			"pages": {
 				"assoc": {
@@ -20176,7 +20247,8 @@
 						"en": 2,
 						"id": 2,
 						"ja": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"iscc": {
@@ -20193,7 +20265,8 @@
 				"logoff": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"mkdir": {
@@ -20215,7 +20288,8 @@
 				"more": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"mount": {
@@ -20260,7 +20334,8 @@
 				"path": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"pathping": {
@@ -20515,7 +20590,8 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"tree": {
@@ -20537,7 +20613,8 @@
 						"en": 2,
 						"fa": 2,
 						"pt_BR": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"tzutil": {
@@ -20558,7 +20635,8 @@
 						"id": 2,
 						"pl": 2,
 						"pt_BR": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"virtualboxvm": {
@@ -20594,7 +20672,8 @@
 						"fr": 2,
 						"id": 2,
 						"pt_BR": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"winget": {
