@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 05-Oct-22 02:00:04 CEST",
+	"last_update": "Thursday, 06-Oct-22 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -51,7 +51,7 @@
 				"fr": 100,
 				"hi": 0,
 				"id": 100,
-				"it": 15,
+				"it": 23,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -96,6 +96,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
+						"it": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 2,
@@ -266,7 +267,7 @@
 				"en": 99,
 				"es": 6,
 				"fa": 0,
-				"fr": 14,
+				"fr": 13,
 				"hi": 2,
 				"id": 4,
 				"it": 15,
@@ -1266,12 +1267,22 @@
 						"en": 2
 					}
 				},
+				"az-redis": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-sshkey": {
 					"status": {
 						"en": 2
 					}
 				},
 				"az-storage": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-storage-account": {
 					"status": {
 						"en": 2
 					}
@@ -1445,7 +1456,7 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -3966,6 +3977,11 @@
 						"en": 2,
 						"it": 2,
 						"pt_BR": 2
+					}
+				},
+				"fastfetch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fastlane": {
@@ -6625,7 +6641,7 @@
 						"en": 2,
 						"es": 1,
 						"id": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
@@ -11235,6 +11251,11 @@
 						"en": 2
 					}
 				},
+				"snakefmt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"snyk": {
 					"status": {
 						"en": 2
@@ -12206,6 +12227,11 @@
 					}
 				},
 				"transfersh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"transmission": {
 					"status": {
 						"en": 2
 					}
@@ -15114,11 +15140,6 @@
 					}
 				},
 				"fallocate": {
-					"status": {
-						"en": 2
-					}
-				},
-				"fastfetch": {
 					"status": {
 						"en": 2
 					}
@@ -19775,7 +19796,7 @@
 				"tr": 0,
 				"uk": 2,
 				"uz": 0,
-				"zh": 70,
+				"zh": 69,
 				"zh_TW": 14
 			},
 			"pages": {
@@ -20388,6 +20409,11 @@
 					}
 				},
 				"query": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rd": {
 					"status": {
 						"en": 2
 					}
