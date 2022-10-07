@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 06-Oct-22 02:00:04 CEST",
+	"last_update": "Friday, 07-Oct-22 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -816,6 +816,7 @@
 						"no": 2,
 						"pt_BR": 2,
 						"sv": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -861,6 +862,7 @@
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -2911,6 +2913,7 @@
 				},
 				"deno": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"id": 2
 					}
@@ -4206,6 +4209,7 @@
 				},
 				"flutter": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"pt_BR": 2
 					}
@@ -6437,6 +6441,7 @@
 				"helm": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"pt_BR": 2
 					}
 				},
@@ -8175,8 +8180,14 @@
 						"it": 1,
 						"sr": 2,
 						"ta": 2,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 1
+					}
+				},
+				"mkdocs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mkfifo": {
@@ -14375,6 +14386,11 @@
 						"en": 2
 					}
 				},
+				"caffeine": {
+					"status": {
+						"en": 2
+					}
+				},
 				"caja": {
 					"status": {
 						"en": 2
@@ -15909,6 +15925,11 @@
 						"en": 2,
 						"es": 2,
 						"zh": 2
+					}
+				},
+				"links": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lnav": {
@@ -19685,7 +19706,7 @@
 				"ko": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 0,
+				"nl": 100,
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 0,
@@ -19707,12 +19728,14 @@
 				"devfsadm": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				},
 				"dmesg": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 2,
 						"zh": 2
 					}
@@ -19720,12 +19743,14 @@
 				"prctl": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				},
 				"prstat": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				},
@@ -19733,30 +19758,35 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				},
 				"svcadm": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				},
 				"svccfg": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				},
 				"svcs": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				},
 				"truss": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				}
