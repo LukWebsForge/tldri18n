@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 08-Oct-22 02:00:04 CEST",
+	"last_update": "Sunday, 09-Oct-22 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -51,7 +51,7 @@
 				"fr": 100,
 				"hi": 0,
 				"id": 100,
-				"it": 30,
+				"it": 38,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -196,6 +196,7 @@
 						"es": 2,
 						"fr": 2,
 						"id": 2,
+						"it": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 2,
@@ -555,7 +556,8 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"airmon-ng": {
@@ -1301,7 +1303,17 @@
 						"en": 2
 					}
 				},
+				"az-storage-container": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-storage-entity": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-storage-table": {
 					"status": {
 						"en": 2
 					}
@@ -1534,6 +1546,7 @@
 				"bg": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"hi": 2,
 						"it": 2,
 						"ko": 2,
@@ -5826,6 +5839,11 @@
 						"tr": 2
 					}
 				},
+				"git-utimes": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-var": {
 					"status": {
 						"en": 2,
@@ -7202,7 +7220,8 @@
 				},
 				"jwt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"k6": {
@@ -7216,11 +7235,6 @@
 					}
 				},
 				"k8sec": {
-					"status": {
-						"en": 2
-					}
-				},
-				"kafkacat": {
 					"status": {
 						"en": 2
 					}
@@ -7241,6 +7255,11 @@
 					}
 				},
 				"kate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kcat": {
 					"status": {
 						"en": 2
 					}
@@ -7472,6 +7491,11 @@
 					}
 				},
 				"latexmk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"laydown": {
 					"status": {
 						"en": 2
 					}
@@ -7928,6 +7952,11 @@
 					}
 				},
 				"lz4": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lzip": {
 					"status": {
 						"en": 2
 					}
@@ -9942,6 +9971,11 @@
 						"ta": 2
 					}
 				},
+				"podman-compose": {
+					"status": {
+						"en": 2
+					}
+				},
 				"poetry": {
 					"status": {
 						"en": 2,
@@ -11277,7 +11311,8 @@
 				},
 				"snakefmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"snyk": {
@@ -14592,6 +14627,11 @@
 						"en": 2
 					}
 				},
+				"compopt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"compose": {
 					"status": {
 						"en": 2
@@ -15892,6 +15932,11 @@
 						"en": 2
 					}
 				},
+				"latte-dock": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ldapdomaindump": {
 					"status": {
 						"en": 2
@@ -16611,6 +16656,11 @@
 						"en": 2
 					}
 				},
+				"nova": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nsenter": {
 					"status": {
 						"en": 2
@@ -17129,6 +17179,11 @@
 						"es": 2
 					}
 				},
+				"qa-shutdown": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qjoypad": {
 					"status": {
 						"en": 2
@@ -17140,6 +17195,11 @@
 					}
 				},
 				"qm-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-reboot": {
 					"status": {
 						"en": 2
 					}
@@ -17704,6 +17764,11 @@
 						"id": 2
 					}
 				},
+				"startx": {
+					"status": {
+						"en": 2
+					}
+				},
 				"steghide": {
 					"status": {
 						"en": 2
@@ -18007,6 +18072,7 @@
 				"uname": {
 					"status": {
 						"en": 2,
+						"ml": 2,
 						"ta": 2
 					}
 				},
@@ -19848,7 +19914,7 @@
 				"uk": 2,
 				"uz": 0,
 				"zh": 69,
-				"zh_TW": 14
+				"zh_TW": 16
 			},
 			"pages": {
 				"assoc": {
@@ -20202,7 +20268,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"fc": {
@@ -20442,6 +20509,11 @@
 						"zh": 2
 					}
 				},
+				"psexec": {
+					"status": {
+						"en": 2
+					}
+				},
 				"psping": {
 					"status": {
 						"en": 2
@@ -20569,7 +20641,8 @@
 						"en": 2,
 						"nl": 2,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"robocopy": {
@@ -20757,7 +20830,9 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"zh": 2
+						"id": 1,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"wmic": {
