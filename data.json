@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 09-Oct-22 02:00:04 CEST",
+	"last_update": "Monday, 10-Oct-22 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -51,7 +51,7 @@
 				"fr": 100,
 				"hi": 0,
 				"id": 100,
-				"it": 38,
+				"it": 46,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
@@ -141,6 +141,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
+						"it": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 2,
@@ -1086,6 +1087,11 @@
 						"pt_BR": 2
 					}
 				},
+				"aws-configure": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aws-cur": {
 					"status": {
 						"en": 2,
@@ -1127,6 +1133,11 @@
 						"fr": 2
 					}
 				},
+				"aws-history": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aws-iam": {
 					"status": {
 						"de": 2,
@@ -1145,6 +1156,11 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"aws-pricing": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-quicksight": {
@@ -1168,6 +1184,11 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-s3-ls": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-s3api": {
@@ -1278,6 +1299,11 @@
 						"en": 2
 					}
 				},
+				"az-provider": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-redis": {
 					"status": {
 						"en": 2
@@ -1309,6 +1335,11 @@
 					}
 				},
 				"az-storage-entity": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-storage-queue": {
 					"status": {
 						"en": 2
 					}
@@ -1410,6 +1441,7 @@
 				},
 				"base64": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -1952,7 +1984,7 @@
 				"cd": {
 					"status": {
 						"ca": 1,
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 1,
 						"fa": 1,
@@ -3440,6 +3472,11 @@
 					}
 				},
 				"dolt-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dolt-version": {
 					"status": {
 						"en": 2
 					}
@@ -6001,6 +6038,16 @@
 						"en": 2
 					}
 				},
+				"gnatmake": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnatprep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gnmic": {
 					"status": {
 						"en": 2
@@ -6257,6 +6304,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"gprbuild": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gradle": {
@@ -7239,6 +7291,11 @@
 						"en": 2
 					}
 				},
+				"kafkacat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kaggle": {
 					"status": {
 						"en": 2
@@ -7399,6 +7456,7 @@
 				"kubectl": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"pt_BR": 2
 					}
 				},
@@ -8817,6 +8875,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				},
@@ -13232,6 +13291,11 @@
 						"en": 2
 					}
 				},
+				"xe": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xephyr": {
 					"status": {
 						"en": 2
@@ -13683,7 +13747,7 @@
 				"ar": 0,
 				"bn": 0,
 				"bs": 0,
-				"ca": 9,
+				"ca": 8,
 				"da": 0,
 				"de": 9,
 				"en": 99,
@@ -14272,6 +14336,11 @@
 						"zh": 2
 					}
 				},
+				"blight": {
+					"status": {
+						"en": 2
+					}
+				},
 				"blkdiscard": {
 					"status": {
 						"en": 2,
@@ -14694,6 +14763,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -15349,6 +15419,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"pt_BR": 2
 					}
 				},
@@ -17179,11 +17250,6 @@
 						"es": 2
 					}
 				},
-				"qa-shutdown": {
-					"status": {
-						"en": 2
-					}
-				},
 				"qjoypad": {
 					"status": {
 						"en": 2
@@ -17196,6 +17262,17 @@
 				},
 				"qm-create": {
 					"status": {
+						"de": 2,
+						"en": 2
+					}
+				},
+				"qm-delsnapshot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-listsnapshot": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -17204,8 +17281,19 @@
 						"en": 2
 					}
 				},
+				"qm-reset": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-shutdown": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-start": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -17299,11 +17387,17 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"hi": 2,
 						"id": 2,
 						"zh": 1
 					}
 				},
 				"reflector": {
+					"status": {
+						"en": 2
+					}
+				},
+				"register_new_matrix_user": {
 					"status": {
 						"en": 2
 					}
@@ -17337,7 +17431,8 @@
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"hi": 2
 					}
 				},
 				"resize2fs": {
@@ -18000,6 +18095,11 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"trashy": {
+					"status": {
+						"en": 2
 					}
 				},
 				"trizen": {
@@ -19900,7 +20000,7 @@
 				"ne": 0,
 				"nl": 5,
 				"no": 2,
-				"pl": 4,
+				"pl": 7,
 				"pt_BR": 15,
 				"pt_PT": 0,
 				"ro": 0,
@@ -20206,7 +20306,8 @@
 				},
 				"curl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"del": {
@@ -20674,6 +20775,7 @@
 				"set": {
 					"status": {
 						"en": 2,
+						"pl": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -20733,7 +20835,8 @@
 				},
 				"time": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"title": {
@@ -20821,6 +20924,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2,
 						"zh_TW": 2
