@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 12-Oct-22 02:00:04 CEST",
+	"last_update": "Thursday, 13-Oct-22 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -513,7 +513,7 @@
 						"it": 1,
 						"pl": 1,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1895,14 +1895,16 @@
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"cabal": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"caddy": {
@@ -2208,6 +2210,11 @@
 						"it": 2,
 						"ko": 2,
 						"ta": 2
+					}
+				},
+				"clamav": {
+					"status": {
+						"en": 2
 					}
 				},
 				"clamdscan": {
@@ -3481,6 +3488,11 @@
 						"en": 2
 					}
 				},
+				"doctl-kubernetes-options": {
+					"status": {
+						"en": 2
+					}
+				},
 				"doctum": {
 					"status": {
 						"en": 2
@@ -3540,7 +3552,17 @@
 						"en": 2
 					}
 				},
+				"dolt-fetch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dolt-sql": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dolt-status": {
 					"status": {
 						"en": 2
 					}
@@ -4459,6 +4481,11 @@
 						"en": 2
 					}
 				},
+				"freshclam": {
+					"status": {
+						"en": 2
+					}
+				},
 				"from": {
 					"status": {
 						"en": 2
@@ -4490,7 +4517,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"hi": 2
+						"hi": 2,
+						"id": 2
 					}
 				},
 				"func": {
@@ -5101,6 +5129,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"ko": 2,
 						"ta": 2,
 						"tr": 2
 					}
@@ -6444,7 +6473,8 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"ru": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"grex": {
@@ -8307,7 +8337,7 @@
 				"micro": {
 					"status": {
 						"en": 2,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"middleman": {
@@ -8831,6 +8861,7 @@
 				"neofetch": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"it": 2,
 						"pt_BR": 2
 					}
@@ -10155,7 +10186,17 @@
 						"ta": 2
 					}
 				},
+				"podman-build": {
+					"status": {
+						"en": 2
+					}
+				},
 				"podman-compose": {
+					"status": {
+						"en": 2
+					}
+				},
+				"podman-machine": {
 					"status": {
 						"en": 2
 					}
@@ -11772,11 +11813,13 @@
 				},
 				"steam": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"steamcmd": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13801,7 +13844,7 @@
 						"en": 2,
 						"fr": 1,
 						"pt_BR": 2,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -13923,10 +13966,10 @@
 				"en": 99,
 				"es": 7,
 				"fa": 0,
-				"fr": 6,
-				"hi": 0,
+				"fr": 5,
+				"hi": 1,
 				"id": 1,
-				"it": 5,
+				"it": 4,
 				"ja": 0,
 				"ko": 0,
 				"ml": 1,
@@ -13946,7 +13989,7 @@
 				"tr": 3,
 				"uk": 0,
 				"uz": 0,
-				"zh": 12,
+				"zh": 11,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -14051,6 +14094,7 @@
 						"en": 2,
 						"fr": 2,
 						"pt_BR": 2,
+						"th": 2,
 						"zh": 2
 					}
 				},
@@ -14210,6 +14254,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"th": 2,
 						"zh": 2
 					}
 				},
@@ -14511,6 +14556,11 @@
 						"zh": 2
 					}
 				},
+				"blastp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"blight": {
 					"status": {
 						"en": 2
@@ -14579,6 +14629,12 @@
 						"zh": 2
 					}
 				},
+				"br": {
+					"status": {
+						"en": 2,
+						"hi": 2
+					}
+				},
 				"brctl": {
 					"status": {
 						"en": 2,
@@ -14590,12 +14646,14 @@
 					"status": {
 						"en": 2,
 						"ml": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
 				"broot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"hi": 2
 					}
 				},
 				"bspc": {
@@ -14847,7 +14905,6 @@
 				"clamav": {
 					"status": {
 						"ca": 2,
-						"en": 2,
 						"es": 2
 					}
 				},
@@ -15381,6 +15438,11 @@
 						"en": 2
 					}
 				},
+				"elink": {
+					"status": {
+						"en": 2
+					}
+				},
 				"emerge": {
 					"status": {
 						"en": 2
@@ -15402,6 +15464,11 @@
 					}
 				},
 				"equery": {
+					"status": {
+						"en": 2
+					}
+				},
+				"esearch": {
 					"status": {
 						"en": 2
 					}
@@ -16332,6 +16399,7 @@
 				"lsblk": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"pt_BR": 2
 					}
 				},
@@ -16385,6 +16453,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"it": 2
 					}
 				},
@@ -16716,6 +16785,11 @@
 					}
 				},
 				"mt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mumble": {
 					"status": {
 						"en": 2
 					}
@@ -17482,6 +17556,11 @@
 					}
 				},
 				"qm-shutdown": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-snapshot": {
 					"status": {
 						"en": 2
 					}
@@ -18911,6 +18990,11 @@
 						"pt_BR": 2
 					}
 				},
+				"xxhsum": {
+					"status": {
+						"en": 2
+					}
+				},
 				"yaourt": {
 					"status": {
 						"en": 2,
@@ -20240,11 +20324,11 @@
 				"sr": 0,
 				"sv": 4,
 				"ta": 5,
-				"th": 3,
+				"th": 4,
 				"tr": 0,
 				"uk": 2,
 				"uz": 0,
-				"zh": 69,
+				"zh": 68,
 				"zh_TW": 16
 			},
 			"pages": {
@@ -20282,7 +20366,8 @@
 				"chkdsk": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"th": 2
 					}
 				},
 				"choco": {
@@ -20483,6 +20568,7 @@
 				"cmd": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"it": 2,
 						"ja": 2,
 						"pt_BR": 2,
@@ -20510,6 +20596,12 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"cpush": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"cuninst": {
@@ -20805,7 +20897,7 @@
 				"pabcnetcclear": {
 					"status": {
 						"en": 2,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"path": {
