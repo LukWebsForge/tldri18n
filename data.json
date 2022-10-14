@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 13-Oct-22 02:00:05 CEST",
+	"last_update": "Friday, 14-Oct-22 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -44,23 +44,23 @@
 				"bs": 0,
 				"ca": 0,
 				"da": 0,
-				"de": 100,
+				"de": 92,
 				"en": 100,
 				"es": 7,
 				"fa": 0,
-				"fr": 100,
+				"fr": 92,
 				"hi": 0,
-				"id": 100,
-				"it": 76,
+				"id": 92,
+				"it": 71,
 				"ja": 0,
 				"ko": 0,
 				"ml": 0,
 				"ne": 0,
 				"nl": 0,
 				"no": 0,
-				"pl": 100,
-				"pt_BR": 100,
-				"pt_PT": 100,
+				"pl": 92,
+				"pt_BR": 92,
+				"pt_PT": 92,
 				"ro": 0,
 				"ru": 0,
 				"sh": 0,
@@ -68,11 +68,11 @@
 				"sv": 0,
 				"ta": 100,
 				"th": 0,
-				"tr": 100,
+				"tr": 92,
 				"uk": 0,
-				"uz": 46,
-				"zh": 100,
-				"zh_TW": 92
+				"uz": 42,
+				"zh": 92,
+				"zh_TW": 85
 			},
 			"pages": {
 				"am": {
@@ -255,6 +255,12 @@
 						"zh_TW": 2
 					}
 				},
+				"screencap": {
+					"status": {
+						"en": 2,
+						"ta": 2
+					}
+				},
 				"settings": {
 					"status": {
 						"de": 2,
@@ -319,7 +325,7 @@
 				"sr": 0,
 				"sv": 2,
 				"ta": 3,
-				"th": 0,
+				"th": 1,
 				"tr": 6,
 				"uk": 1,
 				"uz": 0,
@@ -706,7 +712,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ml": 2
 					}
 				},
 				"ansible": {
@@ -1909,7 +1916,8 @@
 				},
 				"caddy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"cake": {
@@ -2214,19 +2222,22 @@
 				},
 				"clamav": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"th": 2
 					}
 				},
 				"clamdscan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"th": 2
 					}
 				},
 				"clamscan": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"th": 2
 					}
 				},
 				"clang": {
@@ -4483,7 +4494,8 @@
 				},
 				"freshclam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"th": 2
 					}
 				},
 				"from": {
@@ -6772,7 +6784,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 2
+						"fr": 2,
+						"ru": 2
 					}
 				},
 				"history": {
@@ -6780,7 +6793,8 @@
 						"en": 2,
 						"es": 2,
 						"pt_BR": 2,
-						"pt_PT": 1
+						"pt_PT": 1,
+						"ru": 2
 					}
 				},
 				"hive": {
@@ -13934,6 +13948,7 @@
 						"fr": 1,
 						"it": 1,
 						"pt_BR": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -13977,7 +13992,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 8,
+				"pt_BR": 9,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 0,
@@ -15721,6 +15736,7 @@
 				"gedit": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ml": 2,
 						"pt_PT": 2,
 						"ta": 2
@@ -15768,7 +15784,8 @@
 				},
 				"gnome-calculator": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"gnome-extensions": {
@@ -15789,7 +15806,8 @@
 				"gnome-terminal": {
 					"status": {
 						"en": 2,
-						"ml": 2
+						"ml": 2,
+						"pt_BR": 2
 					}
 				},
 				"goaccess": {
@@ -16336,7 +16354,8 @@
 				"locate": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"login": {
@@ -19089,8 +19108,8 @@
 				"ca": 0,
 				"da": 0,
 				"de": 2,
-				"en": 98,
-				"es": 4,
+				"en": 97,
+				"es": 7,
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
@@ -19115,7 +19134,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 44,
+				"zh": 43,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -19998,6 +20017,7 @@
 				"textutil": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
@@ -20047,7 +20067,8 @@
 				},
 				"uuidgen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"valet": {
@@ -20076,6 +20097,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"warm": {
+					"status": {
+						"es": 2
 					}
 				},
 				"warmd": {
@@ -20117,6 +20143,7 @@
 				"wifi-password": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
@@ -20184,7 +20211,8 @@
 				},
 				"yabai": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				}
 			}
@@ -20322,7 +20350,7 @@
 				"ru": 2,
 				"sh": 0,
 				"sr": 0,
-				"sv": 4,
+				"sv": 5,
 				"ta": 5,
 				"th": 4,
 				"tr": 0,
@@ -20695,6 +20723,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"sv": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
