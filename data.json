@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 15-Oct-22 02:00:04 CEST",
+	"last_update": "Sunday, 16-Oct-22 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -452,6 +452,11 @@
 						"no": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"ac": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ack": {
@@ -1128,6 +1133,11 @@
 						"ko": 1,
 						"pl": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-cognito-idp": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-configure": {
@@ -3252,6 +3262,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 1,
+						"ko": 2,
 						"pt_BR": 1,
 						"tr": 1,
 						"zh": 2
@@ -3501,6 +3512,11 @@
 						"en": 2
 					}
 				},
+				"doctl-kubernetes-cluster": {
+					"status": {
+						"en": 2
+					}
+				},
 				"doctl-kubernetes-options": {
 					"status": {
 						"en": 2
@@ -3566,6 +3582,11 @@
 					}
 				},
 				"dolt-fetch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dolt-init": {
 					"status": {
 						"en": 2
 					}
@@ -3636,7 +3657,8 @@
 				},
 				"dotnet-tool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"doxygen": {
@@ -4958,6 +4980,7 @@
 				"git-annotate": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
@@ -8184,7 +8207,17 @@
 						"en": 2
 					}
 				},
+				"lzcat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lzip": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lzma": {
 					"status": {
 						"en": 2
 					}
@@ -12857,11 +12890,21 @@
 						"en": 2
 					}
 				},
+				"unlzma": {
+					"status": {
+						"en": 2
+					}
+				},
 				"unrar": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"pt_BR": 1
+					}
+				},
+				"unxz": {
+					"status": {
+						"en": 2
 					}
 				},
 				"unzip": {
@@ -13694,6 +13737,11 @@
 						"pt_BR": 2
 					}
 				},
+				"xzcat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xzdiff": {
 					"status": {
 						"en": 2
@@ -14307,6 +14355,7 @@
 						"es": 1,
 						"fr": 1,
 						"it": 1,
+						"pl": 2,
 						"pt_BR": 1,
 						"zh": 2
 					}
@@ -15937,11 +15986,6 @@
 						"it": 2
 					}
 				},
-				"hexdump": {
-					"status": {
-						"zh": 2
-					}
-				},
 				"hlint": {
 					"status": {
 						"en": 2
@@ -16312,7 +16356,7 @@
 				},
 				"ldd": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
@@ -16604,6 +16648,11 @@
 					}
 				},
 				"manpath": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mashtree": {
 					"status": {
 						"en": 2
 					}
@@ -17570,6 +17619,11 @@
 					}
 				},
 				"qm-delsnapshot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-guest-cmd": {
 					"status": {
 						"en": 2
 					}
