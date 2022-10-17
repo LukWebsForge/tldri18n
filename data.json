@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 16-Oct-22 02:00:04 CEST",
+	"last_update": "Monday, 17-Oct-22 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -887,6 +887,11 @@
 						"pt_BR": 2
 					}
 				},
+				"argon2": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aria2": {
 					"status": {
 						"bs": 2,
@@ -1290,6 +1295,11 @@
 						"en": 2
 					}
 				},
+				"aws-workmail": {
+					"status": {
+						"en": 2
+					}
+				},
 				"awslogs": {
 					"status": {
 						"de": 2,
@@ -1442,6 +1452,11 @@
 					}
 				},
 				"az-vm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-webapp": {
 					"status": {
 						"en": 2
 					}
@@ -2958,7 +2973,8 @@
 				"dart": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"dash": {
@@ -3587,6 +3603,11 @@
 					}
 				},
 				"dolt-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dolt-merge": {
 					"status": {
 						"en": 2
 					}
@@ -5077,6 +5098,11 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"git-bulk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-bundle": {
@@ -9505,6 +9531,11 @@
 						"en": 2
 					}
 				},
+				"ouch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"p10k": {
 					"status": {
 						"en": 2
@@ -10938,6 +10969,11 @@
 						"en": 2
 					}
 				},
+				"redis-benchmark": {
+					"status": {
+						"en": 2
+					}
+				},
 				"redis-cli": {
 					"status": {
 						"en": 2
@@ -10970,7 +11006,8 @@
 				},
 				"renice": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"repren": {
@@ -11089,6 +11126,11 @@
 					}
 				},
 				"rspec": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rss2email": {
 					"status": {
 						"en": 2
 					}
@@ -13923,6 +13965,11 @@
 						"zh": 1
 					}
 				},
+				"zip2john": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zipalign": {
 					"status": {
 						"en": 2
@@ -14042,7 +14089,7 @@
 				"en": 99,
 				"es": 7,
 				"fa": 0,
-				"fr": 5,
+				"fr": 6,
 				"hi": 1,
 				"id": 1,
 				"it": 4,
@@ -14053,7 +14100,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 9,
+				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 0,
@@ -14314,6 +14361,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 2,
+						"ja": 2,
 						"ml": 2,
 						"pl": 2,
 						"pt_BR": 1,
@@ -14343,6 +14391,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -14433,6 +14482,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"pt_BR": 2,
 						"pt_PT": 2,
 						"ta": 2,
 						"zh": 2
@@ -14658,6 +14708,7 @@
 				"blkid": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -14763,39 +14814,46 @@
 				},
 				"btrfs-balance": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"btrfs-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"btrfs-device": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"btrfs-filesystem": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"btrfs-inspect-internal": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"btrfs-property": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"btrfs-rescue": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"btrfs-restore": {
@@ -15056,6 +15114,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -15689,6 +15748,7 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -17612,6 +17672,16 @@
 						"en": 2
 					}
 				},
+				"qm-clone": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-cloudinit-dump": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-create": {
 					"status": {
 						"de": 2,
@@ -18789,7 +18859,8 @@
 				},
 				"wall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"warpd": {
@@ -19160,7 +19231,8 @@
 				},
 				"zramctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"zypper": {
@@ -19821,10 +19893,10 @@
 				},
 				"open": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"id": 2,
-						"zh": 2
+						"id": 1,
+						"zh": 1
 					}
 				},
 				"opensnoop": {
@@ -20304,7 +20376,7 @@
 				"en": 100,
 				"es": 0,
 				"fa": 0,
-				"fr": 0,
+				"fr": 11,
 				"hi": 0,
 				"id": 0,
 				"it": 0,
@@ -20341,6 +20413,7 @@
 				"dmesg": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"nl": 2,
 						"ta": 2,
 						"zh": 2
@@ -20419,7 +20492,7 @@
 				"ne": 0,
 				"nl": 5,
 				"no": 2,
-				"pl": 7,
+				"pl": 8,
 				"pt_BR": 16,
 				"pt_PT": 0,
 				"ro": 0,
@@ -20737,10 +20810,10 @@
 				},
 				"curl": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"id": 1,
-						"pl": 2
+						"id": 2,
+						"pl": 1
 					}
 				},
 				"del": {
@@ -21353,7 +21426,7 @@
 				"wget": {
 					"status": {
 						"en": 2,
-						"id": 1
+						"id": 2
 					}
 				},
 				"where": {
@@ -21365,21 +21438,21 @@
 				"whoami": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"id": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"fr": 1,
+						"id": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"winget": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"id": 1,
-						"zh": 2,
-						"zh_TW": 2
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"wmic": {
@@ -21404,6 +21477,7 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				}
