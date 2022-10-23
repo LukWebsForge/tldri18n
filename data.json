@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 22-Oct-22 02:00:04 CEST",
+	"last_update": "Sunday, 23-Oct-22 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1155,6 +1155,7 @@
 				"aws-configure": {
 					"status": {
 						"en": 2,
+						"ja": 2,
 						"pt_BR": 2
 					}
 				},
@@ -3018,8 +3019,8 @@
 				"dash": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"it": 2
+						"fr": 1,
+						"it": 1
 					}
 				},
 				"date": {
@@ -3056,7 +3057,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"it": 1
+						"it": 1,
+						"pt_BR": 2
 					}
 				},
 				"ddev": {
@@ -6958,6 +6960,7 @@
 				"hostname": {
 					"status": {
 						"en": 2,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -7055,7 +7058,8 @@
 				},
 				"hunspell": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"husky": {
@@ -12893,6 +12897,11 @@
 						"en": 2
 					}
 				},
+				"twurl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tye": {
 					"status": {
 						"en": 2
@@ -13229,6 +13238,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"uk": 2,
 						"zh": 2
 					}
@@ -14178,17 +14188,17 @@
 				"en": 99,
 				"es": 7,
 				"fa": 0,
-				"fr": 7,
-				"hi": 1,
+				"fr": 6,
+				"hi": 0,
 				"id": 2,
-				"it": 5,
+				"it": 4,
 				"ja": 0,
 				"ko": 0,
 				"ml": 1,
 				"ne": 0,
 				"nl": 0,
 				"no": 0,
-				"pl": 2,
+				"pl": 3,
 				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
@@ -14196,7 +14206,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
-				"ta": 5,
+				"ta": 4,
 				"th": 0,
 				"tr": 3,
 				"uk": 0,
@@ -14650,6 +14660,7 @@
 						"en": 2,
 						"ml": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -14808,6 +14819,7 @@
 				"blkid": {
 					"status": {
 						"en": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -15089,7 +15101,8 @@
 				},
 				"chcpu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"check-language-support": {
@@ -16181,7 +16194,8 @@
 				},
 				"hostnamectl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"htpdate": {
@@ -16263,7 +16277,8 @@
 				"ifup": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pl": 2
 					}
 				},
 				"imgp": {
@@ -16367,7 +16382,8 @@
 				},
 				"ispell": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"iw": {
@@ -17859,6 +17875,16 @@
 						"en": 2
 					}
 				},
+				"qm-guest-exec-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-guest-passwd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-listsnapshot": {
 					"status": {
 						"en": 2
@@ -18049,7 +18075,8 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
-						"hi": 2
+						"hi": 2,
+						"pl": 2
 					}
 				},
 				"resize2fs": {
@@ -18291,7 +18318,8 @@
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				},
 				"service": {
@@ -19156,6 +19184,7 @@
 				"wtf": {
 					"status": {
 						"en": 2,
+						"pl": 2,
 						"pt_BR": 2
 					}
 				},
