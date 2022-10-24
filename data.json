@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 23-Oct-22 02:00:05 CEST",
+	"last_update": "Monday, 24-Oct-22 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -374,7 +374,7 @@
 						"ja": 1,
 						"ko": 2,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -389,7 +389,7 @@
 						"ja": 1,
 						"ko": 2,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -404,7 +404,7 @@
 						"ko": 2,
 						"nl": 1,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"sv": 1,
 						"zh": 2
 					}
@@ -977,6 +977,7 @@
 				},
 				"asdf": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"it": 2,
@@ -1142,6 +1143,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 1,
+						"ja": 2,
 						"ko": 1,
 						"pl": 2,
 						"pt_BR": 2
@@ -1376,6 +1378,7 @@
 				},
 				"az-config": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -1402,6 +1405,7 @@
 				},
 				"az-logout": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -10329,7 +10333,8 @@
 				},
 				"pm2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"pngcheck": {
@@ -13552,6 +13557,7 @@
 				"wget": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"it": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -14206,7 +14212,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
-				"ta": 4,
+				"ta": 5,
 				"th": 0,
 				"tr": 3,
 				"uk": 0,
@@ -16042,22 +16048,26 @@
 				"gnome-calculator": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ta": 2
 					}
 				},
 				"gnome-extensions": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"gnome-screenshot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"gnome-software": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"gnome-terminal": {
@@ -16847,7 +16857,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_PT": 2
 					}
 				},
 				"mandb": {
@@ -17844,6 +17855,11 @@
 						"en": 2
 					}
 				},
+				"qm-cleanup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-clone": {
 					"status": {
 						"en": 2
@@ -17891,6 +17907,11 @@
 					}
 				},
 				"qm-monitor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-mtunnel": {
 					"status": {
 						"en": 2
 					}
@@ -20730,7 +20751,7 @@
 				"fa": 2,
 				"fr": 3,
 				"hi": 2,
-				"id": 16,
+				"id": 17,
 				"it": 2,
 				"ja": 13,
 				"ko": 0,
@@ -20738,11 +20759,11 @@
 				"ne": 0,
 				"nl": 5,
 				"no": 2,
-				"pl": 8,
-				"pt_BR": 16,
+				"pl": 7,
+				"pt_BR": 15,
 				"pt_PT": 0,
 				"ro": 0,
-				"ru": 8,
+				"ru": 7,
 				"sh": 0,
 				"sr": 0,
 				"sv": 5,
@@ -20840,6 +20861,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"id": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"zh": 2
@@ -21344,6 +21366,11 @@
 						"en": 2,
 						"id": 2,
 						"ru": 2
+					}
+				},
+				"netstat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nfsstat": {
