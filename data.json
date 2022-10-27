@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 26-Oct-22 02:00:05 CEST",
+	"last_update": "Thursday, 27-Oct-22 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -314,7 +314,7 @@
 				"hi": 2,
 				"id": 4,
 				"it": 15,
-				"ja": 1,
+				"ja": 2,
 				"ko": 9,
 				"lo": 0,
 				"ml": 0,
@@ -586,6 +586,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ja": 2,
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -892,8 +893,8 @@
 				"arduino": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"pt_BR": 2
+						"fr": 1,
+						"pt_BR": 1
 					}
 				},
 				"arduino-builder": {
@@ -1225,6 +1226,7 @@
 				"aws-history": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1335,6 +1337,11 @@
 						"en": 2
 					}
 				},
+				"aws-sqs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aws-sts": {
 					"status": {
 						"en": 2
@@ -1422,7 +1429,8 @@
 				"az-logout": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-network": {
@@ -1447,7 +1455,8 @@
 				},
 				"az-sshkey": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-storage": {
@@ -1507,7 +1516,8 @@
 				},
 				"az-vm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-webapp": {
@@ -1897,6 +1907,7 @@
 				"btm": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -1940,7 +1951,8 @@
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"buzzphrase": {
@@ -3616,6 +3628,11 @@
 						"en": 2
 					}
 				},
+				"doctl-serverless": {
+					"status": {
+						"en": 2
+					}
+				},
 				"doctum": {
 					"status": {
 						"en": 2
@@ -4172,7 +4189,7 @@
 				"exiftool": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 1
 					}
 				},
 				"exit": {
@@ -7651,6 +7668,11 @@
 						"en": 2
 					}
 				},
+				"kcadm.sh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kcat": {
 					"status": {
 						"en": 2
@@ -9068,6 +9090,7 @@
 				},
 				"ncdu": {
 					"status": {
+						"da": 2,
 						"en": 2
 					}
 				},
@@ -9293,6 +9316,7 @@
 					"status": {
 						"en": 2,
 						"fa": 1,
+						"ru": 2,
 						"sv": 1
 					}
 				},
@@ -10452,6 +10476,7 @@
 				},
 				"popd": {
 					"status": {
+						"da": 2,
 						"en": 2
 					}
 				},
@@ -10739,6 +10764,7 @@
 				},
 				"pushd": {
 					"status": {
+						"da": 2,
 						"en": 2
 					}
 				},
@@ -10792,6 +10818,11 @@
 					}
 				},
 				"pyats": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pyats-shell": {
 					"status": {
 						"en": 2
 					}
@@ -12074,7 +12105,8 @@
 				},
 				"stat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"stdbuf": {
@@ -13519,6 +13551,7 @@
 				},
 				"w": {
 					"status": {
+						"da": 2,
 						"en": 2,
 						"pl": 2,
 						"zh": 2,
@@ -14283,7 +14316,7 @@
 				"en": 99,
 				"es": 7,
 				"fa": 0,
-				"fr": 6,
+				"fr": 8,
 				"hi": 0,
 				"id": 2,
 				"it": 4,
@@ -14463,6 +14496,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"pt_BR": 2,
 						"zh": 2
@@ -14482,6 +14516,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
@@ -14740,6 +14775,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"ta": 2,
 						"zh": 2
 					}
@@ -14748,6 +14784,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"zh": 2
@@ -14856,6 +14893,7 @@
 				"batcat": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
@@ -14899,6 +14937,11 @@
 						"zh": 2
 					}
 				},
+				"blastn": {
+					"status": {
+						"en": 2
+					}
+				},
 				"blastp": {
 					"status": {
 						"en": 2
@@ -14906,7 +14949,8 @@
 				},
 				"blight": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"blkdiscard": {
@@ -15035,12 +15079,14 @@
 				"btrfs-check": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
 				"btrfs-device": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -15048,6 +15094,7 @@
 				"btrfs-filesystem": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -15055,6 +15102,7 @@
 				"btrfs-inspect-internal": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
@@ -15067,30 +15115,35 @@
 				"btrfs-rescue": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
 				"btrfs-restore": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"btrfs-scrub": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"zh": 2
 					}
 				},
 				"btrfs-subvolume": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"btrfs-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"burpsuite": {
@@ -15104,6 +15157,11 @@
 					}
 				},
 				"caffeine": {
+					"status": {
+						"en": 2
+					}
+				},
+				"caffeine-indicator": {
 					"status": {
 						"en": 2
 					}
@@ -15841,6 +15899,11 @@
 					}
 				},
 				"equery": {
+					"status": {
+						"en": 2
+					}
+				},
+				"esa-snap": {
 					"status": {
 						"en": 2
 					}
@@ -18063,6 +18126,11 @@
 						"en": 2
 					}
 				},
+				"qm-sendkey": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-shutdown": {
 					"status": {
 						"en": 2
@@ -18080,6 +18148,11 @@
 					}
 				},
 				"qm-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-vncproxy": {
 					"status": {
 						"en": 2
 					}
@@ -18483,6 +18556,11 @@
 					}
 				},
 				"setfacl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"setserial": {
 					"status": {
 						"en": 2
 					}
@@ -19089,17 +19167,20 @@
 				},
 				"uuid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"uuidd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"uuidgen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"uvcdynctrl": {
@@ -19387,7 +19468,8 @@
 				},
 				"xcowsay": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"xcursorgen": {
@@ -20959,16 +21041,16 @@
 				},
 				"cd": {
 					"status": {
-						"bn": 2,
-						"de": 2,
+						"bn": 1,
+						"de": 1,
 						"en": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ru": 2,
-						"ta": 2
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ru": 1,
+						"ta": 1
 					}
 				},
 				"chkdsk": {
