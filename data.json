@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 27-Oct-22 02:00:05 CEST",
+	"last_update": "Friday, 28-Oct-22 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11324,7 +11324,8 @@
 				},
 				"rspec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"rss2email": {
@@ -14684,7 +14685,8 @@
 				},
 				"apt-moo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"aptitude": {
