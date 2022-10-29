@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 28-Oct-22 02:00:05 CEST",
+	"last_update": "Saturday, 29-Oct-22 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1662,6 +1662,7 @@
 						"ja": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -2131,9 +2132,11 @@
 						"id": 2,
 						"it": 1,
 						"ko": 2,
+						"ne": 2,
 						"no": 2,
 						"pt_BR": 1,
 						"ru": 2,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -2750,6 +2753,7 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 1,
+						"ne": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -2843,6 +2847,11 @@
 					}
 				},
 				"croc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cron": {
 					"status": {
 						"en": 2
 					}
@@ -4380,6 +4389,7 @@
 						"de": 2,
 						"en": 2,
 						"it": 2,
+						"ne": 2,
 						"pt_BR": 2
 					}
 				},
@@ -8321,6 +8331,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 2,
+						"ne": 2,
 						"pt_BR": 1,
 						"ru": 2,
 						"ta": 1,
@@ -12988,6 +12999,11 @@
 						"sv": 2
 					}
 				},
+				"tuckr": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tuir": {
 					"status": {
 						"en": 2
@@ -14730,6 +14746,11 @@
 						"zh": 2
 					}
 				},
+				"archivemount": {
+					"status": {
+						"en": 2
+					}
+				},
 				"archlinux-java": {
 					"status": {
 						"de": 2,
@@ -15406,6 +15427,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"uk": 2,
@@ -15717,7 +15739,8 @@
 				},
 				"do-release-upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"dockerd": {
@@ -16247,6 +16270,11 @@
 						"en": 2
 					}
 				},
+				"goobook": {
+					"status": {
+						"en": 2
+					}
+				},
 				"google-chrome": {
 					"status": {
 						"de": 2
@@ -16296,6 +16324,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"grub-script-check": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gs": {
@@ -18093,6 +18126,11 @@
 						"en": 2
 					}
 				},
+				"qm-migrate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-monitor": {
 					"status": {
 						"en": 2
@@ -18181,6 +18219,11 @@
 					}
 				},
 				"qtchooser": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qtile": {
 					"status": {
 						"en": 2
 					}
@@ -19691,7 +19734,8 @@
 				"zramctl": {
 					"status": {
 						"en": 2,
-						"pl": 2
+						"pl": 2,
+						"pt_BR": 2
 					}
 				},
 				"zypper": {
