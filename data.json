@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 29-Oct-22 02:00:04 CEST",
+	"last_update": "Sunday, 30-Oct-22 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4140,6 +4140,11 @@
 						"it": 2
 					}
 				},
+				"esptool.py": {
+					"status": {
+						"en": 2
+					}
+				},
 				"etcd": {
 					"status": {
 						"en": 2,
@@ -4346,12 +4351,14 @@
 				},
 				"fd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"fdp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"fdroid": {
@@ -4453,7 +4460,8 @@
 				},
 				"finger": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"fio": {
@@ -7586,6 +7594,7 @@
 				},
 				"jq": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"ru": 2
 					}
@@ -11286,6 +11295,7 @@
 				},
 				"rmdir": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"hi": 2,
 						"ta": 2,
@@ -11305,6 +11315,7 @@
 				},
 				"robo": {
 					"status": {
+						"ar": 2,
 						"en": 2
 					}
 				},
@@ -11664,6 +11675,11 @@
 						"en": 2
 					}
 				},
+				"sfdx": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sftp": {
 					"status": {
 						"en": 2
@@ -11864,6 +11880,11 @@
 					}
 				},
 				"socat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sockstat": {
 					"status": {
 						"en": 2
 					}
@@ -12812,6 +12833,7 @@
 				},
 				"tox": {
 					"status": {
+						"ar": 2,
 						"en": 2
 					}
 				},
@@ -13516,6 +13538,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ne": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -14344,7 +14367,7 @@
 				"ne": 0,
 				"nl": 0,
 				"no": 0,
-				"pl": 3,
+				"pl": 4,
 				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
@@ -14556,6 +14579,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				},
@@ -15374,6 +15398,11 @@
 						"pt_BR": 2
 					}
 				},
+				"cockpit-ws": {
+					"status": {
+						"en": 2
+					}
+				},
 				"collectd": {
 					"status": {
 						"en": 2
@@ -15431,7 +15460,8 @@
 						"pt_BR": 2,
 						"tr": 2,
 						"uk": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cpufreq-aperf": {
@@ -16007,6 +16037,7 @@
 				"fatlabel": {
 					"status": {
 						"en": 2,
+						"pl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -16270,6 +16301,11 @@
 						"en": 2
 					}
 				},
+				"goldeneye.py": {
+					"status": {
+						"en": 2
+					}
+				},
 				"goobook": {
 					"status": {
 						"en": 2
@@ -16465,7 +16501,8 @@
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				},
 				"ifdown": {
@@ -16889,6 +16926,11 @@
 						"en": 2
 					}
 				},
+				"ls": {
+					"status": {
+						"pt_BR": 2
+					}
+				},
 				"lsattr": {
 					"status": {
 						"en": 2,
@@ -17309,6 +17351,11 @@
 				"mumble": {
 					"status": {
 						"en": 2
+					}
+				},
+				"mv": {
+					"status": {
+						"pt_BR": 2
 					}
 				},
 				"mycli": {
@@ -18810,6 +18857,11 @@
 						"en": 2
 					}
 				},
+				"sudo": {
+					"status": {
+						"pt_BR": 2
+					}
+				},
 				"swaks": {
 					"status": {
 						"en": 2
@@ -19280,7 +19332,8 @@
 				},
 				"vigr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"vipw": {
@@ -19330,7 +19383,8 @@
 				},
 				"vpnc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"vrms": {
@@ -19761,7 +19815,7 @@
 				"da": 0,
 				"de": 3,
 				"en": 97,
-				"es": 11,
+				"es": 12,
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
@@ -19936,7 +19990,8 @@
 				},
 				"biometrickitd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bird": {
