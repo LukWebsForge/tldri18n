@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 30-Oct-22 02:00:05 CEST",
+	"last_update": "Monday, 31-Oct-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -47,7 +47,7 @@
 				"da": 0,
 				"de": 92,
 				"en": 100,
-				"es": 7,
+				"es": 14,
 				"fa": 0,
 				"fr": 92,
 				"hi": 0,
@@ -182,6 +182,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -624,6 +625,11 @@
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
+					}
+				},
+				"airodump-ng": {
+					"status": {
+						"en": 2
 					}
 				},
 				"airpaste": {
@@ -2167,6 +2173,7 @@
 						"hi": 1,
 						"id": 1,
 						"it": 1,
+						"ja": 2,
 						"ko": 1,
 						"nl": 1,
 						"pt_BR": 1,
@@ -5174,14 +5181,14 @@
 				},
 				"git-blame": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"ta": 2,
-						"tr": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"ta": 1,
+						"tr": 1
 					}
 				},
 				"git-blame-someone-else": {
@@ -5744,6 +5751,16 @@
 						"it": 2,
 						"tr": 2,
 						"uk": 2
+					}
+				},
+				"git-merge-into": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-merge-repo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-mergetool": {
@@ -9983,6 +10000,11 @@
 						"en": 2
 					}
 				},
+				"pg_isready": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pg_restore": {
 					"status": {
 						"en": 2
@@ -11651,6 +11673,11 @@
 					}
 				},
 				"sequelize": {
+					"status": {
+						"en": 2
+					}
+				},
+				"serialver": {
 					"status": {
 						"en": 2
 					}
@@ -16888,6 +16915,11 @@
 						"en": 2
 					}
 				},
+				"logrotate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"logsave": {
 					"status": {
 						"de": 2,
@@ -18208,6 +18240,11 @@
 						"en": 2
 					}
 				},
+				"qm-resume": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-rollback": {
 					"status": {
 						"en": 2
@@ -18235,6 +18272,11 @@
 					}
 				},
 				"qm-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-unlock": {
 					"status": {
 						"en": 2
 					}
@@ -19194,6 +19236,11 @@
 					}
 				},
 				"unshare": {
+					"status": {
+						"en": 2
+					}
+				},
+				"unzipsfx": {
 					"status": {
 						"en": 2
 					}
