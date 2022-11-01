@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 31-Oct-22 01:00:04 CET",
+	"last_update": "Tuesday, 01-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -47,7 +47,7 @@
 				"da": 0,
 				"de": 92,
 				"en": 100,
-				"es": 14,
+				"es": 21,
 				"fa": 0,
 				"fr": 92,
 				"hi": 0,
@@ -166,6 +166,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"pl": 2,
@@ -332,7 +333,7 @@
 				"sv": 2,
 				"ta": 3,
 				"th": 1,
-				"tr": 6,
+				"tr": 7,
 				"uk": 1,
 				"uz": 0,
 				"zh": 9,
@@ -2307,6 +2308,7 @@
 						"fr": 2,
 						"hi": 1,
 						"it": 1,
+						"ja": 2,
 						"ko": 1,
 						"nl": 1,
 						"no": 1,
@@ -6455,6 +6457,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -6462,92 +6465,109 @@
 					"status": {
 						"en": 2,
 						"sv": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
 				"go-build": {
 					"status": {
 						"en": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
 				"go-clean": {
 					"status": {
 						"en": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
 				"go-doc": {
 					"status": {
 						"en": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
 				"go-env": {
 					"status": {
 						"en": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
 				"go-fix": {
 					"status": {
 						"en": 2,
-						"sv": 2
+						"sv": 2,
+						"tr": 2
 					}
 				},
 				"go-fmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-generate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-get": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-mod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-tool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"go-vet": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"gobuster": {
@@ -11516,6 +11536,11 @@
 						"en": 2
 					}
 				},
+				"sam2p": {
+					"status": {
+						"en": 2
+					}
+				},
 				"samtools": {
 					"status": {
 						"en": 2
@@ -13427,12 +13452,14 @@
 				},
 				"vimdiff": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2
 					}
 				},
 				"vimtutor": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"sv": 2
@@ -14404,7 +14431,7 @@
 				"sv": 0,
 				"ta": 5,
 				"th": 0,
-				"tr": 3,
+				"tr": 5,
 				"uk": 0,
 				"uz": 0,
 				"zh": 11,
@@ -14420,6 +14447,7 @@
 						"it": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -14432,6 +14460,7 @@
 						"it": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -14444,6 +14473,7 @@
 						"it": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -14456,6 +14486,7 @@
 						"it": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -14468,6 +14499,7 @@
 						"it": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -14480,6 +14512,7 @@
 						"it": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -14492,6 +14525,7 @@
 						"it": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -14892,6 +14926,11 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"atop": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aura": {
@@ -18091,39 +18130,46 @@
 				},
 				"pw-cat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"pw-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"pw-link": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"pw-loopback": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"pw-play": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"pw-record": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"pwd": {
 					"status": {
 						"en": 2,
 						"lo": 2,
-						"th": 2
+						"th": 2,
+						"tr": 2
 					}
 				},
 				"pwdx": {
@@ -18131,7 +18177,8 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"qjoypad": {
@@ -21050,7 +21097,7 @@
 				"sv": 0,
 				"ta": 100,
 				"th": 0,
-				"tr": 0,
+				"tr": 100,
 				"uk": 0,
 				"uz": 0,
 				"zh": 11,
@@ -21061,7 +21108,8 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"dmesg": {
@@ -21070,6 +21118,7 @@
 						"fr": 2,
 						"nl": 2,
 						"ta": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -21077,14 +21126,16 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"prstat": {
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"snoop": {
@@ -21092,35 +21143,40 @@
 						"bn": 2,
 						"en": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"svcadm": {
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"svccfg": {
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"svcs": {
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"truss": {
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				}
 			}
