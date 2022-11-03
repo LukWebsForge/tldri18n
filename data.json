@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 02-Nov-22 01:00:05 CET",
+	"last_update": "Thursday, 03-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -421,6 +421,7 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -4122,7 +4123,8 @@
 				},
 				"errno": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"esbuild": {
@@ -5536,6 +5538,11 @@
 						"en": 2
 					}
 				},
+				"git-feature": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-fetch": {
 					"status": {
 						"de": 2,
@@ -5999,6 +6006,11 @@
 					}
 				},
 				"git-root": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-scp": {
 					"status": {
 						"en": 2
 					}
@@ -16056,7 +16068,8 @@
 				},
 				"expect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"extrace": {
@@ -17528,7 +17541,8 @@
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				},
 				"nft": {
@@ -18051,7 +18065,8 @@
 				},
 				"powertop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"prename": {
@@ -21081,7 +21096,7 @@
 				"en": 100,
 				"es": 0,
 				"fa": 0,
-				"fr": 77,
+				"fr": 88,
 				"hi": 0,
 				"id": 0,
 				"it": 0,
@@ -21159,6 +21174,7 @@
 				"svcadm": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"nl": 2,
 						"ta": 2,
 						"tr": 2
