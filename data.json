@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 04-Nov-22 01:00:05 CET",
+	"last_update": "Saturday, 05-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1271,7 +1271,8 @@
 				},
 				"aws-pricing": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aws-quicksight": {
@@ -1750,6 +1751,7 @@
 						"fr": 2,
 						"hi": 2,
 						"it": 2,
+						"ja": 2,
 						"ko": 2,
 						"ne": 2,
 						"no": 2,
@@ -4439,6 +4441,7 @@
 						"en": 2,
 						"fa": 2,
 						"hi": 2,
+						"ja": 2,
 						"ru": 2
 					}
 				},
@@ -21219,7 +21222,7 @@
 				"da": 0,
 				"de": 22,
 				"en": 99,
-				"es": 2,
+				"es": 3,
 				"fa": 2,
 				"fr": 3,
 				"hi": 2,
@@ -21515,6 +21518,7 @@
 				"cls": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"id": 2,
 						"ja": 2,
