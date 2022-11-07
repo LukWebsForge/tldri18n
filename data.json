@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 06-Nov-22 01:00:04 CET",
+	"last_update": "Monday, 07-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -456,6 +456,7 @@
 				"abduco": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -821,7 +822,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"antibody": {
@@ -17960,6 +17962,11 @@
 					}
 				},
 				"pivpn": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pkcon": {
 					"status": {
 						"en": 2
 					}
