@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 07-Nov-22 01:00:05 CET",
+	"last_update": "Tuesday, 08-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7800,6 +7800,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -11142,6 +11143,11 @@
 					"status": {
 						"en": 2,
 						"id": 2
+					}
+				},
+				"railway": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rainbowstream": {
@@ -19668,6 +19674,11 @@
 						"en": 2
 					}
 				},
+				"xauth": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xbacklight": {
 					"status": {
 						"en": 2,
@@ -20955,6 +20966,7 @@
 				"wacaw": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
