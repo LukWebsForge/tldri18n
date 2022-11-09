@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 08-Nov-22 01:00:04 CET",
+	"last_update": "Wednesday, 09-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6706,6 +6706,11 @@
 					}
 				},
 				"gprbuild": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gprof": {
 					"status": {
 						"en": 2
 					}
@@ -16678,6 +16683,18 @@
 						"tr": 2
 					}
 				},
+				"ip-route-list": {
+					"status": {
+						"en": 2,
+						"fr": 2
+					}
+				},
+				"ip-route-show": {
+					"status": {
+						"en": 2,
+						"fr": 2
+					}
+				},
 				"ip-rule": {
 					"status": {
 						"en": 2,
@@ -19477,6 +19494,11 @@
 					}
 				},
 				"virt-manager": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virt-xml-validate": {
 					"status": {
 						"en": 2
 					}
