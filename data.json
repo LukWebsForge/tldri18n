@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 09-Nov-22 01:00:04 CET",
+	"last_update": "Thursday, 10-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3855,6 +3855,7 @@
 				},
 				"duf": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -3958,6 +3959,7 @@
 				},
 				"ebook-convert": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 1,
 						"pt_BR": 2
@@ -14834,6 +14836,11 @@
 						"zh": 2
 					}
 				},
+				"apx": {
+					"status": {
+						"en": 2
+					}
+				},
 				"arch-chroot": {
 					"status": {
 						"de": 2,
@@ -15495,6 +15502,21 @@
 						"fr": 2,
 						"ml": 2,
 						"pt_BR": 2
+					}
+				},
+				"cockpit-bridge": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cockpit-desktop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cockpit-tls": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cockpit-ws": {
@@ -20763,7 +20785,7 @@
 				"say": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"screencapture": {
@@ -21518,8 +21540,8 @@
 				"cipher": {
 					"status": {
 						"en": 2,
-						"ta": 2,
-						"zh": 2
+						"ta": 1,
+						"zh": 1
 					}
 				},
 				"clip": {
