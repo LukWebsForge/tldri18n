@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 10-Nov-22 01:00:04 CET",
+	"last_update": "Friday, 11-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -19136,6 +19136,7 @@
 				"thunar": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ml": 2
 					}
 				},
