@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 14-Nov-22 01:00:03 CET",
+	"last_update": "Tuesday, 15-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -513,6 +513,7 @@
 				"acyclic": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
@@ -19997,7 +19998,7 @@
 				"da": 0,
 				"de": 3,
 				"en": 97,
-				"es": 12,
+				"es": 13,
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
@@ -20490,7 +20491,8 @@
 				},
 				"icalbuddy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"imgcat": {
