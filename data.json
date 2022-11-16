@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 15-Nov-22 01:00:05 CET",
+	"last_update": "Wednesday, 16-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -591,6 +591,7 @@
 				"ag": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ja": 2,
@@ -4861,7 +4862,8 @@
 				},
 				"gem": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"geth": {
@@ -7553,7 +7555,8 @@
 				"jekyll": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ta": 2
 					}
 				},
 				"jello": {
@@ -11470,7 +11473,8 @@
 				"ruby": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ta": 2
 					}
 				},
 				"ruget": {
@@ -13644,7 +13648,8 @@
 				},
 				"vt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"vue": {
@@ -14839,7 +14844,8 @@
 				},
 				"apx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"arch-chroot": {
