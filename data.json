@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 16-Nov-22 01:00:05 CET",
+	"last_update": "Thursday, 17-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -469,6 +469,7 @@
 				"ac": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -11467,6 +11468,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"zh": 2
 					}
 				},
