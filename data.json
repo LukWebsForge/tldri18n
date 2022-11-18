@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 17-Nov-22 01:00:05 CET",
+	"last_update": "Friday, 18-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -11967,6 +11967,12 @@
 						"pt_BR": 2
 					}
 				},
+				"snowsql": {
+					"status": {
+						"en": 2,
+						"pl": 2
+					}
+				},
 				"snyk": {
 					"status": {
 						"en": 2
@@ -16092,6 +16098,7 @@
 				},
 				"esa-snap": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
