@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 18-Nov-22 01:00:05 CET",
+	"last_update": "Saturday, 19-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1693,6 +1693,11 @@
 					}
 				},
 				"bazel": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bb": {
 					"status": {
 						"en": 2
 					}
@@ -6963,6 +6968,7 @@
 				"hexdump": {
 					"status": {
 						"en": 2,
+						"ru": 2,
 						"zh": 1
 					}
 				},
