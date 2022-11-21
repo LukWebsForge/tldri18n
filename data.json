@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 20-Nov-22 01:00:04 CET",
+	"last_update": "Monday, 21-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -11032,6 +11032,11 @@
 						"en": 2
 					}
 				},
+				"qmmp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qmv": {
 					"status": {
 						"en": 2
@@ -20023,7 +20028,7 @@
 				"ca": 0,
 				"da": 0,
 				"de": 3,
-				"en": 97,
+				"en": 96,
 				"es": 13,
 				"fa": 0,
 				"fr": 0,
@@ -20038,7 +20043,7 @@
 				"nl": 0,
 				"no": 0,
 				"pl": 2,
-				"pt_BR": 30,
+				"pt_BR": 34,
 				"pt_PT": 5,
 				"ro": 0,
 				"ru": 1,
@@ -20501,45 +20506,51 @@
 				},
 				"hdiutil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"head": {
 					"status": {
-						"en": 2,
 						"zh": 2
 					}
 				},
 				"hidd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"icalbuddy": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pt_BR": 2
 					}
 				},
 				"imgcat": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"indent": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"internetsharing": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"istats": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
