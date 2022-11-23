@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 22-Nov-22 01:00:05 CET",
+	"last_update": "Wednesday, 23-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -20042,7 +20042,7 @@
 				"ne": 0,
 				"nl": 0,
 				"no": 0,
-				"pl": 2,
+				"pl": 3,
 				"pt_BR": 34,
 				"pt_PT": 5,
 				"ro": 0,
@@ -20242,6 +20242,7 @@
 						"es": 2,
 						"id": 1,
 						"it": 1,
+						"pl": 2,
 						"pt_BR": 1,
 						"zh": 1
 					}
@@ -20826,6 +20827,7 @@
 				"say": {
 					"status": {
 						"en": 2,
+						"pl": 2,
 						"zh": 1
 					}
 				},
@@ -21022,7 +21024,8 @@
 				"uuidgen": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				},
 				"valet": {
