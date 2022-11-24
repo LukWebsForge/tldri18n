@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 23-Nov-22 01:00:05 CET",
+	"last_update": "Thursday, 24-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7721,6 +7721,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"k3d": {
+					"status": {
+						"en": 2
 					}
 				},
 				"k6": {
