@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 24-Nov-22 01:00:04 CET",
+	"last_update": "Friday, 25-Nov-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -16865,6 +16865,11 @@
 						"en": 2
 					}
 				},
+				"killall": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kjv": {
 					"status": {
 						"en": 2
@@ -21360,7 +21365,7 @@
 				"uk": 2,
 				"uz": 0,
 				"zh": 67,
-				"zh_TW": 18
+				"zh_TW": 19
 			},
 			"pages": {
 				"assoc": {
@@ -21416,7 +21421,8 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"choco-apikey": {
