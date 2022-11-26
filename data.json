@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 25-Nov-22 01:00:05 CET",
+	"last_update": "Saturday, 26-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -20037,14 +20037,14 @@
 				"bs": 0,
 				"ca": 0,
 				"da": 0,
-				"de": 3,
-				"en": 96,
-				"es": 13,
+				"de": 2,
+				"en": 98,
+				"es": 7,
 				"fa": 0,
 				"fr": 0,
 				"hi": 0,
-				"id": 4,
-				"it": 5,
+				"id": 2,
+				"it": 3,
 				"ja": 0,
 				"ko": 0,
 				"lo": 0,
@@ -20052,11 +20052,11 @@
 				"ne": 0,
 				"nl": 0,
 				"no": 0,
-				"pl": 3,
-				"pt_BR": 34,
-				"pt_PT": 5,
+				"pl": 2,
+				"pt_BR": 19,
+				"pt_PT": 3,
 				"ro": 0,
-				"ru": 1,
+				"ru": 0,
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
@@ -20065,7 +20065,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 42,
+				"zh": 24,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -20508,11 +20508,706 @@
 						"zh": 2
 					}
 				},
+				"g[": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gawk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gb2sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gbase32": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gbase64": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gbasename": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gbasenc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gchcon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gchgrp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gchmod": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gchown": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gchroot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcksum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcomm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcsplit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcut": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdir": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdircolors": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdirname": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdnsdomainname": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gecho": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ged": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gegrep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"genv": {
+					"status": {
+						"en": 2
+					}
+				},
 				"getfileinfo": {
 					"status": {
 						"en": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"gexpand": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gexpr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gfactor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gfalse": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gfgrep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gfind": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gfmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gfold": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gftp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ggrep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ggroups": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ghead": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ghostid": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ghostname": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gid": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gifconfig": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gindent": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ginstall": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gjoin": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gkill": {
+					"status": {
+						"en": 2
+					}
+				},
+				"glibtool": {
+					"status": {
+						"en": 2
+					}
+				},
+				"glibtoolize": {
+					"status": {
+						"en": 2
+					}
+				},
+				"glink": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gln": {
+					"status": {
+						"en": 2
+					}
+				},
+				"glocate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"glogger": {
+					"status": {
+						"en": 2
+					}
+				},
+				"glogname": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gls": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gmake": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gmd5sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gmkdir": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gmkfifo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gmknod": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gmktemp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gmv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnice": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnohup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnproc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnumfmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"god": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gpaste": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gpathchk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gping": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gping6": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gpinky": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gpr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gprintenv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gprintf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gptx": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gpwd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grcp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"greadlink": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grealpath": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grexec": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grlogin": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grmdir": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grsh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gruncon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsed": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gseq": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsha1sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsha224sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsha256sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsha384sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsha512sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gshred": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gshuf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsleep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsort": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsplit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gstat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gstdbuf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gstty": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gsync": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtac": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtail": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtalk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtar": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtee": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtelnet": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtest": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtftp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtime": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtimeout": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtouch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtraceroute": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtrue": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtruncate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtsort": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gtty": {
+					"status": {
+						"en": 2
+					}
+				},
+				"guname": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gunexpand": {
+					"status": {
+						"en": 2
+					}
+				},
+				"guniq": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gunits": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gunlink": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gupdatedb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"guptime": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gusers": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gvdir": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gwc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gwhich": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gwho": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gwhoami": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gwhois": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gxargs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gyes": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hdiutil": {
