@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 26-Nov-22 01:00:04 CET",
+	"last_update": "Sunday, 27-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -10987,6 +10987,11 @@
 						"en": 2
 					}
 				},
+				"pytest": {
+					"status": {
+						"en": 2
+					}
+				},
 				"python": {
 					"status": {
 						"en": 2,
@@ -13445,6 +13450,11 @@
 					}
 				},
 				"vercel": {
+					"status": {
+						"en": 2
+					}
+				},
+				"verilator": {
 					"status": {
 						"en": 2
 					}
