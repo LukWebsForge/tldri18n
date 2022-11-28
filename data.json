@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 27-Nov-22 01:00:04 CET",
+	"last_update": "Monday, 28-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4413,6 +4413,11 @@
 						"en": 2,
 						"es": 2,
 						"zh": 1
+					}
+				},
+				"feroxbuster": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ffe": {
@@ -19573,6 +19578,11 @@
 						"en": 2
 					}
 				},
+				"virt-xml": {
+					"status": {
+						"en": 2
+					}
+				},
 				"virt-xml-validate": {
 					"status": {
 						"en": 2
@@ -21583,6 +21593,11 @@
 				"sed": {
 					"status": {
 						"zh": 2
+					}
+				},
+				"setfile": {
+					"status": {
+						"en": 2
 					}
 				},
 				"shortcuts": {
