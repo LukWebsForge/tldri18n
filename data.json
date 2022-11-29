@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 28-Nov-22 01:00:04 CET",
+	"last_update": "Tuesday, 29-Nov-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -8951,9 +8951,9 @@
 				},
 				"mount": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"it": 2
+						"it": 1
 					}
 				},
 				"mozillavpn": {
@@ -12530,7 +12530,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 1,
-						"fr": 1,
+						"fr": 2,
 						"ja": 2,
 						"pt_BR": 2,
 						"ru": 2,
@@ -13818,7 +13818,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"pl": 2,
 						"zh": 1
 					}
@@ -14458,7 +14458,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 1,
-						"fr": 1,
+						"fr": 2,
 						"it": 1,
 						"pt_BR": 1,
 						"ru": 2,
