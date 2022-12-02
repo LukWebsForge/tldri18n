@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 01-Dec-22 01:00:04 CET",
+	"last_update": "Friday, 02-Dec-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2081,6 +2081,26 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1
+					}
+				},
+				"calligraflow": {
+					"status": {
+						"en": 2
+					}
+				},
+				"calligrasheets": {
+					"status": {
+						"en": 2
+					}
+				},
+				"calligrastage": {
+					"status": {
+						"en": 2
+					}
+				},
+				"calligrawords": {
+					"status": {
+						"en": 2
 					}
 				},
 				"carbon-now": {
@@ -7500,7 +7520,8 @@
 				},
 				"iverilog": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"ivpn": {
@@ -15372,6 +15393,11 @@
 						"fr": 2
 					}
 				},
+				"bully": {
+					"status": {
+						"en": 2
+					}
+				},
 				"burpsuite": {
 					"status": {
 						"en": 2
@@ -19355,7 +19381,8 @@
 				},
 				"tshark": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"ttyplot": {
@@ -19597,6 +19624,11 @@
 					}
 				},
 				"virt-manager": {
+					"status": {
+						"en": 2
+					}
+				},
+				"virt-viewer": {
 					"status": {
 						"en": 2
 					}
