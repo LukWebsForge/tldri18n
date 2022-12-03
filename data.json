@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 02-Dec-22 01:00:04 CET",
+	"last_update": "Saturday, 03-Dec-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -47,7 +47,7 @@
 				"da": 0,
 				"de": 92,
 				"en": 100,
-				"es": 28,
+				"es": 35,
 				"fa": 0,
 				"fr": 100,
 				"hi": 0,
@@ -289,6 +289,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
