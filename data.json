@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 07-Dec-22 01:00:04 CET",
+	"last_update": "Thursday, 08-Dec-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -13584,6 +13584,7 @@
 				},
 				"vifm": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
