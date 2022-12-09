@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 08-Dec-22 01:00:05 CET",
+	"last_update": "Friday, 09-Dec-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -8438,6 +8438,7 @@
 				},
 				"lp": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -8448,16 +8449,19 @@
 				},
 				"lpinfo": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"lpr": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"lpstat": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -22043,7 +22047,7 @@
 				"pt_BR": 0,
 				"pt_PT": 0,
 				"ro": 0,
-				"ru": 0,
+				"ru": 11,
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
@@ -22061,6 +22065,7 @@
 						"en": 2,
 						"fr": 2,
 						"nl": 2,
+						"ru": 2,
 						"ta": 2,
 						"tr": 2
 					}
