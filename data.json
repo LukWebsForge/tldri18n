@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 09-Dec-22 01:00:05 CET",
+	"last_update": "Saturday, 10-Dec-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7868,6 +7868,7 @@
 				},
 				"khal": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -7941,6 +7942,12 @@
 				"kotlinc": {
 					"status": {
 						"en": 2
+					}
+				},
+				"krunvm": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ksh": {
