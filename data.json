@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 11-Dec-22 01:00:03 CET",
+	"last_update": "Monday, 12-Dec-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5831,6 +5831,11 @@
 						"it": 2,
 						"tr": 2,
 						"uk": 2
+					}
+				},
+				"git-merge-base": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-merge-into": {
