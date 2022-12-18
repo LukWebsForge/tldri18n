@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 17-Dec-22 01:00:05 CET",
+	"last_update": "Sunday, 18-Dec-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1199,6 +1199,11 @@
 						"ko": 1,
 						"pl": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-backup": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-codecommit": {
@@ -21825,6 +21830,11 @@
 					}
 				},
 				"tail": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tart": {
 					"status": {
 						"en": 2
 					}
