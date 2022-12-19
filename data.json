@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 18-Dec-22 01:00:05 CET",
+	"last_update": "Monday, 19-Dec-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -834,6 +834,7 @@
 				},
 				"ansiweather": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"it": 2,
