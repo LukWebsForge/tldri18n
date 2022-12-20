@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 19-Dec-22 01:00:04 CET",
+	"last_update": "Tuesday, 20-Dec-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2046,9 +2046,9 @@
 				"bzip2": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"it": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"c99": {
@@ -2777,6 +2777,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"coproc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"copyq": {
@@ -14605,7 +14610,7 @@
 				"fa": 0,
 				"fr": 8,
 				"hi": 0,
-				"id": 2,
+				"id": 1,
 				"it": 4,
 				"ja": 0,
 				"ko": 0,
@@ -15732,6 +15737,11 @@
 					}
 				},
 				"conntrack": {
+					"status": {
+						"en": 2
+					}
+				},
+				"coproc": {
 					"status": {
 						"en": 2
 					}
@@ -18495,6 +18505,11 @@
 						"en": 2
 					}
 				},
+				"qm-guest-exec": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-guest-exec-status": {
 					"status": {
 						"en": 2
@@ -20225,7 +20240,7 @@
 				"tr": 0,
 				"uk": 0,
 				"uz": 0,
-				"zh": 24,
+				"zh": 23,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -20666,6 +20681,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"ftxdiff": {
+					"status": {
+						"en": 2
 					}
 				},
 				"g[": {
