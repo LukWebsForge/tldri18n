@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 21-Dec-22 01:00:06 CET",
+	"last_update": "Thursday, 22-Dec-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -330,7 +330,7 @@
 				"bs": 1,
 				"ca": 0,
 				"da": 0,
-				"de": 10,
+				"de": 11,
 				"en": 99,
 				"es": 6,
 				"fa": 0,
@@ -4218,6 +4218,7 @@
 				},
 				"eslint": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"pl": 2
@@ -8004,6 +8005,7 @@
 				},
 				"kubectl": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"pt_BR": 2
@@ -8011,31 +8013,37 @@
 				},
 				"kubectl-delete": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"kubectl-describe": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"kubectl-get": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"kubectl-logs": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"kubectl-rollout": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"kubectl-run": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -15527,6 +15535,11 @@
 						"pt_BR": 2
 					}
 				},
+				"cat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cc": {
 					"status": {
 						"en": 2,
@@ -18585,6 +18598,11 @@
 						"en": 2
 					}
 				},
+				"qm-showcmd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-shutdown": {
 					"status": {
 						"en": 2
@@ -20452,6 +20470,11 @@
 						"zh": 2
 					}
 				},
+				"cat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cfprefsd": {
 					"status": {
 						"en": 2,
@@ -22219,39 +22242,39 @@
 			"progress": {
 				"ar": 0,
 				"bn": 0,
-				"bs": 2,
+				"bs": 1,
 				"ca": 1,
 				"da": 0,
-				"de": 23,
+				"de": 20,
 				"en": 99,
 				"es": 3,
-				"fa": 2,
+				"fa": 1,
 				"fr": 3,
 				"hi": 2,
-				"id": 17,
-				"it": 4,
-				"ja": 12,
+				"id": 15,
+				"it": 3,
+				"ja": 11,
 				"ko": 0,
 				"lo": 3,
-				"ml": 2,
+				"ml": 1,
 				"ne": 0,
 				"nl": 5,
-				"no": 2,
-				"pl": 17,
-				"pt_BR": 15,
+				"no": 1,
+				"pl": 15,
+				"pt_BR": 13,
 				"pt_PT": 0,
 				"ro": 0,
-				"ru": 7,
+				"ru": 6,
 				"sh": 0,
 				"sr": 0,
-				"sv": 5,
-				"ta": 27,
-				"th": 5,
+				"sv": 4,
+				"ta": 23,
+				"th": 4,
 				"tr": 0,
-				"uk": 2,
+				"uk": 1,
 				"uz": 0,
-				"zh": 67,
-				"zh_TW": 19
+				"zh": 59,
+				"zh_TW": 16
 			},
 			"pages": {
 				"assoc": {
@@ -22755,12 +22778,22 @@
 						"zh": 2
 					}
 				},
+				"get-acl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"get-childitem": {
 					"status": {
 						"en": 2
 					}
 				},
 				"get-content": {
+					"status": {
+						"en": 2
+					}
+				},
+				"get-date": {
 					"status": {
 						"en": 2
 					}
@@ -22833,6 +22866,16 @@
 						"zh_TW": 2
 					}
 				},
+				"measure-command": {
+					"status": {
+						"en": 2
+					}
+				},
+				"measure-object": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mkdir": {
 					"status": {
 						"en": 2,
@@ -22893,6 +22936,11 @@
 					}
 				},
 				"octo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"out-string": {
 					"status": {
 						"en": 2
 					}
@@ -22963,6 +23011,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"pwsh-where": {
+					"status": {
+						"en": 2
 					}
 				},
 				"query": {
@@ -23070,6 +23123,11 @@
 						"en": 2
 					}
 				},
+				"resolve-path": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rmdir": {
 					"status": {
 						"en": 2,
@@ -23106,6 +23164,11 @@
 						"zh": 2
 					}
 				},
+				"select-string": {
+					"status": {
+						"en": 2
+					}
+				},
 				"set": {
 					"status": {
 						"en": 2,
@@ -23113,6 +23176,21 @@
 						"ru": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"set-acl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"set-date": {
+					"status": {
+						"en": 2
+					}
+				},
+				"set-service": {
+					"status": {
+						"en": 2
 					}
 				},
 				"setx": {
@@ -23126,6 +23204,11 @@
 						"zh": 2
 					}
 				},
+				"show-markdown": {
+					"status": {
+						"en": 2
+					}
+				},
 				"showmount": {
 					"status": {
 						"en": 2
@@ -23136,6 +23219,26 @@
 						"en": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"sls": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sort-object": {
+					"status": {
+						"en": 2
+					}
+				},
+				"start-service": {
+					"status": {
+						"en": 2
+					}
+				},
+				"stop-service": {
+					"status": {
+						"en": 2
 					}
 				},
 				"subst": {
@@ -23167,6 +23270,16 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"tee-object": {
+					"status": {
+						"en": 2
+					}
+				},
+				"test-json": {
+					"status": {
+						"en": 2
 					}
 				},
 				"time": {
@@ -23244,6 +23357,11 @@
 						"en": 2
 					}
 				},
+				"wait-process": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wget": {
 					"status": {
 						"en": 2,
@@ -23255,6 +23373,11 @@
 						"en": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"where-object": {
+					"status": {
+						"en": 2
 					}
 				},
 				"whoami": {
