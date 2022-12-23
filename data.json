@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 22-Dec-22 01:00:05 CET",
+	"last_update": "Friday, 23-Dec-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -9442,26 +9442,31 @@
 				},
 				"nix": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"nix-build": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"nix-collect-garbage": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"nix-env": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"nix-shell": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
