@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 24-Dec-22 01:00:04 CET",
+	"last_update": "Sunday, 25-Dec-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -9177,6 +9177,11 @@
 						"en": 2
 					}
 				},
+				"mumble": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mupdf": {
 					"status": {
 						"en": 2
@@ -17709,11 +17714,6 @@
 					}
 				},
 				"mt": {
-					"status": {
-						"en": 2
-					}
-				},
-				"mumble": {
 					"status": {
 						"en": 2
 					}
