@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 25-Dec-22 01:00:04 CET",
+	"last_update": "Monday, 26-Dec-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -47,7 +47,7 @@
 				"da": 0,
 				"de": 92,
 				"en": 100,
-				"es": 71,
+				"es": 100,
 				"fa": 0,
 				"fr": 100,
 				"hi": 0,
@@ -212,6 +212,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -247,6 +248,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -263,6 +265,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"pl": 2,
@@ -290,6 +293,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -518,12 +522,14 @@
 				"acme.sh-dns": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
 				"act": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -626,6 +632,7 @@
 				"agate": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"pt_BR": 2,
 						"zh": 2
