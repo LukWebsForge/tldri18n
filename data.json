@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 26-Dec-22 01:00:04 CET",
+	"last_update": "Tuesday, 27-Dec-22 01:00:04 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3143,6 +3143,11 @@
 						"ru": 2
 					}
 				},
+				"czkawka-cli": {
+					"status": {
+						"en": 2
+					}
+				},
 				"d8": {
 					"status": {
 						"en": 2
@@ -6138,6 +6143,7 @@
 				},
 				"git-setup": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
