@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 27-Dec-22 01:00:04 CET",
+	"last_update": "Wednesday, 28-Dec-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1811,6 +1811,14 @@
 				"bindkey": {
 					"status": {
 						"en": 2
+					}
+				},
+				"binwalk": {
+					"status": {
+						"en": 2,
+						"it": 2,
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"bison": {
@@ -6180,6 +6188,7 @@
 				},
 				"git-show-merged-branches": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -10721,7 +10730,7 @@
 				},
 				"poetry": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"it": 1
 					}
@@ -15278,14 +15287,6 @@
 				"betterlockscreen": {
 					"status": {
 						"en": 2,
-						"zh": 2
-					}
-				},
-				"binwalk": {
-					"status": {
-						"en": 2,
-						"it": 2,
-						"pt_BR": 2,
 						"zh": 2
 					}
 				},
