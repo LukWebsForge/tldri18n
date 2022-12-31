@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 30-Dec-22 01:00:05 CET",
+	"last_update": "Saturday, 31-Dec-22 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5106,6 +5106,11 @@
 					}
 				},
 				"gcloud": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcpdiag": {
 					"status": {
 						"en": 2
 					}
@@ -16069,8 +16074,8 @@
 				"autorandr": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"avahi-browse": {
@@ -20697,7 +20702,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 1,
-						"fr": 1
+						"fr": 2
 					}
 				},
 				"userdel": {
@@ -20705,7 +20710,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 1,
-						"fr": 1
+						"fr": 2
 					}
 				},
 				"usermod": {
@@ -20713,7 +20718,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 1,
-						"fr": 1
+						"fr": 2
 					}
 				},
 				"utmpdump": {
