@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 31-Dec-22 01:00:05 CET",
+	"last_update": "Sunday, 01-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -501,6 +501,7 @@
 				"ack": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 1,
@@ -611,6 +612,7 @@
 				"adscript": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"zh": 2
 					}
@@ -656,6 +658,7 @@
 				"airmon-ng": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"pt_BR": 2,
 						"tr": 2,
@@ -680,6 +683,7 @@
 				"ajson": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
@@ -744,6 +748,7 @@
 				"amass-enum": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
