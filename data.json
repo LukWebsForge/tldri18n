@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 01-Jan-23 01:00:05 CET",
+	"last_update": "Monday, 02-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -369,6 +369,7 @@
 				"2to3": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -615,6 +616,11 @@
 						"es": 2,
 						"fr": 2,
 						"zh": 2
+					}
+				},
+				"afconvert": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ag": {
@@ -16894,6 +16900,11 @@
 						"en": 2
 					}
 				},
+				"dd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ddcutil": {
 					"status": {
 						"en": 2
@@ -21680,8 +21691,8 @@
 				"dd": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"defaults": {
