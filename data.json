@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 02-Jan-23 01:00:05 CET",
+	"last_update": "Tuesday, 03-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -679,6 +679,7 @@
 				"airpaste": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -761,12 +762,14 @@
 				"amass-intel": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
 				"amass-track": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
@@ -14614,6 +14617,11 @@
 						"sv": 1
 					}
 				},
+				"vite": {
+					"status": {
+						"en": 2
+					}
+				},
 				"viu": {
 					"status": {
 						"en": 2
@@ -15167,6 +15175,11 @@
 						"uk": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"xzcmp": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xzdiff": {
@@ -21308,41 +21321,41 @@
 		},
 		"osx": {
 			"progress": {
-				"ar": 43,
+				"ar": 42,
 				"bn": 0,
-				"bs": 43,
-				"ca": 43,
-				"da": 43,
+				"bs": 42,
+				"ca": 42,
+				"da": 42,
 				"de": 45,
 				"en": 98,
 				"es": 50,
 				"fa": 0,
-				"fr": 43,
-				"hi": 43,
+				"fr": 42,
+				"hi": 42,
 				"id": 45,
 				"it": 46,
-				"ja": 43,
-				"ko": 43,
-				"lo": 43,
-				"ml": 43,
-				"ne": 43,
+				"ja": 42,
+				"ko": 42,
+				"lo": 42,
+				"ml": 42,
+				"ne": 42,
 				"nl": 43,
-				"no": 43,
+				"no": 42,
 				"pl": 45,
-				"pt_BR": 62,
+				"pt_BR": 61,
 				"pt_PT": 46,
 				"ro": 0,
 				"ru": 43,
 				"sh": 0,
 				"sr": 0,
-				"sv": 43,
+				"sv": 42,
 				"ta": 43,
-				"th": 43,
-				"tr": 43,
-				"uk": 43,
+				"th": 42,
+				"tr": 42,
+				"uk": 42,
 				"uz": 0,
 				"zh": 66,
-				"zh_TW": 43
+				"zh_TW": 42
 			},
 			"pages": {
 				"aa": {
@@ -26463,6 +26476,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"java_home": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kmutil": {
