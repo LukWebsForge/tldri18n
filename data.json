@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 03-Jan-23 01:00:05 CET",
+	"last_update": "Wednesday, 04-Jan-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -41,7 +41,7 @@
 		"android": {
 			"progress": {
 				"ar": 0,
-				"bn": 7,
+				"bn": 100,
 				"bs": 0,
 				"ca": 0,
 				"da": 0,
@@ -79,6 +79,7 @@
 			"pages": {
 				"am": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -98,6 +99,7 @@
 				},
 				"bugreport": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -117,6 +119,7 @@
 				},
 				"bugreportz": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -155,6 +158,7 @@
 				},
 				"dalvikvm": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -174,6 +178,7 @@
 				},
 				"dumpsys": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -192,6 +197,7 @@
 				},
 				"getprop": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -210,6 +216,7 @@
 				},
 				"input": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -228,6 +235,7 @@
 				},
 				"logcat": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -246,6 +254,7 @@
 				},
 				"pkg": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -263,6 +272,7 @@
 				},
 				"pm": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -280,6 +290,7 @@
 				},
 				"screencap": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -291,6 +302,7 @@
 				},
 				"settings": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -309,6 +321,7 @@
 				},
 				"wm": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -2937,23 +2950,23 @@
 				},
 				"cp": {
 					"status": {
-						"ca": 2,
-						"de": 2,
+						"ca": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
 						"ko": 1,
-						"ne": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"ta": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"ne": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"ta": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"cpdf": {
@@ -12486,6 +12499,11 @@
 						"en": 2
 					}
 				},
+				"scd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"scheme": {
 					"status": {
 						"en": 2
@@ -15693,7 +15711,8 @@
 				},
 				"adig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"ahost": {
