@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 04-Jan-23 01:00:06 CET",
+	"last_update": "Thursday, 05-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -349,7 +349,7 @@
 				"da": 2,
 				"de": 12,
 				"en": 99,
-				"es": 7,
+				"es": 8,
 				"fa": 0,
 				"fr": 14,
 				"hi": 3,
@@ -596,6 +596,7 @@
 				"adb-reverse": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"pl": 2,
@@ -724,6 +725,7 @@
 				"alex": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -754,6 +756,7 @@
 				"amass": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -12371,18 +12374,21 @@
 				"rustc": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ta": 2
 					}
 				},
 				"rustfmt": {
 					"status": {
 						"en": 2,
+						"ta": 2,
 						"zh": 2
 					}
 				},
 				"rustup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"rustup-init.sh": {
