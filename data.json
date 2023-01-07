@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 06-Jan-23 01:00:03 CET",
+	"last_update": "Saturday, 07-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -634,7 +634,8 @@
 				},
 				"afconvert": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"ag": {
@@ -792,6 +793,7 @@
 				"amass-viz": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
