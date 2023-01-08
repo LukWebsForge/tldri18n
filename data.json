@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 07-Jan-23 01:00:05 CET",
+	"last_update": "Sunday, 08-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4204,6 +4204,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"sr": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -4462,6 +4463,7 @@
 						"de": 2,
 						"en": 2,
 						"hi": 2,
+						"ru": 2,
 						"sv": 2,
 						"zh": 2
 					}
@@ -5849,6 +5851,16 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"git-credential-store": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-cvsexportcommit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-daemon": {
@@ -8396,7 +8408,7 @@
 				"ksh": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 1
 					}
 				},
 				"kube-capacity": {
@@ -11657,6 +11669,7 @@
 						"id": 2,
 						"ja": 2,
 						"lo": 2,
+						"ru": 2,
 						"th": 2,
 						"zh_TW": 2
 					}
@@ -12233,6 +12246,7 @@
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
+						"ru": 2,
 						"sv": 2,
 						"ta": 2,
 						"zh": 2,
@@ -14870,6 +14884,7 @@
 						"en": 2,
 						"fr": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -15480,13 +15495,13 @@
 				},
 				"zsh": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"es": 1,
-						"fr": 2,
+						"fr": 1,
 						"it": 1,
 						"pt_BR": 1,
-						"ru": 2,
+						"ru": 1,
 						"zh": 1
 					}
 				},
@@ -18525,7 +18540,8 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"pt_PT": 2
+						"pt_PT": 2,
+						"ru": 2
 					}
 				},
 				"mandb": {
@@ -19913,6 +19929,16 @@
 					}
 				},
 				"rkhunter": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rmdir": {
 					"status": {
 						"en": 2
 					}
