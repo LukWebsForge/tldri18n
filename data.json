@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 08-Jan-23 01:00:05 CET",
+	"last_update": "Monday, 09-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -827,6 +827,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
@@ -9802,10 +9803,10 @@
 				"nano": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
-						"nl": 2,
-						"pt_BR": 2
+						"nl": 1,
+						"pt_BR": 1
 					}
 				},
 				"nasm": {
@@ -15665,7 +15666,8 @@
 				},
 				"abroot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"ac": {
