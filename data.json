@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 09-Jan-23 01:00:05 CET",
+	"last_update": "Tuesday, 10-Jan-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3126,6 +3126,41 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"cs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cs-complete-dep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cs-fetch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cs-install": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cs-java": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cs-launch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cs-resolve": {
+					"status": {
+						"en": 2
 					}
 				},
 				"csc": {
@@ -16714,11 +16749,6 @@
 					}
 				},
 				"chrt": {
-					"status": {
-						"en": 2
-					}
-				},
-				"chsh": {
 					"status": {
 						"en": 2
 					}
