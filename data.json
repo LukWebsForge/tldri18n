@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 10-Jan-23 01:00:06 CET",
+	"last_update": "Wednesday, 11-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -14356,8 +14356,8 @@
 				"unzip": {
 					"status": {
 						"en": 2,
-						"pt_BR": 1,
-						"ru": 2
+						"pt_BR": 2,
+						"ru": 1
 					}
 				},
 				"unzstd": {
@@ -15718,7 +15718,8 @@
 				},
 				"acountry": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"acpi": {
@@ -15894,6 +15895,7 @@
 						"it": 2,
 						"ja": 2,
 						"ml": 2,
+						"nl": 2,
 						"pl": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
