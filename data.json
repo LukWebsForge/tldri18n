@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 11-Jan-23 01:00:05 CET",
+	"last_update": "Thursday, 12-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -15951,6 +15951,7 @@
 						"es": 1,
 						"fr": 2,
 						"it": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
@@ -17652,6 +17653,11 @@
 					}
 				},
 				"getcap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"getconf": {
 					"status": {
 						"en": 2
 					}
