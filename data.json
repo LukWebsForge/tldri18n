@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 16-Jan-23 01:00:03 CET",
+	"last_update": "Tuesday, 17-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5506,6 +5506,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 1,
+						"ja": 2,
 						"ko": 2,
 						"ml": 2,
 						"nl": 2,
@@ -9348,6 +9349,11 @@
 					"status": {
 						"en": 2,
 						"ru": 2
+					}
+				},
+				"mid3v2": {
+					"status": {
+						"en": 2
 					}
 				},
 				"middleman": {
@@ -15333,6 +15339,11 @@
 						"en": 2
 					}
 				},
+				"yolo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"you-get": {
 					"status": {
 						"en": 2
@@ -21048,7 +21059,8 @@
 				"whatis": {
 					"status": {
 						"en": 2,
-						"fa": 2
+						"fa": 1,
+						"ja": 2
 					}
 				},
 				"where": {
