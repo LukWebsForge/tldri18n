@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 17-Jan-23 01:00:05 CET",
+	"last_update": "Wednesday, 18-Jan-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2281,6 +2281,7 @@
 						"hi": 2,
 						"id": 2,
 						"it": 1,
+						"ja": 2,
 						"ko": 2,
 						"ne": 2,
 						"no": 2,
@@ -18330,7 +18331,8 @@
 				},
 				"lnav": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"loadkeys": {
@@ -18424,19 +18426,22 @@
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ru": 2
 					}
 				},
 				"lsblk": {
 					"status": {
 						"en": 2,
 						"hi": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"lscpu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"lshw": {
@@ -18472,7 +18477,8 @@
 				},
 				"lspci": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"lsscsi": {
