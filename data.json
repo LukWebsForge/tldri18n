@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 24-Jan-23 01:00:03 CET",
+	"last_update": "Wednesday, 25-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -893,6 +893,7 @@
 				"antibody": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
@@ -3700,6 +3701,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ja": 2,
 						"pt_BR": 2
 					}
 				},
@@ -3808,6 +3810,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ja": 2,
 						"pt_BR": 1,
 						"tr": 1
 					}
@@ -9875,6 +9878,7 @@
 				"nc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -14116,6 +14120,11 @@
 					}
 				},
 				"tsv-filter": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tts": {
 					"status": {
 						"en": 2
 					}
