@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 25-Jan-23 01:00:05 CET",
+	"last_update": "Thursday, 26-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5574,8 +5574,8 @@
 				"git-annotate": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"tr": 2
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"git-apply": {
