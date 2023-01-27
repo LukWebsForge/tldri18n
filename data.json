@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 26-Jan-23 01:00:05 CET",
+	"last_update": "Friday, 27-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -810,6 +810,11 @@
 						"en": 2,
 						"fr": 2,
 						"ml": 2
+					}
+				},
+				"anki": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ansible": {
@@ -7576,6 +7581,11 @@
 					}
 				},
 				"hn": {
+					"status": {
+						"en": 2
+					}
+				},
+				"holehe": {
 					"status": {
 						"en": 2
 					}
