@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 29-Jan-23 01:00:03 CET",
+	"last_update": "Monday, 30-Jan-23 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -814,7 +814,8 @@
 				},
 				"anki": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ansible": {
@@ -12600,7 +12601,8 @@
 				},
 				"scrapy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ja": 2
 					}
 				},
 				"scrcpy": {
