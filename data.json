@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 30-Jan-23 01:00:07 CET",
+	"last_update": "Tuesday, 31-Jan-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -626,6 +626,7 @@
 				},
 				"adscript": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
