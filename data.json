@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 01-Feb-23 01:00:03 CET",
+	"last_update": "Thursday, 02-Feb-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -18203,6 +18203,11 @@
 						"en": 2
 					}
 				},
+				"konsave": {
+					"status": {
+						"en": 2
+					}
+				},
 				"konsole": {
 					"status": {
 						"en": 2,
@@ -21464,14 +21469,14 @@
 				"bs": 42,
 				"ca": 42,
 				"da": 42,
-				"de": 45,
+				"de": 44,
 				"en": 98,
 				"es": 50,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
 				"id": 45,
-				"it": 46,
+				"it": 45,
 				"ja": 42,
 				"ko": 42,
 				"lo": 42,
@@ -21479,7 +21484,7 @@
 				"ne": 42,
 				"nl": 43,
 				"no": 42,
-				"pl": 45,
+				"pl": 44,
 				"pt_BR": 61,
 				"pt_PT": 46,
 				"ro": 0,
@@ -26674,6 +26679,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"llvm-lipo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"locate": {
