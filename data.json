@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 04-Feb-23 01:00:05 CET",
+	"last_update": "Sunday, 05-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3672,6 +3672,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 1,
+						"ja": 2,
 						"ko": 2,
 						"pt_BR": 1,
 						"tr": 1,
@@ -3861,6 +3862,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ja": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -10628,6 +10630,11 @@
 						"en": 2
 					}
 				},
+				"pake": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamixer": {
 					"status": {
 						"en": 2
@@ -14266,7 +14273,8 @@
 				},
 				"unar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"unclutter": {
