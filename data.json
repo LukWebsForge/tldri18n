@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 05-Feb-23 01:00:05 CET",
+	"last_update": "Monday, 06-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1059,7 +1059,8 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"asciinema": {
