@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 06-Feb-23 01:00:05 CET",
+	"last_update": "Tuesday, 07-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6449,10 +6449,10 @@
 				"git-revert": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"tr": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"tr": 1
 					}
 				},
 				"git-rm": {
