@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 07-Feb-23 01:00:05 CET",
+	"last_update": "Wednesday, 08-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -885,6 +885,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -5196,6 +5197,7 @@
 				},
 				"gcloud": {
 					"status": {
+						"da": 2,
 						"en": 2
 					}
 				},
@@ -10581,6 +10583,11 @@
 						"en": 2
 					}
 				},
+				"osv-scanner": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ouch": {
 					"status": {
 						"en": 2
@@ -11493,6 +11500,7 @@
 				"ps": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ja": 2
 					}
@@ -21613,9 +21621,9 @@
 				"arch": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"zh": 1
 					}
 				},
 				"archey": {
