@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 08-Feb-23 01:00:05 CET",
+	"last_update": "Thursday, 09-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3694,6 +3694,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"ja": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
@@ -3891,6 +3892,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ja": 2,
 						"tr": 2
 					}
 				},
@@ -12898,12 +12900,12 @@
 				},
 				"sleep": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fa": 2,
-						"hi": 2,
-						"ml": 2,
-						"sv": 2
+						"fa": 1,
+						"hi": 1,
+						"ml": 1,
+						"sv": 1
 					}
 				},
 				"slimrb": {
@@ -20349,6 +20351,11 @@
 						"en": 2
 					}
 				},
+				"sleep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"slop": {
 					"status": {
 						"en": 2
@@ -27483,7 +27490,7 @@
 				"ml": 6,
 				"ne": 6,
 				"nl": 10,
-				"no": 6,
+				"no": 7,
 				"pl": 20,
 				"pt_BR": 18,
 				"pt_PT": 6,
@@ -28722,6 +28729,7 @@
 				"title": {
 					"status": {
 						"en": 2,
+						"no": 2,
 						"pt_BR": 2,
 						"zh": 2,
 						"zh_TW": 2
