@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 09-Feb-23 01:00:05 CET",
+	"last_update": "Friday, 10-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -19195,6 +19195,11 @@
 					}
 				},
 				"opkg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ostree": {
 					"status": {
 						"en": 2
 					}
