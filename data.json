@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 11-Feb-23 01:00:03 CET",
+	"last_update": "Sunday, 12-Feb-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -810,6 +810,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ml": 2
 					}
@@ -21100,7 +21101,7 @@
 				"wall": {
 					"status": {
 						"en": 2,
-						"pl": 2
+						"pl": 1
 					}
 				},
 				"warpd": {
