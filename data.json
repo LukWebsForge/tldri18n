@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 13-Feb-23 01:00:03 CET",
+	"last_update": "Tuesday, 14-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -430,6 +430,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 1,
@@ -531,6 +532,7 @@
 				"acme.sh": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"zh": 2
 					}
@@ -578,6 +580,7 @@
 				"adb-install": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 1,
 						"it": 1,
@@ -637,6 +640,7 @@
 				"afconvert": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
@@ -667,6 +671,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"pt_BR": 2,
@@ -768,6 +773,7 @@
 				"amass-db": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
@@ -9384,7 +9390,8 @@
 				},
 				"mid3v2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"middleman": {
@@ -11020,13 +11027,15 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"ping6": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pinky": {
