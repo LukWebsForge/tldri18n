@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 14-Feb-23 01:00:05 CET",
+	"last_update": "Wednesday, 15-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -20290,6 +20290,11 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2
+					}
+				},
+				"setcap": {
+					"status": {
+						"en": 2
 					}
 				},
 				"setfacl": {
