@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 16-Feb-23 01:00:05 CET",
+	"last_update": "Friday, 17-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -12257,6 +12257,11 @@
 					}
 				},
 				"resume": {
+					"status": {
+						"en": 2
+					}
+				},
+				"retry": {
 					"status": {
 						"en": 2
 					}
