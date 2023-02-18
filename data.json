@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 17-Feb-23 01:00:05 CET",
+	"last_update": "Saturday, 18-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -73,7 +73,7 @@
 				"tr": 100,
 				"uk": 0,
 				"uz": 42,
-				"zh": 92,
+				"zh": 100,
 				"zh_TW": 85
 			},
 			"pages": {
@@ -297,7 +297,8 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"settings": {
@@ -559,7 +560,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 2
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"adb": {
@@ -1804,7 +1806,8 @@
 				},
 				"bcomps": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"beanstalkd": {
@@ -2329,7 +2332,8 @@
 				},
 				"ccomps": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cd": {
@@ -4292,7 +4296,8 @@
 				},
 				"edgepaint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"eget": {
@@ -5283,6 +5288,11 @@
 					}
 				},
 				"geth": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gfortran": {
 					"status": {
 						"en": 2
 					}
@@ -7371,12 +7381,14 @@
 				},
 				"gvcolor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"gvpack": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"gxl2gv": {
@@ -9413,7 +9425,8 @@
 				},
 				"mingle": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"minifab": {
@@ -10194,7 +10207,8 @@
 				},
 				"nop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"noti": {
@@ -12617,7 +12631,8 @@
 				},
 				"sccmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"scd": {
@@ -14104,7 +14119,8 @@
 				},
 				"tred": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"tree": {
@@ -14326,7 +14342,8 @@
 				},
 				"unflatten": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"uniq": {
