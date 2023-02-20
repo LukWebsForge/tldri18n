@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 19-Feb-23 01:00:03 CET",
+	"last_update": "Monday, 20-Feb-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -613,6 +613,7 @@
 				"adb-shell": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -1648,6 +1649,11 @@
 						"it": 1,
 						"ko": 1,
 						"ta": 2
+					}
+				},
+				"b3sum": {
+					"status": {
+						"en": 2
 					}
 				},
 				"babel": {
@@ -8172,7 +8178,7 @@
 				"jmap": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"jmeter": {
