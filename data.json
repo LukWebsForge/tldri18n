@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 20-Feb-23 01:00:06 CET",
+	"last_update": "Tuesday, 21-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -447,7 +447,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"id": 1,
 						"ja": 1,
 						"ko": 2,
@@ -595,6 +595,7 @@
 				"adb-logcat": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"zh": 2
 					}
@@ -1804,7 +1805,7 @@
 				"bc": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 2,
 						"it": 1,
 						"ko": 1
@@ -2347,7 +2348,7 @@
 						"ca": 1,
 						"de": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"fr": 2,
 						"hi": 1,
