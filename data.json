@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 21-Feb-23 01:00:05 CET",
+	"last_update": "Wednesday, 22-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -350,7 +350,7 @@
 				"da": 2,
 				"de": 12,
 				"en": 99,
-				"es": 8,
+				"es": 9,
 				"fa": 0,
 				"fr": 14,
 				"hi": 3,
@@ -548,12 +548,12 @@
 				"act": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"ru": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"ko": 1,
+						"pt_BR": 1,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"acyclic": {
@@ -684,7 +684,8 @@
 				},
 				"aireplay-ng": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"airmon-ng": {
@@ -2562,6 +2563,7 @@
 				},
 				"clang": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"it": 1,
 						"ko": 2
@@ -2569,6 +2571,7 @@
 				},
 				"clang++": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -2608,11 +2611,13 @@
 				},
 				"clang-format": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"clang-tidy": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -8410,6 +8415,11 @@
 					}
 				},
 				"keychain": {
+					"status": {
+						"en": 2
+					}
+				},
+				"keytool": {
 					"status": {
 						"en": 2
 					}
