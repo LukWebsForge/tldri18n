@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 24-Feb-23 01:00:05 CET",
+	"last_update": "Saturday, 25-Feb-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -685,7 +685,8 @@
 				"aireplay-ng": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"airmon-ng": {
