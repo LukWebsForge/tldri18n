@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 26-Feb-23 01:00:03 CET",
+	"last_update": "Monday, 27-Feb-23 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -19102,6 +19102,11 @@
 					}
 				},
 				"nixos-rebuild": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nmblookup": {
 					"status": {
 						"en": 2
 					}
