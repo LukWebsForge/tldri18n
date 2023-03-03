@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 02-Mar-23 01:00:05 CET",
+	"last_update": "Friday, 03-Mar-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -978,6 +978,7 @@
 				"arch": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"hi": 2,
 						"it": 2,
@@ -1005,9 +1006,20 @@
 						"pt_BR": 2
 					}
 				},
-				"argon2": {
+				"argocd": {
 					"status": {
 						"en": 2
+					}
+				},
+				"argocd-app": {
+					"status": {
+						"en": 2
+					}
+				},
+				"argon2": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aria2": {
@@ -3347,7 +3359,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"it": 1,
 						"ko": 1,
 						"ru": 2
@@ -11855,6 +11867,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ja": 2,
 						"zh": 2
 					}
 				},
@@ -16199,6 +16212,11 @@
 						"en": 2
 					}
 				},
+				"arpspoof": {
+					"status": {
+						"en": 2
+					}
+				},
 				"as": {
 					"status": {
 						"de": 2,
@@ -17922,6 +17940,11 @@
 					}
 				},
 				"guix-package": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gummy": {
 					"status": {
 						"en": 2
 					}
@@ -27579,13 +27602,13 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 9,
-				"ta": 27,
+				"ta": 26,
 				"th": 8,
 				"tr": 6,
 				"uk": 6,
 				"uz": 0,
-				"zh": 64,
-				"zh_TW": 22
+				"zh": 63,
+				"zh_TW": 21
 			},
 			"pages": {
 				"assoc": {
@@ -28423,6 +28446,11 @@
 						"pt_BR": 2,
 						"sv": 2,
 						"zh": 2
+					}
+				},
+				"prompt": {
+					"status": {
+						"en": 2
 					}
 				},
 				"psexec": {
