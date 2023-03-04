@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 03-Mar-23 01:00:06 CET",
+	"last_update": "Saturday, 04-Mar-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -10551,6 +10551,11 @@
 					}
 				},
 				"opam": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openai": {
 					"status": {
 						"en": 2
 					}
