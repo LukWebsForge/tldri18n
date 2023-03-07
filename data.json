@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 06-Mar-23 01:00:05 CET",
+	"last_update": "Tuesday, 07-Mar-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -953,6 +953,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 1,
 						"ko": 2,
@@ -15067,6 +15068,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"whisper": {
+					"status": {
+						"en": 2
 					}
 				},
 				"who": {
