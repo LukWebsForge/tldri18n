@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 07-Mar-23 01:00:06 CET",
+	"last_update": "Wednesday, 08-Mar-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -682,6 +682,11 @@
 						"zh": 2
 					}
 				},
+				"aircrack-ng": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aireplay-ng": {
 					"status": {
 						"en": 2,
@@ -701,7 +706,8 @@
 				},
 				"airodump-ng": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"airpaste": {
@@ -6609,6 +6615,7 @@
 				},
 				"git-show-unmerged-branches": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -15739,7 +15746,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
-				"ta": 6,
+				"ta": 5,
 				"th": 1,
 				"tr": 6,
 				"uk": 1,
@@ -17918,6 +17925,11 @@
 						"en": 2
 					}
 				},
+				"grub-file": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grub-install": {
 					"status": {
 						"en": 2,
@@ -17930,7 +17942,17 @@
 						"zh": 2
 					}
 				},
+				"grub-reboot": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grub-script-check": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grub-set-default": {
 					"status": {
 						"en": 2
 					}
