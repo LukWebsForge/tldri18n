@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 12-Mar-23 01:00:05 CET",
+	"last_update": "Monday, 13-Mar-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -725,7 +725,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 2
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"alacritty": {
@@ -1903,6 +1904,11 @@
 						"it": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"bird": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bison": {
