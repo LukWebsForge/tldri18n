@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 13-Mar-23 01:00:06 CET",
+	"last_update": "Tuesday, 14-Mar-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -343,7 +343,7 @@
 		},
 		"common": {
 			"progress": {
-				"ar": 2,
+				"ar": 1,
 				"bn": 0,
 				"bs": 2,
 				"ca": 2,
@@ -949,6 +949,7 @@
 				"apm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -1687,6 +1688,11 @@
 						"ko": 2,
 						"pl": 2,
 						"zh": 2
+					}
+				},
+				"babeld": {
+					"status": {
+						"en": 2
 					}
 				},
 				"badblocks": {
@@ -3864,6 +3870,11 @@
 						"tr": 2
 					}
 				},
+				"docker-pull": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-rmi": {
 					"status": {
 						"de": 2,
@@ -4672,6 +4683,11 @@
 						"en": 2,
 						"it": 2,
 						"pt_BR": 2
+					}
+				},
+				"fastd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fastfetch": {
@@ -27665,7 +27681,7 @@
 				"fr": 8,
 				"hi": 7,
 				"id": 18,
-				"it": 8,
+				"it": 9,
 				"ja": 16,
 				"ko": 6,
 				"lo": 7,
@@ -29077,6 +29093,7 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"pl": 2,
 						"zh": 2
 					}
