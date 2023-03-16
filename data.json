@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 15-Mar-23 01:00:06 CET",
+	"last_update": "Thursday, 16-Mar-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3959,6 +3959,11 @@
 						"fr": 2,
 						"ja": 2,
 						"tr": 2
+					}
+				},
+				"docker-tag": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-update": {
