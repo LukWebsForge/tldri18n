@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 20-Mar-23 01:00:05 CET",
+	"last_update": "Tuesday, 21-Mar-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -707,6 +707,7 @@
 				"airodump-ng": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
@@ -1540,6 +1541,11 @@
 						"en": 2
 					}
 				},
+				"az-devops": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-feedback": {
 					"status": {
 						"en": 2
@@ -1584,6 +1590,11 @@
 					}
 				},
 				"az-redis": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-repos": {
 					"status": {
 						"en": 2
 					}
@@ -1913,6 +1924,11 @@
 					}
 				},
 				"bird": {
+					"status": {
+						"en": 2
+					}
+				},
+				"birdc": {
 					"status": {
 						"en": 2
 					}
@@ -3045,6 +3061,7 @@
 						"pl": 1,
 						"pt_BR": 1,
 						"ta": 1,
+						"tr": 2,
 						"zh": 1,
 						"zh_TW": 1
 					}
@@ -5226,7 +5243,8 @@
 				},
 				"fzf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"g++": {
@@ -12413,6 +12431,11 @@
 						"en": 2
 					}
 				},
+				"rgpt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rgrep": {
 					"status": {
 						"en": 2
@@ -17471,6 +17494,11 @@
 					}
 				},
 				"drawing": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dropbearkey": {
 					"status": {
 						"en": 2
 					}
