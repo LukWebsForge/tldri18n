@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 23-Mar-23 01:00:04 CET",
+	"last_update": "Friday, 24-Mar-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -20889,6 +20889,11 @@
 					}
 				},
 				"termusic": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tftp": {
 					"status": {
 						"en": 2
 					}
