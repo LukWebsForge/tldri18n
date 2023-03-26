@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 25-Mar-23 01:00:03 CET",
+	"last_update": "Sunday, 26-Mar-23 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1087,6 +1087,7 @@
 				"asar": {
 					"status": {
 						"en": 2,
+						"es": 1,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
