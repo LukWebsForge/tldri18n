@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 26-Mar-23 01:00:07 CET",
+	"last_update": "Monday, 27-Mar-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -19195,6 +19195,11 @@
 					}
 				},
 				"mycli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nala": {
 					"status": {
 						"en": 2
 					}
