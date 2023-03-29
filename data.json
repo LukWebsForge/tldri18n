@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 28-Mar-23 02:00:06 CEST",
+	"last_update": "Wednesday, 29-Mar-23 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1209,7 +1209,8 @@
 				},
 				"audacious": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"auditd": {
