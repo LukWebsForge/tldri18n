@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 30-Mar-23 02:00:06 CEST",
+	"last_update": "Friday, 31-Mar-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -685,6 +685,7 @@
 				},
 				"aircrack-ng": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -11997,6 +11998,11 @@
 						"en": 2
 					}
 				},
+				"pystun3": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pytest": {
 					"status": {
 						"en": 2
@@ -12449,6 +12455,11 @@
 					}
 				},
 				"rgrep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rhash": {
 					"status": {
 						"en": 2
 					}
@@ -13461,6 +13472,11 @@
 						"en": 2,
 						"ru": 2,
 						"zh": 1
+					}
+				},
+				"stun": {
+					"status": {
+						"en": 2
 					}
 				},
 				"su": {
