@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 01-Apr-23 02:00:03 CEST",
+	"last_update": "Sunday, 02-Apr-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -235,21 +235,21 @@
 				},
 				"logcat": {
 					"status": {
-						"bn": 2,
-						"de": 2,
+						"bn": 1,
+						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ru": 2,
-						"ta": 2,
-						"tr": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ru": 1,
+						"ta": 1,
+						"tr": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"pkg": {
@@ -597,8 +597,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 2,
-						"zh": 2
+						"fr": 1,
+						"zh": 1
 					}
 				},
 				"adb-reverse": {
@@ -840,7 +840,8 @@
 				"anki": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"ansible": {
@@ -9425,6 +9426,11 @@
 						"fr": 2
 					}
 				},
+				"mcfly": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mcs": {
 					"status": {
 						"en": 2,
@@ -11623,6 +11629,11 @@
 						"en": 2
 					}
 				},
+				"procs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"progpilot": {
 					"status": {
 						"en": 2
@@ -12982,7 +12993,8 @@
 				},
 				"shards": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"shasum": {
@@ -13689,6 +13701,11 @@
 					}
 				},
 				"tbl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tcc": {
 					"status": {
 						"en": 2
 					}
@@ -15241,6 +15258,11 @@
 						"pt_BR": 2
 					}
 				},
+				"wpaclean": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wpm": {
 					"status": {
 						"en": 2
@@ -15520,6 +15542,11 @@
 					}
 				},
 				"xzdiff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xzgrep": {
 					"status": {
 						"en": 2
 					}
@@ -18647,6 +18674,11 @@
 						"en": 2
 					}
 				},
+				"lex": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lftp": {
 					"status": {
 						"en": 2
@@ -19881,11 +19913,6 @@
 					}
 				},
 				"prlimit": {
-					"status": {
-						"en": 2
-					}
-				},
-				"procs": {
 					"status": {
 						"en": 2
 					}
@@ -21843,17 +21870,17 @@
 				"lo": 42,
 				"ml": 42,
 				"ne": 42,
-				"nl": 43,
+				"nl": 42,
 				"no": 42,
 				"pl": 44,
 				"pt_BR": 61,
-				"pt_PT": 46,
+				"pt_PT": 45,
 				"ro": 0,
 				"ru": 43,
 				"sh": 0,
 				"sr": 0,
 				"sv": 42,
-				"ta": 43,
+				"ta": 42,
 				"th": 43,
 				"tr": 42,
 				"uk": 42,
@@ -27037,6 +27064,11 @@
 						"zh_TW": 1
 					}
 				},
+				"lex": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lipo": {
 					"status": {
 						"en": 2
@@ -27805,7 +27837,7 @@
 				"bs": 6,
 				"ca": 8,
 				"da": 6,
-				"de": 25,
+				"de": 24,
 				"en": 99,
 				"es": 7,
 				"fa": 1,
@@ -27818,9 +27850,9 @@
 				"lo": 7,
 				"ml": 6,
 				"ne": 6,
-				"nl": 10,
+				"nl": 9,
 				"no": 7,
-				"pl": 20,
+				"pl": 19,
 				"pt_BR": 18,
 				"pt_PT": 6,
 				"ro": 0,
@@ -27858,6 +27890,11 @@
 					"status": {
 						"en": 2,
 						"ta": 2
+					}
+				},
+				"bleachbit_console": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cd": {
