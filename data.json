@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 07-Apr-23 02:00:05 CEST",
+	"last_update": "Saturday, 08-Apr-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15894,7 +15894,7 @@
 				"sv": 0,
 				"ta": 5,
 				"th": 1,
-				"tr": 6,
+				"tr": 5,
 				"uk": 1,
 				"uz": 0,
 				"zh": 11,
@@ -18318,6 +18318,11 @@
 						"es": 2,
 						"fr": 2,
 						"pl": 2
+					}
+				},
+				"ifmetric": {
+					"status": {
+						"en": 2
 					}
 				},
 				"iftop": {
