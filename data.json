@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 08-Apr-23 02:00:05 CEST",
+	"last_update": "Sunday, 09-Apr-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5684,14 +5684,14 @@
 				},
 				"git-am": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"ta": 2,
-						"tr": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"ta": 1,
+						"tr": 1
 					}
 				},
 				"git-annex": {
@@ -10289,6 +10289,7 @@
 						"en": 2,
 						"fr": 1,
 						"id": 1,
+						"it": 1,
 						"pt_BR": 1,
 						"zh": 1
 					}
@@ -10392,7 +10393,8 @@
 				"npx": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"nrm": {
@@ -12463,7 +12465,8 @@
 				},
 				"rg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"rga": {
@@ -13147,6 +13150,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"snort": {
+					"status": {
+						"en": 2
 					}
 				},
 				"snowsql": {
@@ -14030,6 +14038,11 @@
 					}
 				},
 				"tlmgr-path": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-pinning": {
 					"status": {
 						"en": 2
 					}
@@ -19201,6 +19214,11 @@
 						"en": 2
 					}
 				},
+				"mmdebstrap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mocp": {
 					"status": {
 						"en": 2
@@ -19769,6 +19787,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"picom": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pidof": {
