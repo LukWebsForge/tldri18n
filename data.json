@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 13-Apr-23 02:00:05 CEST",
+	"last_update": "Friday, 14-Apr-23 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2461,7 +2461,8 @@
 				},
 				"chezmoi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh_TW": 2
 					}
 				},
 				"chgrp": {
@@ -19264,6 +19265,12 @@
 				"mpg123": {
 					"status": {
 						"en": 2
+					}
+				},
+				"mpicc": {
+					"status": {
+						"en": 2,
+						"it": 2
 					}
 				},
 				"mpstat": {
