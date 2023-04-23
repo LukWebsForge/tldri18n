@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 22-Apr-23 02:00:05 CEST",
+	"last_update": "Sunday, 23-Apr-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1317,7 +1317,8 @@
 				},
 				"aws-cognito-idp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aws-configure": {
@@ -1426,6 +1427,7 @@
 				"aws-rds": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
@@ -12983,6 +12985,11 @@
 					}
 				},
 				"sftp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sgpt": {
 					"status": {
 						"en": 2
 					}
