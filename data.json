@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 23-Apr-23 02:00:06 CEST",
+	"last_update": "Monday, 24-Apr-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -691,6 +691,7 @@
 				},
 				"aireplay-ng": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"zh": 2
@@ -698,6 +699,7 @@
 				},
 				"airmon-ng": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -708,6 +710,7 @@
 				},
 				"airodump-ng": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"zh": 2
@@ -1083,6 +1086,7 @@
 				},
 				"arping": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"it": 2,
@@ -12647,6 +12651,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				},
@@ -15921,9 +15926,9 @@
 				"da": 0,
 				"de": 9,
 				"en": 99,
-				"es": 9,
+				"es": 8,
 				"fa": 0,
-				"fr": 9,
+				"fr": 8,
 				"hi": 1,
 				"id": 2,
 				"it": 5,
@@ -18062,6 +18067,12 @@
 						"en": 2
 					}
 				},
+				"genisoimage": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
+					}
+				},
 				"genkernel": {
 					"status": {
 						"en": 2
@@ -19042,7 +19053,8 @@
 				},
 				"makepkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"man": {
@@ -19433,6 +19445,12 @@
 						"en": 2
 					}
 				},
+				"networkctl": {
+					"status": {
+						"en": 2,
+						"pl": 2
+					}
+				},
 				"newgrp": {
 					"status": {
 						"ca": 2,
@@ -19590,6 +19608,11 @@
 				"numlockx": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"obabel": {
+					"status": {
 						"en": 2
 					}
 				},
