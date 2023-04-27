@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 26-Apr-23 02:00:04 CEST",
+	"last_update": "Thursday, 27-Apr-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -950,6 +950,7 @@
 				"apktool": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ja": 2,
@@ -1437,7 +1438,8 @@
 				},
 				"aws-route53": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aws-s3": {
@@ -10217,13 +10219,18 @@
 				},
 				"nix": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
 				"nix-build": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"nix-classic": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -10242,6 +10249,71 @@
 				"nix-shell": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"nix-store": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-develop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-edit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-flake": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-profile": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-registry": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-repl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-search": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-shell": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-store": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix3-why-depends": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -19614,6 +19686,12 @@
 				"obabel": {
 					"status": {
 						"en": 2
+					}
+				},
+				"oomctl": {
+					"status": {
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"openfortivpn": {
