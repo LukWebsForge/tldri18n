@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 27-Apr-23 02:00:06 CEST",
+	"last_update": "Friday, 28-Apr-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1360,6 +1360,7 @@
 				"aws-glue": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"pt_BR": 2
 					}
