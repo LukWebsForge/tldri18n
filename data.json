@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 02-May-23 02:00:05 CEST",
+	"last_update": "Wednesday, 03-May-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2006,16 +2006,16 @@
 						"zh": 2
 					}
 				},
+				"bob": {
+					"status": {
+						"en": 2
+					}
+				},
 				"boot": {
 					"status": {
 						"en": 2,
 						"it": 2,
 						"ko": 2
-					}
-				},
-				"bootctl": {
-					"status": {
-						"en": 2
 					}
 				},
 				"borg": {
@@ -16017,7 +16017,7 @@
 				"ne": 0,
 				"nl": 1,
 				"no": 1,
-				"pl": 4,
+				"pl": 5,
 				"pt_BR": 11,
 				"pt_PT": 2,
 				"ro": 0,
@@ -16783,6 +16783,12 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"bootctl": {
+					"status": {
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"bpftool": {
@@ -18000,6 +18006,11 @@
 					}
 				},
 				"firewall-cmd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fixfiles": {
 					"status": {
 						"en": 2
 					}
