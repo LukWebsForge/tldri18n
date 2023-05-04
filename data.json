@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 03-May-23 02:00:06 CEST",
+	"last_update": "Thursday, 04-May-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15303,6 +15303,11 @@
 					}
 				},
 				"webtorrent": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wfuzz": {
 					"status": {
 						"en": 2
 					}
