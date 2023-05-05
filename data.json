@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 04-May-23 02:00:05 CEST",
+	"last_update": "Friday, 05-May-23 02:00:15 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6060,6 +6060,11 @@
 						"tr": 2
 					}
 				},
+				"git-credential-cache": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-credential-store": {
 					"status": {
 						"en": 2
@@ -7559,6 +7564,11 @@
 					}
 				},
 				"hardhat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hashcat": {
 					"status": {
 						"en": 2
 					}
@@ -10378,6 +10388,11 @@
 						"it": 2,
 						"pl": 2,
 						"zh": 2
+					}
+				},
+				"nmblookup": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nms": {
@@ -18364,11 +18379,6 @@
 						"en": 2
 					}
 				},
-				"hashcat": {
-					"status": {
-						"en": 2
-					}
-				},
 				"hcitool": {
 					"status": {
 						"en": 2
@@ -19579,11 +19589,6 @@
 					}
 				},
 				"nixos-rebuild": {
-					"status": {
-						"en": 2
-					}
-				},
-				"nmblookup": {
 					"status": {
 						"en": 2
 					}
