@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 05-May-23 02:00:15 CEST",
+	"last_update": "Saturday, 06-May-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13153,6 +13153,11 @@
 						"en": 2
 					}
 				},
+				"shfmt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"shift": {
 					"status": {
 						"en": 2
@@ -13414,6 +13419,11 @@
 					}
 				},
 				"sponge": {
+					"status": {
+						"en": 2
+					}
+				},
+				"spotdl": {
 					"status": {
 						"en": 2
 					}
