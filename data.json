@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 09-May-23 02:00:03 CEST",
+	"last_update": "Wednesday, 10-May-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -370,7 +370,7 @@
 				"ru": 4,
 				"sh": 0,
 				"sr": 0,
-				"sv": 3,
+				"sv": 2,
 				"ta": 4,
 				"th": 2,
 				"tr": 8,
@@ -845,6 +845,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -1281,6 +1282,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2
@@ -1295,6 +1297,7 @@
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -1317,7 +1320,8 @@
 				},
 				"aws-codecommit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aws-cognito-idp": {
@@ -1798,6 +1802,11 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"basenc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bash": {
@@ -3690,7 +3699,8 @@
 						"it": 1,
 						"ja": 2,
 						"ko": 1,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"tr": 1
 					}
 				},
 				"dillo": {
@@ -5300,6 +5310,11 @@
 					}
 				},
 				"gacutil": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gallery-dl": {
 					"status": {
 						"en": 2
 					}
@@ -10020,6 +10035,11 @@
 					}
 				},
 				"mysqlbinlog": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mysqlcheck": {
 					"status": {
 						"en": 2
 					}
@@ -16669,7 +16689,12 @@
 				"avahi-browse": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
+					}
+				},
+				"avahi-resolve": {
+					"status": {
+						"en": 2
 					}
 				},
 				"avifenc": {
@@ -17672,6 +17697,7 @@
 						"en": 2,
 						"es": 1,
 						"id": 2,
+						"nl": 2,
 						"pt_BR": 1,
 						"ta": 2,
 						"tr": 2
@@ -20149,6 +20175,11 @@
 						"en": 2
 					}
 				},
+				"pro": {
+					"status": {
+						"en": 2
+					}
+				},
 				"protontricks": {
 					"status": {
 						"en": 2,
@@ -20582,7 +20613,8 @@
 				},
 				"resolvectl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"resolveip": {
@@ -20949,6 +20981,11 @@
 						"en": 2
 					}
 				},
+				"smbnetfs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"smbpasswd": {
 					"status": {
 						"en": 2
@@ -21002,6 +21039,12 @@
 				"spi": {
 					"status": {
 						"en": 2
+					}
+				},
+				"sqfstar": {
+					"status": {
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"squeue": {
@@ -28076,7 +28119,7 @@
 				"fr": 8,
 				"hi": 7,
 				"id": 17,
-				"it": 17,
+				"it": 19,
 				"ja": 16,
 				"ko": 6,
 				"lo": 7,
@@ -28571,7 +28614,8 @@
 				},
 				"date": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"del": {
@@ -28828,6 +28872,7 @@
 				"logoff": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -29324,6 +29369,7 @@
 				"tasklist": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"zh": 2
 					}
 				},
