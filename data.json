@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 13-May-23 02:00:05 CEST",
+	"last_update": "Sunday, 14-May-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -686,6 +686,11 @@
 				"aircrack-ng": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"airdecap-ng": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -15681,6 +15686,11 @@
 					}
 				},
 				"xprop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xsp": {
 					"status": {
 						"en": 2
 					}
