@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 15-May-23 02:00:06 CEST",
+	"last_update": "Tuesday, 16-May-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -598,7 +598,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"adb-reverse": {
@@ -686,7 +686,8 @@
 				"aircrack-ng": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"airdecap-ng": {
@@ -16083,11 +16084,11 @@
 				"it": 5,
 				"ja": 1,
 				"ko": 1,
-				"lo": 1,
+				"lo": 0,
 				"ml": 2,
 				"ne": 0,
 				"nl": 1,
-				"no": 1,
+				"no": 0,
 				"pl": 7,
 				"pt_BR": 11,
 				"pt_PT": 2,
@@ -16102,7 +16103,7 @@
 				"uk": 1,
 				"uz": 0,
 				"zh": 11,
-				"zh_TW": 1
+				"zh_TW": 0
 			},
 			"pages": {
 				"a2disconf": {
@@ -19480,6 +19481,11 @@
 						"en": 2
 					}
 				},
+				"mokutil": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mono": {
 					"status": {
 						"en": 2,
@@ -21211,6 +21217,11 @@
 						"es": 2,
 						"fr": 2,
 						"pl": 2
+					}
+				},
+				"systemd-ac-power": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemd-analyze": {
