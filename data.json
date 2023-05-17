@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 16-May-23 02:00:05 CEST",
+	"last_update": "Wednesday, 17-May-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1074,6 +1074,7 @@
 				},
 				"arp": {
 					"status": {
+						"de": 1,
 						"en": 2,
 						"fr": 2,
 						"it": 2,
@@ -1086,6 +1087,7 @@
 				},
 				"arp-scan": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"pt_BR": 2,
@@ -1294,6 +1296,11 @@
 						"ko": 2
 					}
 				},
+				"aw-backup": {
+					"status": {
+						"de": 2
+					}
+				},
 				"awk": {
 					"status": {
 						"en": 2,
@@ -1324,8 +1331,14 @@
 						"en": 2
 					}
 				},
+				"aws-cloudformation": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aws-codecommit": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2
 					}
@@ -2063,6 +2076,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"boxes": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bq": {
@@ -15662,6 +15680,11 @@
 						"en": 2
 					}
 				},
+				"xmlstarlet": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xmlto": {
 					"status": {
 						"en": 2
@@ -21228,6 +21251,11 @@
 					"status": {
 						"en": 2,
 						"pl": 2
+					}
+				},
+				"systemd-cat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemd-run": {
