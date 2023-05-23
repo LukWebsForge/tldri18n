@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 22-May-23 02:00:05 CEST",
+	"last_update": "Tuesday, 23-May-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5733,6 +5733,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"sr": 2,
+						"ta": 2,
 						"tr": 2,
 						"uk": 2,
 						"zh": 2
@@ -9680,6 +9681,11 @@
 					}
 				},
 				"mitmproxy": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mitmweb": {
 					"status": {
 						"en": 2
 					}
