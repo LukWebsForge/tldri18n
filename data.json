@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 25-May-23 02:00:06 CEST",
+	"last_update": "Friday, 26-May-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -21148,6 +21148,12 @@
 				"spi": {
 					"status": {
 						"en": 2
+					}
+				},
+				"sqfscat": {
+					"status": {
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"sqfstar": {
