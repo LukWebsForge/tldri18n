@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 26-May-23 02:00:05 CEST",
+	"last_update": "Saturday, 27-May-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -481,6 +481,7 @@
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
+						"nl": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -493,6 +494,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 1,
+						"nl": 2,
 						"no": 2,
 						"pt_BR": 1,
 						"ru": 2,
@@ -507,6 +509,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"no": 2,
 						"pt_BR": 2,
 						"ru": 2,
@@ -22269,7 +22272,7 @@
 				"da": 42,
 				"de": 44,
 				"en": 98,
-				"es": 51,
+				"es": 50,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
@@ -27416,6 +27419,12 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"ipconfig": {
+					"status": {
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"istats": {
