@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 29-May-23 02:00:06 CEST",
+	"last_update": "Tuesday, 30-May-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6087,6 +6087,7 @@
 				},
 				"git-config": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
