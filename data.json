@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 31-May-23 02:00:06 CEST",
+	"last_update": "Thursday, 01-Jun-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1199,6 +1199,7 @@
 				"at": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -9413,7 +9414,27 @@
 						"zh_TW": 2
 					}
 				},
+				"lzegrep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lzfgrep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lzgrep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lzip": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lzless": {
 					"status": {
 						"en": 2
 					}
@@ -9449,6 +9470,11 @@
 						"uk": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"lzmore": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lzop": {
@@ -15837,12 +15863,27 @@
 						"en": 2
 					}
 				},
+				"xzegrep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xzfgrep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xzgrep": {
 					"status": {
 						"en": 2
 					}
 				},
 				"xzless": {
+					"status": {
+						"en": 2
+					}
+				},
+				"xzmore": {
 					"status": {
 						"en": 2
 					}
@@ -22292,7 +22333,7 @@
 				"da": 42,
 				"de": 44,
 				"en": 98,
-				"es": 50,
+				"es": 51,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
@@ -22463,7 +22504,8 @@
 				},
 				"auvaltool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"avbdeviced": {
@@ -27963,7 +28005,8 @@
 				},
 				"uptime": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"usernoted": {
