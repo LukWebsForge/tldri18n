@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 04-Jun-23 02:00:05 CEST",
+	"last_update": "Monday, 05-Jun-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -567,7 +567,7 @@
 						"nl": 2,
 						"pt_BR": 1,
 						"ru": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"acyclic": {
@@ -2802,6 +2802,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"clido": {
+					"status": {
+						"en": 2
 					}
 				},
 				"clifm": {
@@ -17175,6 +17180,11 @@
 					}
 				},
 				"burpsuite": {
+					"status": {
+						"en": 2
+					}
+				},
+				"busctl": {
 					"status": {
 						"en": 2
 					}
