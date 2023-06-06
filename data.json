@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 05-Jun-23 02:00:05 CEST",
+	"last_update": "Tuesday, 06-Jun-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7039,6 +7039,11 @@
 						"tr": 2
 					}
 				},
+				"gitwatch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gixy": {
 					"status": {
 						"en": 2
@@ -9315,7 +9320,7 @@
 						"fr": 2,
 						"hi": 1,
 						"id": 1,
-						"it": 1,
+						"it": 2,
 						"ja": 1,
 						"ko": 2,
 						"ne": 2,
