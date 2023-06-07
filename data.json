@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 06-Jun-23 02:00:05 CEST",
+	"last_update": "Wednesday, 07-Jun-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6602,7 +6602,7 @@
 						"it": 1,
 						"pt_BR": 1,
 						"tr": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"git-rename-branch": {
@@ -10106,6 +10106,11 @@
 						"de": 2,
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"musl-gcc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mutagen": {
