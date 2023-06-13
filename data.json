@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 12-Jun-23 02:00:02 CEST",
+	"last_update": "Tuesday, 13-Jun-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -17939,6 +17939,11 @@
 						"en": 2,
 						"it": 1,
 						"pt_BR": 1
+					}
+				},
+				"dpkg-reconfigure": {
+					"status": {
+						"en": 2
 					}
 				},
 				"drawing": {
