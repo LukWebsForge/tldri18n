@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 13-Jun-23 02:00:05 CEST",
+	"last_update": "Wednesday, 14-Jun-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6378,7 +6378,7 @@
 						"es": 2,
 						"fr": 1,
 						"hi": 2,
-						"it": 1,
+						"it": 2,
 						"tr": 1
 					}
 				},
@@ -27843,7 +27843,7 @@
 					"status": {
 						"en": 2,
 						"pl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"screencapture": {
