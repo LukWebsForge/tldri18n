@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 15-Jun-23 02:00:06 CEST",
+	"last_update": "Friday, 16-Jun-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -10535,6 +10535,7 @@
 				},
 				"nmap": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"it": 2,
