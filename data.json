@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 16-Jun-23 02:00:05 CEST",
+	"last_update": "Saturday, 17-Jun-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -17247,6 +17247,7 @@
 				"cat": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ml": 2
 					}
 				},
