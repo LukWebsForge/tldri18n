@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 18-Jun-23 02:00:06 CEST",
+	"last_update": "Monday, 19-Jun-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -9433,6 +9433,11 @@
 						"zh_TW": 2
 					}
 				},
+				"lzcmp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lzegrep": {
 					"status": {
 						"en": 2
@@ -16914,6 +16919,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"bchunk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"beep": {
