@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 20-Jun-23 02:00:05 CEST",
+	"last_update": "Wednesday, 21-Jun-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4619,6 +4619,11 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"eol": {
+					"status": {
+						"en": 2
 					}
 				},
 				"eqn": {
@@ -9857,6 +9862,11 @@
 					}
 				},
 				"mocha": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mods": {
 					"status": {
 						"en": 2
 					}
@@ -16172,6 +16182,11 @@
 						"fr": 2
 					}
 				},
+				"zotero": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zoxide": {
 					"status": {
 						"en": 2,
@@ -16557,6 +16572,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"it": 2,
 						"ja": 2,
