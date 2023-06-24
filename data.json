@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 23-Jun-23 02:00:05 CEST",
+	"last_update": "Saturday, 24-Jun-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2003,6 +2003,11 @@
 						"zh": 2
 					}
 				},
+				"bgpgrep": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bindkey": {
 					"status": {
 						"en": 2
@@ -3571,6 +3576,11 @@
 						"fr": 1,
 						"it": 1,
 						"pt_BR": 1
+					}
+				},
+				"datashader_cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"date": {
@@ -11260,6 +11270,11 @@
 						"en": 2
 					}
 				},
+				"peerindex": {
+					"status": {
+						"en": 2
+					}
+				},
 				"peludna-prognoza": {
 					"status": {
 						"en": 2
@@ -12942,8 +12957,8 @@
 				"ruby": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ta": 2
+						"id": 1,
+						"ta": 1
 					}
 				},
 				"ruget": {
@@ -14381,6 +14396,11 @@
 					}
 				},
 				"tlmgr-restore": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tlmgr-search": {
 					"status": {
 						"en": 2
 					}
@@ -16251,7 +16271,7 @@
 				"nl": 1,
 				"no": 0,
 				"pl": 7,
-				"pt_BR": 11,
+				"pt_BR": 10,
 				"pt_PT": 2,
 				"ro": 0,
 				"ru": 1,
@@ -21431,6 +21451,11 @@
 						"en": 2
 					}
 				},
+				"systemd-delta": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemd-run": {
 					"status": {
 						"en": 2,
@@ -22419,15 +22444,15 @@
 				"nl": 42,
 				"no": 42,
 				"pl": 44,
-				"pt_BR": 61,
+				"pt_BR": 60,
 				"pt_PT": 45,
 				"ro": 0,
-				"ru": 43,
+				"ru": 42,
 				"sh": 0,
 				"sr": 0,
 				"sv": 42,
 				"ta": 42,
-				"th": 43,
+				"th": 42,
 				"tr": 42,
 				"uk": 42,
 				"uz": 0,
@@ -28030,6 +28055,11 @@
 					}
 				},
 				"tart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"terminal-notifier": {
 					"status": {
 						"en": 2
 					}
