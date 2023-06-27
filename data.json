@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 26-Jun-23 02:00:06 CEST",
+	"last_update": "Tuesday, 27-Jun-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15528,6 +15528,11 @@
 					}
 				},
 				"webtorrent": {
+					"status": {
+						"en": 2
+					}
+				},
+				"weechat": {
 					"status": {
 						"en": 2
 					}
