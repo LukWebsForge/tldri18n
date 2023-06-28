@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 27-Jun-23 02:00:06 CEST",
+	"last_update": "Wednesday, 28-Jun-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2307,6 +2307,11 @@
 						"it": 1,
 						"ko": 1,
 						"pt_BR": 1
+					}
+				},
+				"bzip3": {
+					"status": {
+						"en": 2
 					}
 				},
 				"c99": {
