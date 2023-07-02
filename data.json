@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 01-Jul-23 02:00:06 CEST",
+	"last_update": "Sunday, 02-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -14678,6 +14678,11 @@
 						"en": 2
 					}
 				},
+				"tre": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tred": {
 					"status": {
 						"en": 2,
@@ -16301,7 +16306,7 @@
 				"nl": 1,
 				"no": 0,
 				"pl": 7,
-				"pt_BR": 11,
+				"pt_BR": 10,
 				"pt_PT": 2,
 				"ro": 0,
 				"ru": 1,
@@ -21661,6 +21666,11 @@
 					}
 				},
 				"trashy": {
+					"status": {
+						"en": 2
+					}
+				},
+				"trayer": {
 					"status": {
 						"en": 2
 					}
