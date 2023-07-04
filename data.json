@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 03-Jul-23 02:00:06 CEST",
+	"last_update": "Tuesday, 04-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -18852,6 +18852,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"it": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -21275,7 +21276,8 @@
 				},
 				"smbclient": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"smbget": {
@@ -28540,7 +28542,7 @@
 				"fr": 7,
 				"hi": 7,
 				"id": 17,
-				"it": 20,
+				"it": 21,
 				"ja": 15,
 				"ko": 6,
 				"lo": 7,
@@ -28667,6 +28669,7 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -29339,7 +29342,8 @@
 				},
 				"mount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"msg": {
@@ -29639,7 +29643,8 @@
 				"robocopy": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"rpcinfo": {
