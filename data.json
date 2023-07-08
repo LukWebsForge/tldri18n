@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 07-Jul-23 02:00:06 CEST",
+	"last_update": "Saturday, 08-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20842,6 +20842,11 @@
 					}
 				},
 				"rdesktop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"read": {
 					"status": {
 						"en": 2
 					}
