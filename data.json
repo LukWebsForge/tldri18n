@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 08-Jul-23 02:00:06 CEST",
+	"last_update": "Sunday, 09-Jul-23 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -21438,6 +21438,11 @@
 						"en": 2
 					}
 				},
+				"swaplabel": {
+					"status": {
+						"en": 2
+					}
+				},
 				"swapoff": {
 					"status": {
 						"en": 2
@@ -22428,6 +22433,11 @@
 						"pt_BR": 2
 					}
 				},
+				"zbarcam": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zenity": {
 					"status": {
 						"en": 2
@@ -22484,7 +22494,7 @@
 				"da": 42,
 				"de": 44,
 				"en": 98,
-				"es": 52,
+				"es": 53,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
@@ -27840,6 +27850,7 @@
 				"opensnoop": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
@@ -28049,7 +28060,8 @@
 				},
 				"spctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"split": {
@@ -28324,7 +28336,8 @@
 				},
 				"xml2man": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"xsand": {
@@ -28542,7 +28555,7 @@
 				"da": 6,
 				"de": 24,
 				"en": 99,
-				"es": 7,
+				"es": 8,
 				"fa": 1,
 				"fr": 7,
 				"hi": 7,
@@ -29229,6 +29242,7 @@
 				"getmac": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
