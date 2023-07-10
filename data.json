@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 09-Jul-23 02:00:08 CEST",
+	"last_update": "Monday, 10-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2504,6 +2504,11 @@
 						"en": 2
 					}
 				},
+				"cavif": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cb": {
 					"status": {
 						"en": 2
@@ -4765,6 +4770,11 @@
 					}
 				},
 				"exercism": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exfatlabel": {
 					"status": {
 						"en": 2
 					}
