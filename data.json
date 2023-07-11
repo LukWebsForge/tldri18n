@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 10-Jul-23 02:00:06 CEST",
+	"last_update": "Tuesday, 11-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1282,6 +1282,7 @@
 				"autoflake": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"pl": 2,
@@ -2006,6 +2007,7 @@
 				},
 				"bgpgrep": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -9560,6 +9562,11 @@
 						"en": 2
 					}
 				},
+				"macchina": {
+					"status": {
+						"en": 2
+					}
+				},
 				"maestral": {
 					"status": {
 						"en": 2
@@ -11306,6 +11313,7 @@
 				},
 				"peerindex": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -22504,7 +22512,7 @@
 				"da": 42,
 				"de": 44,
 				"en": 98,
-				"es": 53,
+				"es": 54,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
@@ -27670,7 +27678,8 @@
 				},
 				"java_home": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"kmutil": {
@@ -28175,6 +28184,7 @@
 				"uname": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ta": 2,
 						"zh": 2
 					}
