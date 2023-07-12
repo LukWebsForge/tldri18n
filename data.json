@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 11-Jul-23 02:00:06 CEST",
+	"last_update": "Wednesday, 12-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -712,12 +712,14 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"airdecap-ng": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"aireplay-ng": {
@@ -725,6 +727,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
