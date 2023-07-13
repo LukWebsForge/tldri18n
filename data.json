@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 12-Jul-23 02:00:06 CEST",
+	"last_update": "Thursday, 13-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -10685,6 +10685,11 @@
 						"en": 2
 					}
 				},
+				"nping": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm": {
 					"status": {
 						"de": 2,
@@ -20771,6 +20776,16 @@
 						"en": 2
 					}
 				},
+				"qm-suspend": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-template": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-unlock": {
 					"status": {
 						"en": 2
@@ -29294,12 +29309,12 @@
 				"ipconfig": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ru": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ru": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"iscc": {
