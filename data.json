@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 13-Jul-23 02:00:06 CEST",
+	"last_update": "Friday, 14-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -350,7 +350,7 @@
 				"bs": 2,
 				"ca": 2,
 				"da": 2,
-				"de": 12,
+				"de": 13,
 				"en": 99,
 				"es": 10,
 				"fa": 0,
@@ -1795,6 +1795,7 @@
 				},
 				"babeld": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -2029,11 +2030,13 @@
 				},
 				"bird": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"birdc": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -4890,6 +4893,7 @@
 				},
 				"fastd": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -12376,6 +12380,7 @@
 				},
 				"pystun3": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -13886,6 +13891,7 @@
 				},
 				"stun": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -16026,6 +16032,11 @@
 						"nl": 2
 					}
 				},
+				"yard": {
+					"status": {
+						"en": 2
+					}
+				},
 				"yarn": {
 					"status": {
 						"de": 2,
@@ -16344,7 +16355,7 @@
 				"tr": 5,
 				"uk": 1,
 				"uz": 0,
-				"zh": 11,
+				"zh": 10,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -18279,6 +18290,11 @@
 					}
 				},
 				"fallocate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"farge": {
 					"status": {
 						"en": 2
 					}
@@ -28591,7 +28607,7 @@
 				"bs": 6,
 				"ca": 7,
 				"da": 6,
-				"de": 24,
+				"de": 23,
 				"en": 99,
 				"es": 8,
 				"fa": 1,
@@ -28607,20 +28623,20 @@
 				"nl": 9,
 				"no": 7,
 				"pl": 19,
-				"pt_BR": 18,
+				"pt_BR": 17,
 				"pt_PT": 6,
 				"ro": 0,
 				"ru": 11,
 				"sh": 0,
 				"sr": 0,
-				"sv": 9,
+				"sv": 8,
 				"ta": 26,
 				"th": 8,
 				"tr": 6,
 				"uk": 6,
 				"uz": 0,
 				"zh": 61,
-				"zh_TW": 21
+				"zh_TW": 20
 			},
 			"pages": {
 				"assoc": {
@@ -29415,6 +29431,16 @@
 						"en": 2,
 						"id": 2,
 						"ru": 2
+					}
+				},
+				"net": {
+					"status": {
+						"en": 2
+					}
+				},
+				"netsh-interface-portproxy": {
+					"status": {
+						"en": 2
 					}
 				},
 				"netstat": {
