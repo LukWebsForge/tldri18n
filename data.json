@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 14-Jul-23 02:00:06 CEST",
+	"last_update": "Saturday, 15-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16020,6 +16020,11 @@
 						"en": 2
 					}
 				},
+				"yacc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"yank": {
 					"status": {
 						"en": 2,
@@ -20681,6 +20686,11 @@
 						"en": 2
 					}
 				},
+				"qm-disk-resize": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-guest-cmd": {
 					"status": {
 						"en": 2
@@ -20747,6 +20757,11 @@
 					}
 				},
 				"qm-reset": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-resize": {
 					"status": {
 						"en": 2
 					}
@@ -21558,6 +21573,11 @@
 					}
 				},
 				"systemd-delta": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemd-firstboot": {
 					"status": {
 						"en": 2
 					}
