@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 18-Jul-23 02:00:05 CEST",
+	"last_update": "Wednesday, 19-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -19739,6 +19739,11 @@
 						"en": 2
 					}
 				},
+				"mlabel": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mmcli": {
 					"status": {
 						"en": 2
@@ -22590,7 +22595,7 @@
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
-				"id": 45,
+				"id": 44,
 				"it": 45,
 				"ja": 42,
 				"ko": 42,
@@ -22612,7 +22617,7 @@
 				"tr": 42,
 				"uk": 42,
 				"uz": 0,
-				"zh": 66,
+				"zh": 65,
 				"zh_TW": 42
 			},
 			"pages": {
@@ -28133,6 +28138,11 @@
 						"zh": 2
 					}
 				},
+				"signal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sips": {
 					"status": {
 						"en": 2,
@@ -28670,7 +28680,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 8,
-				"ta": 26,
+				"ta": 27,
 				"th": 8,
 				"tr": 6,
 				"uk": 6,
@@ -30121,13 +30131,15 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ta": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
 				},
 				"wsl-open": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ta": 2
 					}
 				},
 				"xcopy": {
