@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 19-Jul-23 02:00:06 CEST",
+	"last_update": "Thursday, 20-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20696,6 +20696,11 @@
 						"en": 2
 					}
 				},
+				"qm-disk-import": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-disk-resize": {
 					"status": {
 						"en": 2
@@ -20722,6 +20727,11 @@
 					}
 				},
 				"qm-help": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-importdisk": {
 					"status": {
 						"en": 2
 					}
