@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 24-Jul-23 02:00:06 CEST",
+	"last_update": "Tuesday, 25-Jul-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -14860,6 +14860,11 @@
 						"en": 2
 					}
 				},
+				"typst": {
+					"status": {
+						"en": 2
+					}
+				},
 				"u3d": {
 					"status": {
 						"en": 2
@@ -17361,6 +17366,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"cam": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cat": {
@@ -19981,8 +19991,8 @@
 				"nmcli": {
 					"status": {
 						"en": 2,
-						"ml": 2,
-						"tr": 2
+						"ml": 1,
+						"tr": 1
 					}
 				},
 				"nmcli-agent": {
@@ -20701,6 +20711,11 @@
 						"en": 2
 					}
 				},
+				"qm-disk-move": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-disk-resize": {
 					"status": {
 						"en": 2
@@ -20752,6 +20767,11 @@
 					}
 				},
 				"qm-monitor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-move-disk": {
 					"status": {
 						"en": 2
 					}
@@ -21598,6 +21618,11 @@
 					}
 				},
 				"systemd-firstboot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemd-hwdb": {
 					"status": {
 						"en": 2
 					}
@@ -22611,7 +22636,7 @@
 				"da": 42,
 				"de": 44,
 				"en": 98,
-				"es": 54,
+				"es": 55,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
@@ -22815,7 +22840,8 @@
 				},
 				"biomesyncd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"biometrickitd": {
@@ -22917,6 +22943,7 @@
 				"coreaudiod": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
@@ -28466,7 +28493,8 @@
 				},
 				"xsand": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"xsltproc": {
