@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 26-Jul-23 02:00:05 CEST",
+	"last_update": "Thursday, 27-Jul-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20634,7 +20634,7 @@
 				"pw-play": {
 					"status": {
 						"en": 2,
-						"tr": 2
+						"tr": 1
 					}
 				},
 				"pw-record": {
@@ -22641,7 +22641,7 @@
 				"da": 42,
 				"de": 44,
 				"en": 98,
-				"es": 55,
+				"es": 56,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
@@ -22979,6 +22979,7 @@
 				"cot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
@@ -23147,6 +23148,7 @@
 				"fsck": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -28186,6 +28188,7 @@
 				"shuf": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"zh": 2
 					}
