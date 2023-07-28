@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 27-Jul-23 02:00:06 CEST",
+	"last_update": "Friday, 28-Jul-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -350,7 +350,7 @@
 				"bs": 2,
 				"ca": 2,
 				"da": 2,
-				"de": 13,
+				"de": 12,
 				"en": 99,
 				"es": 10,
 				"fa": 0,
@@ -7606,6 +7606,16 @@
 					}
 				},
 				"grunt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-inspect-1.0": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0": {
 					"status": {
 						"en": 2
 					}
