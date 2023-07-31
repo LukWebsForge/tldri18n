@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 30-Jul-23 02:00:18 CEST",
+	"last_update": "Monday, 31-Jul-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -354,7 +354,7 @@
 				"en": 99,
 				"es": 10,
 				"fa": 0,
-				"fr": 14,
+				"fr": 13,
 				"hi": 3,
 				"id": 5,
 				"it": 15,
@@ -3127,6 +3127,11 @@
 				"conda-create": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"conda-install": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -18786,6 +18791,11 @@
 				"hello": {
 					"status": {
 						"it": 2
+					}
+				},
+				"help": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hlint": {
