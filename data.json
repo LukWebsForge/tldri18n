@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 02-Aug-23 02:00:06 CEST",
+	"last_update": "Thursday, 03-Aug-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8202,6 +8202,13 @@
 						"pt_BR": 2
 					}
 				},
+				"imgcat": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2,
+						"zh": 2
+					}
+				},
 				"import": {
 					"status": {
 						"en": 2
@@ -11971,6 +11978,16 @@
 						"de": 1,
 						"en": 2,
 						"it": 1
+					}
+				},
+				"polybar": {
+					"status": {
+						"en": 2
+					}
+				},
+				"polybar-msg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"popd": {
@@ -16412,6 +16429,11 @@
 				"zh_TW": 0
 			},
 			"pages": {
+				"!": {
+					"status": {
+						"en": 2
+					}
+				},
 				"a2disconf": {
 					"status": {
 						"ca": 2,
@@ -27822,13 +27844,6 @@
 						"en": 2,
 						"es": 2,
 						"pt_BR": 2
-					}
-				},
-				"imgcat": {
-					"status": {
-						"en": 2,
-						"pt_BR": 2,
-						"zh": 2
 					}
 				},
 				"indent": {
