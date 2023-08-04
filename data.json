@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 03-Aug-23 02:00:06 CEST",
+	"last_update": "Friday, 04-Aug-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16395,7 +16395,7 @@
 				"ar": 1,
 				"bn": 0,
 				"bs": 0,
-				"ca": 8,
+				"ca": 7,
 				"da": 0,
 				"de": 9,
 				"en": 99,
@@ -22395,6 +22395,11 @@
 						"tr": 2
 					}
 				},
+				"wpctl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wtf": {
 					"status": {
 						"en": 2,
@@ -22710,7 +22715,7 @@
 				"da": 42,
 				"de": 44,
 				"en": 98,
-				"es": 56,
+				"es": 57,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
@@ -23116,6 +23121,7 @@
 				"dhcp6d": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
@@ -23152,6 +23158,7 @@
 				"dot_clean": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
@@ -23180,6 +23187,7 @@
 				"ed": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2,
 						"ru": 2
 					}
