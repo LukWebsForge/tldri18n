@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 07-Aug-23 02:00:04 CEST",
+	"last_update": "Tuesday, 08-Aug-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12407,6 +12407,11 @@
 						"en": 2
 					}
 				},
+				"pydoc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pyenv": {
 					"status": {
 						"en": 2,
@@ -18500,6 +18505,11 @@
 						"en": 2
 					}
 				},
+				"fluidsynth": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fold": {
 					"status": {
 						"en": 2
@@ -19676,6 +19686,11 @@
 					}
 				},
 				"mdbook": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mediamtx": {
 					"status": {
 						"en": 2
 					}
@@ -27863,6 +27878,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"httpie": {
+					"status": {
+						"en": 2
 					}
 				},
 				"icalbuddy": {
