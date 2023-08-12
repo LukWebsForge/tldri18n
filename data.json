@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 11-Aug-23 02:00:05 CEST",
+	"last_update": "Saturday, 12-Aug-23 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4436,6 +4436,11 @@
 					}
 				},
 				"duc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"duckdb": {
 					"status": {
 						"en": 2
 					}
@@ -20579,6 +20584,11 @@
 					}
 				},
 				"pkgctl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pkgctl-auth": {
 					"status": {
 						"en": 2
 					}
