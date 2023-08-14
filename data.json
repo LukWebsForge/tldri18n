@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 13-Aug-23 02:00:09 CEST",
+	"last_update": "Monday, 14-Aug-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20593,6 +20593,11 @@
 						"en": 2
 					}
 				},
+				"pkgctl-version": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pkgfile": {
 					"status": {
 						"en": 2
@@ -22829,7 +22834,7 @@
 				"da": 42,
 				"de": 44,
 				"en": 98,
-				"es": 66,
+				"es": 70,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
@@ -22949,6 +22954,7 @@
 				"appsleepd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
@@ -23054,12 +23060,14 @@
 				"bless": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
 				"bnepd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
@@ -23175,23 +23183,27 @@
 				"csrutil": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
 				"csshx": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
 				"ctkd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"cut": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2,
 						"ru": 2
 					}
@@ -23311,12 +23323,14 @@
 				"emond": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
 				"fdesetup": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
@@ -28303,12 +28317,14 @@
 				"readlink": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_PT": 2
 					}
 				},
 				"reboot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
