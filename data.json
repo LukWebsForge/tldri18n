@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 16-Aug-23 02:00:03 CEST",
+	"last_update": "Thursday, 17-Aug-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8512,6 +8512,11 @@
 					}
 				},
 				"jetifier": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jf": {
 					"status": {
 						"en": 2
 					}
@@ -20589,6 +20594,11 @@
 					}
 				},
 				"pkgctl-auth": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pkgctl-diff": {
 					"status": {
 						"en": 2
 					}
