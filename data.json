@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 20-Aug-23 02:00:25 CEST",
+	"last_update": "Monday, 21-Aug-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16470,7 +16470,7 @@
 				"bs": 0,
 				"ca": 7,
 				"da": 0,
-				"de": 9,
+				"de": 8,
 				"en": 99,
 				"es": 8,
 				"fa": 0,
@@ -21851,6 +21851,11 @@
 					}
 				},
 				"systemd-mount": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemd-notify": {
 					"status": {
 						"en": 2
 					}
