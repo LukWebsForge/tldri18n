@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 22-Aug-23 02:00:03 CEST",
+	"last_update": "Wednesday, 23-Aug-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2753,7 +2753,7 @@
 						"es": 1,
 						"fr": 1,
 						"hi": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
@@ -2778,12 +2778,14 @@
 				"clamdscan": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"th": 2
 					}
 				},
 				"clamscan": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"th": 2
@@ -5424,6 +5426,7 @@
 				"freshclam": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"th": 2
 					}
 				},
@@ -21860,6 +21863,11 @@
 						"en": 2
 					}
 				},
+				"systemd-path": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemd-run": {
 					"status": {
 						"en": 2,
@@ -23273,6 +23281,7 @@
 				"dd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 1,
 						"zh": 1
 					}
