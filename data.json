@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 23-Aug-23 02:00:05 CEST",
+	"last_update": "Thursday, 24-Aug-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -355,7 +355,7 @@
 				"es": 10,
 				"fa": 1,
 				"fr": 13,
-				"hi": 3,
+				"hi": 2,
 				"id": 5,
 				"it": 15,
 				"ja": 3,
@@ -1389,6 +1389,11 @@
 					}
 				},
 				"aws-cloudformation": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aws-cloudwatch": {
 					"status": {
 						"en": 2
 					}
@@ -10418,6 +10423,11 @@
 					}
 				},
 				"ncmpcpp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ncu": {
 					"status": {
 						"en": 2
 					}
