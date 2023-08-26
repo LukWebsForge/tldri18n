@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 25-Aug-23 02:00:03 CEST",
+	"last_update": "Saturday, 26-Aug-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1384,6 +1384,11 @@
 					}
 				},
 				"aws-batch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aws-cloud9": {
 					"status": {
 						"en": 2
 					}
@@ -21792,6 +21797,11 @@
 					}
 				},
 				"swapon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"swaylock": {
 					"status": {
 						"en": 2
 					}
