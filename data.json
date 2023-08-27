@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 26-Aug-23 02:00:05 CEST",
+	"last_update": "Sunday, 27-Aug-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11873,9 +11873,9 @@
 				"pip3": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"id": 2,
-						"pt_BR": 2
+						"fr": 1,
+						"id": 1,
+						"pt_BR": 1
 					}
 				},
 				"pipenv": {
@@ -20339,6 +20339,11 @@
 					}
 				},
 				"opkg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"optimus-manager": {
 					"status": {
 						"en": 2
 					}
