@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 29-Aug-23 02:00:03 CEST",
+	"last_update": "Wednesday, 30-Aug-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2630,6 +2630,11 @@
 					}
 				},
 				"cheat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"checksec": {
 					"status": {
 						"en": 2
 					}
@@ -11251,6 +11256,11 @@
 						"en": 2
 					}
 				},
+				"packwiz": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pactl": {
 					"status": {
 						"en": 2
@@ -13518,6 +13528,11 @@
 						"en": 2,
 						"sh": 1,
 						"ta": 2
+					}
+				},
+				"shar": {
+					"status": {
+						"en": 2
 					}
 				},
 				"shards": {
@@ -21564,6 +21579,11 @@
 					}
 				},
 				"sfill": {
+					"status": {
+						"en": 2
+					}
+				},
+				"shar": {
 					"status": {
 						"en": 2
 					}
