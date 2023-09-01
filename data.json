@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 31-Aug-23 02:00:06 CEST",
+	"last_update": "Friday, 01-Sep-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -14361,6 +14361,11 @@
 				"tex": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"texcount": {
+					"status": {
 						"en": 2
 					}
 				},
