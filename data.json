@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 01-Sep-23 02:00:06 CEST",
+	"last_update": "Saturday, 02-Sep-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13093,6 +13093,16 @@
 					}
 				},
 				"roll": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ropgadget": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ropper": {
 					"status": {
 						"en": 2
 					}
