@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 02-Sep-23 02:00:06 CEST",
+	"last_update": "Sunday, 03-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13231,10 +13231,40 @@
 						"ta": 2
 					}
 				},
+				"rustup-check": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rustup-default": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rustup-init.sh": {
 					"status": {
 						"en": 2,
 						"ta": 2
+					}
+				},
+				"rustup-show": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rustup-target": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rustup-toolchain": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rustup-update": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rvm": {
@@ -21934,6 +21964,11 @@
 						"pl": 2
 					}
 				},
+				"systemd-tty-ask-password-agent": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemd-umount": {
 					"status": {
 						"en": 2
@@ -30425,6 +30460,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"uwfmgr": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vcvarsall": {
