@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 04-Sep-23 02:00:03 CEST",
+	"last_update": "Tuesday, 05-Sep-23 02:00:17 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -357,7 +357,7 @@
 				"fr": 13,
 				"hi": 2,
 				"id": 5,
-				"it": 15,
+				"it": 14,
 				"ja": 3,
 				"ko": 10,
 				"lo": 1,
@@ -9134,6 +9134,11 @@
 					}
 				},
 				"linkchecker": {
+					"status": {
+						"en": 2
+					}
+				},
+				"liquidctl": {
 					"status": {
 						"en": 2
 					}
