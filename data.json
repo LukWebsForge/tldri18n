@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 05-Sep-23 02:00:17 CEST",
+	"last_update": "Wednesday, 06-Sep-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -9127,6 +9127,16 @@
 						"en": 2
 					}
 				},
+				"lima": {
+					"status": {
+						"en": 2
+					}
+				},
+				"limactl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"link": {
 					"status": {
 						"en": 2,
@@ -13512,12 +13522,12 @@
 						"en": 2
 					}
 				},
-				"sfdp": {
+				"sf": {
 					"status": {
 						"en": 2
 					}
 				},
-				"sfdx": {
+				"sfdp": {
 					"status": {
 						"en": 2
 					}
@@ -14069,6 +14079,11 @@
 					}
 				},
 				"streamlink": {
+					"status": {
+						"en": 2
+					}
+				},
+				"stressapptest": {
 					"status": {
 						"en": 2
 					}
