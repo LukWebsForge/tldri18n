@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 07-Sep-23 02:00:05 CEST",
+	"last_update": "Friday, 08-Sep-23 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -494,7 +494,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"no": 2,
 						"pt_BR": 1,
@@ -16549,7 +16549,17 @@
 						"zh": 2
 					}
 				},
+				"zstdcat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zstdless": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zstdmt": {
 					"status": {
 						"en": 2
 					}
