@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 08-Sep-23 02:00:07 CEST",
+	"last_update": "Saturday, 09-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1240,7 +1240,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
 						"zh": 1
@@ -16594,7 +16594,7 @@
 				"nl": 1,
 				"no": 0,
 				"pl": 7,
-				"pt_BR": 10,
+				"pt_BR": 11,
 				"pt_PT": 2,
 				"ro": 0,
 				"ru": 1,
@@ -16727,8 +16727,8 @@
 				"abroot": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"pt_BR": 2
+						"es": 1,
+						"pt_BR": 1
 					}
 				},
 				"ac": {
@@ -18166,51 +18166,60 @@
 				},
 				"distrobox": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"distrobox-create": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
 				"distrobox-enter": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
 				"distrobox-export": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"distrobox-host-exec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"distrobox-list": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
 				"distrobox-rm": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
 				"distrobox-stop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"distrobox-upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"dkms": {
@@ -22385,6 +22394,11 @@
 						"en": 2,
 						"es": 1,
 						"fr": 2
+					}
+				},
+				"userdbctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"userdel": {
