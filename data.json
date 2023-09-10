@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 09-Sep-23 02:00:05 CEST",
+	"last_update": "Sunday, 10-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -19141,6 +19141,11 @@
 						"en": 2,
 						"fr": 2,
 						"pl": 2
+					}
+				},
+				"ikaros": {
+					"status": {
+						"en": 2
 					}
 				},
 				"img2txt": {
