@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 12-Sep-23 02:00:05 CEST",
+	"last_update": "Wednesday, 13-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2499,6 +2499,11 @@
 						"ta": 2
 					}
 				},
+				"cargo-help": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-rustc": {
 					"status": {
 						"en": 2,
@@ -2511,6 +2516,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"ta": 2
+					}
+				},
+				"cargo-version": {
+					"status": {
+						"en": 2
 					}
 				},
 				"carp": {
@@ -4905,6 +4915,11 @@
 					}
 				},
 				"exrex": {
+					"status": {
+						"en": 2
+					}
+				},
+				"eza": {
 					"status": {
 						"en": 2
 					}
