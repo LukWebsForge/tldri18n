@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 13-Sep-23 02:00:05 CEST",
+	"last_update": "Thursday, 14-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11140,6 +11140,11 @@
 					}
 				},
 				"ooniprobe": {
+					"status": {
+						"en": 2
+					}
+				},
+				"op": {
 					"status": {
 						"en": 2
 					}
@@ -23066,7 +23071,7 @@
 				"da": 42,
 				"de": 44,
 				"en": 98,
-				"es": 70,
+				"es": 71,
 				"fa": 0,
 				"fr": 42,
 				"hi": 42,
@@ -28302,7 +28307,8 @@
 				},
 				"lex": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lipo": {
@@ -28381,6 +28387,7 @@
 				"mdfind": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
@@ -28397,7 +28404,8 @@
 				},
 				"nettop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"networkquality": {
