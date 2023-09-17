@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 16-Sep-23 02:00:05 CEST",
+	"last_update": "Sunday, 17-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -366,7 +366,7 @@
 				"da": 2,
 				"de": 12,
 				"en": 99,
-				"es": 10,
+				"es": 9,
 				"fa": 1,
 				"fr": 13,
 				"hi": 2,
@@ -376,7 +376,7 @@
 				"ko": 10,
 				"lo": 1,
 				"ml": 1,
-				"ne": 2,
+				"ne": 1,
 				"nl": 4,
 				"no": 2,
 				"pl": 4,
@@ -2280,6 +2280,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"bun": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bundle": {
@@ -9197,6 +9202,56 @@
 						"en": 2
 					}
 				},
+				"linode-cli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linode-cli-account": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linode-cli-domains": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linode-cli-events": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linode-cli-linodes": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linode-cli-lke": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linode-cli-nodebalancers": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linode-cli-object-storage": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linode-cli-tickets": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linode-cli-volumes": {
+					"status": {
+						"en": 2
+					}
+				},
 				"liquidctl": {
 					"status": {
 						"en": 2
@@ -14167,6 +14222,11 @@
 				"stun": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"stylua": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -22055,6 +22115,11 @@
 					"status": {
 						"en": 2,
 						"pl": 2
+					}
+				},
+				"systemd-sysext": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemd-sysusers": {
