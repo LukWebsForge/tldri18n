@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 17-Sep-23 02:00:05 CEST",
+	"last_update": "Monday, 18-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13365,10 +13365,30 @@
 						"en": 2
 					}
 				},
+				"rustup-help": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rustup-init.sh": {
 					"status": {
 						"en": 2,
 						"ta": 2
+					}
+				},
+				"rustup-install": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rustup-man": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rustup-run": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rustup-show": {
@@ -13387,6 +13407,11 @@
 					}
 				},
 				"rustup-update": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rustup-which": {
 					"status": {
 						"en": 2
 					}
