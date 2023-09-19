@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 18-Sep-23 02:00:05 CEST",
+	"last_update": "Tuesday, 19-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -380,7 +380,7 @@
 				"nl": 4,
 				"no": 2,
 				"pl": 4,
-				"pt_BR": 10,
+				"pt_BR": 11,
 				"pt_PT": 2,
 				"ro": 0,
 				"ru": 4,
@@ -1356,7 +1356,8 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"avo": {
@@ -12139,47 +12140,56 @@
 				"podman": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
 				"podman-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"podman-compose": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"podman-image": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"podman-images": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"podman-machine": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"podman-ps": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"podman-rmi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"podman-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"poetry": {
@@ -12338,7 +12348,8 @@
 				},
 				"pssh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"psysh": {
@@ -14058,13 +14069,15 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
-						"hi": 2
+						"hi": 2,
+						"pt_BR": 2
 					}
 				},
 				"ssh-add": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -14072,45 +14085,52 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_BR": 2
 					}
 				},
 				"ssh-copy-id": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_BR": 2
 					}
 				},
 				"ssh-keygen": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_BR": 2
 					}
 				},
 				"ssh-keyscan": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_BR": 2
 					}
 				},
 				"sshd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"sshfs": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"sshpass": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"sshuttle": {
@@ -15653,77 +15673,92 @@
 				},
 				"virsh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-connect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-domblklist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-pool-autostart": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-pool-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-pool-define-as": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-pool-delete": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-pool-destroy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-pool-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-pool-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-pool-start": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-pool-undefine": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virsh-undefine": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"virt-clone": {
@@ -19398,6 +19433,21 @@
 						"tr": 2
 					}
 				},
+				"ip6tables": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ip6tables-restore": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ip6tables-save": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ipcalc": {
 					"status": {
 						"de": 2,
@@ -19424,6 +19474,16 @@
 						"en": 2,
 						"it": 1,
 						"zh": 1
+					}
+				},
+				"iptables-restore": {
+					"status": {
+						"en": 2
+					}
+				},
+				"iptables-save": {
+					"status": {
+						"en": 2
 					}
 				},
 				"isoinfo": {
@@ -22107,6 +22167,11 @@
 					}
 				},
 				"systemd-delta": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemd-detect-virt": {
 					"status": {
 						"en": 2
 					}
