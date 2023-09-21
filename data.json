@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 20-Sep-23 02:00:07 CEST",
+	"last_update": "Thursday, 21-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -54,7 +54,7 @@
 				"id": 100,
 				"it": 71,
 				"ja": 0,
-				"ko": 0,
+				"ko": 14,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -87,6 +87,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -109,6 +110,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 2,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
@@ -380,7 +382,7 @@
 				"nl": 4,
 				"no": 2,
 				"pl": 4,
-				"pt_BR": 11,
+				"pt_BR": 12,
 				"pt_PT": 2,
 				"ro": 0,
 				"ru": 4,
@@ -549,6 +551,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -1007,6 +1010,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -1409,7 +1413,8 @@
 				},
 				"aws-backup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-batch": {
@@ -2005,6 +2010,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 1,
+						"ja": 2,
 						"ko": 1
 					}
 				},
@@ -3723,7 +3729,7 @@
 						"de": 2,
 						"en": 2,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"pt_BR": 1,
 						"tr": 1
 					}
@@ -4036,7 +4042,8 @@
 				"docker-commit": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-compose": {
@@ -4058,7 +4065,8 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-cp": {
@@ -4077,6 +4085,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -4086,7 +4095,8 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-images": {
@@ -4107,19 +4117,22 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
 				"docker-load": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-login": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-logs": {
@@ -4140,6 +4153,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -4149,6 +4163,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -4164,7 +4179,8 @@
 				},
 				"docker-pull": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-rmi": {
@@ -4191,6 +4207,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -4199,6 +4216,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -4207,6 +4225,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -4214,7 +4233,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-start": {
@@ -4241,6 +4261,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -4250,23 +4271,27 @@
 						"en": 2,
 						"fr": 2,
 						"ja": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
 				"docker-tag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-volume": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_BR": 2
 					}
 				},
 				"docsify": {
@@ -16170,7 +16195,8 @@
 				},
 				"x11docker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"x_x": {
@@ -16797,7 +16823,7 @@
 				"ne": 0,
 				"nl": 1,
 				"no": 0,
-				"pl": 7,
+				"pl": 6,
 				"pt_BR": 11,
 				"pt_PT": 2,
 				"ro": 0,
@@ -17231,7 +17257,22 @@
 				"apx": {
 					"status": {
 						"en": 2,
-						"ta": 2
+						"ta": 1
+					}
+				},
+				"apx-pkgmanagers": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apx-stacks": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apx-subsystems": {
+					"status": {
+						"en": 2
 					}
 				},
 				"arch-chroot": {
@@ -18491,7 +18532,8 @@
 				"dockerd": {
 					"status": {
 						"ar": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"dolphin": {
@@ -18537,6 +18579,11 @@
 					}
 				},
 				"dpkg-reconfigure": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dracut": {
 					"status": {
 						"en": 2
 					}
@@ -19581,7 +19628,8 @@
 				},
 				"kdocker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"kexec": {
@@ -19885,6 +19933,11 @@
 					}
 				},
 				"lshw": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lsinitrd": {
 					"status": {
 						"en": 2
 					}
@@ -21593,7 +21646,7 @@
 				"resolvectl": {
 					"status": {
 						"en": 2,
-						"pl": 2
+						"pl": 1
 					}
 				},
 				"resolveip": {
@@ -22995,7 +23048,8 @@
 				},
 				"xbps-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"xbps-query": {
