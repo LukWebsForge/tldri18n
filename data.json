@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 22-Sep-23 02:00:06 CEST",
+	"last_update": "Saturday, 23-Sep-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2536,6 +2536,16 @@
 					}
 				},
 				"cargo-help": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-new": {
 					"status": {
 						"en": 2
 					}
