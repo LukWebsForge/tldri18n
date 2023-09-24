@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 23-Sep-23 02:00:06 CEST",
+	"last_update": "Sunday, 24-Sep-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -255,7 +255,7 @@
 						"id": 2,
 						"it": 1,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
 						"ta": 2,
@@ -2564,6 +2564,11 @@
 						"ta": 2
 					}
 				},
+				"cargo-update": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-version": {
 					"status": {
 						"en": 2
@@ -3848,6 +3853,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"devcontainer": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dexdump": {
@@ -20918,6 +20928,11 @@
 						"en": 2
 					}
 				},
+				"pdftohtml": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pdftoppm": {
 					"status": {
 						"en": 2
@@ -23588,10 +23603,10 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"id": 1,
 						"it": 1,
-						"pl": 2,
+						"pl": 1,
 						"pt_BR": 1,
 						"zh": 1
 					}
