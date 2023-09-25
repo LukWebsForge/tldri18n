@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 24-Sep-23 02:00:06 CEST",
+	"last_update": "Monday, 25-Sep-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2519,6 +2519,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"ta": 2
+					}
+				},
+				"cargo-check": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cargo-clippy": {
