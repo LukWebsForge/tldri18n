@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 28-Sep-23 02:00:06 CEST",
+	"last_update": "Friday, 29-Sep-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8317,6 +8317,11 @@
 					"status": {
 						"en": 2,
 						"it": 2
+					}
+				},
+				"idea": {
+					"status": {
+						"en": 2
 					}
 				},
 				"identify": {
@@ -19352,6 +19357,11 @@
 					}
 				},
 				"hwclock": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hwinfo": {
 					"status": {
 						"en": 2
 					}
