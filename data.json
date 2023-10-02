@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 01-Oct-23 02:00:05 CEST",
+	"last_update": "Monday, 02-Oct-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1406,7 +1406,7 @@
 						"fr": 2,
 						"it": 1,
 						"ja": 2,
-						"ko": 1,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
@@ -1419,12 +1419,14 @@
 				},
 				"aws-batch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-cloud9": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-cloudformation": {
@@ -1434,7 +1436,8 @@
 				},
 				"aws-cloudwatch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-codecommit": {
@@ -2526,6 +2529,11 @@
 						"en": 2
 					}
 				},
+				"cargo-clean": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-clippy": {
 					"status": {
 						"en": 2,
@@ -2538,6 +2546,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"ta": 2
+					}
+				},
+				"cargo-fmt": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cargo-help": {
@@ -5316,9 +5329,14 @@
 				},
 				"flutter": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
-						"pt_BR": 1
+						"pt_BR": 2
+					}
+				},
+				"flutter-pub": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fluxctl": {
@@ -16978,6 +16996,26 @@
 						"zh": 2
 					}
 				},
+				"aa-complain": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aa-disable": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aa-enforce": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aa-status": {
+					"status": {
+						"en": 2
+					}
+				},
 				"abbr": {
 					"status": {
 						"ca": 2,
@@ -17568,6 +17606,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"bcachefs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bchunk": {
@@ -22464,6 +22507,11 @@
 						"en": 2
 					}
 				},
+				"tod": {
+					"status": {
+						"en": 2
+					}
+				},
 				"toilet": {
 					"status": {
 						"en": 2
@@ -23395,7 +23443,7 @@
 				"fr": 41,
 				"hi": 41,
 				"id": 44,
-				"it": 45,
+				"it": 44,
 				"ja": 41,
 				"ko": 41,
 				"lo": 41,
@@ -23404,8 +23452,8 @@
 				"nl": 42,
 				"no": 41,
 				"pl": 43,
-				"pt_BR": 59,
-				"pt_PT": 45,
+				"pt_BR": 60,
+				"pt_PT": 44,
 				"ro": 0,
 				"ru": 42,
 				"sh": 0,
@@ -26238,6 +26286,11 @@
 						"uk": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"goku": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gpaste": {
@@ -29274,12 +29327,14 @@
 				},
 				"xcodes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"xcodes-runtimes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"xcrun": {
