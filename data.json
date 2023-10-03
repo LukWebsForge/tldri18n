@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 02-Oct-23 02:00:05 CEST",
+	"last_update": "Tuesday, 03-Oct-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2517,6 +2517,11 @@
 						"ta": 2
 					}
 				},
+				"cargo-bench": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-build": {
 					"status": {
 						"en": 2,
@@ -2548,6 +2553,11 @@
 						"ta": 2
 					}
 				},
+				"cargo-fix": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-fmt": {
 					"status": {
 						"en": 2
@@ -2564,6 +2574,11 @@
 					}
 				},
 				"cargo-new": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-report": {
 					"status": {
 						"en": 2
 					}
@@ -13101,6 +13116,11 @@
 						"it": 2
 					}
 				},
+				"readonly": {
+					"status": {
+						"en": 2
+					}
+				},
 				"realpath": {
 					"status": {
 						"en": 2
@@ -15290,6 +15310,11 @@
 						"en": 2
 					}
 				},
+				"tt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tts": {
 					"status": {
 						"en": 2
@@ -16184,6 +16209,11 @@
 					}
 				},
 				"wipeclean": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wkhtmltopdf": {
 					"status": {
 						"en": 2
 					}
@@ -22353,6 +22383,11 @@
 						"en": 2
 					}
 				},
+				"systemd-cryptenroll": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemd-delta": {
 					"status": {
 						"en": 2
@@ -22440,6 +22475,11 @@
 						"en": 2,
 						"es": 2,
 						"pl": 2
+					}
+				},
+				"tcpick": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tcpkill": {
@@ -22700,6 +22740,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
