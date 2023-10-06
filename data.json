@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 05-Oct-23 02:00:05 CEST",
+	"last_update": "Friday, 06-Oct-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2580,6 +2580,11 @@
 						"en": 2
 					}
 				},
+				"cargo-remove": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-report": {
 					"status": {
 						"en": 2
@@ -4088,6 +4093,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 1,
 						"ja": 2,
 						"ko": 2,
@@ -11766,7 +11772,7 @@
 				"php": {
 					"status": {
 						"en": 2,
-						"pl": 1
+						"pl": 2
 					}
 				},
 				"php-artisan": {
@@ -19112,6 +19118,7 @@
 						"en": 2,
 						"es": 2,
 						"hi": 2,
+						"id": 2,
 						"pt_BR": 2
 					}
 				},
@@ -23438,6 +23445,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
+						"id": 2,
 						"pt_BR": 2
 					}
 				},
@@ -29729,7 +29737,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"nl": 1,
@@ -30172,6 +30180,7 @@
 				"date": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2
 					}
 				},
