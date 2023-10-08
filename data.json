@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 07-Oct-23 02:00:07 CEST",
+	"last_update": "Sunday, 08-Oct-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13209,6 +13209,11 @@
 						"en": 2
 					}
 				},
+				"resolvconf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"restic": {
 					"status": {
 						"en": 2
@@ -22410,6 +22415,11 @@
 						"pl": 2
 					}
 				},
+				"systemd-ask-password": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemd-cat": {
 					"status": {
 						"en": 2
@@ -23430,6 +23440,11 @@
 					}
 				},
 				"yetris": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yplan": {
 					"status": {
 						"en": 2
 					}
@@ -29676,7 +29691,7 @@
 				"fa": 1,
 				"fr": 7,
 				"hi": 7,
-				"id": 17,
+				"id": 18,
 				"it": 21,
 				"ja": 15,
 				"ko": 6,
@@ -30439,6 +30454,7 @@
 				"logoff": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"zh": 2,
 						"zh_TW": 2
