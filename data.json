@@ -1,11 +1,12 @@
 {
-	"last_update": "Sunday, 08-Oct-23 02:00:06 CEST",
+	"last_update": "Monday, 09-Oct-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
 		"bn",
 		"bs",
 		"ca",
+		"cs",
 		"da",
 		"de",
 		"es",
@@ -44,6 +45,7 @@
 				"bn": 100,
 				"bs": 0,
 				"ca": 0,
+				"cs": 0,
 				"da": 0,
 				"de": 92,
 				"en": 100,
@@ -365,6 +367,7 @@
 				"bn": 0,
 				"bs": 2,
 				"ca": 2,
+				"cs": 0,
 				"da": 2,
 				"de": 12,
 				"en": 99,
@@ -378,7 +381,7 @@
 				"ko": 10,
 				"lo": 1,
 				"ml": 1,
-				"ne": 1,
+				"ne": 2,
 				"nl": 4,
 				"no": 2,
 				"pl": 4,
@@ -1589,7 +1592,8 @@
 				},
 				"aws-s3-cp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"aws-s3-ls": {
@@ -2296,7 +2300,8 @@
 				},
 				"bun": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"bundle": {
@@ -2555,6 +2560,11 @@
 						"ta": 2
 					}
 				},
+				"cargo-fetch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-fix": {
 					"status": {
 						"en": 2
@@ -2575,6 +2585,11 @@
 						"en": 2
 					}
 				},
+				"cargo-logout": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-new": {
 					"status": {
 						"en": 2
@@ -2590,11 +2605,21 @@
 						"en": 2
 					}
 				},
+				"cargo-run": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-rustc": {
 					"status": {
 						"en": 2,
 						"pt_BR": 2,
 						"ta": 2
+					}
+				},
+				"cargo-rustdoc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cargo-test": {
@@ -2682,6 +2707,7 @@
 				"cd": {
 					"status": {
 						"ca": 1,
+						"cs": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -2775,6 +2801,7 @@
 						"id": 2,
 						"it": 1,
 						"ko": 1,
+						"ml": 2,
 						"nl": 1,
 						"pt_BR": 2,
 						"pt_PT": 1,
@@ -3537,8 +3564,9 @@
 				"crystal": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2
+						"fr": 2,
+						"it": 1,
+						"ko": 1
 					}
 				},
 				"cs": {
@@ -4118,6 +4146,7 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"ne": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -4638,17 +4667,20 @@
 				},
 				"dvc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"dvc-add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"dvc-checkout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"dvc-commit": {
@@ -5775,6 +5807,7 @@
 				"gem": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ta": 2
 					}
 				},
@@ -6074,7 +6107,8 @@
 				"git-alias": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"git-am": {
@@ -6324,6 +6358,7 @@
 						"id": 2,
 						"it": 1,
 						"ko": 2,
+						"pt_BR": 2,
 						"ta": 2,
 						"tr": 1,
 						"uk": 2,
@@ -6387,6 +6422,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 1,
+						"pt_BR": 2,
 						"tr": 2,
 						"uk": 2,
 						"zh": 2
@@ -7866,7 +7902,8 @@
 				},
 				"gulp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"gum": {
@@ -7950,7 +7987,8 @@
 				},
 				"hashcat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"hashid": {
@@ -8749,7 +8787,8 @@
 				},
 				"john": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"join": {
@@ -8783,6 +8822,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"ru": 2
 					}
 				},
@@ -8824,6 +8864,11 @@
 					}
 				},
 				"just": {
+					"status": {
+						"en": 2
+					}
+				},
+				"just.1": {
 					"status": {
 						"en": 2
 					}
@@ -13438,8 +13483,9 @@
 				"ruby": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ta": 1
+						"fr": 2,
+						"id": 1,
+						"ta": 2
 					}
 				},
 				"ruget": {
@@ -16929,6 +16975,7 @@
 				"bn": 0,
 				"bs": 0,
 				"ca": 7,
+				"cs": 0,
 				"da": 0,
 				"de": 8,
 				"en": 99,
@@ -18926,6 +18973,11 @@
 						"en": 2
 					}
 				},
+				"extrepo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"extundelete": {
 					"status": {
 						"en": 2
@@ -19766,7 +19818,7 @@
 						"en": 2
 					}
 				},
-				"just-js": {
+				"just.js": {
 					"status": {
 						"en": 2
 					}
@@ -20220,6 +20272,11 @@
 					}
 				},
 				"lynis": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lz": {
 					"status": {
 						"en": 2
 					}
@@ -20926,6 +20983,7 @@
 						"pt_PT": 2,
 						"ta": 2,
 						"tr": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -21038,7 +21096,8 @@
 				},
 				"pamac": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"parted": {
@@ -21187,17 +21246,27 @@
 						"en": 2
 					}
 				},
+				"pkgctl-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pkgctl-db-update": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pkgctl-diff": {
 					"status": {
 						"en": 2
 					}
 				},
-				"pkgctl-repo": {
+				"pkgctl-release": {
 					"status": {
 						"en": 2
 					}
 				},
-				"pkgctl-version": {
+				"pkgctl-repo": {
 					"status": {
 						"en": 2
 					}
@@ -21270,6 +21339,11 @@
 					}
 				},
 				"ports": {
+					"status": {
+						"en": 2
+					}
+				},
+				"postconf": {
 					"status": {
 						"en": 2
 					}
@@ -23530,6 +23604,7 @@
 				"bn": 0,
 				"bs": 41,
 				"ca": 41,
+				"cs": 0,
 				"da": 41,
 				"de": 43,
 				"en": 98,
@@ -23995,6 +24070,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"dtrace": {
+					"status": {
+						"en": 2
 					}
 				},
 				"du": {
@@ -29504,6 +29584,7 @@
 				"bn": 11,
 				"bs": 0,
 				"ca": 0,
+				"cs": 0,
 				"da": 0,
 				"de": 0,
 				"en": 100,
@@ -29628,6 +29709,7 @@
 				"bn": 0,
 				"bs": 0,
 				"ca": 0,
+				"cs": 0,
 				"da": 0,
 				"de": 0,
 				"en": 0,
@@ -29684,6 +29766,7 @@
 				"bn": 0,
 				"bs": 6,
 				"ca": 7,
+				"cs": 0,
 				"da": 6,
 				"de": 23,
 				"en": 99,
@@ -29749,6 +29832,7 @@
 				"cd": {
 					"status": {
 						"bn": 1,
+						"cs": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
