@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 09-Oct-23 02:00:05 CEST",
+	"last_update": "Tuesday, 10-Oct-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -371,7 +371,7 @@
 				"da": 2,
 				"de": 12,
 				"en": 99,
-				"es": 9,
+				"es": 10,
 				"fa": 1,
 				"fr": 13,
 				"hi": 2,
@@ -1687,33 +1687,39 @@
 				},
 				"az-account": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-appconfig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-bicep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-config": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-devops": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-feedback": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-group": {
@@ -2301,7 +2307,8 @@
 				"bun": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pl": 2
 					}
 				},
 				"bundle": {
@@ -4264,6 +4271,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"ja": 2,
 						"pt_BR": 2,
 						"tr": 2
@@ -4997,7 +5005,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"it": 1
+						"it": 1,
+						"pl": 2
 					}
 				},
 				"exec": {
@@ -5073,7 +5082,8 @@
 				},
 				"eza": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"f3fix": {
@@ -9096,6 +9106,11 @@
 						"en": 2
 					}
 				},
+				"krita": {
+					"status": {
+						"en": 2
+					}
+				},
 				"krunvm": {
 					"status": {
 						"en": 2,
@@ -11560,6 +11575,11 @@
 						"en": 2
 					}
 				},
+				"pamfile": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamixer": {
 					"status": {
 						"en": 2
@@ -11816,6 +11836,7 @@
 				},
 				"php": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"pl": 2
 					}
@@ -13522,6 +13543,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"ta": 2
+					}
+				},
+				"rustdoc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rustfmt": {
@@ -19887,7 +19913,6 @@
 				},
 				"krita": {
 					"status": {
-						"en": 2,
 						"ru": 2
 					}
 				},
@@ -21128,6 +21153,11 @@
 					}
 				},
 				"pdbedit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pdfcrop": {
 					"status": {
 						"en": 2
 					}
@@ -22539,6 +22569,11 @@
 						"en": 2
 					}
 				},
+				"systemd-repart": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemd-run": {
 					"status": {
 						"en": 2,
@@ -23552,6 +23587,11 @@
 					}
 				},
 				"zenity": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zforce": {
 					"status": {
 						"en": 2
 					}
