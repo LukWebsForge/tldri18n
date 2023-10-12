@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 11-Oct-23 02:00:06 CEST",
+	"last_update": "Thursday, 12-Oct-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1696,6 +1696,16 @@
 						"es": 2
 					}
 				},
+				"az-acr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-apim": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-appconfig": {
 					"status": {
 						"en": 2,
@@ -2583,6 +2593,11 @@
 					}
 				},
 				"cargo-fmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-generate-lockfile": {
 					"status": {
 						"en": 2
 					}
@@ -8934,6 +8949,11 @@
 						"en": 2
 					}
 				},
+				"k9s": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kafkacat": {
 					"status": {
 						"ar": 2,
@@ -13532,6 +13552,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"zh": 2
 					}
@@ -13778,6 +13799,11 @@
 					}
 				},
 				"scala": {
+					"status": {
+						"en": 2
+					}
+				},
+				"scala-cli": {
 					"status": {
 						"en": 2
 					}
@@ -19631,6 +19657,11 @@
 						"pl": 2
 					}
 				},
+				"ico": {
+					"status": {
+						"en": 2
+					}
+				},
 				"id3v2": {
 					"status": {
 						"en": 2
@@ -19903,6 +19934,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"kernel-install": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kexec": {
@@ -20353,6 +20389,11 @@
 					}
 				},
 				"macchanger": {
+					"status": {
+						"en": 2
+					}
+				},
+				"machinectl": {
 					"status": {
 						"en": 2
 					}
@@ -20814,6 +20855,11 @@
 					}
 				},
 				"nft": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nitch": {
 					"status": {
 						"en": 2
 					}
@@ -21607,6 +21653,11 @@
 						"en": 2
 					}
 				},
+				"qm-cloud-init": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-cloudinit-dump": {
 					"status": {
 						"en": 2
@@ -21999,7 +22050,8 @@
 				},
 				"rm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rmdir": {
@@ -30390,17 +30442,17 @@
 				},
 				"dir": {
 					"status": {
-						"ca": 2,
-						"de": 2,
+						"ca": 1,
+						"de": 1,
 						"en": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ta": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ta": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"diskpart": {
