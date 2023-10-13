@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 12-Oct-23 02:00:05 CEST",
+	"last_update": "Friday, 13-Oct-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -403,7 +403,8 @@
 			"pages": {
 				"!": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"2to3": {
@@ -515,6 +516,7 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"pt_PT": 2,
 						"ru": 2,
 						"zh": 2
@@ -582,6 +584,7 @@
 						"es": 2,
 						"fr": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -1639,17 +1642,20 @@
 				},
 				"aws-ses": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"aws-sqs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"aws-sts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"aws-vault": {
@@ -4444,6 +4450,51 @@
 						"en": 2
 					}
 				},
+				"doctl-databases": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-databases-db": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-databases-firewalls": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-databases-maintenance-window": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-databases-options": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-databases-pool": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-databases-replica": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-databases-sql-mode": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-databases-user": {
+					"status": {
+						"en": 2
+					}
+				},
 				"doctl-kubernetes-cluster": {
 					"status": {
 						"en": 2
@@ -4641,17 +4692,20 @@
 						"it": 2,
 						"ja": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"zh_TW": 2
 					}
 				},
 				"dua": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"duc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"duckdb": {
@@ -22632,6 +22686,21 @@
 						"en": 2
 					}
 				},
+				"systemd-cgls": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemd-cgtop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemd-creds": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemd-cryptenroll": {
 					"status": {
 						"en": 2
@@ -22643,6 +22712,11 @@
 					}
 				},
 				"systemd-detect-virt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemd-escape": {
 					"status": {
 						"en": 2
 					}
