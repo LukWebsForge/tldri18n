@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 13-Oct-23 02:00:05 CEST",
+	"last_update": "Saturday, 14-Oct-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -385,7 +385,7 @@
 				"nl": 4,
 				"no": 2,
 				"pl": 4,
-				"pt_BR": 12,
+				"pt_BR": 13,
 				"pt_PT": 2,
 				"ro": 0,
 				"ru": 3,
@@ -3304,7 +3304,8 @@
 						"en": 2,
 						"id": 2,
 						"it": 1,
-						"ko": 1
+						"ko": 1,
+						"pl": 2
 					}
 				},
 				"composer-require-checker": {
@@ -8762,6 +8763,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"ta": 2,
@@ -11331,7 +11333,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"it": 2
+						"it": 2,
+						"pt_BR": 2
 					}
 				},
 				"nvm": {
@@ -11738,7 +11741,8 @@
 				"passwd": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"pt_BR": 2
 					}
 				},
 				"paste": {
@@ -13584,6 +13588,7 @@
 						"fr": 2,
 						"id": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -15011,6 +15016,7 @@
 						"ko": 1,
 						"lo": 2,
 						"pl": 1,
+						"pt_BR": 2,
 						"ru": 2,
 						"sh": 1,
 						"th": 2,
@@ -22110,7 +22116,8 @@
 				},
 				"rmdir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"rmmod": {
