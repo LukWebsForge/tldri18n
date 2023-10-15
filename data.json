@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 14-Oct-23 02:00:05 CEST",
+	"last_update": "Sunday, 15-Oct-23 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -404,6 +404,7 @@
 				"!": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"pt_BR": 2
 					}
 				},
@@ -505,6 +506,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"a2ping": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aapt": {
@@ -1689,6 +1695,7 @@
 				"az": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -1707,9 +1714,20 @@
 						"en": 2
 					}
 				},
-				"az-apim": {
+				"az-advisor": {
 					"status": {
 						"en": 2
+					}
+				},
+				"az-aks": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-apim": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-appconfig": {
@@ -1745,7 +1763,8 @@
 				},
 				"az-group": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-lock": {
@@ -1799,7 +1818,8 @@
 				},
 				"az-storage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-storage-account": {
@@ -1834,7 +1854,8 @@
 				},
 				"az-tag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-term": {
@@ -1844,7 +1865,8 @@
 				},
 				"az-upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-version": {
@@ -5820,6 +5842,7 @@
 				"gcloud": {
 					"status": {
 						"da": 2,
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -6684,6 +6707,11 @@
 						"fr": 2,
 						"it": 2,
 						"tr": 2
+					}
+				},
+				"git-fresh-branch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-fsck": {
@@ -12531,6 +12559,11 @@
 						"ta": 2
 					}
 				},
+				"ppmhist": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pppd": {
 					"status": {
 						"en": 2
@@ -17638,6 +17671,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"hi": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
@@ -18927,7 +18961,8 @@
 				},
 				"dpkg-reconfigure": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"dracut": {
@@ -19582,6 +19617,11 @@
 						"en": 2
 					}
 				},
+				"gzexe": {
+					"status": {
+						"en": 2
+					}
+				},
 				"halt": {
 					"status": {
 						"ca": 2,
@@ -19967,7 +20007,8 @@
 				"journalctl": {
 					"status": {
 						"en": 2,
-						"pl": 2
+						"pl": 2,
+						"uk": 2
 					}
 				},
 				"jpegtran": {
@@ -20476,7 +20517,8 @@
 						"fr": 2,
 						"id": 2,
 						"pt_PT": 2,
-						"ru": 2
+						"ru": 2,
+						"uk": 2
 					}
 				},
 				"mandb": {
@@ -21274,7 +21316,8 @@
 				},
 				"parted": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"partprobe": {
