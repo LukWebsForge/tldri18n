@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 16-Oct-23 02:00:05 CEST",
+	"last_update": "Tuesday, 17-Oct-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -405,6 +405,7 @@
 					"status": {
 						"en": 2,
 						"hi": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -486,7 +487,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
-						"id": 1,
+						"id": 2,
 						"ja": 1,
 						"ko": 2,
 						"nl": 1,
@@ -502,6 +503,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -1891,6 +1893,11 @@
 						"es": 2
 					}
 				},
+				"azure-cli": {
+					"status": {
+						"en": 2
+					}
+				},
 				"azurite": {
 					"status": {
 						"en": 2
@@ -2778,7 +2785,7 @@
 						"it": 1,
 						"ja": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
 						"sr": 1,
@@ -4675,6 +4682,11 @@
 						"es": 2,
 						"pl": 2,
 						"ru": 2
+					}
+				},
+				"dotnet-run": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dotnet-tool": {
@@ -6991,6 +7003,11 @@
 						"tr": 2
 					}
 				},
+				"git-psykorebase": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-pull": {
 					"status": {
 						"de": 2,
@@ -7042,6 +7059,11 @@
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
+					}
+				},
+				"git-rebase-patch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-reflog": {
@@ -7177,6 +7199,11 @@
 					}
 				},
 				"git-root": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-rscp": {
 					"status": {
 						"en": 2
 					}
@@ -11282,39 +11309,46 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"npm-check": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"npm-fund": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"npm-home": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"npm-name": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"npm-query": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"npm-why": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"sv": 2
 					}
 				},
@@ -11327,7 +11361,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"nrm": {
@@ -13977,7 +14012,8 @@
 				"scp": {
 					"status": {
 						"en": 2,
-						"hi": 2
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"scrapy": {
@@ -14497,6 +14533,7 @@
 						"en": 2,
 						"fr": 2,
 						"hi": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -16903,12 +16940,14 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"yarn-why": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"sv": 2,
 						"zh": 2
@@ -18049,6 +18088,7 @@
 				"bootctl": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"pl": 2
 					}
 				},
@@ -19350,6 +19390,7 @@
 				"flatpak": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"zh": 2
@@ -20701,6 +20742,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -21374,6 +21416,7 @@
 				"parted": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"uk": 2
 					}
 				},
@@ -22774,6 +22817,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"hi": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
@@ -29845,12 +29889,14 @@
 				"xcodes": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"pt_BR": 2
 					}
 				},
 				"xcodes-runtimes": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"pt_BR": 2
 					}
 				},
@@ -30132,7 +30178,7 @@
 				"uk": 6,
 				"uz": 0,
 				"zh": 60,
-				"zh_TW": 20
+				"zh_TW": 21
 			},
 			"pages": {
 				"assoc": {
@@ -30174,7 +30220,7 @@
 						"id": 2,
 						"it": 1,
 						"ja": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ru": 1,
 						"ta": 2
@@ -30417,7 +30463,8 @@
 						"it": 2,
 						"ja": 2,
 						"ta": 2,
-						"zh": 1
+						"zh": 1,
+						"zh_TW": 2
 					}
 				},
 				"clist": {
@@ -30596,7 +30643,7 @@
 						"lo": 1,
 						"ml": 1,
 						"ne": 1,
-						"nl": 1,
+						"nl": 2,
 						"no": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -31379,7 +31426,8 @@
 				"systeminfo": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"takeown": {
@@ -31526,7 +31574,7 @@
 						"lo": 1,
 						"ml": 1,
 						"ne": 1,
-						"nl": 1,
+						"nl": 2,
 						"no": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -31569,6 +31617,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"hi": 2,
 						"id": 1,
 						"it": 1,
 						"ta": 2,
