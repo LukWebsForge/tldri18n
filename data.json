@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 18-Oct-23 02:00:06 CEST",
+	"last_update": "Thursday, 19-Oct-23 02:00:14 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4657,6 +4657,16 @@
 						"pl": 2,
 						"ru": 2,
 						"zh_TW": 2
+					}
+				},
+				"dotnet-add-package": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dotnet-add-reference": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dotnet-build": {
@@ -30162,14 +30172,14 @@
 				"fr": 7,
 				"hi": 7,
 				"id": 18,
-				"it": 21,
+				"it": 20,
 				"ja": 15,
 				"ko": 6,
-				"lo": 7,
+				"lo": 6,
 				"ml": 6,
 				"ne": 6,
 				"nl": 9,
-				"no": 7,
+				"no": 6,
 				"pl": 18,
 				"pt_BR": 17,
 				"pt_PT": 6,
@@ -30184,7 +30194,7 @@
 				"uk": 6,
 				"uz": 0,
 				"zh": 59,
-				"zh_TW": 21
+				"zh_TW": 22
 			},
 			"pages": {
 				"assoc": {
@@ -30209,6 +30219,11 @@
 					"status": {
 						"en": 2,
 						"ta": 2
+					}
+				},
+				"bcdboot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bleachbit_console": {
@@ -30682,7 +30697,8 @@
 						"en": 2,
 						"it": 2,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"dir": {
