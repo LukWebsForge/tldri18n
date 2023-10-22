@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 21-Oct-23 02:00:05 CEST",
+	"last_update": "Sunday, 22-Oct-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -372,7 +372,7 @@
 				"ar": 1,
 				"bn": 0,
 				"bs": 2,
-				"ca": 2,
+				"ca": 1,
 				"cs": 0,
 				"da": 1,
 				"de": 12,
@@ -399,7 +399,7 @@
 				"sr": 0,
 				"sv": 2,
 				"ta": 4,
-				"th": 2,
+				"th": 1,
 				"tr": 8,
 				"uk": 2,
 				"uz": 0,
@@ -543,6 +543,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"ja": 2,
 						"ko": 2,
 						"nl": 2,
 						"no": 2,
@@ -2091,7 +2092,8 @@
 						"fr": 2,
 						"it": 1,
 						"ja": 2,
-						"ko": 1
+						"ko": 1,
+						"zh": 2
 					}
 				},
 				"bcomps": {
@@ -2678,6 +2680,11 @@
 					}
 				},
 				"cargo-logout": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-metadata": {
 					"status": {
 						"en": 2
 					}
@@ -3844,6 +3851,7 @@
 						"es": 2,
 						"it": 1,
 						"ko": 1,
+						"pt_BR": 2,
 						"ru": 2
 					}
 				},
@@ -4263,6 +4271,31 @@
 						"pt_BR": 2
 					}
 				},
+				"docker-container-diff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-container-remove": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-container-rename": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-container-rm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-container-top": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-cp": {
 					"status": {
 						"de": 2,
@@ -4271,6 +4304,11 @@
 						"it": 2,
 						"ja": 2,
 						"pt_BR": 2
+					}
+				},
+				"docker-diff": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-exec": {
@@ -4378,6 +4416,16 @@
 						"pt_BR": 2
 					}
 				},
+				"docker-rename": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-rm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-rmi": {
 					"status": {
 						"de": 2,
@@ -4474,6 +4522,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"docker-top": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-update": {
@@ -6276,6 +6329,7 @@
 				"git-alias": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -7379,16 +7433,16 @@
 				},
 				"git-status": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"uk": 2
+						"es": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"pt_BR": 1,
+						"tr": 1,
+						"uk": 1
 					}
 				},
 				"git-stripspace": {
@@ -9400,6 +9454,11 @@
 						"en": 2
 					}
 				},
+				"kubectl-create": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-delete": {
 					"status": {
 						"de": 2,
@@ -9413,6 +9472,11 @@
 					}
 				},
 				"kubectl-edit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kubectl-expose": {
 					"status": {
 						"en": 2
 					}
@@ -9448,6 +9512,16 @@
 				"kubectl-run": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"kubectl-scale": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kubectl-taint": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -10269,6 +10343,7 @@
 				"make": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 1
 					}
 				},
@@ -10717,7 +10792,8 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"it": 1
+						"it": 1,
+						"ko": 2
 					}
 				},
 				"mozillavpn": {
@@ -12729,6 +12805,11 @@
 						"en": 2,
 						"it": 2,
 						"ta": 2
+					}
+				},
+				"ppmflash": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ppmhist": {
@@ -16265,90 +16346,105 @@
 				"virsh": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-connect": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-domblklist": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-help": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-list": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-pool-autostart": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-pool-build": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-pool-define-as": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-pool-delete": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-pool-destroy": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-pool-info": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-pool-list": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-pool-start": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-pool-undefine": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"virsh-undefine": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -16605,6 +16701,7 @@
 						"en": 2,
 						"hi": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -17387,7 +17484,7 @@
 				"ta": 5,
 				"th": 1,
 				"tr": 5,
-				"uk": 1,
+				"uk": 2,
 				"uz": 0,
 				"zh": 10,
 				"zh_TW": 0
@@ -18711,6 +18808,11 @@
 						"en": 2
 					}
 				},
+				"compress": {
+					"status": {
+						"en": 2
+					}
+				},
 				"compsize": {
 					"status": {
 						"en": 2
@@ -18953,6 +19055,11 @@
 						"zh": 2
 					}
 				},
+				"delpart": {
+					"status": {
+						"en": 2
+					}
+				},
 				"deluser": {
 					"status": {
 						"en": 2,
@@ -19080,6 +19187,7 @@
 						"en": 2,
 						"es": 2,
 						"pt_BR": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -21876,6 +21984,11 @@
 						"en": 2
 					}
 				},
+				"pstoedit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pstree": {
 					"status": {
 						"en": 2
@@ -22949,7 +23062,8 @@
 						"hi": 2,
 						"ko": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"uk": 2
 					}
 				},
 				"systemd-ac-power": {
@@ -23375,7 +23489,13 @@
 					"status": {
 						"en": 2,
 						"ml": 2,
-						"ta": 2
+						"ta": 2,
+						"uk": 2
+					}
+				},
+				"uncompress": {
+					"status": {
+						"en": 2
 					}
 				},
 				"unix2dos": {
@@ -24107,6 +24227,68 @@
 				}
 			}
 		},
+		"openbsd": {
+			"progress": {
+				"ar": 0,
+				"bn": 0,
+				"bs": 0,
+				"ca": 0,
+				"cs": 0,
+				"da": 0,
+				"de": 0,
+				"en": 100,
+				"es": 0,
+				"fa": 0,
+				"fr": 0,
+				"hi": 0,
+				"id": 0,
+				"it": 0,
+				"ja": 0,
+				"ko": 0,
+				"lo": 0,
+				"ml": 0,
+				"ne": 0,
+				"nl": 0,
+				"no": 0,
+				"pl": 0,
+				"pt_BR": 0,
+				"pt_PT": 0,
+				"ro": 0,
+				"ru": 0,
+				"sh": 0,
+				"sr": 0,
+				"sv": 0,
+				"ta": 0,
+				"th": 0,
+				"tr": 0,
+				"uk": 0,
+				"uz": 0,
+				"zh": 0,
+				"zh_TW": 0
+			},
+			"pages": {
+				"pkg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pkg_add": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pkg_delete": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pkg_info": {
+					"status": {
+						"en": 2
+					}
+				}
+			}
+		},
 		"osx": {
 			"progress": {
 				"ar": 41,
@@ -24117,7 +24299,7 @@
 				"da": 41,
 				"de": 43,
 				"en": 98,
-				"es": 70,
+				"es": 71,
 				"fa": 0,
 				"fr": 41,
 				"hi": 41,
@@ -24309,6 +24491,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"it": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -24589,6 +24772,7 @@
 				"du": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2,
@@ -30231,7 +30415,7 @@
 				"fa": 1,
 				"fr": 7,
 				"hi": 12,
-				"id": 18,
+				"id": 17,
 				"it": 20,
 				"ja": 15,
 				"ko": 6,
@@ -30244,7 +30428,7 @@
 				"pt_BR": 17,
 				"pt_PT": 6,
 				"ro": 0,
-				"ru": 11,
+				"ru": 10,
 				"sh": 0,
 				"sr": 0,
 				"sv": 8,
@@ -30253,10 +30437,15 @@
 				"tr": 6,
 				"uk": 6,
 				"uz": 0,
-				"zh": 59,
-				"zh_TW": 22
+				"zh": 58,
+				"zh_TW": 21
 			},
 			"pages": {
+				"add-appxpackage": {
+					"status": {
+						"en": 2
+					}
+				},
 				"assoc": {
 					"status": {
 						"en": 2,
