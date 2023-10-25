@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 24-Oct-23 02:00:06 CEST",
+	"last_update": "Wednesday, 25-Oct-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8446,6 +8446,11 @@
 						"en": 2
 					}
 				},
+				"hipstopgm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"histexpand": {
 					"status": {
 						"en": 2,
@@ -16262,6 +16267,11 @@
 						"en": 2
 					}
 				},
+				"vf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vgmstream_cli": {
 					"status": {
 						"en": 2
@@ -17479,7 +17489,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 99,
-				"es": 8,
+				"es": 7,
 				"fa": 0,
 				"fr": 8,
 				"hi": 2,
@@ -17866,6 +17876,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"pl": 2,
 						"th": 2,
 						"zh": 2
 					}
@@ -17908,6 +17919,7 @@
 						"fr": 2,
 						"it": 2,
 						"nl": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"uk": 2,
@@ -20023,6 +20035,11 @@
 						"ru": 2
 					}
 				},
+				"htpasswd": {
+					"status": {
+						"ko": 2
+					}
+				},
 				"htpdate": {
 					"status": {
 						"en": 2
@@ -21889,6 +21906,11 @@
 						"en": 2
 					}
 				},
+				"portablectl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ports": {
 					"status": {
 						"en": 2
@@ -23503,6 +23525,7 @@
 				"uname": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ml": 2,
 						"ta": 2,
 						"uk": 2
@@ -24309,7 +24332,7 @@
 				"da": 41,
 				"de": 44,
 				"en": 99,
-				"es": 72,
+				"es": 73,
 				"fa": 0,
 				"fr": 41,
 				"hi": 42,
@@ -30058,7 +30081,8 @@
 				},
 				"universalaccessd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"uptime": {
@@ -30094,7 +30118,8 @@
 				},
 				"vpnd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"w": {
@@ -30125,12 +30150,14 @@
 				},
 				"watchlistd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"wc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pl": 2
 					}
 				},
@@ -30418,7 +30445,7 @@
 				"es": 8,
 				"fa": 2,
 				"fr": 8,
-				"hi": 12,
+				"hi": 13,
 				"id": 17,
 				"it": 20,
 				"ja": 14,
@@ -30442,7 +30469,7 @@
 				"uk": 6,
 				"uz": 0,
 				"zh": 58,
-				"zh_TW": 21
+				"zh_TW": 22
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -30836,7 +30863,8 @@
 						"it": 2,
 						"sv": 2,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"comp": {
@@ -30968,6 +30996,7 @@
 						"ca": 1,
 						"de": 1,
 						"en": 2,
+						"hi": 2,
 						"id": 1,
 						"it": 1,
 						"ja": 1,
