@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 25-Oct-23 02:00:06 CEST",
+	"last_update": "Thursday, 26-Oct-23 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -52,14 +52,14 @@
 				"es": 100,
 				"fa": 100,
 				"fr": 100,
-				"hi": 42,
+				"hi": 100,
 				"id": 100,
 				"it": 71,
 				"ja": 0,
 				"ko": 14,
 				"lo": 0,
 				"ml": 0,
-				"ne": 14,
+				"ne": 28,
 				"nl": 7,
 				"no": 0,
 				"pl": 92,
@@ -87,6 +87,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -135,7 +136,9 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
+						"ne": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
@@ -158,6 +161,7 @@
 						"hi": 2,
 						"id": 2,
 						"it": 2,
+						"ne": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
@@ -199,6 +203,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -219,6 +224,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"it": 2,
 						"pl": 2,
@@ -239,6 +245,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"it": 2,
 						"pl": 2,
@@ -300,6 +307,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -318,6 +326,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"pt_BR": 2,
 						"ru": 2,
@@ -334,6 +343,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"it": 2,
 						"pl": 2,
@@ -402,7 +412,7 @@
 				"sv": 2,
 				"ta": 4,
 				"th": 1,
-				"tr": 8,
+				"tr": 7,
 				"uk": 2,
 				"uz": 0,
 				"zh": 10,
@@ -413,6 +423,7 @@
 					"status": {
 						"en": 2,
 						"hi": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -438,6 +449,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"it": 2,
 						"ja": 2,
@@ -496,6 +508,7 @@
 						"es": 2,
 						"fa": 2,
 						"id": 2,
+						"it": 2,
 						"ja": 1,
 						"ko": 2,
 						"nl": 2,
@@ -520,7 +533,8 @@
 				},
 				"a2ping": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"hi": 2
 					}
 				},
 				"aapt": {
@@ -529,6 +543,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -573,6 +588,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -746,6 +762,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"it": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -6767,6 +6784,16 @@
 						"en": 2
 					}
 				},
+				"git-diff-index": {
+					"status": {
+						"en": 2
+					}
+				},
+				"git-diff-tree": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-difftool": {
 					"status": {
 						"en": 2,
@@ -8611,6 +8638,51 @@
 						"en": 2
 					}
 				},
+				"hub-branch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hub-browse": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hub-ci-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hub-clone": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hub-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hub-delete": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hub-fork": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hub-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hub-issue": {
+					"status": {
+						"en": 2
+					}
+				},
 				"hugo": {
 					"status": {
 						"en": 2,
@@ -9632,6 +9704,11 @@
 					}
 				},
 				"ldapsearch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"leaftoppm": {
 					"status": {
 						"en": 2
 					}
@@ -12053,6 +12130,11 @@
 						"en": 2
 					}
 				},
+				"pbmlife": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pdf-parser": {
 					"status": {
 						"en": 2
@@ -12804,7 +12886,8 @@
 				"popd": {
 					"status": {
 						"da": 1,
-						"en": 2
+						"en": 2,
+						"zh": 1
 					}
 				},
 				"popeye": {
@@ -12820,8 +12903,10 @@
 				"powershell": {
 					"status": {
 						"en": 2,
+						"fr": 1,
 						"it": 2,
-						"ta": 2
+						"ta": 2,
+						"zh": 1
 					}
 				},
 				"ppmflash": {
@@ -13150,7 +13235,8 @@
 				"pushd": {
 					"status": {
 						"da": 1,
-						"en": 2
+						"en": 2,
+						"zh": 1
 					}
 				},
 				"pv": {
@@ -17503,7 +17589,7 @@
 				"nl": 1,
 				"no": 0,
 				"pl": 7,
-				"pt_BR": 13,
+				"pt_BR": 12,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 1,
@@ -17720,6 +17806,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fa": 2,
 						"fr": 2,
 						"it": 1,
 						"pt_BR": 2,
@@ -17946,6 +18033,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -19239,6 +19327,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 1,
+						"fa": 2,
 						"id": 2,
 						"nl": 2,
 						"pt_BR": 1,
@@ -19484,6 +19573,11 @@
 					"status": {
 						"de": 2,
 						"en": 2
+					}
+				},
+				"esbuild": {
+					"status": {
+						"ko": 2
 					}
 				},
 				"esearch": {
@@ -19905,6 +19999,11 @@
 					}
 				},
 				"grub-bios-setup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grub-editenv": {
 					"status": {
 						"en": 2
 					}
@@ -23200,6 +23299,11 @@
 						"pl": 2
 					}
 				},
+				"systemd-socket-activate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemd-sysext": {
 					"status": {
 						"en": 2
@@ -24331,13 +24435,13 @@
 				"cs": 0,
 				"da": 41,
 				"de": 44,
-				"en": 99,
-				"es": 73,
+				"en": 100,
+				"es": 74,
 				"fa": 0,
 				"fr": 41,
 				"hi": 42,
-				"id": 44,
-				"it": 44,
+				"id": 45,
+				"it": 45,
 				"ja": 41,
 				"ko": 41,
 				"lo": 41,
@@ -24345,9 +24449,9 @@
 				"ne": 41,
 				"nl": 42,
 				"no": 41,
-				"pl": 43,
+				"pl": 44,
 				"pt_BR": 60,
-				"pt_PT": 44,
+				"pt_PT": 45,
 				"ro": 0,
 				"ru": 42,
 				"sh": 0,
@@ -29804,11 +29908,6 @@
 						"zh": 2
 					}
 				},
-				"popd": {
-					"status": {
-						"zh": 2
-					}
-				},
 				"port": {
 					"status": {
 						"en": 2,
@@ -29819,11 +29918,6 @@
 				"ps": {
 					"status": {
 						"en": 2
-					}
-				},
-				"pushd": {
-					"status": {
-						"zh": 2
 					}
 				},
 				"qlmanage": {
@@ -30227,6 +30321,7 @@
 				"xcodebuild": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
@@ -30434,42 +30529,42 @@
 		},
 		"windows": {
 			"progress": {
-				"ar": 6,
+				"ar": 5,
 				"bn": 1,
-				"bs": 6,
-				"ca": 7,
+				"bs": 5,
+				"ca": 6,
 				"cs": 0,
-				"da": 6,
-				"de": 22,
-				"en": 99,
-				"es": 8,
+				"da": 5,
+				"de": 20,
+				"en": 100,
+				"es": 7,
 				"fa": 2,
-				"fr": 8,
+				"fr": 7,
 				"hi": 13,
-				"id": 17,
-				"it": 20,
-				"ja": 14,
-				"ko": 6,
+				"id": 16,
+				"it": 18,
+				"ja": 13,
+				"ko": 5,
 				"lo": 6,
-				"ml": 6,
-				"ne": 6,
-				"nl": 9,
+				"ml": 5,
+				"ne": 5,
+				"nl": 8,
 				"no": 6,
-				"pl": 18,
-				"pt_BR": 17,
-				"pt_PT": 6,
+				"pl": 16,
+				"pt_BR": 15,
+				"pt_PT": 5,
 				"ro": 0,
-				"ru": 10,
+				"ru": 9,
 				"sh": 0,
 				"sr": 0,
-				"sv": 8,
-				"ta": 26,
-				"th": 9,
-				"tr": 6,
-				"uk": 6,
+				"sv": 7,
+				"ta": 23,
+				"th": 8,
+				"tr": 5,
+				"uk": 5,
 				"uz": 0,
-				"zh": 58,
-				"zh_TW": 22
+				"zh": 52,
+				"zh_TW": 20
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -30514,25 +30609,30 @@
 				"cd": {
 					"status": {
 						"bn": 1,
-						"cs": 2,
+						"cs": 1,
 						"de": 1,
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"id": 2,
+						"es": 1,
+						"hi": 1,
+						"id": 1,
 						"it": 1,
 						"ja": 1,
-						"nl": 2,
+						"nl": 1,
 						"pt_BR": 1,
 						"ru": 1,
-						"ta": 2,
-						"th": 2
+						"ta": 1,
+						"th": 1
 					}
 				},
 				"certutil": {
 					"status": {
 						"en": 2,
 						"hi": 2
+					}
+				},
+				"chdir": {
+					"status": {
+						"en": 2
 					}
 				},
 				"chkdsk": {
@@ -30672,6 +30772,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -30682,6 +30783,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"hi": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -30769,6 +30871,21 @@
 						"zh": 1
 					}
 				},
+				"clear": {
+					"status": {
+						"en": 2
+					}
+				},
+				"clear-host": {
+					"status": {
+						"en": 2
+					}
+				},
+				"clear-recyclebin": {
+					"status": {
+						"en": 2
+					}
+				},
 				"clip": {
 					"status": {
 						"de": 2,
@@ -30816,17 +30933,17 @@
 				"cls": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"lo": 2,
-						"pt_BR": 2,
-						"ta": 2,
-						"th": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fa": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"lo": 1,
+						"pt_BR": 1,
+						"ta": 1,
+						"th": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"cmd": {
@@ -30983,12 +31100,12 @@
 				},
 				"del": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"it": 2,
-						"ta": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"it": 1,
+						"ta": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"dir": {
@@ -31036,6 +31153,7 @@
 				},
 				"exit": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"hi": 2,
@@ -31071,6 +31189,7 @@
 				"find": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"id": 2,
 						"ja": 2,
 						"nl": 2,
@@ -31094,6 +31213,7 @@
 				"fondue": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"zh": 2
 					}
 				},
@@ -31127,7 +31247,17 @@
 						"zh": 2
 					}
 				},
+				"gal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"get-acl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"get-alias": {
 					"status": {
 						"en": 2
 					}
@@ -31151,6 +31281,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"get-help": {
+					"status": {
+						"en": 2
 					}
 				},
 				"get-history": {
@@ -31315,7 +31450,17 @@
 						"en": 2
 					}
 				},
+				"new-item": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nfsstat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ni": {
 					"status": {
 						"en": 2
 					}
@@ -31346,6 +31491,7 @@
 				"path": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -31364,12 +31510,6 @@
 				"popd": {
 					"status": {
 						"en": 2,
-						"zh": 2
-					}
-				},
-				"powershell": {
-					"status": {
-						"fr": 2,
 						"zh": 2
 					}
 				},
@@ -31394,6 +31534,11 @@
 					}
 				},
 				"psping": {
+					"status": {
+						"en": 2
+					}
+				},
+				"psversiontable": {
 					"status": {
 						"en": 2
 					}
@@ -31450,35 +31595,35 @@
 				},
 				"rd": {
 					"status": {
-						"ar": 2,
-						"bs": 2,
-						"ca": 2,
-						"da": 2,
-						"de": 2,
+						"ar": 1,
+						"bs": 1,
+						"ca": 1,
+						"da": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"lo": 2,
-						"ml": 2,
-						"ne": 2,
-						"nl": 2,
-						"no": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ru": 2,
-						"sv": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"uk": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"lo": 1,
+						"ml": 1,
+						"ne": 1,
+						"nl": 1,
+						"no": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ru": 1,
+						"sv": 1,
+						"ta": 1,
+						"th": 1,
+						"tr": 1,
+						"uk": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"rdpsign": {
@@ -31570,6 +31715,11 @@
 						"en": 2
 					}
 				},
+				"remove-item": {
+					"status": {
+						"en": 2
+					}
+				},
 				"repair-bde": {
 					"status": {
 						"en": 2,
@@ -31586,13 +31736,23 @@
 						"en": 2
 					}
 				},
+				"ri": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rmdir": {
 					"status": {
 						"en": 2,
-						"nl": 2,
-						"ta": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"nl": 1,
+						"ta": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"robocopy": {
@@ -31608,6 +31768,26 @@
 					}
 				},
 				"sc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc-delete": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc-query": {
 					"status": {
 						"en": 2
 					}
@@ -31654,6 +31834,11 @@
 						"en": 2
 					}
 				},
+				"set-location": {
+					"status": {
+						"en": 2
+					}
+				},
 				"set-service": {
 					"status": {
 						"en": 2
@@ -31685,6 +31870,11 @@
 						"en": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"sl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"slmgr": {
