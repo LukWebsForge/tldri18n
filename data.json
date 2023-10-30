@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 29-Oct-23 02:00:06 CEST",
+	"last_update": "Monday, 30-Oct-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2407,6 +2407,11 @@
 						"zh": 2
 					}
 				},
+				"brushtopbm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bshell": {
 					"status": {
 						"en": 2
@@ -2784,8 +2789,8 @@
 				"cargo-test": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2,
-						"ta": 2
+						"pt_BR": 1,
+						"ta": 1
 					}
 				},
 				"cargo-update": {
@@ -4265,6 +4270,11 @@
 						"en": 2
 					}
 				},
+				"dmd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"doas": {
 					"status": {
 						"en": 2
@@ -4898,6 +4908,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"dub": {
+					"status": {
+						"en": 2
 					}
 				},
 				"duc": {
@@ -6075,6 +6090,11 @@
 						"id": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"gdc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gdrive": {
@@ -8894,6 +8914,11 @@
 						"zh": 2
 					}
 				},
+				"imgtoppm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"import": {
 					"status": {
 						"en": 2
@@ -9754,6 +9779,11 @@
 					}
 				},
 				"ldapsearch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ldc": {
 					"status": {
 						"en": 2
 					}
@@ -13618,6 +13648,11 @@
 					}
 				},
 				"radare2": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rage": {
 					"status": {
 						"en": 2
 					}
@@ -17631,6 +17666,54 @@
 				}
 			}
 		},
+		"freebsd": {
+			"progress": {
+				"ar": 0,
+				"bn": 0,
+				"bs": 0,
+				"ca": 0,
+				"cs": 0,
+				"da": 0,
+				"de": 0,
+				"en": 100,
+				"es": 0,
+				"fa": 0,
+				"fi": 0,
+				"fr": 0,
+				"hi": 0,
+				"id": 0,
+				"it": 0,
+				"ja": 0,
+				"ko": 0,
+				"lo": 0,
+				"ml": 0,
+				"ne": 0,
+				"nl": 0,
+				"no": 0,
+				"pl": 0,
+				"pt_BR": 0,
+				"pt_PT": 0,
+				"ro": 0,
+				"ru": 0,
+				"sh": 0,
+				"sr": 0,
+				"sv": 0,
+				"ta": 0,
+				"th": 0,
+				"tr": 0,
+				"uk": 0,
+				"uz": 0,
+				"zh": 0,
+				"zh_TW": 0
+			},
+			"pages": {
+				"pkg": {
+					"status": {
+						"en": 2
+					}
+				}
+			}
+		},
 		"linux": {
 			"progress": {
 				"ar": 1,
@@ -18112,6 +18195,7 @@
 				"apt-moo": {
 					"status": {
 						"en": 2,
+						"pl": 2,
 						"uk": 2
 					}
 				},
@@ -20842,6 +20926,7 @@
 						"hi": 2,
 						"pt_BR": 2,
 						"ru": 2,
+						"uk": 2,
 						"zh": 1
 					}
 				},
@@ -24426,6 +24511,54 @@
 						"it": 1,
 						"pt_BR": 2,
 						"zh": 1
+					}
+				}
+			}
+		},
+		"netbsd": {
+			"progress": {
+				"ar": 0,
+				"bn": 0,
+				"bs": 0,
+				"ca": 0,
+				"cs": 0,
+				"da": 0,
+				"de": 0,
+				"en": 100,
+				"es": 0,
+				"fa": 0,
+				"fi": 0,
+				"fr": 0,
+				"hi": 0,
+				"id": 0,
+				"it": 0,
+				"ja": 0,
+				"ko": 0,
+				"lo": 0,
+				"ml": 0,
+				"ne": 0,
+				"nl": 0,
+				"no": 0,
+				"pl": 0,
+				"pt_BR": 0,
+				"pt_PT": 0,
+				"ro": 0,
+				"ru": 0,
+				"sh": 0,
+				"sr": 0,
+				"sv": 0,
+				"ta": 0,
+				"th": 0,
+				"tr": 0,
+				"uk": 0,
+				"uz": 0,
+				"zh": 0,
+				"zh_TW": 0
+			},
+			"pages": {
+				"pkgin": {
+					"status": {
+						"en": 2
 					}
 				}
 			}
@@ -30074,6 +30207,7 @@
 				"sed": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 1
 					}
 				},
