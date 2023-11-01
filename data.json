@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 31-Oct-23 01:00:07 CET",
+	"last_update": "Wednesday, 01-Nov-23 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -623,6 +623,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"accelerate": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ack": {
@@ -2754,6 +2759,11 @@
 						"en": 2
 					}
 				},
+				"cargo-login": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-logout": {
 					"status": {
 						"en": 2
@@ -2765,6 +2775,21 @@
 					}
 				},
 				"cargo-new": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-owner": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-package": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-publish": {
 					"status": {
 						"en": 2
 					}
@@ -2809,6 +2834,11 @@
 					}
 				},
 				"cargo-version": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-yank": {
 					"status": {
 						"en": 2
 					}
@@ -5064,7 +5094,7 @@
 						"pt_BR": 2,
 						"ru": 1,
 						"sr": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -7729,6 +7759,7 @@
 				"gitmoji": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
@@ -12240,6 +12271,11 @@
 						"en": 2
 					}
 				},
+				"pbmtogem": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pdf-parser": {
 					"status": {
 						"en": 2
@@ -13025,6 +13061,11 @@
 					}
 				},
 				"ppmtopgm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ppmtv": {
 					"status": {
 						"en": 2
 					}
@@ -17749,7 +17790,7 @@
 				"nl": 1,
 				"no": 0,
 				"pl": 7,
-				"pt_BR": 13,
+				"pt_BR": 12,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 1,
@@ -19200,7 +19241,8 @@
 				},
 				"cryptsetup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"csplit": {
@@ -23500,6 +23542,11 @@
 						"en": 2
 					}
 				},
+				"talk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"taskset": {
 					"status": {
 						"en": 2
@@ -24665,7 +24712,7 @@
 				"ne": 41,
 				"nl": 42,
 				"no": 41,
-				"pl": 44,
+				"pl": 43,
 				"pt_BR": 60,
 				"pt_PT": 45,
 				"ro": 0,
@@ -30004,6 +30051,11 @@
 						"en": 2
 					}
 				},
+				"mysides": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nettop": {
 					"status": {
 						"en": 2,
@@ -30749,7 +30801,7 @@
 		"windows": {
 			"progress": {
 				"ar": 5,
-				"bn": 7,
+				"bn": 8,
 				"bs": 5,
 				"ca": 6,
 				"cs": 0,
@@ -32239,6 +32291,7 @@
 				},
 				"title": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"hi": 2,
 						"no": 2,
@@ -32365,6 +32418,7 @@
 				},
 				"where": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"fa": 1,
 						"ru": 2,
