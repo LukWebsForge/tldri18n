@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 01-Nov-23 01:00:07 CET",
+	"last_update": "Thursday, 02-Nov-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -399,7 +399,7 @@
 			"progress": {
 				"ar": 1,
 				"bn": 0,
-				"bs": 2,
+				"bs": 1,
 				"ca": 1,
 				"cs": 0,
 				"da": 1,
@@ -2754,6 +2754,11 @@
 						"en": 2
 					}
 				},
+				"cargo-install": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-locate-project": {
 					"status": {
 						"en": 2
@@ -2785,6 +2790,11 @@
 					}
 				},
 				"cargo-package": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-pkgid": {
 					"status": {
 						"en": 2
 					}
@@ -2821,6 +2831,11 @@
 						"en": 2
 					}
 				},
+				"cargo-search": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-test": {
 					"status": {
 						"en": 2,
@@ -2828,7 +2843,27 @@
 						"ta": 1
 					}
 				},
+				"cargo-tree": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-uninstall": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cargo-update": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-vendor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cargo-verify-project": {
 					"status": {
 						"en": 2
 					}
@@ -9143,6 +9178,7 @@
 				"jar": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -10333,6 +10369,7 @@
 						"ja": 1,
 						"ko": 2,
 						"ne": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 2,
@@ -18892,6 +18929,11 @@
 						"hi": 2,
 						"ml": 2,
 						"pt_BR": 2
+					}
+				},
+				"cbatticon": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cc": {
@@ -30812,8 +30854,8 @@
 				"fa": 2,
 				"fi": 0,
 				"fr": 9,
-				"hi": 19,
-				"id": 16,
+				"hi": 18,
+				"id": 15,
 				"it": 18,
 				"ja": 13,
 				"ko": 6,
@@ -30835,8 +30877,8 @@
 				"tr": 5,
 				"uk": 5,
 				"uz": 0,
-				"zh": 52,
-				"zh_TW": 20
+				"zh": 50,
+				"zh_TW": 19
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -31587,11 +31629,21 @@
 						"en": 2
 					}
 				},
+				"get-location": {
+					"status": {
+						"en": 2
+					}
+				},
 				"getmac": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"zh": 2
+					}
+				},
+				"gl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gpupdate": {
@@ -31686,6 +31738,11 @@
 						"en": 2
 					}
 				},
+				"mi": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mkdir": {
 					"status": {
 						"bn": 2,
@@ -31719,6 +31776,16 @@
 						"it": 2
 					}
 				},
+				"move": {
+					"status": {
+						"en": 2
+					}
+				},
+				"move-item": {
+					"status": {
+						"en": 2
+					}
+				},
 				"msg": {
 					"status": {
 						"en": 2,
@@ -31731,6 +31798,11 @@
 						"en": 2,
 						"id": 2,
 						"ru": 2
+					}
+				},
+				"mv": {
+					"status": {
+						"en": 2
 					}
 				},
 				"net": {
@@ -31848,6 +31920,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"pwd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pwlauncher": {
