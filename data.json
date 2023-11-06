@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 05-Nov-23 01:00:07 CET",
+	"last_update": "Monday, 06-Nov-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -424,7 +424,7 @@
 				"fr": 13,
 				"hi": 3,
 				"id": 5,
-				"it": 14,
+				"it": 13,
 				"ja": 3,
 				"ko": 12,
 				"lo": 1,
@@ -456,6 +456,7 @@
 						"hi": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -574,7 +575,8 @@
 						"bn": 2,
 						"en": 2,
 						"hi": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"aapt": {
@@ -642,7 +644,8 @@
 				"accelerate": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"ack": {
@@ -1145,6 +1148,7 @@
 						"fr": 2,
 						"id": 2,
 						"ja": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -2422,7 +2426,32 @@
 						"en": 2
 					}
 				},
+				"brew-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"brew-outdated": {
+					"status": {
+						"en": 2
+					}
+				},
+				"brew-search": {
+					"status": {
+						"en": 2
+					}
+				},
 				"brew-uninstall": {
+					"status": {
+						"en": 2
+					}
+				},
+				"brew-update": {
+					"status": {
+						"en": 2
+					}
+				},
+				"brew-upgrade": {
 					"status": {
 						"en": 2
 					}
@@ -9457,12 +9486,14 @@
 				},
 				"just": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"just.1": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"jwt": {
@@ -10006,17 +10037,20 @@
 				},
 				"linode-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"linode-cli-account": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"linode-cli-domains": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"linode-cli-events": {
@@ -10026,22 +10060,26 @@
 				},
 				"linode-cli-linodes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"linode-cli-lke": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"linode-cli-nodebalancers": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"linode-cli-object-storage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"linode-cli-tickets": {
@@ -10051,7 +10089,8 @@
 				},
 				"linode-cli-volumes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"liquidctl": {
@@ -12077,13 +12116,15 @@
 				"open": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"nl": 2
 					}
 				},
 				"open.fish": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"nl": 2
 					}
 				},
 				"openai": {
@@ -17896,7 +17937,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 0,
+				"nl": 100,
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 0,
@@ -17917,7 +17958,8 @@
 			"pages": {
 				"pkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				}
 			}
@@ -17944,7 +17986,7 @@
 				"lo": 0,
 				"ml": 2,
 				"ne": 0,
-				"nl": 1,
+				"nl": 4,
 				"no": 0,
 				"pl": 7,
 				"pt_BR": 12,
@@ -18425,22 +18467,26 @@
 				"apx": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 1
 					}
 				},
 				"apx-pkgmanagers": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"apx-stacks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"apx-subsystems": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"arch-chroot": {
@@ -19602,12 +19648,14 @@
 				"distrobox": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"distrobox-create": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
@@ -19615,6 +19663,7 @@
 				"distrobox-enter": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
@@ -19622,18 +19671,21 @@
 				"distrobox-export": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"distrobox-host-exec": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"distrobox-list": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
@@ -19641,6 +19693,7 @@
 				"distrobox-rm": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
@@ -19648,12 +19701,14 @@
 				"distrobox-stop": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"distrobox-upgrade": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -20829,7 +20884,8 @@
 				},
 				"just.js": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"kde-inhibit": {
@@ -21805,45 +21861,53 @@
 					"status": {
 						"en": 2,
 						"ml": 1,
+						"nl": 2,
 						"tr": 1
 					}
 				},
 				"nmcli-agent": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"nmcli-connection": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
 				"nmcli-device": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
 				"nmcli-general": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"nmcli-monitor": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
 				"nmcli-networking": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"nmcli-radio": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"nmon": {
@@ -22271,37 +22335,44 @@
 				},
 				"pkgctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkgctl-auth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkgctl-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkgctl-db-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkgctl-diff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkgctl-release": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkgctl-repo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkgfile": {
@@ -24452,23 +24523,27 @@
 				},
 				"xbps": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"xbps-install": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ru": 2
 					}
 				},
 				"xbps-query": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"xbps-remove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"xclip": {
@@ -24762,7 +24837,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 0,
+				"nl": 100,
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 0,
@@ -24783,7 +24858,8 @@
 			"pages": {
 				"pkgin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				}
 			}
@@ -24810,7 +24886,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 0,
+				"nl": 100,
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 0,
@@ -24831,22 +24907,26 @@
 			"pages": {
 				"pkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkg_add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkg_delete": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkg_info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				}
 			}
@@ -30986,7 +31066,7 @@
 				"lo": 6,
 				"ml": 5,
 				"ne": 5,
-				"nl": 9,
+				"nl": 11,
 				"no": 6,
 				"pl": 16,
 				"pt_BR": 15,
@@ -31072,7 +31152,8 @@
 				},
 				"chdir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"chkdsk": {
@@ -31325,7 +31406,8 @@
 				},
 				"clear-host": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"clear-recyclebin": {
@@ -31386,6 +31468,7 @@
 						"it": 1,
 						"ja": 1,
 						"lo": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ta": 1,
 						"th": 1,
@@ -31557,6 +31640,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 1,
+						"nl": 2,
 						"ta": 1,
 						"zh": 1,
 						"zh_TW": 1
