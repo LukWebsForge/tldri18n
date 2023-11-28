@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 27-Nov-23 01:00:18 CET",
+	"last_update": "Tuesday, 28-Nov-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2417,7 +2417,8 @@
 				},
 				"boxes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bpytop": {
@@ -7920,6 +7921,11 @@
 						"tr": 2
 					}
 				},
+				"git-write-tree": {
+					"status": {
+						"en": 2
+					}
+				},
 				"github-label-sync": {
 					"status": {
 						"en": 2,
@@ -12219,6 +12225,11 @@
 						"en": 2
 					}
 				},
+				"ollama": {
+					"status": {
+						"en": 2
+					}
+				},
 				"omf": {
 					"status": {
 						"en": 2
@@ -15312,6 +15323,11 @@
 					}
 				},
 				"sftp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sg": {
 					"status": {
 						"en": 2
 					}
