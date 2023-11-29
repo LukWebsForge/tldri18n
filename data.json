@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 28-Nov-23 01:00:05 CET",
+	"last_update": "Wednesday, 29-Nov-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1301,6 +1301,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -19915,6 +19916,11 @@
 						"zh": 2
 					}
 				},
+				"chatgpt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chattr": {
 					"status": {
 						"en": 2,
@@ -25760,7 +25766,7 @@
 				"da": 41,
 				"de": 44,
 				"en": 100,
-				"es": 77,
+				"es": 78,
 				"fa": 0,
 				"fi": 0,
 				"fr": 41,
@@ -25859,6 +25865,7 @@
 				"airportd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
@@ -25929,6 +25936,7 @@
 				"automountd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
@@ -25941,12 +25949,14 @@
 				"avbdeviced": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 2
 					}
 				},
 				"backupd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"base64": {
