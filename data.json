@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 29-Nov-23 01:00:06 CET",
+	"last_update": "Thursday, 30-Nov-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -491,66 +491,66 @@
 				},
 				"7z": {
 					"status": {
-						"bn": 2,
-						"ca": 2,
-						"de": 2,
+						"bn": 1,
+						"ca": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ru": 2,
-						"tr": 2,
-						"zh": 2
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ru": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"7za": {
 					"status": {
-						"bn": 2,
-						"de": 2,
+						"bn": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
 						"it": 1,
 						"ja": 1,
-						"ko": 2,
-						"nl": 2,
+						"ko": 1,
+						"nl": 1,
 						"pl": 1,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ru": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"7zr": {
 					"status": {
-						"bn": 2,
-						"de": 2,
+						"bn": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"id": 2,
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"id": 1,
 						"it": 1,
 						"ja": 1,
-						"ko": 2,
-						"nl": 2,
+						"ko": 1,
+						"nl": 1,
 						"pl": 1,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ru": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"[": {
@@ -10817,6 +10817,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				},
@@ -17273,6 +17274,36 @@
 						"en": 2
 					}
 				},
+				"vboxmanage-clonevm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vboxmanage-createvm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vboxmanage-export": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vboxmanage-import": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vboxmanage-registervm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vboxmanage-unregistervm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vcsh": {
 					"status": {
 						"en": 2
@@ -20730,6 +20761,11 @@
 					}
 				},
 				"exif": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exiqgrep": {
 					"status": {
 						"en": 2
 					}
@@ -25766,7 +25802,7 @@
 				"da": 41,
 				"de": 44,
 				"en": 100,
-				"es": 78,
+				"es": 79,
 				"fa": 0,
 				"fi": 0,
 				"fr": 41,
@@ -25895,6 +25931,7 @@
 				"arch": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"zh": 1
