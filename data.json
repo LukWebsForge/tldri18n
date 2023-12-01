@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 30-Nov-23 01:00:05 CET",
+	"last_update": "Friday, 01-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -447,7 +447,7 @@
 				"no": 2,
 				"pl": 5,
 				"pt_BR": 12,
-				"pt_PT": 2,
+				"pt_PT": 1,
 				"ro": 0,
 				"ru": 3,
 				"sh": 0,
@@ -503,7 +503,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"pt_PT": 1,
@@ -525,7 +525,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"pt_PT": 1,
@@ -545,7 +545,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"pt_PT": 1,
@@ -3263,6 +3263,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"nl": 2,
 						"th": 2
 					}
 				},
@@ -3272,6 +3273,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"th": 2
 					}
 				},
@@ -6133,6 +6135,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"nl": 2,
 						"th": 2
 					}
 				},
@@ -14051,6 +14054,11 @@
 						"en": 2
 					}
 				},
+				"pulumi-up": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pup": {
 					"status": {
 						"en": 2
@@ -16611,6 +16619,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				},
@@ -19949,7 +19958,8 @@
 				},
 				"chatgpt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"chattr": {
@@ -25802,23 +25812,23 @@
 				"da": 41,
 				"de": 44,
 				"en": 100,
-				"es": 79,
+				"es": 78,
 				"fa": 0,
 				"fi": 0,
 				"fr": 41,
 				"hi": 42,
-				"id": 45,
-				"it": 45,
+				"id": 44,
+				"it": 44,
 				"ja": 41,
 				"ko": 41,
 				"lo": 41,
 				"ml": 41,
 				"ne": 41,
-				"nl": 43,
+				"nl": 42,
 				"no": 41,
 				"pl": 44,
 				"pt_BR": 60,
-				"pt_PT": 45,
+				"pt_PT": 44,
 				"ro": 0,
 				"ru": 42,
 				"sh": 0,
@@ -25829,7 +25839,7 @@
 				"tr": 41,
 				"uk": 41,
 				"uz": 0,
-				"zh": 64,
+				"zh": 63,
 				"zh_TW": 42
 			},
 			"pages": {
@@ -31315,6 +31325,11 @@
 						"zh": 2
 					}
 				},
+				"rargs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"readlink": {
 					"status": {
 						"en": 2,
@@ -31936,15 +31951,15 @@
 				"fa": 1,
 				"fi": 0,
 				"fr": 8,
-				"hi": 18,
-				"id": 16,
+				"hi": 17,
+				"id": 15,
 				"it": 17,
 				"ja": 12,
 				"ko": 5,
 				"lo": 5,
 				"ml": 5,
 				"ne": 5,
-				"nl": 23,
+				"nl": 22,
 				"no": 5,
 				"pl": 15,
 				"pt_BR": 14,
@@ -31959,8 +31974,8 @@
 				"tr": 5,
 				"uk": 5,
 				"uz": 0,
-				"zh": 50,
-				"zh_TW": 19
+				"zh": 48,
+				"zh_TW": 18
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -32702,6 +32717,11 @@
 						"en": 2
 					}
 				},
+				"get-command": {
+					"status": {
+						"en": 2
+					}
+				},
 				"get-content": {
 					"status": {
 						"en": 2
@@ -32734,6 +32754,21 @@
 						"nl": 2
 					}
 				},
+				"get-wuapiversion": {
+					"status": {
+						"en": 2
+					}
+				},
+				"get-wuhistory": {
+					"status": {
+						"en": 2
+					}
+				},
+				"get-wusettings": {
+					"status": {
+						"en": 2
+					}
+				},
 				"getmac": {
 					"status": {
 						"en": 2,
@@ -32753,6 +32788,11 @@
 					}
 				},
 				"if": {
+					"status": {
+						"en": 2
+					}
+				},
+				"install-module": {
 					"status": {
 						"en": 2
 					}
@@ -33021,6 +33061,11 @@
 					}
 				},
 				"psversiontable": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pswindowsupdate": {
 					"status": {
 						"en": 2
 					}
