@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 01-Dec-23 01:00:06 CET",
+	"last_update": "Saturday, 02-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3289,7 +3289,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"clang-cpp": {
@@ -12068,6 +12069,11 @@
 						"en": 2
 					}
 				},
+				"nvcc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nvidia-smi": {
 					"status": {
 						"en": 2
@@ -16408,6 +16414,7 @@
 				"tldr-lint": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pl": 2,
 						"sh": 2,
 						"tr": 2
@@ -16785,32 +16792,38 @@
 				},
 				"transmission-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"transmission-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"transmission-daemon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"transmission-edit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"transmission-remote": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"transmission-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"trap": {
