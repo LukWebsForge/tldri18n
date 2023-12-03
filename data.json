@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 02-Dec-23 01:00:06 CET",
+	"last_update": "Sunday, 03-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1510,7 +1510,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"avrdude": {
@@ -3279,18 +3280,18 @@
 				},
 				"clang": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"it": 1,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"clang++": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"clang-cpp": {
@@ -6198,12 +6199,12 @@
 				},
 				"g++": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"id": 1,
-						"ko": 2,
-						"pt_BR": 2,
-						"ta": 2
+						"ko": 1,
+						"pt_BR": 1,
+						"ta": 1
 					}
 				},
 				"gacutil": {
@@ -6241,14 +6242,14 @@
 				},
 				"gcc": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"id": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ta": 2
+						"fr": 1,
+						"id": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ta": 1
 					}
 				},
 				"gcloud": {
@@ -25830,7 +25831,7 @@
 				"fi": 0,
 				"fr": 41,
 				"hi": 42,
-				"id": 44,
+				"id": 46,
 				"it": 44,
 				"ja": 41,
 				"ko": 41,
@@ -27333,6 +27334,7 @@
 				"getfileinfo": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -28692,7 +28694,8 @@
 				},
 				"goku": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"gpaste": {
@@ -31642,6 +31645,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"pl": 2,
 						"zh": 2
 					}
@@ -31787,6 +31791,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"pt_PT": 2
 					}
 				},
