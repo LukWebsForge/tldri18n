@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 03-Dec-23 01:00:06 CET",
+	"last_update": "Monday, 04-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -439,7 +439,7 @@
 				"id": 5,
 				"it": 13,
 				"ja": 3,
-				"ko": 11,
+				"ko": 12,
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
@@ -839,6 +839,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -1777,6 +1778,11 @@
 						"en": 2
 					}
 				},
+				"aws-s3-website": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aws-s3api": {
 					"status": {
 						"en": 2
@@ -2563,6 +2569,7 @@
 						"fr": 2,
 						"it": 1,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -5390,6 +5397,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 1,
+						"nl": 2,
 						"no": 2
 					}
 				},
