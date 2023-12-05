@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 04-Dec-23 01:00:06 CET",
+	"last_update": "Tuesday, 05-Dec-23 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -719,6 +719,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -3298,7 +3299,7 @@
 						"de": 1,
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"clang-cpp": {
@@ -6255,7 +6256,7 @@
 						"fr": 1,
 						"id": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ta": 1
 					}
@@ -6266,6 +6267,11 @@
 						"de": 2,
 						"en": 2,
 						"es": 2
+					}
+				},
+				"gcloud-init": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gcpdiag": {
@@ -6348,7 +6354,8 @@
 				},
 				"gemtopbm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gemtopnm": {
@@ -7759,6 +7766,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"nl": 2,
 						"pl": 2,
 						"tr": 2
 					}
@@ -12492,7 +12500,8 @@
 				},
 				"pamnoraw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamoil": {
@@ -12646,7 +12655,8 @@
 				},
 				"pbmtox10bm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pbmtoxbm": {
@@ -12837,7 +12847,8 @@
 				},
 				"pgmoil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pgmtopgm": {
@@ -13359,7 +13370,8 @@
 				},
 				"pnmdepth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pnmtojpeg": {
@@ -13374,7 +13386,8 @@
 				},
 				"pnmtoplainpnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pnmtopng": {
@@ -13384,7 +13397,8 @@
 				},
 				"pnmtopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pnmtops": {
@@ -13414,7 +13428,8 @@
 				},
 				"pnmtotiff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pnmtotiffcmyk": {
@@ -13741,12 +13756,14 @@
 				},
 				"ppmtotga": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ppmtowinicon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ppmtoxpm": {
@@ -13867,7 +13884,8 @@
 				},
 				"ps-nvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"psalm": {
@@ -17924,7 +17942,8 @@
 				},
 				"winicontoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"wipeclean": {
@@ -23875,6 +23894,11 @@
 						"es": 2
 					}
 				},
+				"ripmime": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rkhunter": {
 					"status": {
 						"en": 2
@@ -24531,7 +24555,8 @@
 				},
 				"systemd-confext": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"systemd-creds": {
@@ -31985,7 +32010,7 @@
 				"lo": 5,
 				"ml": 5,
 				"ne": 5,
-				"nl": 22,
+				"nl": 25,
 				"no": 5,
 				"pl": 15,
 				"pt_BR": 14,
@@ -32804,7 +32829,8 @@
 				},
 				"gl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gpupdate": {
@@ -32907,7 +32933,8 @@
 				},
 				"mi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mkdir": {
@@ -32945,7 +32972,8 @@
 				},
 				"move": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"move-item": {
@@ -32970,7 +32998,8 @@
 				},
 				"mv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"net": {
@@ -33104,7 +33133,8 @@
 				},
 				"pwd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pwlauncher": {
