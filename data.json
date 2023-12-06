@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 05-Dec-23 01:00:07 CET",
+	"last_update": "Wednesday, 06-Dec-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -814,6 +814,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -6270,6 +6271,11 @@
 					}
 				},
 				"gcloud-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-version": {
 					"status": {
 						"en": 2
 					}
@@ -18237,6 +18243,11 @@
 						"en": 2
 					}
 				},
+				"xteddy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xvminitoppm": {
 					"status": {
 						"en": 2
@@ -24658,7 +24669,8 @@
 				},
 				"systemd-sysext": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"systemd-sysusers": {
@@ -32863,6 +32875,7 @@
 				},
 				"ipconfig": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"hi": 2,
 						"id": 1,
