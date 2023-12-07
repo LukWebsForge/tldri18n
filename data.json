@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 06-Dec-23 01:00:05 CET",
+	"last_update": "Thursday, 07-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1445,6 +1445,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
@@ -11514,6 +11515,11 @@
 						"pt_BR": 1
 					}
 				},
+				"mysqlsh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mytop": {
 					"status": {
 						"en": 2
@@ -17334,6 +17340,11 @@
 						"en": 2
 					}
 				},
+				"vboxmanage-controlvm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vboxmanage-createvm": {
 					"status": {
 						"en": 2
@@ -17344,12 +17355,32 @@
 						"en": 2
 					}
 				},
+				"vboxmanage-extpack": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vboxmanage-import": {
 					"status": {
 						"en": 2
 					}
 				},
+				"vboxmanage-list": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vboxmanage-registervm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vboxmanage-showvminfo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vboxmanage-startvm": {
 					"status": {
 						"en": 2
 					}
