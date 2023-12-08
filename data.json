@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 07-Dec-23 01:00:06 CET",
+	"last_update": "Friday, 08-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6271,7 +6271,42 @@
 						"es": 2
 					}
 				},
+				"gcloud-components-install": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-components-update": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-config-set": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-info": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gcloud-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-kms-decrypt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-logging-logs-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-sql-export-sql": {
 					"status": {
 						"en": 2
 					}
@@ -8414,6 +8449,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"gpg-card": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gpg-tui": {
