@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 08-Dec-23 01:00:06 CET",
+	"last_update": "Saturday, 09-Dec-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -436,7 +436,7 @@
 				"fi": 0,
 				"fr": 12,
 				"hi": 2,
-				"id": 5,
+				"id": 4,
 				"it": 13,
 				"ja": 3,
 				"ko": 12,
@@ -4589,6 +4589,7 @@
 				"docker-diff": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"nl": 2
 					}
 				},
@@ -4637,6 +4638,7 @@
 				"docker-load": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"pt_BR": 2
 					}
 				},
@@ -18499,6 +18501,26 @@
 					}
 				},
 				"ykman": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ykman-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ykman-fido": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ykman-oath": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ykman-openpgp": {
 					"status": {
 						"en": 2
 					}
