@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 11-Dec-23 01:00:05 CET",
+	"last_update": "Tuesday, 12-Dec-23 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1029,6 +1029,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -19931,6 +19932,11 @@
 					}
 				},
 				"busctl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"byzanz-record": {
 					"status": {
 						"en": 2
 					}
