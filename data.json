@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 13-Dec-23 01:00:06 CET",
+	"last_update": "Thursday, 14-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -472,7 +472,8 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"2to3": {
@@ -10309,6 +10310,11 @@
 					}
 				},
 				"lli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"llm": {
 					"status": {
 						"en": 2
 					}
