@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 14-Dec-23 01:00:06 CET",
+	"last_update": "Friday, 15-Dec-23 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1456,7 +1456,8 @@
 				"atuin": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"audacious": {
@@ -1691,6 +1692,11 @@
 						"es": 2,
 						"fr": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-kafka": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-kinesis": {
@@ -6315,6 +6321,11 @@
 						"en": 2
 					}
 				},
+				"gcloud-sql-backups-describe": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gcloud-sql-export-sql": {
 					"status": {
 						"en": 2
@@ -6411,7 +6422,8 @@
 				},
 				"gemtopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"get-nodeinstalllocation": {
@@ -6422,7 +6434,8 @@
 				},
 				"get-nodeversions": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"geth": {
@@ -6466,7 +6479,8 @@
 				},
 				"gh-codespace": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gh-completion": {
@@ -6995,7 +7009,8 @@
 				},
 				"git-cola": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"git-column": {
@@ -8202,7 +8217,8 @@
 				},
 				"gnmic-subscribe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gnomon": {
@@ -21131,7 +21147,7 @@
 						"en": 2
 					}
 				},
-				"fprind": {
+				"fprintd": {
 					"status": {
 						"en": 2
 					}
@@ -23687,7 +23703,7 @@
 						"en": 2
 					}
 				},
-				"qm-importdisk": {
+				"qm-import-disk": {
 					"status": {
 						"en": 2,
 						"nl": 2
@@ -23717,6 +23733,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"qm-move_disk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qm-mtunnel": {
