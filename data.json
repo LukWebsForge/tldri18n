@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 16-Dec-23 01:00:05 CET",
+	"last_update": "Sunday, 17-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1491,7 +1491,8 @@
 				"audacious": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"auditd": {
@@ -14393,7 +14394,8 @@
 						"id": 1,
 						"it": 1,
 						"pl": 1,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"python3": {
