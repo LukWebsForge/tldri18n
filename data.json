@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 17-Dec-23 01:00:06 CET",
+	"last_update": "Monday, 18-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -436,7 +436,7 @@
 				"fi": 0,
 				"fr": 12,
 				"hi": 2,
-				"id": 6,
+				"id": 5,
 				"it": 13,
 				"ja": 3,
 				"ko": 12,
@@ -507,7 +507,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
 						"tr": 1,
@@ -529,7 +529,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
 						"zh": 1
@@ -549,7 +549,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
 						"zh": 1
@@ -1266,7 +1266,7 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"arduino-builder": {
@@ -1293,7 +1293,8 @@
 				"argon2": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aria2": {
@@ -2613,7 +2614,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"bundler": {
@@ -2710,7 +2711,7 @@
 						"en": 2,
 						"it": 1,
 						"ko": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"bzip3": {
@@ -3228,7 +3229,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"chroot": {
@@ -4123,6 +4124,12 @@
 				"cups-config": {
 					"status": {
 						"en": 2
+					}
+				},
+				"cupsctl": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"cupsd": {
@@ -5837,6 +5844,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"fiascotopnm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"figlet": {
@@ -8785,7 +8797,8 @@
 				},
 				"helix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"hello": {
@@ -9378,7 +9391,8 @@
 				},
 				"install-nodeversion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"install-tl": {
@@ -9825,7 +9839,8 @@
 				},
 				"kcat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"kdeconnect-cli": {
@@ -10667,6 +10682,12 @@
 						"en": 2
 					}
 				},
+				"lpadmin": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
+					}
+				},
 				"lpass": {
 					"status": {
 						"en": 2
@@ -10678,10 +10699,28 @@
 						"en": 2
 					}
 				},
+				"lpoptions": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
+					}
+				},
+				"lpq": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
+					}
+				},
 				"lpr": {
 					"status": {
 						"de": 2,
 						"en": 2
+					}
+				},
+				"lprm": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"lpstat": {
@@ -11436,6 +11475,7 @@
 					"status": {
 						"en": 2,
 						"it": 1,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				},
@@ -13510,7 +13550,17 @@
 						"en": 2
 					}
 				},
+				"pnmtofiasco": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnmtojpeg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmtopalm": {
 					"status": {
 						"en": 2
 					}
@@ -23610,7 +23660,7 @@
 				"pw-cat": {
 					"status": {
 						"en": 2,
-						"tr": 2
+						"tr": 1
 					}
 				},
 				"pw-cli": {
@@ -23629,6 +23679,12 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"pw-mon": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"pw-play": {
