@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 18-Dec-23 01:00:06 CET",
+	"last_update": "Tuesday, 19-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -11770,7 +11770,8 @@
 				"netlify": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"netstat": {
@@ -12291,7 +12292,8 @@
 				},
 				"objdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"obs": {
@@ -12672,7 +12674,8 @@
 				},
 				"pamtopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamtoqoi": {
@@ -12682,17 +12685,20 @@
 				},
 				"pamtotga": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamtotiff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamtowinicon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamtoxvmini": {
@@ -12817,7 +12823,8 @@
 				},
 				"pbmtoxbm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pbmtoybm": {
@@ -16167,7 +16174,8 @@
 				},
 				"strings": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"strip-nondeterminism": {
@@ -18151,7 +18159,8 @@
 				},
 				"winicontopam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"winicontoppm": {
@@ -18556,7 +18565,8 @@
 				},
 				"xzmore": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"yacas": {
@@ -23850,7 +23860,8 @@
 				},
 				"qm-move_disk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"qm-mtunnel": {
@@ -24308,6 +24319,11 @@
 						"zh": 2
 					}
 				},
+				"salloc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sam": {
 					"status": {
 						"en": 2
@@ -24318,7 +24334,17 @@
 						"en": 2
 					}
 				},
+				"sattach": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sbatch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sbcast": {
 					"status": {
 						"en": 2
 					}
@@ -24358,7 +24384,17 @@
 						"en": 2
 					}
 				},
+				"scrontab": {
+					"status": {
+						"en": 2
+					}
+				},
 				"scrot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sdiag": {
 					"status": {
 						"en": 2
 					}
@@ -24443,6 +24479,11 @@
 					}
 				},
 				"sfill": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sh5util": {
 					"status": {
 						"en": 2
 					}
@@ -24635,6 +24676,11 @@
 						"en": 2
 					}
 				},
+				"sprio": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sqfscat": {
 					"status": {
 						"en": 2,
@@ -24663,6 +24709,11 @@
 					}
 				},
 				"ss": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sshare": {
 					"status": {
 						"en": 2
 					}
@@ -24703,7 +24754,17 @@
 						"en": 2
 					}
 				},
+				"strigger": {
+					"status": {
+						"en": 2
+					}
+				},
 				"strip": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sview": {
 					"status": {
 						"en": 2
 					}
