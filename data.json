@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 19-Dec-23 01:00:06 CET",
+	"last_update": "Wednesday, 20-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -445,7 +445,7 @@
 				"ne": 1,
 				"nl": 8,
 				"no": 2,
-				"pl": 5,
+				"pl": 4,
 				"pt_BR": 12,
 				"pt_PT": 1,
 				"ro": 0,
@@ -8564,7 +8564,7 @@
 				"gradle": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"grafana-cli": {
@@ -11970,6 +11970,11 @@
 						"en": 2
 					}
 				},
+				"nixpkgs-review": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nkf": {
 					"status": {
 						"en": 2
@@ -12659,10 +12664,16 @@
 				},
 				"pamoil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pampop9": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamscale": {
 					"status": {
 						"en": 2
 					}
@@ -13535,6 +13546,16 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"pnmscale": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmscalefixed": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pnmshear": {
@@ -19018,7 +19039,7 @@
 				"nl": 7,
 				"no": 0,
 				"pl": 7,
-				"pt_BR": 12,
+				"pt_BR": 13,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 1,
@@ -23670,24 +23691,28 @@
 				"pw-cat": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"tr": 1
 					}
 				},
 				"pw-cli": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
 				"pw-link": {
 					"status": {
 						"en": 2,
-						"tr": 2
+						"pt_BR": 2,
+						"tr": 1
 					}
 				},
 				"pw-loopback": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -23700,12 +23725,14 @@
 				"pw-play": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"tr": 1
 					}
 				},
 				"pw-record": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
