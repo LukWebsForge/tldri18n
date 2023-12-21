@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 20-Dec-23 01:00:06 CET",
+	"last_update": "Thursday, 21-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -443,7 +443,7 @@
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
-				"nl": 8,
+				"nl": 9,
 				"no": 2,
 				"pl": 4,
 				"pt_BR": 12,
@@ -13221,47 +13221,56 @@
 				},
 				"pio": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-access": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-account": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-boards": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-ci": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-debug": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-device": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-home": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-init": {
@@ -13299,67 +13308,80 @@
 				},
 				"pio-lib": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-org": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-package": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-platform": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-project": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-remote": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-settings": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-system": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-team": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pio-upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"piodebuggdb": {
@@ -17572,6 +17594,11 @@
 					}
 				},
 				"vboxmanage-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vboxmanage-movevm": {
 					"status": {
 						"en": 2
 					}
@@ -24985,6 +25012,11 @@
 					}
 				},
 				"systemd-repart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemd-resolve": {
 					"status": {
 						"en": 2
 					}
