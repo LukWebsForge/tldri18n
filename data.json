@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 21-Dec-23 01:00:06 CET",
+	"last_update": "Friday, 22-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -12646,6 +12646,11 @@
 						"en": 2
 					}
 				},
+				"pamflip": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamfunc": {
 					"status": {
 						"en": 2
@@ -12675,7 +12680,8 @@
 				},
 				"pamscale": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamtopam": {
@@ -13564,15 +13570,38 @@
 						"en": 2
 					}
 				},
+				"pnmcolormap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnmdepth": {
 					"status": {
 						"en": 2,
 						"nl": 2
 					}
 				},
-				"pnmscale": {
+				"pnmquant": {
+					"status": {
+						"en": 2,
+						"nl": 2
+					}
+				},
+				"pnmremap": {
+					"status": {
+						"en": 2,
+						"nl": 2
+					}
+				},
+				"pnmrotate": {
 					"status": {
 						"en": 2
+					}
+				},
+				"pnmscale": {
+					"status": {
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pnmscalefixed": {
@@ -13869,6 +13898,12 @@
 				"ppmpat": {
 					"status": {
 						"en": 2
+					}
+				},
+				"ppmquant": {
+					"status": {
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ppmrainbow": {
@@ -14173,7 +14208,8 @@
 				},
 				"ptpython": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ptpython3": {
@@ -14493,6 +14529,7 @@
 						"en": 2,
 						"id": 1,
 						"it": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 2,
 						"zh": 2
@@ -14929,7 +14966,8 @@
 				},
 				"remove-nodeversion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"renice": {
@@ -15586,12 +15624,14 @@
 				},
 				"set-nodeinstalllocation": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"set-nodeversion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"sf": {
@@ -24184,6 +24224,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"nl": 2,
 						"pl": 1
 					}
 				},
@@ -25018,7 +25059,8 @@
 				},
 				"systemd-resolve": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"systemd-run": {
