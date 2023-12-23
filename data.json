@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 22-Dec-23 01:00:06 CET",
+	"last_update": "Saturday, 23-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -443,7 +443,7 @@
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
-				"nl": 9,
+				"nl": 10,
 				"no": 2,
 				"pl": 4,
 				"pt_BR": 12,
@@ -5897,7 +5897,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"fish": {
@@ -11603,7 +11604,7 @@
 						"es": 1,
 						"hi": 1,
 						"id": 1,
-						"it": 1,
+						"it": 2,
 						"pt_BR": 1,
 						"ta": 2,
 						"zh": 1,
@@ -11884,7 +11885,8 @@
 				},
 				"nix-classic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"nix-collect-garbage": {
@@ -14725,7 +14727,8 @@
 				},
 				"radare2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rage": {
@@ -14842,7 +14845,8 @@
 				},
 				"rc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rcat": {
@@ -15016,6 +15020,7 @@
 				"rg": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
@@ -16646,7 +16651,8 @@
 				},
 				"thunderbird": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"tifftopnm": {
@@ -16711,11 +16717,6 @@
 						"uk": 1,
 						"zh": 1,
 						"zh_TW": 1
-					}
-				},
-				"tldr-generate": {
-					"status": {
-						"en": 2
 					}
 				},
 				"tldr-lint": {
@@ -16824,6 +16825,11 @@
 						"en": 2
 					}
 				},
+				"tlmgr-generate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tlmgr-gui": {
 					"status": {
 						"en": 2
@@ -16866,7 +16872,8 @@
 				},
 				"tlmgr-platform": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"tlmgr-recreate-tlpdb": {
