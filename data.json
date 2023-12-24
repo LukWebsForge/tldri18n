@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 23-Dec-23 01:00:06 CET",
+	"last_update": "Sunday, 24-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2182,6 +2182,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 1,
 						"ko": 1,
@@ -3181,7 +3182,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 2,
 						"fr": 2,
 						"id": 2,
@@ -17647,7 +17648,8 @@
 				},
 				"vboxmanage-movevm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"vboxmanage-registervm": {
