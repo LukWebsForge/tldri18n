@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 27-Dec-23 01:00:06 CET",
+	"last_update": "Thursday, 28-Dec-23 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -760,7 +760,7 @@
 						"it": 1,
 						"nl": 2,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -2275,6 +2275,7 @@
 						"it": 1,
 						"ja": 2,
 						"ko": 1,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -2810,6 +2811,12 @@
 						"en": 2
 					}
 				},
+				"cancel": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
+					}
+				},
 				"carbon-now": {
 					"status": {
 						"en": 2,
@@ -3301,7 +3308,7 @@
 						"nl": 2,
 						"no": 1,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
 						"sv": 1,
@@ -3642,7 +3649,7 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -4123,6 +4130,11 @@
 						"ko": 2
 					}
 				},
+				"cups": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cups-config": {
 					"status": {
 						"en": 2
@@ -4217,7 +4229,7 @@
 						"en": 2,
 						"fr": 1,
 						"it": 1,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"datashader_cli": {
@@ -9048,7 +9060,7 @@
 						"id": 1,
 						"ja": 1,
 						"ko": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
@@ -10700,6 +10712,12 @@
 					"status": {
 						"de": 2,
 						"en": 2
+					}
+				},
+				"lpmove": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"lpoptions": {
@@ -16449,7 +16467,7 @@
 				"tac": {
 					"status": {
 						"en": 2,
-						"it": 1
+						"it": 2
 					}
 				},
 				"tail": {
@@ -17094,7 +17112,7 @@
 						"nl": 2,
 						"no": 1,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
 						"sv": 1,
@@ -17427,7 +17445,7 @@
 				"units": {
 					"status": {
 						"en": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				},
@@ -17478,7 +17496,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"unxz": {
@@ -18729,7 +18747,7 @@
 						"fr": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
@@ -19066,7 +19084,7 @@
 				"nl": 100,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 0,
+				"pt_BR": 100,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -19086,7 +19104,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				}
 			}
@@ -19953,6 +19972,7 @@
 				"bluetoothd": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -23208,7 +23228,8 @@
 				"oomctl": {
 					"status": {
 						"en": 2,
-						"pl": 2
+						"pl": 2,
+						"pt_BR": 2
 					}
 				},
 				"openfortivpn": {
@@ -23513,6 +23534,12 @@
 						"en": 2
 					}
 				},
+				"pipewire": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
+					}
+				},
 				"pivpn": {
 					"status": {
 						"en": 2
@@ -23715,6 +23742,7 @@
 				"protontricks": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
@@ -23784,6 +23812,12 @@
 						"tr": 2
 					}
 				},
+				"pw-dump": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
+					}
+				},
 				"pw-link": {
 					"status": {
 						"en": 2,
@@ -23809,6 +23843,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"tr": 1
+					}
+				},
+				"pw-profiler": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pw-record": {
@@ -25775,6 +25814,11 @@
 					}
 				},
 				"wifi-menu": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wikit": {
 					"status": {
 						"en": 2
 					}
