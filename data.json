@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 30-Dec-23 01:00:06 CET",
+	"last_update": "Sunday, 31-Dec-23 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -11315,7 +11315,7 @@
 						"hi": 1,
 						"id": 1,
 						"it": 1,
-						"sr": 2,
+						"sr": 1,
 						"ta": 2,
 						"tr": 2,
 						"zh": 2,
@@ -15170,6 +15170,11 @@
 						"en": 2
 					}
 				},
+				"rlwrap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rm": {
 					"status": {
 						"de": 1,
@@ -18344,6 +18349,11 @@
 					}
 				},
 				"wipeclean": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wireplumber": {
 					"status": {
 						"en": 2
 					}
@@ -23883,6 +23893,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"tr": 2
+					}
+				},
+				"pw-dot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pw-dump": {
