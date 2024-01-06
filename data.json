@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 05-Jan-24 01:00:06 CET",
+	"last_update": "Saturday, 06-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1468,6 +1468,7 @@
 				"atq": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -2781,6 +2782,7 @@
 				"calendar": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"pt_BR": 2
 					}
 				},
@@ -3077,7 +3079,8 @@
 				},
 				"catimg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"cavif": {
@@ -5673,7 +5676,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"fa": 1,
+						"fa": 2,
 						"zh": 1
 					}
 				},
@@ -22170,6 +22173,12 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"jhead": {
+					"status": {
+						"de": 2,
+						"en": 2
 					}
 				},
 				"jobs": {
