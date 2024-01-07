@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 06-Jan-24 01:00:06 CET",
+	"last_update": "Sunday, 07-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -436,7 +436,7 @@
 				"fi": 0,
 				"fr": 12,
 				"hi": 2,
-				"id": 5,
+				"id": 6,
 				"it": 13,
 				"ja": 3,
 				"ko": 12,
@@ -3858,6 +3858,7 @@
 				"cppclean": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -6818,6 +6819,7 @@
 				"git-abort": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2,
 						"uk": 2
 					}
@@ -6852,6 +6854,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 1,
 						"ta": 2,
@@ -6862,6 +6865,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"ta": 2,
 						"tr": 2
 					}
@@ -6869,6 +6873,7 @@
 				"git-annotate": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 1,
 						"tr": 1
 					}
@@ -6878,6 +6883,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"ta": 2,
 						"tr": 2
 					}
@@ -6887,6 +6893,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ta": 2,
 						"tr": 2
@@ -6894,12 +6901,14 @@
 				},
 				"git-archive-file": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"git-authors": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"git-bisect": {
@@ -6908,6 +6917,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ta": 2,
 						"tr": 1
@@ -6919,6 +6929,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 1,
 						"ta": 2,
@@ -6927,7 +6938,8 @@
 				},
 				"git-blame-someone-else": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"git-branch": {
@@ -6945,39 +6957,46 @@
 				},
 				"git-browse": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"git-browse-ci": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"git-brv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"git-bug": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"git-bugreport": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"tr": 2
 					}
 				},
 				"git-bulk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 1
 					}
 				},
 				"git-bundle": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ta": 2,
 						"tr": 2
@@ -6987,6 +7006,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ta": 2,
 						"tr": 2
@@ -6994,12 +7014,14 @@
 				},
 				"git-changelog": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"git-check-attr": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"tr": 2
 					}
 				},
@@ -7008,6 +7030,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ta": 2,
 						"tr": 2
@@ -7016,12 +7039,14 @@
 				"git-check-mailmap": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"tr": 2
 					}
 				},
 				"git-check-ref-format": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"tr": 2
 					}
 				},
@@ -7041,6 +7066,7 @@
 				"git-checkout-index": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"tr": 2,
 						"uk": 2
 					}
@@ -7049,6 +7075,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"ta": 2,
 						"tr": 2
 					}
@@ -7092,7 +7119,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"pt_BR": 2,
@@ -25920,6 +25947,11 @@
 					"status": {
 						"en": 2,
 						"pl": 1
+					}
+				},
+				"wami": {
+					"status": {
+						"en": 2
 					}
 				},
 				"warpd": {
