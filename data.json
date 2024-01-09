@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 08-Jan-24 01:00:06 CET",
+	"last_update": "Tuesday, 09-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -941,6 +941,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -1068,6 +1069,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"ml": 2,
 						"nl": 2,
@@ -3092,7 +3094,8 @@
 				},
 				"cb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"cbonsai": {
@@ -4335,7 +4338,8 @@
 				},
 				"ddgr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"deb-get": {
@@ -4438,6 +4442,7 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 2,
+						"nl": 2,
 						"ta": 1,
 						"zh": 1,
 						"zh_TW": 1
@@ -4574,6 +4579,7 @@
 				"django-admin": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"ko": 2
 					}
 				},
@@ -6393,6 +6399,16 @@
 						"es": 2
 					}
 				},
+				"gcloud-app": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-auth": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gcloud-components-install": {
 					"status": {
 						"en": 2
@@ -6403,7 +6419,37 @@
 						"en": 2
 					}
 				},
+				"gcloud-compute": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-config": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gcloud-config-set": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-container": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-feedback": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-help": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-iam": {
 					"status": {
 						"en": 2
 					}
@@ -6428,12 +6474,22 @@
 						"en": 2
 					}
 				},
+				"gcloud-projects": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gcloud-sql-backups-describe": {
 					"status": {
 						"en": 2
 					}
 				},
 				"gcloud-sql-export-sql": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gcloud-topic": {
 					"status": {
 						"en": 2
 					}
@@ -8686,7 +8742,8 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"grex": {
@@ -14284,7 +14341,8 @@
 						"es": 2,
 						"id": 2,
 						"ja": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"ps-nvm": {
@@ -15720,7 +15778,8 @@
 						"da": 1,
 						"en": 2,
 						"ja": 1,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"semver": {
@@ -16791,6 +16850,11 @@
 						"zh": 2
 					}
 				},
+				"tidy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tifftopnm": {
 					"status": {
 						"en": 2
@@ -17654,7 +17718,8 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"ru": 1
+						"ru": 1,
+						"zh": 2
 					}
 				},
 				"unzstd": {
@@ -18853,7 +18918,8 @@
 				},
 				"yard": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"yarn": {
@@ -18942,7 +19008,8 @@
 				},
 				"you-get": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"youtube-dl": {
@@ -19110,7 +19177,8 @@
 				},
 				"zm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"zmore": {
@@ -19225,7 +19293,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 33,
+				"nl": 100,
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 33,
@@ -19246,7 +19314,8 @@
 			"pages": {
 				"df": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkg": {
@@ -19259,7 +19328,8 @@
 				},
 				"sed": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				}
 			}
@@ -20941,7 +21011,8 @@
 				},
 				"df": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"dget": {
@@ -24743,6 +24814,7 @@
 				"sed": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -26436,7 +26508,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 33,
+				"nl": 100,
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 0,
@@ -26457,7 +26529,8 @@
 			"pages": {
 				"df": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkgin": {
@@ -26469,7 +26542,8 @@
 				},
 				"sed": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				}
 			}
@@ -26496,7 +26570,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 66,
+				"nl": 100,
 				"no": 0,
 				"pl": 16,
 				"pt_BR": 0,
@@ -26517,7 +26591,8 @@
 			"pages": {
 				"df": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pkg": {
@@ -26551,7 +26626,8 @@
 				},
 				"sed": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				}
 			}
@@ -26565,12 +26641,12 @@
 				"cs": 0,
 				"da": 41,
 				"de": 43,
-				"en": 99,
+				"en": 100,
 				"es": 78,
 				"fa": 0,
 				"fi": 0,
 				"fr": 41,
-				"hi": 41,
+				"hi": 42,
 				"id": 45,
 				"it": 44,
 				"ja": 41,
@@ -26578,23 +26654,23 @@
 				"lo": 41,
 				"ml": 41,
 				"ne": 41,
-				"nl": 42,
+				"nl": 43,
 				"no": 41,
 				"pl": 43,
-				"pt_BR": 59,
+				"pt_BR": 60,
 				"pt_PT": 44,
 				"ro": 0,
-				"ru": 41,
+				"ru": 42,
 				"sh": 0,
 				"sr": 0,
 				"sv": 41,
 				"ta": 41,
-				"th": 41,
+				"th": 42,
 				"tr": 41,
 				"uk": 41,
 				"uz": 0,
 				"zh": 63,
-				"zh_TW": 41
+				"zh_TW": 42
 			},
 			"pages": {
 				"aa": {
@@ -26988,7 +27064,8 @@
 				},
 				"df": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"dhcp6d": {
@@ -31829,11 +31906,6 @@
 						"zh_TW": 1
 					}
 				},
-				"lex": {
-					"status": {
-						"es": 2
-					}
-				},
 				"lipo": {
 					"status": {
 						"en": 2,
@@ -32178,6 +32250,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -32220,7 +32293,8 @@
 				},
 				"sntp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"sntpd": {
