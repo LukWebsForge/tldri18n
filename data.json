@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 10-Jan-24 01:00:06 CET",
+	"last_update": "Thursday, 11-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -9715,6 +9715,11 @@
 					}
 				},
 				"javap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jbang": {
 					"status": {
 						"en": 2
 					}
@@ -22552,6 +22557,16 @@
 						"en": 2
 					}
 				},
+				"libuser-lid": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lid": {
+					"status": {
+						"en": 2
+					}
+				},
 				"light": {
 					"status": {
 						"en": 2
@@ -25765,6 +25780,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"umount": {
+					"status": {
+						"en": 2
 					}
 				},
 				"uname": {
