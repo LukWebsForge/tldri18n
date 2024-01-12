@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 11-Jan-24 01:00:06 CET",
+	"last_update": "Friday, 12-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -22559,12 +22559,14 @@
 				},
 				"libuser-lid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"lid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"light": {
