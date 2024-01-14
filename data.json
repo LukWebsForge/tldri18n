@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 13-Jan-24 01:00:06 CET",
+	"last_update": "Sunday, 14-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4446,7 +4446,7 @@
 						"fa": 1,
 						"fr": 1,
 						"it": 1,
-						"ko": 2,
+						"ko": 1,
 						"nl": 2,
 						"ta": 1,
 						"zh": 1,
@@ -4613,7 +4613,7 @@
 						"id": 1,
 						"it": 1,
 						"ja": 2,
-						"ko": 2,
+						"ko": 1,
 						"nl": 2,
 						"pt_BR": 2,
 						"tr": 1,
@@ -7190,7 +7190,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 1,
-						"ko": 2,
+						"ko": 1,
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 1,
@@ -17146,7 +17146,7 @@
 						"fr": 1,
 						"ja": 2,
 						"ko": 2,
-						"pt_PT": 2
+						"pt_PT": 1
 					}
 				},
 				"tmuxinator": {
@@ -17232,7 +17232,7 @@
 						"hi": 1,
 						"id": 1,
 						"pt_BR": 2,
-						"pt_PT": 2,
+						"pt_PT": 1,
 						"zh_TW": 1
 					}
 				},
@@ -19052,7 +19052,7 @@
 				"yt-dlp": {
 					"status": {
 						"en": 2,
-						"pt_PT": 2
+						"pt_PT": 1
 					}
 				},
 				"yuvsplittoppm": {
@@ -23580,7 +23580,7 @@
 						"ml": 1,
 						"pl": 2,
 						"pt_BR": 2,
-						"pt_PT": 2,
+						"pt_PT": 1,
 						"ta": 2,
 						"tr": 1,
 						"uk": 2,
