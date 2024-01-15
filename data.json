@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 14-Jan-24 01:00:06 CET",
+	"last_update": "Monday, 15-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4538,7 +4538,8 @@
 				"direnv": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"zh": 2
 					}
 				},
 				"dirname": {
@@ -15486,6 +15487,11 @@
 					}
 				},
 				"rustic": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rustscan": {
 					"status": {
 						"en": 2
 					}
