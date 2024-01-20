@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 19-Jan-24 01:00:07 CET",
+	"last_update": "Saturday, 20-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -13407,6 +13407,11 @@
 					}
 				},
 				"pickle": {
+					"status": {
+						"en": 2
+					}
+				},
+				"picocom": {
 					"status": {
 						"en": 2
 					}
