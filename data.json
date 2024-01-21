@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 20-Jan-24 01:00:06 CET",
+	"last_update": "Sunday, 21-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -8957,7 +8957,8 @@
 				"helix": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"hello": {
@@ -14852,6 +14853,11 @@
 					}
 				},
 				"qoitopam": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qownnotes": {
 					"status": {
 						"en": 2
 					}
