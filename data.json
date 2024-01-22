@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 21-Jan-24 01:00:06 CET",
+	"last_update": "Monday, 22-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -14812,6 +14812,11 @@
 						"en": 2
 					}
 				},
+				"qc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qcp": {
 					"status": {
 						"en": 2
@@ -15706,6 +15711,11 @@
 					}
 				},
 				"sbt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sbuild": {
 					"status": {
 						"en": 2
 					}
@@ -19426,10 +19436,10 @@
 				"sv": 0,
 				"ta": 4,
 				"th": 1,
-				"tr": 5,
+				"tr": 4,
 				"uk": 2,
 				"uz": 0,
-				"zh": 10,
+				"zh": 9,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -22607,6 +22617,7 @@
 				"lid": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -24477,6 +24488,16 @@
 					}
 				},
 				"qtile": {
+					"status": {
+						"en": 2
+					}
+				},
+				"quickemu": {
+					"status": {
+						"en": 2
+					}
+				},
+				"quickget": {
 					"status": {
 						"en": 2
 					}
