@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 22-Jan-24 01:00:06 CET",
+	"last_update": "Tuesday, 23-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -15532,7 +15532,8 @@
 				},
 				"rustscan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rustup": {
@@ -24741,6 +24742,31 @@
 					}
 				},
 				"rpi-eeprom-update": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rpicam-hello": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rpicam-jpeg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rpicam-raw": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rpicam-still": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rpicam-vid": {
 					"status": {
 						"en": 2
 					}
