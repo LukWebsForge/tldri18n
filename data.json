@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 23-Jan-24 01:00:06 CET",
+	"last_update": "Wednesday, 24-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5908,6 +5908,11 @@
 						"de": 2,
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"ffuf": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fg": {
@@ -25363,6 +25368,11 @@
 						"en": 2
 					}
 				},
+				"switch_root": {
+					"status": {
+						"en": 2
+					}
+				},
 				"swupd": {
 					"status": {
 						"en": 2
@@ -25571,6 +25581,11 @@
 					}
 				},
 				"tac": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tailf": {
 					"status": {
 						"en": 2
 					}
@@ -26062,6 +26077,11 @@
 						"pl": 2
 					}
 				},
+				"uuidparse": {
+					"status": {
+						"en": 2
+					}
+				},
 				"uvcdynctrl": {
 					"status": {
 						"en": 2
@@ -26204,6 +26224,11 @@
 						"en": 2,
 						"es": 2,
 						"zh": 2
+					}
+				},
+				"waitpid": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wajig": {
