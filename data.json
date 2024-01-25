@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 24-Jan-24 01:00:06 CET",
+	"last_update": "Thursday, 25-Jan-24 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -446,7 +446,7 @@
 				"nl": 10,
 				"no": 2,
 				"pl": 4,
-				"pt_BR": 13,
+				"pt_BR": 12,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 3,
@@ -630,7 +630,7 @@
 						"no": 1,
 						"pt_BR": 2,
 						"ru": 1,
-						"ta": 1,
+						"ta": 2,
 						"zh": 1
 					}
 				},
@@ -3259,6 +3259,11 @@
 						"pt_BR": 2
 					}
 				},
+				"chronic": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chroot": {
 					"status": {
 						"de": 2,
@@ -3650,6 +3655,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"combine": {
+					"status": {
+						"en": 2
 					}
 				},
 				"comby": {
@@ -4450,7 +4460,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"ta": 1,
+						"ta": 2,
 						"zh": 1,
 						"zh_TW": 1
 					}
@@ -6042,6 +6052,11 @@
 						"en": 2
 					}
 				},
+				"flock": {
+					"status": {
+						"en": 2
+					}
+				},
 				"flow": {
 					"status": {
 						"en": 2
@@ -6358,7 +6373,7 @@
 						"id": 1,
 						"ko": 1,
 						"pt_BR": 1,
-						"ta": 1
+						"ta": 2
 					}
 				},
 				"gacutil": {
@@ -6403,7 +6418,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
-						"ta": 1
+						"ta": 2
 					}
 				},
 				"gcloud": {
@@ -9445,6 +9460,16 @@
 						"fr": 2
 					}
 				},
+				"ifdata": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ifne": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ifs": {
 					"status": {
 						"en": 2
@@ -9667,6 +9692,11 @@
 					}
 				},
 				"isisdl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"isutf8": {
 					"status": {
 						"en": 2
 					}
@@ -10374,6 +10404,11 @@
 					"status": {
 						"en": 2,
 						"no": 2
+					}
+				},
+				"lckdo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ld": {
@@ -11397,6 +11432,11 @@
 				"minisign": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"mispipe": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -13167,6 +13207,11 @@
 					}
 				},
 				"peco": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pee": {
 					"status": {
 						"en": 2
 					}
@@ -18047,6 +18092,11 @@
 						"zh_TW": 2
 					}
 				},
+				"vidir": {
+					"status": {
+						"en": 2
+					}
+				},
 				"view": {
 					"status": {
 						"bs": 2,
@@ -18097,6 +18147,11 @@
 						"es": 2,
 						"nl": 2,
 						"sv": 2
+					}
+				},
+				"vipe": {
+					"status": {
+						"en": 2
 					}
 				},
 				"virsh": {
@@ -19291,6 +19346,11 @@
 					}
 				},
 				"zpool": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zrun": {
 					"status": {
 						"en": 2
 					}
@@ -21088,7 +21148,8 @@
 				"df": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"ta": 2
 					}
 				},
 				"dget": {
@@ -21679,11 +21740,6 @@
 					}
 				},
 				"flatpak-builder": {
-					"status": {
-						"en": 2
-					}
-				},
-				"flock": {
 					"status": {
 						"en": 2
 					}
@@ -27277,7 +27333,8 @@
 				"df": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"ta": 2
 					}
 				},
 				"dhcp6d": {
