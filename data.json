@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 26-Jan-24 01:00:06 CET",
+	"last_update": "Saturday, 27-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -10179,7 +10179,8 @@
 				},
 				"kopia": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"kops": {
@@ -27387,7 +27388,8 @@
 				},
 				"dockutil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dot_clean": {
