@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 27-Jan-24 01:00:06 CET",
+	"last_update": "Sunday, 28-Jan-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -26919,7 +26919,7 @@
 				"da": 41,
 				"de": 43,
 				"en": 100,
-				"es": 78,
+				"es": 79,
 				"fa": 0,
 				"fi": 0,
 				"fr": 41,
@@ -32451,7 +32451,8 @@
 				},
 				"rargs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"readlink": {
