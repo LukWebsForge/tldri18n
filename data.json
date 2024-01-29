@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 28-Jan-24 01:00:07 CET",
+	"last_update": "Monday, 29-Jan-24 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -716,7 +716,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"fr": 1,
+						"fr": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -9767,7 +9767,8 @@
 				},
 				"jbang": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"jc": {
@@ -25020,7 +25021,7 @@
 				"sed": {
 					"status": {
 						"en": 2,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
