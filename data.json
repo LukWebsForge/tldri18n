@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 29-Jan-24 01:00:08 CET",
+	"last_update": "Tuesday, 30-Jan-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -14869,7 +14869,8 @@
 				},
 				"qc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"qcp": {
@@ -32606,6 +32607,7 @@
 				"split": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 1
 					}
 				},
