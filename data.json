@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 31-Jan-24 01:00:06 CET",
+	"last_update": "Thursday, 01-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -13469,7 +13469,8 @@
 				},
 				"picocom": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"picom-trans": {
@@ -14920,7 +14921,8 @@
 				},
 				"qownnotes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"qpdf": {
@@ -15482,7 +15484,7 @@
 				"rspec": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 1
 					}
 				},
 				"rss2email": {
@@ -24862,7 +24864,8 @@
 				},
 				"rpmconf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rpmspec": {
@@ -25990,6 +25993,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"unmount": {
+					"status": {
+						"en": 2
 					}
 				},
 				"unset": {
@@ -34350,7 +34358,7 @@
 				"reg-flags": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"reg-import": {
