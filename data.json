@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 01-Feb-24 01:00:06 CET",
+	"last_update": "Friday, 02-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3107,6 +3107,11 @@
 					}
 				},
 				"cbt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ccache": {
 					"status": {
 						"en": 2
 					}
@@ -13875,6 +13880,11 @@
 						"nl": 2
 					}
 				},
+				"pnmpsnr": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnmquant": {
 					"status": {
 						"en": 2,
@@ -21901,6 +21911,11 @@
 					}
 				},
 				"getopt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gio-trash": {
 					"status": {
 						"en": 2
 					}
