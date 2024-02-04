@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 03-Feb-24 01:00:05 CET",
+	"last_update": "Sunday, 04-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3113,7 +3113,8 @@
 				},
 				"ccache": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ccomps": {
@@ -21917,7 +21918,8 @@
 				},
 				"gio-trash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gnome-calculator": {
@@ -26793,7 +26795,7 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 25,
+				"es": 50,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
@@ -26846,7 +26848,8 @@
 				},
 				"sockstat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				}
 			}
