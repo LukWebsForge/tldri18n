@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 05-Feb-24 01:00:06 CET",
+	"last_update": "Tuesday, 06-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -13898,7 +13898,8 @@
 				},
 				"pnmpsnr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pnmquant": {
