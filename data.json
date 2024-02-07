@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 06-Feb-24 01:00:06 CET",
+	"last_update": "Wednesday, 07-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6327,6 +6327,11 @@
 						"en": 2
 					}
 				},
+				"fstopgm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fswatch": {
 					"status": {
 						"en": 2
@@ -10594,6 +10599,11 @@
 						"en": 2
 					}
 				},
+				"lispmtopgm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"live-server": {
 					"status": {
 						"en": 2
@@ -12909,6 +12919,11 @@
 						"en": 2
 					}
 				},
+				"pamcomp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamdepth": {
 					"status": {
 						"en": 2,
@@ -13087,6 +13102,11 @@
 					}
 				},
 				"pbmmake": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmnoise": {
 					"status": {
 						"en": 2
 					}
@@ -13319,7 +13339,22 @@
 						"en": 2
 					}
 				},
+				"pgmhist": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmkernel": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pgmmake": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmnoise": {
 					"status": {
 						"en": 2
 					}
@@ -13330,7 +13365,32 @@
 						"nl": 2
 					}
 				},
+				"pgmramp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmtexture": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmtofs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmtolispm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pgmtopgm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmtoppm": {
 					"status": {
 						"en": 2
 					}
@@ -13885,7 +13945,27 @@
 						"en": 2
 					}
 				},
+				"pnmalias": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnmcolormap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmcomp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmconvol": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmcrop": {
 					"status": {
 						"en": 2
 					}
@@ -13894,6 +13974,31 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"pnmgamma": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmhisteq": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmhistmap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmindex": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnminvert": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pnmpsnr": {
@@ -19446,7 +19551,7 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 0,
+				"es": 9,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
@@ -19506,6 +19611,7 @@
 				"pkg": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -23077,14 +23183,14 @@
 				"man": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ru": 2,
-						"uk": 2
+						"es": 1,
+						"fr": 1,
+						"id": 1,
+						"ko": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ru": 1,
+						"uk": 1
 					}
 				},
 				"mandb": {
