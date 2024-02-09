@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 08-Feb-24 01:00:05 CET",
+	"last_update": "Friday, 09-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -11956,7 +11956,8 @@
 				},
 				"naabu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"nano": {
@@ -19561,7 +19562,7 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 9,
+				"es": 18,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
@@ -19615,7 +19616,8 @@
 				},
 				"look": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pkg": {
