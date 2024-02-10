@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 09-Feb-24 01:00:06 CET",
+	"last_update": "Saturday, 10-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -439,7 +439,7 @@
 				"id": 6,
 				"it": 12,
 				"ja": 3,
-				"ko": 12,
+				"ko": 11,
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
@@ -2128,7 +2128,7 @@
 				},
 				"babeld": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
@@ -6399,6 +6399,11 @@
 					}
 				},
 				"gallery-dl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gammastep": {
 					"status": {
 						"en": 2
 					}
@@ -11353,6 +11358,11 @@
 						"zh": 1
 					}
 				},
+				"mdatopbm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mdp": {
 					"status": {
 						"en": 2
@@ -11390,6 +11400,11 @@
 					}
 				},
 				"mg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mgrtopbm": {
 					"status": {
 						"en": 2
 					}
@@ -13137,6 +13152,26 @@
 						"en": 2
 					}
 				},
+				"pbmtomacp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtomda": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtomgr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtonokia": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pbmtowbmp": {
 					"status": {
 						"en": 2
@@ -14008,6 +14043,36 @@
 					}
 				},
 				"pnminvert": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmmargin": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmmontage": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmnlfilt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmnorm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmpad": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmpaste": {
 					"status": {
 						"en": 2
 					}
@@ -23678,6 +23743,11 @@
 					}
 				},
 				"nixos-rebuild": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nl": {
 					"status": {
 						"en": 2
 					}
