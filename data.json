@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 10-Feb-24 01:00:06 CET",
+	"last_update": "Sunday, 11-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6405,7 +6405,8 @@
 				},
 				"gammastep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ganache-cli": {
@@ -9681,6 +9682,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"ippfind": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ipptool": {
