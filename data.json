@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 11-Feb-24 01:00:06 CET",
+	"last_update": "Monday, 12-Feb-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"de": 11,
 				"en": 100,
 				"es": 9,
-				"fa": 2,
+				"fa": 1,
 				"fi": 0,
 				"fr": 12,
 				"hi": 2,
@@ -444,7 +444,7 @@
 				"ml": 1,
 				"ne": 1,
 				"nl": 10,
-				"no": 2,
+				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
 				"pt_PT": 1,
@@ -2584,7 +2584,8 @@
 				},
 				"bru": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"brushtopbm": {
@@ -4538,11 +4539,11 @@
 				"dig": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"it": 1,
-						"ja": 2,
+						"ja": 1,
 						"ko": 1,
-						"pt_BR": 2,
+						"pt_BR": 1,
 						"tr": 1
 					}
 				},
@@ -11394,6 +11395,11 @@
 						"en": 2
 					}
 				},
+				"meshnamed": {
+					"status": {
+						"en": 2
+					}
+				},
 				"meson": {
 					"status": {
 						"en": 2
@@ -13178,6 +13184,26 @@
 						"en": 2
 					}
 				},
+				"pbmtopgm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtoplot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtoppa": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtoptx": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pbmtowbmp": {
 					"status": {
 						"en": 2
@@ -13201,6 +13227,11 @@
 					}
 				},
 				"pbmtozinc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmupc": {
 					"status": {
 						"en": 2
 					}
@@ -13387,6 +13418,11 @@
 					}
 				},
 				"pgmdeshadow": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmenhance": {
 					"status": {
 						"en": 2
 					}
