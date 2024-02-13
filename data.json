@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 12-Feb-24 01:00:07 CET",
+	"last_update": "Tuesday, 13-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -429,7 +429,7 @@
 				"ca": 1,
 				"cs": 0,
 				"da": 1,
-				"de": 11,
+				"de": 10,
 				"en": 100,
 				"es": 9,
 				"fa": 1,
@@ -1445,6 +1445,11 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"atktopbm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"atom": {
@@ -3586,6 +3591,11 @@
 						"nl": 2
 					}
 				},
+				"cmuwmtopbm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"code": {
 					"status": {
 						"de": 2,
@@ -5600,6 +5610,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"escp2topbm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"eslint": {
@@ -11984,7 +11999,7 @@
 				"naabu": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"nano": {
@@ -12957,6 +12972,11 @@
 						"en": 2
 					}
 				},
+				"pambackground": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamcomp": {
 					"status": {
 						"en": 2
@@ -12969,6 +12989,11 @@
 					}
 				},
 				"pamditherbw": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamenlarge": {
 					"status": {
 						"en": 2
 					}
@@ -13014,6 +13039,16 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"pamstretch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamstretch-gen": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pamtopam": {
@@ -13134,6 +13169,11 @@
 						"en": 2
 					}
 				},
+				"pbmclean": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pbmlife": {
 					"status": {
 						"en": 2
@@ -13144,7 +13184,37 @@
 						"en": 2
 					}
 				},
+				"pbmmask": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pbmnoise": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmpage": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmpscale": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmreduce": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtext": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtextps": {
 					"status": {
 						"en": 2
 					}
@@ -13154,7 +13224,42 @@
 						"en": 2
 					}
 				},
+				"pbmtoatk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtobbnbg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtocmuwm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtoepsi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtoepson": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtoescp2": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pbmtogem": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtogo": {
 					"status": {
 						"en": 2
 					}
@@ -19336,12 +19441,12 @@
 				"yes": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"es": 1,
+						"fr": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"tr": 1
 					}
 				},
 				"yesod": {
@@ -27093,7 +27198,7 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 28,
+				"es": 42,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
@@ -27156,6 +27261,7 @@
 				"sed": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
