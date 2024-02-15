@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 14-Feb-24 01:00:05 CET",
+	"last_update": "Thursday, 15-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1858,6 +1858,11 @@
 						"pt_BR": 2
 					}
 				},
+				"aws-sns": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aws-sqs": {
 					"status": {
 						"en": 2,
@@ -2781,6 +2786,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"cal": {
+					"status": {
+						"en": 2
 					}
 				},
 				"calc": {
@@ -7555,6 +7565,11 @@
 						"tr": 2
 					}
 				},
+				"git-gui": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-guilt": {
 					"status": {
 						"en": 2
@@ -8707,6 +8722,11 @@
 					}
 				},
 				"gotty": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gouldtoppm": {
 					"status": {
 						"en": 2
 					}
@@ -9864,6 +9884,11 @@
 					}
 				},
 				"jf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jfrog": {
 					"status": {
 						"en": 2
 					}
@@ -11412,6 +11437,7 @@
 				},
 				"meshnamed": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -11858,6 +11884,11 @@
 					}
 				},
 				"mtr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mtvtoppm": {
 					"status": {
 						"en": 2
 					}
@@ -13041,6 +13072,11 @@
 						"nl": 2
 					}
 				},
+				"pamstack": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamstretch": {
 					"status": {
 						"en": 2
@@ -13348,7 +13384,8 @@
 				},
 				"pcapfix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pcxtoppm": {
@@ -16144,6 +16181,61 @@
 						"en": 2
 					}
 				},
+				"sc_analysis_dump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_tracediff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_ttlexp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_warts2csv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_warts2json": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_warts2pcap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_warts2text": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_wartscat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_wartsdump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_wartsfilter": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sc_wartsfix": {
+					"status": {
+						"en": 2
+					}
+				},
 				"scala": {
 					"status": {
 						"en": 2
@@ -16155,6 +16247,11 @@
 					}
 				},
 				"scalafmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"scamper": {
 					"status": {
 						"en": 2
 					}
@@ -17172,6 +17269,16 @@
 						"ru": 1,
 						"tr": 2,
 						"zh": 2
+					}
+				},
+				"tarsnap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tarsnap-keygen": {
+					"status": {
+						"en": 2
 					}
 				},
 				"task": {
@@ -19779,22 +19886,22 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 18,
+				"es": 16,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
 				"hi": 0,
-				"id": 9,
+				"id": 8,
 				"it": 0,
 				"ja": 0,
 				"ko": 0,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 27,
+				"nl": 25,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 9,
+				"pt_BR": 8,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -19810,6 +19917,11 @@
 				"zh_TW": 0
 			},
 			"pages": {
+				"cal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chfn": {
 					"status": {
 						"en": 2
@@ -20989,17 +21101,17 @@
 				},
 				"cal": {
 					"status": {
-						"ca": 2,
-						"de": 2,
+						"ca": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"ml": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ta": 2,
-						"zh": 2
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"ml": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ta": 1,
+						"zh": 1
 					}
 				},
 				"calcurse": {
@@ -27208,19 +27320,19 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 42,
+				"es": 37,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
 				"hi": 0,
-				"id": 14,
+				"id": 12,
 				"it": 0,
 				"ja": 0,
 				"ko": 0,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 42,
+				"nl": 37,
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 0,
@@ -27239,6 +27351,11 @@
 				"zh_TW": 0
 			},
 			"pages": {
+				"cal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chfn": {
 					"status": {
 						"en": 2
@@ -27298,16 +27415,16 @@
 				"fi": 0,
 				"fr": 0,
 				"hi": 0,
-				"id": 44,
+				"id": 40,
 				"it": 0,
 				"ja": 0,
 				"ko": 0,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 66,
+				"nl": 60,
 				"no": 0,
-				"pl": 11,
+				"pl": 10,
 				"pt_BR": 0,
 				"pt_PT": 0,
 				"ro": 0,
@@ -27324,6 +27441,11 @@
 				"zh_TW": 0
 			},
 			"pages": {
+				"cal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chfn": {
 					"status": {
 						"en": 2
