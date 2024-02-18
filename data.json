@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 17-Feb-24 01:00:05 CET",
+	"last_update": "Sunday, 18-Feb-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -9328,6 +9328,11 @@
 					}
 				},
 				"httpry": {
+					"status": {
+						"en": 2
+					}
+				},
+				"httpx": {
 					"status": {
 						"en": 2
 					}
@@ -21127,7 +21132,7 @@
 						"fa": 1,
 						"fr": 1,
 						"ml": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ta": 1,
 						"zh": 1
