@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 19-Feb-24 01:00:06 CET",
+	"last_update": "Tuesday, 20-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -455,7 +455,7 @@
 				"sv": 2,
 				"ta": 3,
 				"th": 1,
-				"tr": 7,
+				"tr": 6,
 				"uk": 2,
 				"uz": 0,
 				"zh": 9,
@@ -2496,8 +2496,8 @@
 				"boxes": {
 					"status": {
 						"en": 2,
-						"fa": 2,
-						"ko": 2
+						"fa": 1,
+						"ko": 1
 					}
 				},
 				"bpytop": {
@@ -8659,6 +8659,11 @@
 					}
 				},
 				"goimports": {
+					"status": {
+						"en": 2
+					}
+				},
+				"golangci-lint": {
 					"status": {
 						"en": 2
 					}
@@ -18360,6 +18365,11 @@
 						"sv": 2
 					}
 				},
+				"usql": {
+					"status": {
+						"en": 2
+					}
+				},
 				"uudecode": {
 					"status": {
 						"en": 2
@@ -18482,6 +18492,11 @@
 					}
 				},
 				"vboxmanage-unregistervm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vcpkg": {
 					"status": {
 						"en": 2
 					}
@@ -18907,7 +18922,7 @@
 				"warp-cli": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 1
 					}
 				},
 				"warp-diag": {
