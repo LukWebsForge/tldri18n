@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 20-Feb-24 01:00:06 CET",
+	"last_update": "Wednesday, 21-Feb-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3663,6 +3663,11 @@
 						"uk": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"colon": {
+					"status": {
+						"en": 2
 					}
 				},
 				"colordiff": {
@@ -7567,7 +7572,8 @@
 				},
 				"git-gui": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"git-guilt": {
@@ -8634,6 +8640,11 @@
 				"gobuster": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"gocr": {
+					"status": {
 						"en": 2
 					}
 				},
