@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 22-Feb-24 01:00:17 CET",
+	"last_update": "Friday, 23-Feb-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2623,7 +2623,8 @@
 				"btop": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"fr": 2
 					}
 				},
 				"buku": {
@@ -6051,6 +6052,11 @@
 						"en": 2
 					}
 				},
+				"fitstopnm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fkill": {
 					"status": {
 						"en": 2
@@ -9106,7 +9112,8 @@
 				},
 				"hexyl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"hg": {
@@ -11630,7 +11637,8 @@
 				},
 				"mktemp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"mktorrent": {
@@ -13041,10 +13049,25 @@
 						"en": 2
 					}
 				},
+				"pamcut": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamdeinterlace": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamdepth": {
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"pamdice": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pamditherbw": {
@@ -13073,6 +13096,11 @@
 					}
 				},
 				"pamixer": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pammixinterlace": {
 					"status": {
 						"en": 2
 					}
@@ -13115,6 +13143,11 @@
 						"en": 2
 					}
 				},
+				"pamtofits": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamtopam": {
 					"status": {
 						"en": 2
@@ -13150,6 +13183,11 @@
 					}
 				},
 				"pamtoxvmini": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamundice": {
 					"status": {
 						"en": 2
 					}
@@ -14350,6 +14388,11 @@
 					}
 				},
 				"pnmtofiasco": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmtofits": {
 					"status": {
 						"en": 2
 					}
@@ -17454,6 +17497,11 @@
 					}
 				},
 				"tgatoppm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tgpt": {
 					"status": {
 						"en": 2
 					}
