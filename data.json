@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 23-Feb-24 01:00:07 CET",
+	"last_update": "Saturday, 24-Feb-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5908,7 +5908,7 @@
 				},
 				"fdroidcl": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
@@ -20746,6 +20746,11 @@
 					}
 				},
 				"atop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aur": {
 					"status": {
 						"en": 2
 					}
