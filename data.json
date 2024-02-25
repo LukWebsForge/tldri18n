@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 24-Feb-24 01:00:07 CET",
+	"last_update": "Sunday, 25-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -585,6 +585,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"^": {
+					"status": {
+						"en": 2
 					}
 				},
 				"a2ping": {
@@ -2276,6 +2281,11 @@
 						"ko": 2,
 						"pl": 2,
 						"pt_PT": 2
+					}
+				},
+				"bats": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bazel": {
@@ -5965,7 +5975,8 @@
 				},
 				"ffuf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"fg": {
@@ -6417,6 +6428,7 @@
 				"fzf": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"tr": 2
 					}
 				},
