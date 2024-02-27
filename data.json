@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 26-Feb-24 01:00:05 CET",
+	"last_update": "Tuesday, 27-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -464,17 +464,17 @@
 			"pages": {
 				"!": {
 					"status": {
-						"bn": 2,
-						"de": 2,
+						"bn": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"es": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"2to3": {
@@ -8663,7 +8663,8 @@
 				},
 				"gocr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gocryptfs": {
@@ -12118,7 +12119,8 @@
 				"ncdu": {
 					"status": {
 						"da": 2,
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"ncmpcpp": {
@@ -12540,7 +12542,8 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"npm-check": {
