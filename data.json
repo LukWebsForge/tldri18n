@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 27-Feb-24 01:00:06 CET",
+	"last_update": "Wednesday, 28-Feb-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3268,17 +3268,17 @@
 				},
 				"chown": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"chroma": {
@@ -6425,6 +6425,11 @@
 						"en": 2
 					}
 				},
+				"fvm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fzf": {
 					"status": {
 						"en": 2,
@@ -9126,6 +9131,7 @@
 				"hexyl": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
@@ -14555,7 +14561,7 @@
 				},
 				"poetry": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"it": 1
 					}
@@ -16022,6 +16028,21 @@
 						"fr": 2,
 						"id": 1,
 						"ta": 2
+					}
+				},
+				"ruff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ruff-check": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ruff-format": {
+					"status": {
+						"en": 2
 					}
 				},
 				"runit": {
@@ -17518,7 +17539,8 @@
 				},
 				"tgpt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"theharvester": {
@@ -20136,7 +20158,7 @@
 				"sr": 0,
 				"sv": 0,
 				"ta": 4,
-				"th": 1,
+				"th": 0,
 				"tr": 4,
 				"uk": 2,
 				"uz": 0,
@@ -21762,6 +21784,11 @@
 					}
 				},
 				"debugfs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"debuginfod-find": {
 					"status": {
 						"en": 2
 					}
@@ -25357,6 +25384,11 @@
 					}
 				},
 				"repo-add": {
+					"status": {
+						"en": 2
+					}
+				},
+				"repo-remove": {
 					"status": {
 						"en": 2
 					}
