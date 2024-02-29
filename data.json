@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 28-Feb-24 01:00:06 CET",
+	"last_update": "Thursday, 29-Feb-24 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -19777,6 +19777,11 @@
 					}
 				},
 				"yuvtoppm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yuy2topam": {
 					"status": {
 						"en": 2
 					}
