@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 29-Feb-24 01:00:10 CET",
+	"last_update": "Friday, 01-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2285,7 +2285,8 @@
 				},
 				"bats": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bazel": {
@@ -11528,6 +11529,7 @@
 				"micro": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"ru": 2
 					}
 				},
@@ -20799,7 +20801,8 @@
 				},
 				"aur": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aura": {
@@ -23678,7 +23681,8 @@
 					"status": {
 						"en": 2,
 						"hi": 2,
-						"pl": 2
+						"pl": 2,
+						"pt_BR": 2
 					}
 				},
 				"man": {
