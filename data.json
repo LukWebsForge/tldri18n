@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 01-Mar-24 01:00:06 CET",
+	"last_update": "Saturday, 02-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3691,6 +3691,7 @@
 				"colorls": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ja": 2
 					}
 				},
@@ -4462,6 +4463,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"ko": 2,
 						"zh": 2
@@ -5581,8 +5583,8 @@
 				"entr": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"pl": 2
+						"it": 1,
+						"pl": 1
 					}
 				},
 				"env": {
@@ -5789,7 +5791,8 @@
 				"eza": {
 					"status": {
 						"en": 2,
-						"pl": 2
+						"pl": 2,
+						"pt_BR": 2
 					}
 				},
 				"f3fix": {
@@ -6024,6 +6027,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -10168,7 +10172,8 @@
 				},
 				"kate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"kcadm.sh": {
@@ -21435,6 +21440,11 @@
 						"pl": 2
 					}
 				},
+				"check-dfsg-status": {
+					"status": {
+						"en": 2
+					}
+				},
 				"check-language-support": {
 					"status": {
 						"en": 2
@@ -25013,6 +25023,11 @@
 						"tr": 2
 					}
 				},
+				"pwn": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pyrit": {
 					"status": {
 						"en": 2
@@ -27326,6 +27341,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"pt_BR": 2,
 						"tr": 2
 					}
 				},
