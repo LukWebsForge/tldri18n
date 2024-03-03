@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 02-Mar-24 01:00:06 CET",
+	"last_update": "Sunday, 03-Mar-24 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3217,6 +3217,11 @@
 						"en": 2
 					}
 				},
+				"checkov": {
+					"status": {
+						"en": 2
+					}
+				},
 				"checksec": {
 					"status": {
 						"en": 2
@@ -5336,7 +5341,7 @@
 				},
 				"duf": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
@@ -5708,6 +5713,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fr": 2,
 						"it": 1,
 						"pl": 2
 					}
@@ -9522,6 +9528,11 @@
 						"en": 2
 					}
 				},
+				"icontopbm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"iconv": {
 					"status": {
 						"en": 2
@@ -13067,6 +13078,11 @@
 						"en": 2
 					}
 				},
+				"pamarith": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pambackground": {
 					"status": {
 						"en": 2
@@ -13349,6 +13365,11 @@
 						"en": 2
 					}
 				},
+				"pbmto4425": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pbmtoascii": {
 					"status": {
 						"en": 2
@@ -13394,6 +13415,11 @@
 						"en": 2
 					}
 				},
+				"pbmtoicon": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pbmtolj": {
 					"status": {
 						"en": 2
@@ -13435,6 +13461,11 @@
 					}
 				},
 				"pbmtoptx": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pbmtosunicon": {
 					"status": {
 						"en": 2
 					}
@@ -14279,6 +14310,11 @@
 						"en": 2
 					}
 				},
+				"pnmarith": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnmcolormap": {
 					"status": {
 						"en": 2
@@ -14371,6 +14407,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"pnmquantall": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pnmremap": {
@@ -14697,6 +14738,11 @@
 						"nl": 2
 					}
 				},
+				"ppmquantall": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ppmrainbow": {
 					"status": {
 						"en": 2
@@ -14728,6 +14774,11 @@
 					}
 				},
 				"ppmtoarbtxt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ppmtoascii": {
 					"status": {
 						"en": 2
 					}
@@ -14813,6 +14864,11 @@
 					}
 				},
 				"ppmtospu": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ppmtoterm": {
 					"status": {
 						"en": 2
 					}
@@ -17232,6 +17288,11 @@
 						"ta": 2
 					}
 				},
+				"sunicontopbm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sup": {
 					"status": {
 						"en": 2
@@ -18122,7 +18183,8 @@
 				},
 				"trufflehog": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"truncate": {
@@ -19790,7 +19852,8 @@
 				},
 				"yuy2topam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"z": {
@@ -22715,7 +22778,8 @@
 				},
 				"grubby": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gs": {
