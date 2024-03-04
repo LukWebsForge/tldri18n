@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 03-Mar-24 01:00:05 CET",
+	"last_update": "Monday, 04-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2634,8 +2634,8 @@
 				"btop": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2
+						"es": 1,
+						"fr": 1
 					}
 				},
 				"buku": {
@@ -4398,8 +4398,8 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"fa": 2,
-						"it": 1,
+						"fa": 1,
+						"it": 2,
 						"pt_BR": 1
 					}
 				},
@@ -11600,6 +11600,11 @@
 						"en": 2
 					}
 				},
+				"mise": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mispipe": {
 					"status": {
 						"en": 2
@@ -14547,6 +14552,16 @@
 						"ko": 2
 					}
 				},
+				"pnpm-audit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnpm-outdated": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnpx": {
 					"status": {
 						"en": 2
@@ -16535,6 +16550,11 @@
 						"ja": 1,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"select": {
+					"status": {
+						"en": 2
 					}
 				},
 				"semver": {
@@ -18668,7 +18688,8 @@
 				},
 				"vcpkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"vcsh": {
@@ -20210,7 +20231,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 100,
-				"es": 7,
+				"es": 8,
 				"fa": 0,
 				"fi": 0,
 				"fr": 7,
@@ -21819,7 +21840,7 @@
 				"dd": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"ddcutil": {
@@ -25089,7 +25110,8 @@
 				},
 				"pwn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pyrit": {
@@ -25826,11 +25848,6 @@
 				"see": {
 					"status": {
 						"de": 2,
-						"en": 2
-					}
-				},
-				"select": {
-					"status": {
 						"en": 2
 					}
 				},
