@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 04-Mar-24 01:00:06 CET",
+	"last_update": "Tuesday, 05-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2457,6 +2457,11 @@
 					}
 				},
 				"bmptopnm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bmptoppm": {
 					"status": {
 						"en": 2
 					}
@@ -13093,7 +13098,17 @@
 						"en": 2
 					}
 				},
+				"pambrighten": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamcomp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamcrater": {
 					"status": {
 						"en": 2
 					}
@@ -13124,7 +13139,17 @@
 						"en": 2
 					}
 				},
+				"pamedge": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamenlarge": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamexec": {
 					"status": {
 						"en": 2
 					}
@@ -13166,7 +13191,17 @@
 						"nl": 2
 					}
 				},
+				"pampick": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pampop9": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamrgbatopng": {
 					"status": {
 						"en": 2
 					}
@@ -13175,6 +13210,21 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"pamshadedrelief": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamslice": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamsplit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pamstack": {
@@ -13197,7 +13247,17 @@
 						"en": 2
 					}
 				},
+				"pamtogif": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamtopam": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamtopng": {
 					"status": {
 						"en": 2
 					}
@@ -13223,6 +13283,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"pamtouil": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pamtowinicon": {
@@ -13518,6 +13583,16 @@
 						"es": 2
 					}
 				},
+				"pcdindex": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pcdovtoppm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pcxtoppm": {
 					"status": {
 						"en": 2
@@ -13694,7 +13769,17 @@
 						"en": 2
 					}
 				},
+				"pgmcrater": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pgmdeshadow": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmedge": {
 					"status": {
 						"en": 2
 					}
@@ -13724,6 +13809,11 @@
 						"en": 2
 					}
 				},
+				"pgmnorm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pgmoil": {
 					"status": {
 						"en": 2,
@@ -13731,6 +13821,11 @@
 					}
 				},
 				"pgmramp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmslice": {
 					"status": {
 						"en": 2
 					}
@@ -13746,6 +13841,11 @@
 					}
 				},
 				"pgmtolispm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pgmtopbm": {
 					"status": {
 						"en": 2
 					}
@@ -14310,6 +14410,11 @@
 						"en": 2
 					}
 				},
+				"pngtopam": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnmalias": {
 					"status": {
 						"en": 2
@@ -14341,10 +14446,30 @@
 						"en": 2
 					}
 				},
+				"pnmcut": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnmdepth": {
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"pnmenlarge": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmfile": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmflip": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pnmgamma": {
@@ -14363,6 +14488,11 @@
 					}
 				},
 				"pnmindex": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnminterp": {
 					"status": {
 						"en": 2
 					}
@@ -14447,6 +14577,11 @@
 					}
 				},
 				"pnmsmooth": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pnmsplit": {
 					"status": {
 						"en": 2
 					}
@@ -14672,6 +14807,11 @@
 						"zh": 1
 					}
 				},
+				"ppmbrighten": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ppmchange": {
 					"status": {
 						"en": 2
@@ -14733,6 +14873,11 @@
 					}
 				},
 				"ppmmix": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ppmnorm": {
 					"status": {
 						"en": 2
 					}
@@ -14808,6 +14953,11 @@
 						"en": 2
 					}
 				},
+				"ppmtogif": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ppmtoicr": {
 					"status": {
 						"en": 2
@@ -14818,12 +14968,22 @@
 						"en": 2
 					}
 				},
+				"ppmtojpeg": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ppmtoleaf": {
 					"status": {
 						"en": 2
 					}
 				},
 				"ppmtolj": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ppmtomap": {
 					"status": {
 						"en": 2
 					}
@@ -14892,6 +15052,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"ppmtouil": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ppmtowinicon": {
@@ -18557,7 +18722,8 @@
 				},
 				"usql": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"uudecode": {
@@ -21120,7 +21286,8 @@
 					"status": {
 						"en": 2,
 						"hi": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				"bpftool": {
@@ -21526,7 +21693,8 @@
 				},
 				"check-dfsg-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"check-language-support": {
