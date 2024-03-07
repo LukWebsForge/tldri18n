@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 06-Mar-24 01:00:06 CET",
+	"last_update": "Thursday, 07-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2127,7 +2127,8 @@
 				},
 				"b3sum": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"babel": {
@@ -2259,19 +2260,19 @@
 				},
 				"bat": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"batch": {
@@ -3224,7 +3225,8 @@
 				},
 				"checkov": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"checksec": {
@@ -5185,6 +5187,11 @@
 						"en": 2
 					}
 				},
+				"dolt-gc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dolt-init": {
 					"status": {
 						"en": 2
@@ -6443,7 +6450,8 @@
 				},
 				"fvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fzf": {
@@ -8716,7 +8724,8 @@
 				},
 				"golangci-lint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"google-chrome": {
@@ -11607,7 +11616,8 @@
 				},
 				"mise": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"mispipe": {
@@ -14299,6 +14309,11 @@
 						"fr": 2
 					}
 				},
+				"pipes.sh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pipx": {
 					"status": {
 						"en": 2
@@ -14415,6 +14430,11 @@
 						"en": 2
 					}
 				},
+				"pngtopnm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnmalias": {
 					"status": {
 						"en": 2
@@ -14494,7 +14514,8 @@
 				},
 				"pnminterp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pnminvert": {
@@ -14608,7 +14629,8 @@
 				},
 				"pnmtojpeg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pnmtopalm": {
@@ -23387,6 +23409,11 @@
 						"fr": 2
 					}
 				},
+				"iwlist": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jhead": {
 					"status": {
 						"de": 2,
@@ -25668,7 +25695,8 @@
 				},
 				"repo-remove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"reportbug": {
