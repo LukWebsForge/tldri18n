@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 07-Mar-24 01:00:06 CET",
+	"last_update": "Friday, 08-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -934,12 +934,12 @@
 				},
 				"airodump-ng": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"nl": 2,
-						"zh": 2
+						"es": 1,
+						"id": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"airpaste": {
@@ -1507,8 +1507,8 @@
 				"audacious": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"auditd": {
@@ -8669,7 +8669,7 @@
 				"go-tool": {
 					"status": {
 						"en": 2,
-						"tr": 2
+						"tr": 1
 					}
 				},
 				"go-version": {
@@ -14432,7 +14432,8 @@
 				},
 				"pngtopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pnmalias": {
@@ -14468,7 +14469,8 @@
 				},
 				"pnmcut": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pnmdepth": {
@@ -20627,6 +20629,7 @@
 						"ca": 2,
 						"de": 2,
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -20830,6 +20833,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -20859,6 +20863,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"nl": 2,
 						"pl": 2,
@@ -28014,7 +28019,7 @@
 				"tr": 41,
 				"uk": 41,
 				"uz": 0,
-				"zh": 63,
+				"zh": 62,
 				"zh_TW": 41
 			},
 			"pages": {
@@ -28436,6 +28441,11 @@
 						"it": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"diskutil-partitiondisk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"distnoted": {
@@ -35384,7 +35394,7 @@
 				"reg": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"reg-add": {
@@ -35396,7 +35406,7 @@
 				"reg-compare": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"reg-copy": {
@@ -35438,7 +35448,7 @@
 				"reg-query": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"reg-restore": {
