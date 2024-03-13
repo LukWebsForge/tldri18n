@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 12-Mar-24 01:00:06 CET",
+	"last_update": "Wednesday, 13-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6504,6 +6504,11 @@
 					"status": {
 						"en": 2,
 						"pt_BR": 2
+					}
+				},
+				"gau": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gcal": {
@@ -22077,6 +22082,7 @@
 				"dd": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"ko": 1
 					}
 				},
@@ -22165,6 +22171,11 @@
 					}
 				},
 				"dget": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dhcpcd": {
 					"status": {
 						"en": 2
 					}
@@ -23458,7 +23469,8 @@
 				},
 				"iwlist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"jhead": {
