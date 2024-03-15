@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 14-Mar-24 01:00:06 CET",
+	"last_update": "Friday, 15-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -458,7 +458,7 @@
 				"tr": 6,
 				"uk": 2,
 				"uz": 0,
-				"zh": 9,
+				"zh": 10,
 				"zh_TW": 2
 			},
 			"pages": {
@@ -2895,204 +2895,242 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"cargo-add": {
 					"status": {
 						"en": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"cargo-bench": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-build": {
 					"status": {
 						"en": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"cargo-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-clean": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-clippy": {
 					"status": {
 						"en": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"cargo-doc": {
 					"status": {
 						"en": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"cargo-fetch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-fix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-fmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-generate-lockfile": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-locate-project": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-login": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-logout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-metadata": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-new": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-owner": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-package": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-pkgid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-publish": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-remove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-report": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-rustc": {
 					"status": {
 						"en": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"cargo-rustdoc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-test": {
 					"status": {
 						"en": 2,
 						"pt_BR": 1,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"cargo-tree": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-uninstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-vendor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-verify-project": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"cargo-yank": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"carp": {
@@ -3695,6 +3733,11 @@
 						"uk": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"colima": {
+					"status": {
+						"en": 2
 					}
 				},
 				"colon": {
@@ -5197,7 +5240,8 @@
 				},
 				"dolt-gc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dolt-init": {
