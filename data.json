@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 15-Mar-24 01:00:06 CET",
+	"last_update": "Saturday, 16-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6077,7 +6077,7 @@
 				"figlet": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"file": {
@@ -11060,6 +11060,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"hi": 2,
 						"it": 2,
@@ -19457,6 +19458,11 @@
 						"zh": 1
 					}
 				},
+				"wdiff": {
+					"status": {
+						"en": 2
+					}
+				},
 				"weasyprint": {
 					"status": {
 						"en": 2,
@@ -21856,6 +21862,11 @@
 					}
 				},
 				"chntpw": {
+					"status": {
+						"en": 2
+					}
+				},
+				"choom": {
 					"status": {
 						"en": 2
 					}
