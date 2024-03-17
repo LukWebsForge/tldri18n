@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 16-Mar-24 01:00:06 CET",
+	"last_update": "Sunday, 17-Mar-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -430,7 +430,7 @@
 				"cs": 0,
 				"da": 1,
 				"de": 10,
-				"en": 100,
+				"en": 99,
 				"es": 10,
 				"fa": 1,
 				"fi": 0,
@@ -1038,7 +1038,6 @@
 				},
 				"amass-db": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"fr": 2,
 						"nl": 2
@@ -1047,17 +1046,17 @@
 				"amass-enum": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"nl": 2
+						"es": 1,
+						"fr": 1,
+						"nl": 1
 					}
 				},
 				"amass-intel": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"nl": 2
+						"es": 1,
+						"fr": 1,
+						"nl": 1
 					}
 				},
 				"androguard": {
@@ -2180,29 +2179,29 @@
 				"base32": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh": 2
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"base64": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"basename": {
@@ -4609,16 +4608,16 @@
 				},
 				"diff": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fa": 2,
-						"fr": 2,
+						"fa": 1,
+						"fr": 1,
 						"it": 1,
 						"ko": 1,
 						"pl": 1,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh_TW": 2
+						"pt_BR": 1,
+						"tr": 1,
+						"zh_TW": 1
 					}
 				},
 				"diff-pdf": {
@@ -17032,7 +17031,8 @@
 				},
 				"simplehttpserver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"sindresorhus": {
