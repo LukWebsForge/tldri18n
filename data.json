@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 18-Mar-24 01:00:06 CET",
+	"last_update": "Tuesday, 19-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -430,7 +430,7 @@
 				"cs": 0,
 				"da": 1,
 				"de": 10,
-				"en": 99,
+				"en": 100,
 				"es": 10,
 				"fa": 1,
 				"fi": 0,
@@ -1036,19 +1036,12 @@
 						"zh": 2
 					}
 				},
-				"amass-db": {
-					"status": {
-						"es": 2,
-						"fr": 2,
-						"nl": 2
-					}
-				},
 				"amass-enum": {
 					"status": {
 						"en": 2,
 						"es": 1,
 						"fr": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"amass-intel": {
@@ -1056,7 +1049,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"androguard": {
@@ -2182,7 +2175,7 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"tr": 1,
@@ -2197,7 +2190,7 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"tr": 1,
@@ -9119,7 +9112,7 @@
 				"hashcat": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 1
 					}
 				},
 				"hashid": {
