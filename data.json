@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 21-Mar-24 01:00:06 CET",
+	"last_update": "Friday, 22-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3290,7 +3290,7 @@
 				"chisel": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"chmod": {
@@ -14065,6 +14065,12 @@
 						"en": 2
 					}
 				},
+				"pi1toppm": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
 				"pi3topbm": {
 					"status": {
 						"en": 2
@@ -14562,6 +14568,7 @@
 				"pnmenlarge": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -15130,6 +15137,12 @@
 				"ppmtopgm": {
 					"status": {
 						"en": 2
+					}
+				},
+				"ppmtopi1": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ppmtopict": {
