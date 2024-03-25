@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 24-Mar-24 01:00:03 CET",
+	"last_update": "Monday, 25-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6546,7 +6546,8 @@
 				},
 				"gau": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gcal": {
@@ -7854,7 +7855,8 @@
 				},
 				"git-mktree": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"git-mr": {
@@ -13227,6 +13229,16 @@
 						"en": 2
 					}
 				},
+				"pamfix": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamfixtrunc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamflip": {
 					"status": {
 						"en": 2
@@ -13371,6 +13383,11 @@
 					}
 				},
 				"pamundice": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pamvalidate": {
 					"status": {
 						"en": 2
 					}
@@ -15111,6 +15128,7 @@
 				"ppmtomap": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -20299,6 +20317,11 @@
 						"en": 2
 					}
 				},
+				"zipcloak": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zipgrep": {
 					"status": {
 						"en": 2
@@ -20554,7 +20577,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 8,
-				"en": 100,
+				"en": 99,
 				"es": 8,
 				"fa": 0,
 				"fi": 0,
@@ -20808,6 +20831,11 @@
 						"en": 2,
 						"pl": 2,
 						"pt_BR": 2
+					}
+				},
+				"agetty": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ahost": {
@@ -27911,7 +27939,6 @@
 				},
 				"zipcloak": {
 					"status": {
-						"en": 2,
 						"es": 2
 					}
 				},
