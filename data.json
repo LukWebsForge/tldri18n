@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 25-Mar-24 01:00:06 CET",
+	"last_update": "Tuesday, 26-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5962,6 +5962,11 @@
 					}
 				},
 				"fc-pattern": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fclones": {
 					"status": {
 						"en": 2
 					}
@@ -19496,7 +19501,8 @@
 				},
 				"waymore": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"wbmptopbm": {
@@ -27024,6 +27030,11 @@
 						"es": 2,
 						"pt_BR": 1,
 						"zh_TW": 2
+					}
+				},
+				"torsocks": {
+					"status": {
+						"en": 2
 					}
 				},
 				"trace-cmd": {
