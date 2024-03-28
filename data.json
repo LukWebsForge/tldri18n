@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 27-Mar-24 01:00:05 CET",
+	"last_update": "Thursday, 28-Mar-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -19522,7 +19522,8 @@
 				},
 				"wdiff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"weasyprint": {
@@ -20841,7 +20842,8 @@
 				},
 				"agetty": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ahost": {
@@ -26338,6 +26340,11 @@
 						"nl": 2
 					}
 				},
+				"showkey": {
+					"status": {
+						"en": 2
+					}
+				},
 				"shutdown": {
 					"status": {
 						"ca": 2,
@@ -27100,6 +27107,11 @@
 						"en": 2
 					}
 				},
+				"tunelp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tuxi": {
 					"status": {
 						"en": 2
@@ -27556,7 +27568,8 @@
 				},
 				"waypipe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"wdctl": {
