@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 31-Mar-24 01:00:06 CET",
+	"last_update": "Monday, 01-Apr-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15654,6 +15654,11 @@
 					}
 				},
 				"pydoc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pydocstyle": {
 					"status": {
 						"en": 2
 					}
