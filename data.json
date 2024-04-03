@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 02-Apr-24 02:00:06 CEST",
+	"last_update": "Wednesday, 03-Apr-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6049,7 +6049,7 @@
 				"ffuf": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 1
 					}
 				},
 				"fg": {
@@ -13913,6 +13913,7 @@
 				"pgmnorm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -15022,6 +15023,7 @@
 				"ppmnorm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -15660,7 +15662,8 @@
 				},
 				"pydocstyle": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pyenv": {
@@ -20588,7 +20591,7 @@
 				"ca": 6,
 				"cs": 0,
 				"da": 0,
-				"de": 8,
+				"de": 7,
 				"en": 99,
 				"es": 8,
 				"fa": 0,
@@ -21689,6 +21692,26 @@
 					}
 				},
 				"byzanz-record": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cacaclock": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cacademo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cacafire": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cacaview": {
 					"status": {
 						"en": 2
 					}
@@ -22825,11 +22848,6 @@
 					}
 				},
 				"feedreader": {
-					"status": {
-						"en": 2
-					}
-				},
-				"ffuf": {
 					"status": {
 						"en": 2
 					}
