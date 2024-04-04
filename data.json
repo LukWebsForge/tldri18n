@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 03-Apr-24 02:00:06 CEST",
+	"last_update": "Thursday, 04-Apr-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5968,7 +5968,8 @@
 				},
 				"fclones": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fd": {
@@ -18002,9 +18003,9 @@
 				},
 				"tig": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"pl": 2
+						"pl": 1
 					}
 				},
 				"time": {
@@ -21713,7 +21714,8 @@
 				},
 				"cacaview": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"caffeinate": {
@@ -24367,7 +24369,8 @@
 				},
 				"mkfs.f2fs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"mkfs.fat": {
@@ -26370,7 +26373,8 @@
 				},
 				"showkey": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"shutdown": {
@@ -27137,7 +27141,8 @@
 				},
 				"tunelp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tuxi": {
@@ -27932,6 +27937,11 @@
 						"zh": 1
 					}
 				},
+				"ydotool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"yetris": {
 					"status": {
 						"en": 2
@@ -28683,7 +28693,8 @@
 				},
 				"diskutil-partitiondisk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"distnoted": {
