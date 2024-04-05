@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 04-Apr-24 02:00:06 CEST",
+	"last_update": "Friday, 05-Apr-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20594,7 +20594,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 99,
-				"es": 8,
+				"es": 9,
 				"fa": 0,
 				"fi": 0,
 				"fr": 7,
@@ -21699,17 +21699,20 @@
 				},
 				"cacaclock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"cacademo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"cacafire": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"cacaview": {
@@ -24509,7 +24512,8 @@
 				},
 				"mount.ddi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"mount.smb3": {
@@ -27074,7 +27078,7 @@
 				"torsocks": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"trace-cmd": {
