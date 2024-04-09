@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 08-Apr-24 02:00:04 CEST",
+	"last_update": "Tuesday, 09-Apr-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13686,12 +13686,14 @@
 				"pcdindex": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"pcdovtoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pcxtoppm": {
@@ -13884,6 +13886,7 @@
 				"pgmedge": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -18879,6 +18882,11 @@
 					}
 				},
 				"updog": {
+					"status": {
+						"en": 2
+					}
+				},
+				"upt": {
 					"status": {
 						"en": 2
 					}
@@ -27950,7 +27958,8 @@
 				},
 				"ydotool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"yetris": {
