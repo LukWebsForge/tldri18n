@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 10-Apr-24 02:00:05 CEST",
+	"last_update": "Thursday, 11-Apr-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4630,6 +4630,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"difft": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dig": {
@@ -9315,12 +9320,12 @@
 				"history": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"ja": 2,
-						"pt_BR": 2,
+						"es": 1,
+						"id": 1,
+						"ja": 1,
+						"pt_BR": 1,
 						"pt_PT": 1,
-						"ru": 2
+						"ru": 1
 					}
 				},
 				"hive": {
@@ -13217,7 +13222,8 @@
 				},
 				"pamedge": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pamenlarge": {
@@ -13307,7 +13313,8 @@
 				},
 				"pamslice": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pamsplit": {
@@ -21332,6 +21339,11 @@
 						"zh": 1
 					}
 				},
+				"autorecon": {
+					"status": {
+						"en": 2
+					}
+				},
 				"avahi-browse": {
 					"status": {
 						"en": 2,
@@ -22499,6 +22511,11 @@
 						"tr": 1
 					}
 				},
+				"dnf5": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dnsdomainname": {
 					"status": {
 						"en": 2
@@ -22755,6 +22772,11 @@
 					}
 				},
 				"ethtool": {
+					"status": {
+						"en": 2
+					}
+				},
+				"eu-readelf": {
 					"status": {
 						"en": 2
 					}
@@ -26073,7 +26095,8 @@
 				},
 				"rpi-otp-private-key": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rpicam-hello": {
