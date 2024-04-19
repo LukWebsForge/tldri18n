@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 18-Apr-24 02:00:05 CEST",
+	"last_update": "Friday, 19-Apr-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2227,6 +2227,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"zh": 1,
 						"zh_TW": 1
@@ -20627,7 +20628,7 @@
 				"ca": 6,
 				"cs": 0,
 				"da": 0,
-				"de": 7,
+				"de": 8,
 				"en": 99,
 				"es": 9,
 				"fa": 1,
@@ -24754,16 +24755,19 @@
 				},
 				"nixos-container": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"nixos-option": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"nixos-rebuild": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -34518,7 +34522,7 @@
 				"pt_BR": 14,
 				"pt_PT": 5,
 				"ro": 0,
-				"ru": 9,
+				"ru": 11,
 				"sh": 0,
 				"sr": 0,
 				"sv": 7,
@@ -35089,7 +35093,8 @@
 						"hi": 2,
 						"id": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"del": {
@@ -35450,6 +35455,7 @@
 						"ja": 2,
 						"ko": 1,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -35601,6 +35607,7 @@
 						"id": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"sv": 2,
 						"zh": 2
 					}
@@ -36092,7 +36099,8 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"title": {
