@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 20-Apr-24 02:00:05 CEST",
+	"last_update": "Sunday, 21-Apr-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15246,6 +15246,7 @@
 				"ppmtouil": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -20876,6 +20877,7 @@
 						"id": 2,
 						"it": 1,
 						"pt_BR": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -21042,6 +21044,7 @@
 						"it": 2,
 						"pl": 2,
 						"th": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -21071,6 +21074,7 @@
 						"it": 1,
 						"pl": 2,
 						"pt_BR": 1,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -21102,6 +21106,7 @@
 						"it": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -21821,7 +21826,8 @@
 						"en": 2,
 						"hi": 2,
 						"ml": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"uk": 2
 					}
 				},
 				"cbatticon": {
@@ -23340,7 +23346,8 @@
 				},
 				"help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"hlint": {
@@ -23986,7 +23993,8 @@
 				"locale": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"uk": 2
 					}
 				},
 				"localectl": {
@@ -24626,7 +24634,8 @@
 				},
 				"nala": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"namcap": {
@@ -26086,7 +26095,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"uk": 2
 					}
 				},
 				"rmdir": {
@@ -26123,7 +26133,8 @@
 				},
 				"rpi-eeprom-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"rpi-otp-private-key": {
@@ -26498,7 +26509,8 @@
 				},
 				"sleep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"uk": 2
 					}
 				},
 				"slop": {
