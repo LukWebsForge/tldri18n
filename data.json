@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 22-Apr-24 02:00:05 CEST",
+	"last_update": "Tuesday, 23-Apr-24 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5414,7 +5414,8 @@
 				"duf": {
 					"status": {
 						"de": 1,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"dumpcap": {
@@ -13401,7 +13402,8 @@
 				},
 				"pamtouil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pamtowinicon": {
@@ -20664,7 +20666,7 @@
 				"tr": 4,
 				"uk": 2,
 				"uz": 0,
-				"zh": 9,
+				"zh": 10,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -24422,58 +24424,68 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"mkfs.btrfs": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"mkfs.cramfs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"mkfs.exfat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"mkfs.ext4": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"mkfs.f2fs": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"mkfs.fat": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"mkfs.minix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"mkfs.ntfs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"mkfs.vfat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"mkhomedir_helper": {
