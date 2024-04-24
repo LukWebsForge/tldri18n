@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 23-Apr-24 02:00:09 CEST",
+	"last_update": "Wednesday, 24-Apr-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -25971,7 +25971,7 @@
 				"readelf": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"readpe": {
