@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 24-Apr-24 02:00:06 CEST",
+	"last_update": "Thursday, 25-Apr-24 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8447,6 +8447,11 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"gitleaks": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gitlint": {
