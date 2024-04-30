@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 29-Apr-24 02:00:05 CEST",
+	"last_update": "Tuesday, 30-Apr-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3146,7 +3146,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"fr": 1,
 						"hi": 1,
@@ -13444,7 +13444,8 @@
 				},
 				"par2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"parallel": {
@@ -13996,6 +13997,7 @@
 				"pgmtopbm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -14996,6 +14998,7 @@
 				"ppmbrighten": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -22373,7 +22376,8 @@
 				},
 				"debuginfod-find": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"debuild": {
