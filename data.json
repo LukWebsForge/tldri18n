@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 30-Apr-24 02:00:06 CEST",
+	"last_update": "Wednesday, 01-May-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20393,7 +20393,8 @@
 				},
 				"zipcloak": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"zipgrep": {
@@ -20651,7 +20652,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 8,
-				"en": 99,
+				"en": 100,
 				"es": 9,
 				"fa": 1,
 				"fi": 0,
@@ -21329,7 +21330,7 @@
 				"aur": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"aura": {
@@ -28128,11 +28129,6 @@
 				"zip": {
 					"status": {
 						"en": 2
-					}
-				},
-				"zipcloak": {
-					"status": {
-						"es": 2
 					}
 				},
 				"zipsplit": {
