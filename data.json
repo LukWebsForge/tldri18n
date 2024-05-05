@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 04-May-24 02:00:05 CEST",
+	"last_update": "Sunday, 05-May-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -64,7 +64,7 @@
 				"ne": 28,
 				"nl": 100,
 				"no": 0,
-				"pl": 92,
+				"pl": 100,
 				"pt_BR": 100,
 				"pt_PT": 92,
 				"ro": 0,
@@ -294,7 +294,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"pl": 1,
+						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
@@ -363,6 +363,7 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 2,
@@ -4376,6 +4377,11 @@
 					}
 				},
 				"czkawka-cli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"d2": {
 					"status": {
 						"en": 2
 					}
