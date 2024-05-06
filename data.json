@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 05-May-24 02:00:05 CEST",
+	"last_update": "Monday, 06-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4355,14 +4355,14 @@
 				},
 				"cut": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 2,
-						"pt_BR": 2,
-						"ru": 2
+						"nl": 1,
+						"pt_BR": 1,
+						"ru": 1
 					}
 				},
 				"cvs": {
@@ -17731,7 +17731,7 @@
 						"ta": 2
 					}
 				},
-				"sunicontopbm": {
+				"sunicontopnm": {
 					"status": {
 						"en": 2
 					}
@@ -28414,7 +28414,7 @@
 				"ne": 41,
 				"nl": 43,
 				"no": 41,
-				"pl": 43,
+				"pl": 44,
 				"pt_BR": 59,
 				"pt_PT": 44,
 				"ro": 0,
@@ -34414,26 +34414,30 @@
 				"xsand": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				},
 				"xsltproc": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				},
 				"yaa": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				},
 				"yabai": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				}
 			}
