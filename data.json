@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 06-May-24 02:00:06 CEST",
+	"last_update": "Tuesday, 07-May-24 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -430,7 +430,7 @@
 				"ca": 1,
 				"cs": 0,
 				"da": 1,
-				"de": 11,
+				"de": 10,
 				"en": 100,
 				"es": 11,
 				"fa": 2,
@@ -4412,10 +4412,10 @@
 				},
 				"dart": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"pt_BR": 2
+						"fr": 1,
+						"pt_BR": 1
 					}
 				},
 				"dash": {
@@ -9747,6 +9747,18 @@
 				"imgtoppm": {
 					"status": {
 						"en": 2
+					}
+				},
+				"immich-cli": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
+				"immich-go": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"import": {
@@ -25510,6 +25522,11 @@
 					}
 				},
 				"pridecat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"prime-run": {
 					"status": {
 						"en": 2
 					}
