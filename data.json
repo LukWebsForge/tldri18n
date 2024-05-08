@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 07-May-24 02:00:09 CEST",
+	"last_update": "Wednesday, 08-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -23200,6 +23200,11 @@
 						"en": 2
 					}
 				},
+				"getenforce": {
+					"status": {
+						"en": 2
+					}
+				},
 				"getent": {
 					"status": {
 						"en": 2
@@ -23707,6 +23712,11 @@
 						"en": 2
 					}
 				},
+				"ipcs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ipset": {
 					"status": {
 						"en": 2
@@ -24177,6 +24187,11 @@
 					}
 				},
 				"lsinitrd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lsipc": {
 					"status": {
 						"en": 2
 					}
