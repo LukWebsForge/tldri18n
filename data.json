@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 10-May-24 02:00:06 CEST",
+	"last_update": "Saturday, 11-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3269,6 +3269,11 @@
 					}
 				},
 				"cheat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cheatshh": {
 					"status": {
 						"en": 2
 					}
@@ -14537,7 +14542,7 @@
 				},
 				"plantuml": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2
 					}
 				},
@@ -25039,6 +25044,11 @@
 					}
 				},
 				"obabel": {
+					"status": {
+						"en": 2
+					}
+				},
+				"objcopy": {
 					"status": {
 						"en": 2
 					}
