@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 11-May-24 02:00:06 CEST",
+	"last_update": "Sunday, 12-May-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -430,7 +430,7 @@
 				"ca": 1,
 				"cs": 0,
 				"da": 1,
-				"de": 10,
+				"de": 11,
 				"en": 100,
 				"es": 11,
 				"fa": 2,
@@ -474,6 +474,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
+						"pl": 2,
 						"pt_BR": 1,
 						"zh": 1
 					}
@@ -4421,6 +4422,7 @@
 						"de": 1,
 						"en": 2,
 						"fr": 1,
+						"pl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -4750,7 +4752,8 @@
 				},
 				"dnsx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"doas": {
@@ -10653,6 +10656,12 @@
 				},
 				"last": {
 					"status": {
+						"en": 2
+					}
+				},
+				"lastcomm": {
+					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -23899,6 +23908,11 @@
 						"en": 2
 					}
 				},
+				"krfb-virtualmonitor": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kscreen-console": {
 					"status": {
 						"en": 2
@@ -23942,12 +23956,6 @@
 					}
 				},
 				"lastb": {
-					"status": {
-						"de": 2,
-						"en": 2
-					}
-				},
-				"lastcomm": {
 					"status": {
 						"de": 2,
 						"en": 2
@@ -25050,7 +25058,8 @@
 				},
 				"objcopy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"oomctl": {
