@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 13-May-24 02:00:06 CEST",
+	"last_update": "Tuesday, 14-May-24 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13252,7 +13252,8 @@
 				},
 				"pambrighten": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pamcomp": {
@@ -18083,7 +18084,8 @@
 				},
 				"theharvester": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"thinkjettopbm": {
@@ -20710,7 +20712,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 100,
-				"es": 9,
+				"es": 10,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
@@ -26075,6 +26077,7 @@
 				"readelf": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 1
 					}
 				},
@@ -27742,12 +27745,14 @@
 				},
 				"vnstat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"vnstati": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"vpnc": {
