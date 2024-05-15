@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 14-May-24 02:00:11 CEST",
+	"last_update": "Wednesday, 15-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8575,6 +8575,11 @@
 						"en": 2
 					}
 				},
+				"gleam": {
+					"status": {
+						"en": 2
+					}
+				},
 				"glib-compile-resources": {
 					"status": {
 						"en": 2
@@ -11305,6 +11310,11 @@
 					}
 				},
 				"lspath": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lstopo": {
 					"status": {
 						"en": 2
 					}
@@ -21821,6 +21831,11 @@
 					}
 				},
 				"busctl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bwa": {
 					"status": {
 						"en": 2
 					}
