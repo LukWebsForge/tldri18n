@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 15-May-24 02:00:06 CEST",
+	"last_update": "Thursday, 16-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11297,6 +11297,11 @@
 						"zh_TW": 1
 					}
 				},
+				"lsar": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lsd": {
 					"status": {
 						"en": 2
@@ -20761,6 +20766,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
 						"tr": 2,
@@ -22205,6 +22211,11 @@
 					}
 				},
 				"compress": {
+					"status": {
+						"en": 2
+					}
+				},
+				"compseq": {
 					"status": {
 						"en": 2
 					}
