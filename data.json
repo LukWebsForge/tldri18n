@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 17-May-24 02:00:06 CEST",
+	"last_update": "Saturday, 18-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1197,6 +1197,11 @@
 						"zh": 2
 					}
 				},
+				"apkleaks": {
+					"status": {
+						"en": 2
+					}
+				},
 				"apktool": {
 					"status": {
 						"en": 2,
@@ -1267,7 +1272,8 @@
 				},
 				"archwiki-rs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"arduino": {
@@ -23247,7 +23253,8 @@
 				},
 				"getenforce": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"getent": {
