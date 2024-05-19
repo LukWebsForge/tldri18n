@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 18-May-24 02:00:06 CEST",
+	"last_update": "Sunday, 19-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11327,7 +11327,8 @@
 				},
 				"lstopo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lsyncd": {
@@ -21849,7 +21850,8 @@
 				},
 				"bwa": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"byzanz-record": {
@@ -22223,7 +22225,8 @@
 				},
 				"compseq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"compsize": {
