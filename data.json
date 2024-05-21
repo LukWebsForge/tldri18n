@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 20-May-24 02:00:06 CEST",
+	"last_update": "Tuesday, 21-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -21317,9 +21317,9 @@
 				},
 				"arecord": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"arithmetic": {
