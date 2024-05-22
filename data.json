@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 21-May-24 02:00:06 CEST",
+	"last_update": "Wednesday, 22-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1092,6 +1092,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 1,
@@ -3299,7 +3300,7 @@
 				"chezmoi": {
 					"status": {
 						"en": 2,
-						"zh_TW": 2
+						"zh_TW": 1
 					}
 				},
 				"chgrp": {
@@ -8584,7 +8585,8 @@
 				},
 				"gleam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"glib-compile-resources": {
@@ -18487,6 +18489,7 @@
 						"id": 1,
 						"pt_BR": 2,
 						"pt_PT": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -27332,6 +27335,16 @@
 						"es": 2,
 						"pt_BR": 1,
 						"zh_TW": 2
+					}
+				},
+				"tor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"torify": {
+					"status": {
+						"en": 2
 					}
 				},
 				"torsocks": {
