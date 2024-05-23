@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 22-May-24 02:00:06 CEST",
+	"last_update": "Thursday, 23-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3544,11 +3544,6 @@
 						"en": 2
 					}
 				},
-				"clash": {
-					"status": {
-						"en": 2
-					}
-				},
 				"clear": {
 					"status": {
 						"de": 2,
@@ -5367,6 +5362,11 @@
 					}
 				},
 				"dotnet-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dotnet-test": {
 					"status": {
 						"en": 2
 					}
@@ -22662,7 +22662,8 @@
 						"nl": 2,
 						"pt_BR": 1,
 						"ta": 2,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"dnf5": {
@@ -28143,10 +28144,10 @@
 				},
 				"xrandr": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"pt_BR": 1,
+						"tr": 1
 					}
 				},
 				"xrdb": {
