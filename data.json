@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 24-May-24 02:00:06 CEST",
+	"last_update": "Saturday, 25-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -430,7 +430,7 @@
 				"ca": 1,
 				"cs": 0,
 				"da": 1,
-				"de": 11,
+				"de": 10,
 				"en": 100,
 				"es": 11,
 				"fa": 2,
@@ -9392,6 +9392,51 @@
 					}
 				},
 				"hledger": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-accounts": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-add": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-aregister": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-balancesheet": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-import": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-incomestatement": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-print": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-ui": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-web": {
 					"status": {
 						"en": 2
 					}
