@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 26-May-24 02:00:07 CEST",
+	"last_update": "Monday, 27-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20782,7 +20782,7 @@
 				"ca": 6,
 				"cs": 0,
 				"da": 0,
-				"de": 8,
+				"de": 7,
 				"en": 100,
 				"es": 10,
 				"fa": 1,
@@ -20799,7 +20799,7 @@
 				"nl": 7,
 				"no": 0,
 				"pl": 7,
-				"pt_BR": 13,
+				"pt_BR": 12,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 1,
@@ -23322,6 +23322,11 @@
 					}
 				},
 				"getopt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"getsebool": {
 					"status": {
 						"en": 2
 					}
@@ -26583,7 +26588,22 @@
 						"en": 2
 					}
 				},
+				"semanage-boolean": {
+					"status": {
+						"en": 2
+					}
+				},
 				"semanage-fcontext": {
+					"status": {
+						"en": 2
+					}
+				},
+				"semanage-permissive": {
+					"status": {
+						"en": 2
+					}
+				},
+				"semanage-port": {
 					"status": {
 						"en": 2
 					}
@@ -26620,7 +26640,17 @@
 						"en": 2
 					}
 				},
+				"setenforce": {
+					"status": {
+						"en": 2
+					}
+				},
 				"setfacl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"setsebool": {
 					"status": {
 						"en": 2
 					}
