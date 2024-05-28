@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 27-May-24 02:00:06 CEST",
+	"last_update": "Tuesday, 28-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -22391,6 +22391,11 @@
 						"pt_BR": 2
 					}
 				},
+				"ctop": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ctr": {
 					"status": {
 						"en": 2,
@@ -24491,6 +24496,11 @@
 						"en": 2
 					}
 				},
+				"matchpathcon": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mate-about": {
 					"status": {
 						"en": 2
@@ -26570,6 +26580,11 @@
 						"en": 2
 					}
 				},
+				"secon": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sed": {
 					"status": {
 						"en": 2,
@@ -27341,6 +27356,11 @@
 						"en": 2
 					}
 				},
+				"togglesebool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"toilet": {
 					"status": {
 						"en": 2
@@ -27677,17 +27697,17 @@
 						"en": 2
 					}
 				},
-				"urpmi-addmedia": {
+				"urpmi.addmedia": {
 					"status": {
 						"en": 2
 					}
 				},
-				"urpmi-removemedia": {
+				"urpmi.removemedia": {
 					"status": {
 						"en": 2
 					}
 				},
-				"urpmi-update": {
+				"urpmi.update": {
 					"status": {
 						"en": 2
 					}
