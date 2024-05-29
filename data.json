@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 28-May-24 02:00:06 CEST",
+	"last_update": "Wednesday, 29-May-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12279,6 +12279,11 @@
 						"en": 2
 					}
 				},
+				"mypy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mysql": {
 					"status": {
 						"en": 2,
@@ -17461,11 +17466,6 @@
 						"en": 2
 					}
 				},
-				"spatial": {
-					"status": {
-						"en": 2
-					}
-				},
 				"spctoppm": {
 					"status": {
 						"en": 2
@@ -21459,6 +21459,11 @@
 						"en": 2
 					}
 				},
+				"auditctl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aur": {
 					"status": {
 						"en": 2,
@@ -22393,7 +22398,8 @@
 				},
 				"ctop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ctr": {
@@ -23275,11 +23281,6 @@
 					}
 				},
 				"genfstab": {
-					"status": {
-						"en": 2
-					}
-				},
-				"genid": {
 					"status": {
 						"en": 2
 					}
