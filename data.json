@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 29-May-24 02:00:06 CEST",
+	"last_update": "Thursday, 30-May-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -9407,6 +9407,11 @@
 					}
 				},
 				"hledger-aregister": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hledger-balance": {
 					"status": {
 						"en": 2
 					}
@@ -19502,6 +19507,11 @@
 						"en": 2
 					}
 				},
+				"virt-qemu-run": {
+					"status": {
+						"en": 2
+					}
+				},
 				"virt-sparsify": {
 					"status": {
 						"en": 2
@@ -27437,12 +27447,14 @@
 				},
 				"tor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"torify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"torsocks": {
