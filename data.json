@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 01-Jun-24 02:00:03 CEST",
+	"last_update": "Sunday, 02-Jun-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -18515,6 +18515,11 @@
 						"zh_TW": 2
 					}
 				},
+				"toipe": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tokei": {
 					"status": {
 						"en": 2
@@ -19705,6 +19710,11 @@
 						"en": 2
 					}
 				},
+				"waybar": {
+					"status": {
+						"en": 2
+					}
+				},
 				"waymore": {
 					"status": {
 						"en": 2,
@@ -20508,6 +20518,11 @@
 					}
 				},
 				"zig": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zint": {
 					"status": {
 						"en": 2
 					}
@@ -26600,7 +26615,8 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"zh": 2
 					}
 				},
 				"see": {
