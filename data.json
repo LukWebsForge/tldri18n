@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 02-Jun-24 02:00:07 CEST",
+	"last_update": "Monday, 03-Jun-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -17713,7 +17713,8 @@
 				"steam": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"steamcmd": {
@@ -19712,7 +19713,8 @@
 				},
 				"waybar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"waymore": {
