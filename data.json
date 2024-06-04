@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 03-Jun-24 02:00:06 CEST",
+	"last_update": "Tuesday, 04-Jun-24 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -438,13 +438,13 @@
 				"fr": 11,
 				"hi": 2,
 				"id": 6,
-				"it": 12,
+				"it": 11,
 				"ja": 3,
 				"ko": 11,
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
-				"nl": 10,
+				"nl": 11,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -3814,10 +3814,10 @@
 				},
 				"compare": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fa": 2,
-						"hi": 2
+						"fa": 1,
+						"hi": 1
 					}
 				},
 				"compgen": {
@@ -3894,7 +3894,7 @@
 				},
 				"convert": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
 						"fr": 1,
 						"it": 1,
@@ -10152,7 +10152,8 @@
 				},
 				"jf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"jfrog": {
@@ -11583,6 +11584,36 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"magick-compare": {
+					"status": {
+						"en": 2
+					}
+				},
+				"magick-convert": {
+					"status": {
+						"en": 2
+					}
+				},
+				"magick-identify": {
+					"status": {
+						"en": 2
+					}
+				},
+				"magick-import": {
+					"status": {
+						"en": 2
+					}
+				},
+				"magick-mogrify": {
+					"status": {
+						"en": 2
+					}
+				},
+				"magick-montage": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mail": {
@@ -13323,7 +13354,8 @@
 				},
 				"pamarith": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pambackground": {
@@ -13334,22 +13366,26 @@
 				"pambrighten": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pamcomp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamcrater": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamcut": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamdeinterlace": {
@@ -13370,18 +13406,21 @@
 				},
 				"pamditherbw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamedge": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pamenlarge": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamexec": {
@@ -13391,12 +13430,14 @@
 				},
 				"pamfile": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamfix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamfixtrunc": {
@@ -13407,7 +13448,8 @@
 				},
 				"pamflip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamfunc": {
@@ -13461,18 +13503,21 @@
 				},
 				"pamshadedrelief": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamslice": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pamsplit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamstack": {
@@ -13482,7 +13527,8 @@
 				},
 				"pamstretch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamstretch-gen": {
@@ -13492,13 +13538,15 @@
 				},
 				"pamtofits": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamtogif": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pamtopam": {
@@ -13508,7 +13556,8 @@
 				},
 				"pamtopng": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pamtopnm": {
@@ -13537,7 +13586,8 @@
 				"pamtouil": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pamtowinicon": {
@@ -13809,7 +13859,8 @@
 				},
 				"pbmtosunicon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pbmtowbmp": {
@@ -13866,7 +13917,8 @@
 				"pcdovtoppm": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pcxtoppm": {
@@ -14713,7 +14765,8 @@
 				},
 				"pngtopam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pngtopnm": {
@@ -14838,7 +14891,8 @@
 				},
 				"pnmnorm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pnmpad": {
@@ -14865,7 +14919,8 @@
 				},
 				"pnmquantall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pnmremap": {
@@ -14930,7 +14985,8 @@
 				"pnmtojpeg": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pnmtopalm": {
@@ -16634,12 +16690,14 @@
 				},
 				"ruff-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ruff-format": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"runit": {
@@ -17838,7 +17896,8 @@
 				},
 				"sunicontopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"sup": {
