@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 04-Jun-24 02:00:12 CEST",
+	"last_update": "Wednesday, 05-Jun-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3814,10 +3814,7 @@
 				},
 				"compare": {
 					"status": {
-						"de": 1,
-						"en": 2,
-						"fa": 1,
-						"hi": 1
+						"en": 2
 					}
 				},
 				"compgen": {
@@ -3894,12 +3891,7 @@
 				},
 				"convert": {
 					"status": {
-						"de": 1,
-						"en": 2,
-						"fr": 1,
-						"it": 1,
-						"ko": 1,
-						"pt_BR": 1
+						"en": 2
 					}
 				},
 				"convmv": {
@@ -4569,6 +4561,11 @@
 					}
 				},
 				"devcontainer": {
+					"status": {
+						"en": 2
+					}
+				},
+				"devenv": {
 					"status": {
 						"en": 2
 					}
@@ -11588,12 +11585,20 @@
 				},
 				"magick-compare": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fa": 2,
+						"hi": 2
 					}
 				},
 				"magick-convert": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"magick-identify": {
@@ -14789,7 +14794,8 @@
 				},
 				"pnmcolormap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pnmcomp": {
@@ -18905,6 +18911,11 @@
 						"fr": 1
 					}
 				},
+				"typeinc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"typeorm": {
 					"status": {
 						"en": 2
@@ -20485,7 +20496,7 @@
 				"yt-dlp": {
 					"status": {
 						"en": 2,
-						"pt_PT": 1
+						"pt_PT": 2
 					}
 				},
 				"yuvsplittoppm": {
@@ -25876,6 +25887,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"tr": 2
+					}
+				},
+				"pw-metadata": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pw-mon": {
