@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 05-Jun-24 02:00:06 CEST",
+	"last_update": "Thursday, 06-Jun-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1129,9 +1129,9 @@
 				},
 				"ansible-playbook": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
+						"fr": 1,
 						"it": 1,
 						"ko": 1,
 						"zh": 1
@@ -1526,6 +1526,12 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2
+					}
+				},
+				"audtool": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"autoconf": {
@@ -4567,7 +4573,8 @@
 				},
 				"devenv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dexdump": {
@@ -9156,7 +9163,7 @@
 				"gzip": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 1
 					}
 				},
 				"hadolint": {
