@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 07-Jun-24 02:00:05 CEST",
+	"last_update": "Saturday, 08-Jun-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3820,7 +3820,8 @@
 				},
 				"compare": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"compgen": {
@@ -3897,7 +3898,8 @@
 				},
 				"convert": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"convmv": {
@@ -9754,7 +9756,8 @@
 				},
 				"identify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"idnits": {
@@ -9841,7 +9844,8 @@
 				},
 				"import": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"in-toto-record": {
@@ -12011,7 +12015,8 @@
 				},
 				"mogrify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"molecule": {
@@ -12075,7 +12080,8 @@
 				},
 				"montage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"more": {
@@ -27629,6 +27635,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"turbostat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tuxi": {
