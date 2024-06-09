@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 08-Jun-24 02:00:05 CEST",
+	"last_update": "Sunday, 09-Jun-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -444,7 +444,7 @@
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
-				"nl": 11,
+				"nl": 12,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -9419,7 +9419,8 @@
 				},
 				"hledger-balance": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"hledger-balancesheet": {
@@ -11599,7 +11600,8 @@
 						"de": 2,
 						"en": 2,
 						"fa": 2,
-						"hi": 2
+						"hi": 2,
+						"nl": 2
 					}
 				},
 				"magick-convert": {
@@ -11609,27 +11611,32 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
 				"magick-identify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"magick-import": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"magick-mogrify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"magick-montage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mail": {
@@ -34949,13 +34956,13 @@
 				"da": 5,
 				"de": 19,
 				"en": 100,
-				"es": 11,
+				"es": 10,
 				"fa": 1,
 				"fi": 0,
 				"fr": 8,
 				"hi": 17,
 				"id": 16,
-				"it": 17,
+				"it": 16,
 				"ja": 12,
 				"ko": 6,
 				"lo": 5,
@@ -34967,16 +34974,16 @@
 				"pt_BR": 14,
 				"pt_PT": 5,
 				"ro": 0,
-				"ru": 11,
+				"ru": 10,
 				"sh": 0,
 				"sr": 0,
 				"sv": 7,
-				"ta": 22,
+				"ta": 21,
 				"th": 8,
 				"tr": 5,
 				"uk": 5,
 				"uz": 0,
-				"zh": 48,
+				"zh": 47,
 				"zh_TW": 18
 			},
 			"pages": {
@@ -35595,6 +35602,11 @@
 						"zh": 2
 					}
 				},
+				"enable-pnpdevice": {
+					"status": {
+						"en": 2
+					}
+				},
 				"eventcreate": {
 					"status": {
 						"en": 2,
@@ -35732,6 +35744,11 @@
 					}
 				},
 				"get-date": {
+					"status": {
+						"en": 2
+					}
+				},
+				"get-dedupproperties": {
 					"status": {
 						"en": 2
 					}
@@ -36404,6 +36421,11 @@
 					}
 				},
 				"set-service": {
+					"status": {
+						"en": 2
+					}
+				},
+				"set-volume": {
 					"status": {
 						"en": 2
 					}
