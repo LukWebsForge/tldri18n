@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 16-Jun-24 02:00:07 CEST",
+	"last_update": "Monday, 17-Jun-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6546,17 +6546,20 @@
 				},
 				"frp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"frpc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"frps": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"fselect": {
@@ -26039,7 +26042,8 @@
 				},
 				"pw-metadata": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pw-mon": {
