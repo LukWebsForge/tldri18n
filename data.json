@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 19-Jun-24 02:00:12 CEST",
+	"last_update": "Thursday, 20-Jun-24 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2518,7 +2518,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"bob": {
@@ -3864,7 +3865,8 @@
 				"compare": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"compgen": {
@@ -3942,7 +3944,8 @@
 				"convert": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"convmv": {
@@ -4340,7 +4343,8 @@
 				"cups": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"cups-config": {
@@ -4689,6 +4693,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"fa": 1,
 						"fr": 1,
 						"it": 1,
@@ -6566,7 +6571,8 @@
 				"frp": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"frpc": {
@@ -6902,7 +6908,8 @@
 				"gemtopbm": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"gemtopnm": {
@@ -7210,18 +7217,18 @@
 				},
 				"git-add": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
+						"es": 1,
+						"fr": 1,
+						"id": 1,
 						"it": 1,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ta": 2,
-						"tr": 2,
-						"uk": 2
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ta": 1,
+						"tr": 1,
+						"uk": 1
 					}
 				},
 				"git-alias": {
@@ -9135,6 +9142,7 @@
 						"fa": 2,
 						"fr": 1,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 2,
@@ -9842,7 +9850,8 @@
 				"icontopbm": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"iconv": {
@@ -9872,7 +9881,8 @@
 				"identify": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"idnits": {
@@ -9961,7 +9971,8 @@
 				"import": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"in-toto-record": {
@@ -10285,7 +10296,8 @@
 				"jfrog": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"jhat": {
@@ -10890,7 +10902,8 @@
 				"lckdo": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"ld": {
@@ -12598,7 +12611,8 @@
 				},
 				"neo4j-admin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"neofetch": {
@@ -17587,6 +17601,7 @@
 						"fa": 1,
 						"hi": 1,
 						"ml": 1,
+						"nl": 2,
 						"sv": 1
 					}
 				},
@@ -18183,7 +18198,8 @@
 				"tac": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"nl": 2
 					}
 				},
 				"tail": {
@@ -22754,6 +22770,7 @@
 				"dd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"ko": 2,
 						"nl": 2
@@ -23877,7 +23894,8 @@
 				},
 				"hyprctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"hyprpm": {
@@ -27086,6 +27104,7 @@
 				"sleep": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"uk": 2
 					}
 				},
@@ -27565,7 +27584,8 @@
 				},
 				"tac": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"tailf": {
@@ -27576,7 +27596,8 @@
 				},
 				"talk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"taskset": {
@@ -27631,7 +27652,8 @@
 				},
 				"tftp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"thunar": {
@@ -27989,7 +28011,8 @@
 				},
 				"updatedb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"updpkgsums": {
@@ -34494,6 +34517,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
