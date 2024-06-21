@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 20-Jun-24 02:00:09 CEST",
+	"last_update": "Friday, 21-Jun-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8492,14 +8492,14 @@
 				},
 				"git-tag": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"pt_BR": 1,
+						"tr": 1
 					}
 				},
 				"git-touch": {
@@ -17602,7 +17602,8 @@
 						"hi": 1,
 						"ml": 1,
 						"nl": 2,
-						"sv": 1
+						"sv": 1,
+						"zh": 2
 					}
 				},
 				"slimrb": {
@@ -19341,7 +19342,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"upx": {
@@ -27105,7 +27107,8 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"slop": {
@@ -29002,7 +29005,7 @@
 				"tr": 40,
 				"uk": 40,
 				"uz": 0,
-				"zh": 62,
+				"zh": 63,
 				"zh_TW": 41
 			},
 			"pages": {
@@ -34815,7 +34818,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"usernoted": {
