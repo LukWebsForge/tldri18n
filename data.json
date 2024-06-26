@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 25-Jun-24 02:00:06 CEST",
+	"last_update": "Wednesday, 26-Jun-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -10658,6 +10658,11 @@
 						"en": 2
 					}
 				},
+				"knotc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kompose": {
 					"status": {
 						"en": 2
@@ -18008,6 +18013,11 @@
 						"en": 2
 					}
 				},
+				"streamlit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"stressapptest": {
 					"status": {
 						"en": 2
@@ -21109,7 +21119,7 @@
 				"lo": 0,
 				"ml": 2,
 				"ne": 0,
-				"nl": 8,
+				"nl": 10,
 				"no": 0,
 				"pl": 7,
 				"pt_BR": 12,
@@ -24463,12 +24473,14 @@
 				},
 				"libtool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"libtoolize": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"libuser-lid": {
@@ -25039,7 +25051,8 @@
 				},
 				"mknod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mkosi": {
@@ -25332,7 +25345,8 @@
 				},
 				"nl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"nm-online": {
@@ -26074,7 +26088,8 @@
 				},
 				"ptx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pulseaudio": {
@@ -26527,7 +26542,8 @@
 				},
 				"rcp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rdesktop": {
@@ -26651,7 +26667,8 @@
 				},
 				"rexec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rfkill": {
@@ -26678,7 +26695,8 @@
 				},
 				"rlogin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rm": {
@@ -26792,7 +26810,8 @@
 				},
 				"rsh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rspamc": {
@@ -26825,7 +26844,8 @@
 				},
 				"runcon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"runlim": {
@@ -26941,7 +26961,8 @@
 				},
 				"secon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"sed": {
@@ -26960,27 +26981,32 @@
 				},
 				"semanage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"semanage-boolean": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"semanage-fcontext": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"semanage-permissive": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"semanage-port": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"sensible-browser": {
@@ -29027,7 +29053,7 @@
 				"da": 40,
 				"de": 43,
 				"en": 100,
-				"es": 79,
+				"es": 78,
 				"fa": 0,
 				"fi": 0,
 				"fr": 40,
@@ -29054,7 +29080,7 @@
 				"tr": 40,
 				"uk": 40,
 				"uz": 0,
-				"zh": 63,
+				"zh": 62,
 				"zh_TW": 41
 			},
 			"pages": {
@@ -34421,6 +34447,11 @@
 					"status": {
 						"en": 2,
 						"zh": 1
+					}
+				},
+				"mist": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mktemp": {
