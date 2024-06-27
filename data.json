@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 26-Jun-24 02:00:05 CEST",
+	"last_update": "Thursday, 27-Jun-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -444,7 +444,7 @@
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
-				"nl": 13,
+				"nl": 14,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -12108,7 +12108,8 @@
 				"mkfifo": {
 					"status": {
 						"bs": 2,
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mkfile": {
@@ -12747,7 +12748,8 @@
 				},
 				"nice": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"nikto": {
@@ -12884,7 +12886,8 @@
 				},
 				"nl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"nload": {
@@ -12979,6 +12982,7 @@
 					"status": {
 						"en": 2,
 						"fa": 1,
+						"nl": 2,
 						"ru": 2,
 						"sv": 1,
 						"zh_TW": 2
@@ -13148,7 +13152,8 @@
 				},
 				"numfmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"nvcc": {
@@ -13251,7 +13256,8 @@
 				},
 				"od": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"odps": {
@@ -13858,7 +13864,8 @@
 				},
 				"paste": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pastel": {
@@ -13879,6 +13886,7 @@
 				"pathchk": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -14583,7 +14591,8 @@
 				},
 				"pinky": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pint": {
@@ -15683,7 +15692,8 @@
 				},
 				"pr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pre-commit": {
@@ -15704,12 +15714,14 @@
 				},
 				"printenv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"printf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"procs": {
@@ -16557,7 +16569,8 @@
 				},
 				"realpath": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"recsel": {
@@ -17436,6 +17449,7 @@
 				"sha1sum": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"sh": 1,
 						"ta": 2
 					}
@@ -17443,6 +17457,7 @@
 				"sha224sum": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"sh": 1,
 						"ta": 2
 					}
@@ -17450,6 +17465,7 @@
 				"sha256sum": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"sh": 1,
 						"ta": 2
 					}
@@ -17457,6 +17473,7 @@
 				"sha384sum": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"sh": 1,
 						"ta": 2
 					}
@@ -17464,6 +17481,7 @@
 				"sha512sum": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"sh": 1,
 						"ta": 2
 					}
@@ -19215,7 +19233,8 @@
 				},
 				"unexpand": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"unflatten": {
@@ -19231,7 +19250,8 @@
 				},
 				"uniq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"unison": {
@@ -19242,13 +19262,15 @@
 				"units": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"zh": 1
 					}
 				},
 				"unlink": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"unlzma": {
@@ -19373,6 +19395,7 @@
 					"status": {
 						"en": 2,
 						"fa": 2,
+						"nl": 2,
 						"sv": 2
 					}
 				},
@@ -19521,7 +19544,8 @@
 				},
 				"vdir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"vectorize-pixelart": {
@@ -20090,6 +20114,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
@@ -20108,7 +20133,8 @@
 				},
 				"who": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"whoami": {
@@ -20123,6 +20149,7 @@
 				"whois": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -20250,7 +20277,8 @@
 				},
 				"xargs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"xbmtopbm": {
@@ -28140,7 +28168,8 @@
 						"ca": 2,
 						"en": 2,
 						"es": 1,
-						"fr": 2
+						"fr": 2,
+						"nl": 2
 					}
 				},
 				"userdbctl": {
@@ -28153,7 +28182,8 @@
 						"ca": 2,
 						"en": 2,
 						"es": 1,
-						"fr": 2
+						"fr": 2,
+						"nl": 2
 					}
 				},
 				"usermod": {
@@ -28161,7 +28191,8 @@
 						"ca": 2,
 						"en": 2,
 						"es": 1,
-						"fr": 2
+						"fr": 2,
+						"nl": 2
 					}
 				},
 				"utmpdump": {
