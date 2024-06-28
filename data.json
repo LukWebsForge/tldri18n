@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 27-Jun-24 02:00:05 CEST",
+	"last_update": "Friday, 28-Jun-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13075,7 +13075,8 @@
 				},
 				"nproc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npx": {
@@ -23574,6 +23575,11 @@
 						"en": 2
 					}
 				},
+				"fpsync": {
+					"status": {
+						"en": 2
+					}
+				},
 				"free": {
 					"status": {
 						"ca": 2,
@@ -29090,7 +29096,7 @@
 				"fr": 40,
 				"hi": 41,
 				"id": 45,
-				"it": 44,
+				"it": 43,
 				"ja": 40,
 				"ko": 41,
 				"lo": 40,
@@ -29099,8 +29105,8 @@
 				"nl": 48,
 				"no": 40,
 				"pl": 44,
-				"pt_BR": 59,
-				"pt_PT": 44,
+				"pt_BR": 58,
+				"pt_PT": 43,
 				"ro": 0,
 				"ru": 41,
 				"sh": 0,
@@ -34309,6 +34315,11 @@
 						"en": 2,
 						"es": 2,
 						"pt_BR": 2
+					}
+				},
+				"iostat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ipconfig": {
