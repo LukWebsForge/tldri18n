@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 28-Jun-24 02:00:05 CEST",
+	"last_update": "Saturday, 29-Jun-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -444,7 +444,7 @@
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
-				"nl": 14,
+				"nl": 15,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -17369,7 +17369,8 @@
 				},
 				"seq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"sequelize": {
@@ -17543,7 +17544,8 @@
 				},
 				"shred": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"shuf": {
@@ -17717,6 +17719,7 @@
 				"sort": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -17986,7 +17989,8 @@
 				},
 				"stdbuf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"steam": {
@@ -18061,6 +18065,7 @@
 				"stty": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ru": 2,
 						"zh": 1
 					}
@@ -18117,6 +18122,7 @@
 				"sum": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ta": 2
 					}
 				},
@@ -18214,7 +18220,8 @@
 				},
 				"sync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"syncthing": {
@@ -18280,6 +18287,7 @@
 						"es": 2,
 						"fr": 2,
 						"ja": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ru": 1,
 						"tr": 2,
@@ -18341,7 +18349,8 @@
 				"tee": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"nl": 2
 					}
 				},
 				"telegram-desktop": {
@@ -18352,7 +18361,8 @@
 				"telnet": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"termdown": {
@@ -18398,6 +18408,7 @@
 					"status": {
 						"en": 2,
 						"ja": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -18492,7 +18503,8 @@
 				},
 				"timeout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"timetrap": {
@@ -18832,6 +18844,7 @@
 						"hi": 1,
 						"id": 1,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
 						"zh": 2,
@@ -18859,12 +18872,14 @@
 				"tr": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"nl": 2
 					}
 				},
 				"traceroute": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"traefik": {
@@ -19017,6 +19032,7 @@
 				"true": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"sv": 2
 					}
 				},
@@ -19033,7 +19049,8 @@
 				},
 				"truncate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ts": {
@@ -19058,7 +19075,8 @@
 				},
 				"tsort": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"tsv-filter": {
@@ -26011,6 +26029,11 @@
 					}
 				},
 				"portablectl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"portageq": {
 					"status": {
 						"en": 2
 					}
