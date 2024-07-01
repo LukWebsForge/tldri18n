@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 30-Jun-24 02:00:05 CEST",
+	"last_update": "Monday, 01-Jul-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -10788,7 +10788,8 @@
 				"kubectl-logs": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"kubectl-replace": {
@@ -19954,6 +19955,11 @@
 						"en": 2
 					}
 				},
+				"wafw00f": {
+					"status": {
+						"en": 2
+					}
+				},
 				"waifu2x-ncnn-vulkan": {
 					"status": {
 						"en": 2
@@ -23595,7 +23601,8 @@
 				},
 				"fpsync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"free": {
