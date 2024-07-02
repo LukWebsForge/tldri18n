@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 01-Jul-24 02:00:06 CEST",
+	"last_update": "Tuesday, 02-Jul-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -10660,7 +10660,8 @@
 				},
 				"knotc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"kompose": {
@@ -18039,7 +18040,8 @@
 				},
 				"streamlit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"stressapptest": {
@@ -20159,7 +20161,8 @@
 				"who": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"whoami": {
@@ -20860,7 +20863,8 @@
 				},
 				"zint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"zip": {
@@ -21160,7 +21164,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 10,
+				"es": 11,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
@@ -23991,7 +23995,8 @@
 				},
 				"hyprpm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"i3": {
@@ -28861,6 +28866,7 @@
 				"zramctl": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
@@ -34523,7 +34529,8 @@
 				},
 				"mist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"mktemp": {
