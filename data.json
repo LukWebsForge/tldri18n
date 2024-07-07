@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 06-Jul-24 02:00:04 CEST",
+	"last_update": "Sunday, 07-Jul-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8560,6 +8560,11 @@
 						"en": 2
 					}
 				},
+				"git-verify-pack": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-verify-tag": {
 					"status": {
 						"en": 2
@@ -9766,6 +9771,11 @@
 						"en": 2
 					}
 				},
+				"huggingface-cli": {
+					"status": {
+						"en": 2
+					}
+				},
 				"hugo": {
 					"status": {
 						"en": 2,
@@ -9868,10 +9878,10 @@
 				},
 				"id": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"nl": 2,
-						"pt_BR": 2
+						"nl": 1,
+						"pt_BR": 1
 					}
 				},
 				"id3tag": {
@@ -19938,6 +19948,11 @@
 						"id": 2
 					}
 				},
+				"vulkaninfo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vzdump": {
 					"status": {
 						"en": 2
@@ -23363,6 +23378,21 @@
 					}
 				},
 				"esearch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"eselect": {
+					"status": {
+						"en": 2
+					}
+				},
+				"eselect-locale": {
+					"status": {
+						"en": 2
+					}
+				},
+				"eselect-repository": {
 					"status": {
 						"en": 2
 					}
@@ -27540,6 +27570,11 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"uk": 2
+					}
+				},
+				"systemctl-reboot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemd-ac-power": {
