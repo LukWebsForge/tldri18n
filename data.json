@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 07-Jul-24 02:00:06 CEST",
+	"last_update": "Monday, 08-Jul-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -905,7 +905,8 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"airdecap-ng": {
@@ -4442,7 +4443,8 @@
 				},
 				"cypher-shell": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"czkawka-cli": {
@@ -10754,6 +10756,11 @@
 					}
 				},
 				"kubectl-apply": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kubectl-config": {
 					"status": {
 						"en": 2
 					}
@@ -19974,7 +19981,8 @@
 				},
 				"wafw00f": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"waifu2x-ncnn-vulkan": {
@@ -26082,7 +26090,8 @@
 				},
 				"portageq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ports": {
@@ -26104,7 +26113,7 @@
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"id": 2,
 						"it": 1,
 						"pt_BR": 2,
