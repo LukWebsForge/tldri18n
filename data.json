@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 08-Jul-24 02:00:06 CEST",
+	"last_update": "Tuesday, 09-Jul-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12974,6 +12974,11 @@
 						"es": 2
 					}
 				},
+				"nnn": {
+					"status": {
+						"en": 2
+					}
+				},
 				"node": {
 					"status": {
 						"de": 1,
@@ -13213,6 +13218,11 @@
 					}
 				},
 				"nx": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nxc-ssh": {
 					"status": {
 						"en": 2
 					}
