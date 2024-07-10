@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 09-Jul-24 02:00:06 CEST",
+	"last_update": "Wednesday, 10-Jul-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12517,7 +12517,8 @@
 				},
 				"mypy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"mysql": {
