@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 10-Jul-24 02:00:05 CEST",
+	"last_update": "Thursday, 11-Jul-24 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -457,7 +457,7 @@
 				"ta": 3,
 				"th": 1,
 				"tr": 6,
-				"uk": 2,
+				"uk": 1,
 				"uz": 0,
 				"zh": 10,
 				"zh_TW": 2
@@ -2346,7 +2346,7 @@
 				"bats": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"bazel": {
@@ -9882,7 +9882,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -14885,6 +14885,31 @@
 						"en": 2
 					}
 				},
+				"pixi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pixi-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pixi-global": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pixi-project": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pixi-task": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pixiecore": {
 					"status": {
 						"en": 2
@@ -17309,7 +17334,8 @@
 				"scrapy": {
 					"status": {
 						"en": 2,
-						"ja": 2
+						"ja": 2,
+						"zh": 2
 					}
 				},
 				"scrcpy": {
@@ -18416,6 +18442,11 @@
 				"terraform-fmt": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"terraform-output": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -27473,6 +27504,31 @@
 					}
 				},
 				"startx": {
+					"status": {
+						"en": 2
+					}
+				},
+				"steamos-add-to-steam": {
+					"status": {
+						"en": 2
+					}
+				},
+				"steamos-dump-info": {
+					"status": {
+						"en": 2
+					}
+				},
+				"steamos-readonly": {
+					"status": {
+						"en": 2
+					}
+				},
+				"steamos-session-select": {
+					"status": {
+						"en": 2
+					}
+				},
+				"steamos-update": {
 					"status": {
 						"en": 2
 					}
