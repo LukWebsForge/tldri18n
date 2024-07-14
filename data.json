@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 13-Jul-24 02:00:04 CEST",
+	"last_update": "Sunday, 14-Jul-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6587,6 +6587,7 @@
 				"frpc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -10408,10 +10409,10 @@
 				},
 				"jq": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"ru": 2
+						"fr": 1,
+						"ru": 1
 					}
 				},
 				"jrnl": {
@@ -14840,7 +14841,8 @@
 						"en": 2,
 						"fr": 1,
 						"id": 1,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"pip-freeze": {
@@ -14852,7 +14854,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"pip-uninstall": {
@@ -19903,7 +19906,8 @@
 				},
 				"virt-qemu-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"virt-sparsify": {
@@ -21916,7 +21920,8 @@
 				},
 				"auditctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aur": {
