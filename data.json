@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 14-Jul-24 02:00:06 CEST",
+	"last_update": "Monday, 15-Jul-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5289,6 +5289,11 @@
 					"status": {
 						"en": 2,
 						"uk": 2
+					}
+				},
+				"doggo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dokku": {
@@ -12913,7 +12918,8 @@
 				},
 				"nload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"nm": {
@@ -20462,7 +20468,8 @@
 				},
 				"xmake": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"xml": {
