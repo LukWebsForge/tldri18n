@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 17-Jul-24 02:00:03 CEST",
+	"last_update": "Thursday, 18-Jul-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -27092,6 +27092,11 @@
 					}
 				},
 				"sbcast": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sbctl": {
 					"status": {
 						"en": 2
 					}
