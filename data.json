@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 19-Jul-24 02:00:04 CEST",
+	"last_update": "Saturday, 20-Jul-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3007,9 +3007,9 @@
 				"cargo-clippy": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2,
-						"ta": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"ta": 1,
+						"zh": 1
 					}
 				},
 				"cargo-doc": {
@@ -6585,6 +6585,7 @@
 				"frp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -6599,6 +6600,7 @@
 				"frps": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -18612,11 +18614,11 @@
 						"ja": 1,
 						"ko": 1,
 						"lo": 1,
-						"pl": 2,
+						"pl": 1,
 						"pt_BR": 1,
 						"ru": 1,
 						"sh": 1,
-						"ta": 2,
+						"ta": 1,
 						"th": 1,
 						"tr": 1,
 						"uk": 1,
