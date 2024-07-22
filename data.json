@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 21-Jul-24 02:00:05 CEST",
+	"last_update": "Monday, 22-Jul-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12420,6 +12420,11 @@
 						"uk": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"msfconsole": {
+					"status": {
+						"en": 2
 					}
 				},
 				"msfvenom": {
