@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 22-Jul-24 02:00:05 CEST",
+	"last_update": "Tuesday, 23-Jul-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 1,
 				"de": 10,
 				"en": 100,
-				"es": 11,
+				"es": 12,
 				"fa": 2,
 				"fi": 0,
 				"fr": 11,
@@ -868,6 +868,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -5089,7 +5090,8 @@
 						"fr": 2,
 						"ja": 2,
 						"pt_BR": 1,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"docker-save": {
@@ -9895,6 +9897,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pt_BR": 1
 					}
@@ -20026,7 +20029,8 @@
 				},
 				"vulkaninfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"vzdump": {
