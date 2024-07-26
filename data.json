@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 25-Jul-24 02:00:05 CEST",
+	"last_update": "Friday, 26-Jul-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2478,9 +2478,9 @@
 				"bitcoin-cli": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"pl": 2
+						"it": 1,
+						"ko": 1,
+						"pl": 1
 					}
 				},
 				"bitcoind": {
@@ -9692,10 +9692,10 @@
 						"es": 1,
 						"id": 1,
 						"ja": 1,
-						"ko": 2,
-						"pt_BR": 2,
-						"ta": 2,
-						"zh": 2
+						"ko": 1,
+						"pt_BR": 1,
+						"ta": 1,
+						"zh": 1
 					}
 				},
 				"htpasswd": {
@@ -23480,6 +23480,7 @@
 				"eselect": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
