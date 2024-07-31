@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 30-Jul-24 02:00:06 CEST",
+	"last_update": "Wednesday, 31-Jul-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1666,6 +1666,11 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"zh_TW": 2
+					}
+				},
+				"aws-acm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-backup": {
@@ -9802,7 +9807,8 @@
 				},
 				"huggingface-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"hugo": {
@@ -13011,7 +13017,8 @@
 				},
 				"nnn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"node": {
@@ -13259,7 +13266,8 @@
 				},
 				"nxc-ssh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"nyxt": {
@@ -14913,7 +14921,8 @@
 				},
 				"piper": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pipes.sh": {
@@ -23503,6 +23512,7 @@
 				"eselect-repository": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -25191,6 +25201,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"mkfs.erofs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mkfs.exfat": {
