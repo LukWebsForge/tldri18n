@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 31-Jul-24 02:00:05 CEST",
+	"last_update": "Thursday, 01-Aug-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1669,6 +1669,16 @@
 					}
 				},
 				"aws-acm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aws-acm-pca": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aws-amplify": {
 					"status": {
 						"en": 2
 					}
@@ -29334,7 +29344,7 @@
 				"ca": 40,
 				"cs": 0,
 				"da": 40,
-				"de": 43,
+				"de": 42,
 				"en": 100,
 				"es": 78,
 				"fa": 0,
@@ -29344,7 +29354,7 @@
 				"id": 45,
 				"it": 43,
 				"ja": 40,
-				"ko": 41,
+				"ko": 40,
 				"lo": 40,
 				"ml": 40,
 				"ne": 40,
@@ -29503,6 +29513,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"automount": {
+					"status": {
+						"en": 2
 					}
 				},
 				"automountd": {
