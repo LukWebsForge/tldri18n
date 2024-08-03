@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 02-Aug-24 02:00:05 CEST",
+	"last_update": "Saturday, 03-Aug-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1666,6 +1666,11 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"zh_TW": 2
+					}
+				},
+				"aws-accessanalyzer": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-acm": {
@@ -14661,12 +14666,12 @@
 				},
 				"ping": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"nl": 2,
-						"zh_TW": 2
+						"es": 1,
+						"id": 1,
+						"nl": 1,
+						"zh_TW": 1
 					}
 				},
 				"ping6": {
@@ -20448,7 +20453,7 @@
 				"xargs": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"xbmtopbm": {
