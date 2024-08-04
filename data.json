@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 03-Aug-24 02:00:06 CEST",
+	"last_update": "Sunday, 04-Aug-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,11 +440,11 @@
 				"id": 7,
 				"it": 11,
 				"ja": 3,
-				"ko": 12,
+				"ko": 11,
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
-				"nl": 15,
+				"nl": 14,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -5410,6 +5410,26 @@
 					}
 				},
 				"dolt-version": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doppler": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doppler-projects": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doppler-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doppler-secrets": {
 					"status": {
 						"en": 2
 					}
