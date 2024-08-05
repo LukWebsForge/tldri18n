@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 04-Aug-24 02:00:06 CEST",
+	"last_update": "Monday, 05-Aug-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -678,6 +678,7 @@
 				"accelerate": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -1237,6 +1238,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"id": 2,
 						"ja": 2,
@@ -5327,7 +5329,8 @@
 				},
 				"doggo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dokku": {
@@ -6960,7 +6963,8 @@
 				},
 				"gdown": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gdrive": {
@@ -12006,7 +12010,8 @@
 				},
 				"medusa": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"meld": {
@@ -12480,7 +12485,8 @@
 				},
 				"msfconsole": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"msfvenom": {
@@ -12568,11 +12574,11 @@
 						"en": 2,
 						"es": 1,
 						"hi": 1,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
 						"pt_BR": 1,
-						"ta": 2,
+						"ta": 1,
 						"zh": 1,
 						"zh_TW": 1
 					}
@@ -16353,7 +16359,8 @@
 				},
 				"qalc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"qc": {
@@ -18542,7 +18549,8 @@
 				},
 				"terraform-output": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"terraform-plan": {
@@ -18683,6 +18691,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"hi": 1,
 						"ja": 1,
@@ -23631,7 +23640,8 @@
 				},
 				"factorio": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fail2ban-client": {
@@ -25731,7 +25741,8 @@
 				},
 				"nsenter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"nsnake": {
@@ -27118,7 +27129,8 @@
 				},
 				"run0": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"runcon": {
@@ -27190,7 +27202,8 @@
 				},
 				"sbctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"scancel": {
@@ -28026,7 +28039,8 @@
 				},
 				"terraria": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tftp": {
