@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 05-Aug-24 02:00:05 CEST",
+	"last_update": "Tuesday, 06-Aug-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1701,6 +1701,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"aws-ce": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-cloud9": {
@@ -26832,11 +26837,6 @@
 					}
 				},
 				"rdesktop": {
-					"status": {
-						"en": 2
-					}
-				},
-				"read": {
 					"status": {
 						"en": 2
 					}
