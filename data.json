@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 06-Aug-24 02:00:06 CEST",
+	"last_update": "Wednesday, 07-Aug-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 7,
 				"it": 11,
 				"ja": 3,
-				"ko": 11,
+				"ko": 12,
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
@@ -1677,7 +1677,8 @@
 				},
 				"aws-acm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aws-acm-pca": {
@@ -2203,6 +2204,11 @@
 					}
 				},
 				"azurite": {
+					"status": {
+						"en": 2
+					}
+				},
+				"b2-tools": {
 					"status": {
 						"en": 2
 					}
@@ -8248,6 +8254,7 @@
 						"fr": 1,
 						"id": 1,
 						"it": 1,
+						"ko": 2,
 						"pt_BR": 1,
 						"tr": 1,
 						"zh": 2
@@ -24188,7 +24195,8 @@
 				"httpie": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"hwclock": {
@@ -24551,11 +24559,6 @@
 					}
 				},
 				"kdesrc-build": {
-					"status": {
-						"en": 2
-					}
-				},
-				"kdesrc-run": {
 					"status": {
 						"en": 2
 					}
@@ -25260,7 +25263,8 @@
 				},
 				"mkfs.erofs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"mkfs.exfat": {
@@ -34598,7 +34602,8 @@
 				"httpie": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"icalbuddy": {
