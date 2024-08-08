@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 07-Aug-24 02:00:05 CEST",
+	"last_update": "Thursday, 08-Aug-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13216,6 +13216,11 @@
 						"en": 2
 					}
 				},
+				"ntfyme": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nth": {
 					"status": {
 						"en": 2,
@@ -23718,7 +23723,8 @@
 				},
 				"filefrag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"finch": {
