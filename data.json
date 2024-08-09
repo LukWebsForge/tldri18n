@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 08-Aug-24 02:00:05 CEST",
+	"last_update": "Friday, 09-Aug-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13387,7 +13387,8 @@
 				},
 				"octez-client": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"od": {
@@ -20311,7 +20312,8 @@
 				},
 				"whatwaf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"where": {
@@ -23439,6 +23441,11 @@
 					}
 				},
 				"duperemove": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dysk": {
 					"status": {
 						"en": 2
 					}
@@ -29571,7 +29578,8 @@
 				},
 				"automount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"automountd": {
