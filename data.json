@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 10-Aug-24 02:00:05 CEST",
+	"last_update": "Sunday, 11-Aug-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 7,
 				"it": 11,
 				"ja": 3,
-				"ko": 12,
+				"ko": 11,
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
@@ -4111,6 +4111,11 @@
 						"fa": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"crackle": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cradle": {
@@ -13322,6 +13327,26 @@
 						"en": 2
 					}
 				},
+				"nxc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nxc-ftp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nxc-ldap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nxc-smb": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nxc-ssh": {
 					"status": {
 						"en": 2,
@@ -20166,6 +20191,11 @@
 						"en": 2
 					}
 				},
+				"wakeonlan": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wal": {
 					"status": {
 						"ca": 2,
@@ -21991,6 +22021,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"pt_BR": 2,
 						"ta": 2,
 						"zh": 2
 					}
