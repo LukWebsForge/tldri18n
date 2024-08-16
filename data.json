@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 15-Aug-24 02:00:05 CEST",
+	"last_update": "Friday, 16-Aug-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8555,7 +8555,7 @@
 						"hi": 1,
 						"id": 1,
 						"it": 1,
-						"ko": 2,
+						"ko": 1,
 						"pt_BR": 1,
 						"tr": 1,
 						"uk": 1
@@ -26314,6 +26314,11 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2
+					}
+				},
+				"plasmashell": {
+					"status": {
+						"en": 2
 					}
 				},
 				"playerctl": {
