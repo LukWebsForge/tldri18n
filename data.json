@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 18-Aug-24 02:00:04 CEST",
+	"last_update": "Monday, 19-Aug-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1683,7 +1683,8 @@
 				},
 				"aws-accessanalyzer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aws-acm": {
@@ -1718,7 +1719,8 @@
 				},
 				"aws-ce": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aws-cloud9": {
@@ -2223,7 +2225,8 @@
 				},
 				"b2-tools": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"b2sum": {
@@ -21439,7 +21442,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 11,
+				"es": 12,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
@@ -23529,7 +23532,8 @@
 				},
 				"dysk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"e2freefrag": {
@@ -28893,7 +28897,8 @@
 				},
 				"wmctrl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"wodim": {
