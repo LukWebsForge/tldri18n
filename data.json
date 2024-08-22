@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 21-Aug-24 02:00:05 CEST",
+	"last_update": "Thursday, 22-Aug-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -9833,6 +9833,13 @@
 						"en": 2
 					}
 				},
+				"httpie": {
+					"status": {
+						"de": 2,
+						"en": 2,
+						"nl": 2
+					}
+				},
 				"httping": {
 					"status": {
 						"en": 2
@@ -9846,6 +9853,13 @@
 				"httpry": {
 					"status": {
 						"en": 2
+					}
+				},
+				"https": {
+					"status": {
+						"de": 2,
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"httpx": {
@@ -19707,6 +19721,21 @@
 						"en": 2
 					}
 				},
+				"uv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"uv-python": {
+					"status": {
+						"en": 2
+					}
+				},
+				"uv-tool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"uvicorn": {
 					"status": {
 						"en": 2
@@ -24313,13 +24342,6 @@
 						"en": 2
 					}
 				},
-				"httpie": {
-					"status": {
-						"de": 2,
-						"en": 2,
-						"nl": 2
-					}
-				},
 				"hwclock": {
 					"status": {
 						"en": 2
@@ -28871,7 +28893,8 @@
 				"wg": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"wg-quick": {
@@ -29540,7 +29563,7 @@
 				"id": 45,
 				"it": 43,
 				"ja": 40,
-				"ko": 40,
+				"ko": 41,
 				"lo": 40,
 				"ml": 40,
 				"ne": 40,
@@ -34747,13 +34770,6 @@
 						"en": 2,
 						"es": 2,
 						"pt_BR": 2
-					}
-				},
-				"httpie": {
-					"status": {
-						"de": 2,
-						"en": 2,
-						"nl": 2
 					}
 				},
 				"icalbuddy": {
