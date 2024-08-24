@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 23-Aug-24 02:00:06 CEST",
+	"last_update": "Saturday, 24-Aug-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2780,7 +2780,8 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"fr": 1
+						"fr": 1,
+						"zh": 2
 					}
 				},
 				"buku": {
@@ -10245,6 +10246,11 @@
 						"en": 2
 					}
 				},
+				"ipscan": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ipsumdump": {
 					"status": {
 						"en": 2
@@ -12175,9 +12181,9 @@
 				},
 				"mkfifo": {
 					"status": {
-						"bs": 2,
+						"bs": 1,
 						"en": 2,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"mkfile": {
@@ -25680,6 +25686,11 @@
 					}
 				},
 				"pacdiff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pacgraph": {
 					"status": {
 						"en": 2
 					}
