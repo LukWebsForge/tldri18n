@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 24-Aug-24 02:00:05 CEST",
+	"last_update": "Sunday, 25-Aug-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12183,7 +12183,7 @@
 					"status": {
 						"bs": 1,
 						"en": 2,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"mkfile": {
@@ -22814,7 +22814,8 @@
 				},
 				"cu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"curlie": {
