@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 25-Aug-24 02:00:06 CEST",
+	"last_update": "Monday, 26-Aug-24 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1470,6 +1470,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ml": 2,
 						"pt_BR": 2,
 						"ru": 2,
@@ -7485,6 +7486,7 @@
 				"git-bundle": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 1,
 						"it": 1,
@@ -9771,8 +9773,8 @@
 				"http": {
 					"status": {
 						"en": 2,
-						"nl": 2,
-						"pl": 2
+						"nl": 1,
+						"pl": 1
 					}
 				},
 				"http-server": {
@@ -9792,9 +9794,9 @@
 				},
 				"httpie": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"httping": {
@@ -10285,6 +10287,7 @@
 				"ispell": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ru": 2
 					}
 				},
@@ -26055,7 +26058,8 @@
 				},
 				"plasmashell": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"playerctl": {
