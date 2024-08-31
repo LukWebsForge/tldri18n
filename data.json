@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 30-Aug-24 02:00:05 CEST",
+	"last_update": "Saturday, 31-Aug-24 02:00:04 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6116,7 +6116,8 @@
 					"status": {
 						"en": 2,
 						"it": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"fastd": {
@@ -9823,6 +9824,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -19498,7 +19500,8 @@
 				},
 				"uv-python": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"uv-tool": {
@@ -23208,10 +23211,10 @@
 				},
 				"dos2unix": {
 					"status": {
-						"ca": 2,
+						"ca": 1,
 						"en": 2,
-						"es": 2,
-						"zh": 2
+						"es": 1,
+						"zh": 1
 					}
 				},
 				"dphys-swapfile": {
@@ -24945,7 +24948,7 @@
 				"mac2unix": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"macchanger": {
@@ -27373,7 +27376,8 @@
 				},
 				"slurp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"sm": {
@@ -28227,13 +28231,13 @@
 				"unix2dos": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"unix2mac": {
 					"status": {
 						"en": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"unmount": {
