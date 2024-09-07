@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 06-Sep-24 02:00:07 CEST",
+	"last_update": "Saturday, 07-Sep-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -774,6 +774,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -787,6 +788,7 @@
 						"es": 2,
 						"fr": 1,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -797,6 +799,7 @@
 						"es": 2,
 						"fr": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2,
@@ -892,6 +895,7 @@
 						"fr": 1,
 						"id": 2,
 						"it": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
 						"zh": 2
@@ -901,6 +905,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -3476,7 +3481,7 @@
 						"en": 2,
 						"es": 1,
 						"fa": 1,
-						"fr": 1,
+						"fr": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
@@ -4615,11 +4620,6 @@
 					"status": {
 						"en": 2,
 						"fa": 2
-					}
-				},
-				"deb-get": {
-					"status": {
-						"en": 2
 					}
 				},
 				"decaffeinate": {
@@ -9904,6 +9904,11 @@
 					"status": {
 						"en": 2,
 						"id": 1
+					}
+				},
+				"hugo-server": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hunspell": {
@@ -16129,6 +16134,11 @@
 					}
 				},
 				"pulumi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pulumi-login": {
 					"status": {
 						"en": 2
 					}
@@ -22942,6 +22952,11 @@
 						"en": 2
 					}
 				},
+				"deb-get": {
+					"status": {
+						"en": 2
+					}
+				},
 				"debchange": {
 					"status": {
 						"en": 2
@@ -28700,6 +28715,11 @@
 					}
 				},
 				"woeusb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wofi": {
 					"status": {
 						"en": 2
 					}
