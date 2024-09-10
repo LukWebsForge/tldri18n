@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 09-Sep-24 02:00:06 CEST",
+	"last_update": "Tuesday, 10-Sep-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,11 +440,11 @@
 				"id": 7,
 				"it": 11,
 				"ja": 2,
-				"ko": 12,
+				"ko": 13,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 15,
+				"nl": 16,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -1254,7 +1254,8 @@
 				"apkleaks": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apktool": {
@@ -1335,7 +1336,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"arduino": {
@@ -1343,6 +1345,7 @@
 						"en": 2,
 						"fr": 1,
 						"id": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1351,6 +1354,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1494,6 +1498,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"ml": 2,
 						"pt_BR": 2,
 						"ru": 2,
@@ -1544,7 +1549,8 @@
 				},
 				"atktopbm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"atom": {
@@ -1612,7 +1618,8 @@
 				"audtool": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"autoconf": {
@@ -1639,6 +1646,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -1647,6 +1655,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -1708,24 +1717,28 @@
 				"aws-accessanalyzer": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aws-acm": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aws-acm-pca": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-amplify": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aws-backup": {
@@ -1744,7 +1757,8 @@
 				"aws-ce": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aws-cloud9": {
@@ -15139,7 +15153,8 @@
 				},
 				"pngcheck": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pngcrush": {
@@ -26180,7 +26195,8 @@
 				},
 				"pngcheck": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"po4a": {
