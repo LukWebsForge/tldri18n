@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 11-Sep-24 02:00:07 CEST",
+	"last_update": "Thursday, 12-Sep-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12249,7 +12249,7 @@
 						"sr": 1,
 						"ta": 2,
 						"tr": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 2
 					}
 				},
@@ -21352,7 +21352,7 @@
 				"ne": 0,
 				"nl": 12,
 				"no": 0,
-				"pl": 7,
+				"pl": 6,
 				"pt_BR": 12,
 				"pt_PT": 1,
 				"ro": 0,
@@ -27340,6 +27340,11 @@
 					}
 				},
 				"setxkbmap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdisk": {
 					"status": {
 						"en": 2
 					}
