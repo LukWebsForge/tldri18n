@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 12-Sep-24 02:00:06 CEST",
+	"last_update": "Friday, 13-Sep-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -284,7 +284,7 @@
 				"logcat": {
 					"status": {
 						"bn": 1,
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fa": 2,
@@ -9840,6 +9840,7 @@
 				},
 				"http": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"nl": 2,
 						"pl": 1
@@ -9862,7 +9863,7 @@
 				},
 				"httpie": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"nl": 2
 					}
@@ -9959,7 +9960,8 @@
 				},
 				"hugo-server": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"hunspell": {
@@ -26317,7 +26319,8 @@
 				},
 				"proctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"protontricks": {
@@ -28189,6 +28192,7 @@
 				"trash": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
@@ -28782,7 +28786,8 @@
 				},
 				"wofi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"wol": {
