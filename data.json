@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 13-Sep-24 02:00:06 CEST",
+	"last_update": "Saturday, 14-Sep-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2057,13 +2057,13 @@
 				"az": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"zh_TW": 1
 					}
 				},
 				"az-account": {
@@ -4850,9 +4850,9 @@
 				"dircolors": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2
+						"it": 1,
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"direnv": {
@@ -18726,7 +18726,7 @@
 						"th": 1,
 						"tr": 1,
 						"uk": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -26840,6 +26840,7 @@
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"zh": 1
 					}
@@ -29394,7 +29395,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 53,
+				"nl": 54,
 				"no": 0,
 				"pl": 44,
 				"pt_BR": 58,
@@ -33296,6 +33297,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"nl": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
