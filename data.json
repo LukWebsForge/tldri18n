@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 14-Sep-24 02:00:06 CEST",
+	"last_update": "Sunday, 15-Sep-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16194,6 +16194,11 @@
 						"en": 2
 					}
 				},
+				"pulumi-destroy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pulumi-login": {
 					"status": {
 						"en": 2
@@ -25267,6 +25272,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"mkfs.xfs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mkhomedir_helper": {
