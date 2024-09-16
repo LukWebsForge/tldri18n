@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 15-Sep-24 02:00:07 CEST",
+	"last_update": "Monday, 16-Sep-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2069,59 +2069,69 @@
 				"az-account": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-acr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-advisor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-aks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-apim": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-appconfig": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-bicep": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-config": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-devops": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-feedback": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-group": {
@@ -9955,7 +9965,7 @@
 				"hugo": {
 					"status": {
 						"en": 2,
-						"id": 1
+						"id": 2
 					}
 				},
 				"hugo-server": {
@@ -13114,7 +13124,7 @@
 				"nnn": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"node": {
@@ -13122,7 +13132,7 @@
 						"de": 1,
 						"en": 2,
 						"fr": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"pt_BR": 1,
 						"zh": 1
@@ -16377,7 +16387,7 @@
 				"python": {
 					"status": {
 						"en": 2,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"nl": 2,
 						"pl": 1,
@@ -17020,7 +17030,7 @@
 				"rspec": {
 					"status": {
 						"en": 2,
-						"id": 1
+						"id": 2
 					}
 				},
 				"rss2email": {
@@ -17072,7 +17082,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"id": 1,
+						"id": 2,
 						"ta": 2
 					}
 				},
@@ -19245,6 +19255,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"tspin": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tsv-filter": {
@@ -22006,7 +22021,8 @@
 				},
 				"audit2allow": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"auditctl": {
@@ -26308,7 +26324,8 @@
 				},
 				"prime-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"print": {
@@ -34371,7 +34388,7 @@
 						"en": 2,
 						"es": 1,
 						"fa": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"lo": 1,
@@ -34825,7 +34842,7 @@
 						"de": 2,
 						"en": 2,
 						"hi": 2,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"nl": 2,
@@ -35712,7 +35729,7 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
-						"id": 1,
+						"id": 2,
 						"it": 2,
 						"nl": 2,
 						"pl": 1,
@@ -35726,7 +35743,7 @@
 						"de": 1,
 						"en": 2,
 						"hi": 2,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ta": 2,
 						"zh": 1,
