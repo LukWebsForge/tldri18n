@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 16-Sep-24 02:00:07 CEST",
+	"last_update": "Tuesday, 17-Sep-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2179,6 +2179,11 @@
 					}
 				},
 				"az-repos": {
+					"status": {
+						"en": 2
+					}
+				},
+				"az-serial-console": {
 					"status": {
 						"en": 2
 					}
@@ -12686,6 +12691,11 @@
 						"zh_TW": 2
 					}
 				},
+				"mysql_secure_installation": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mysqlbinlog": {
 					"status": {
 						"en": 2
@@ -22640,6 +22650,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"chat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"chatgpt": {
