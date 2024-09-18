@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 17-Sep-24 02:00:05 CEST",
+	"last_update": "Wednesday, 18-Sep-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3450,6 +3450,13 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"chatgpt": {
+					"status": {
+						"en": 2,
+						"es": 2,
+						"id": 2
 					}
 				},
 				"cheat": {
@@ -11185,6 +11192,12 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"libreoffice": {
+					"status": {
+						"en": 2,
+						"id": 2
 					}
 				},
 				"license": {
@@ -22657,12 +22670,6 @@
 						"en": 2
 					}
 				},
-				"chatgpt": {
-					"status": {
-						"en": 2,
-						"es": 2
-					}
-				},
 				"chattr": {
 					"status": {
 						"en": 2,
@@ -24743,11 +24750,6 @@
 					}
 				},
 				"lftp": {
-					"status": {
-						"en": 2
-					}
-				},
-				"libreoffice": {
 					"status": {
 						"en": 2
 					}
