@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 21-Sep-24 02:00:05 CEST",
+	"last_update": "Sunday, 22-Sep-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,14 +440,14 @@
 				"id": 8,
 				"it": 11,
 				"ja": 2,
-				"ko": 13,
+				"ko": 16,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
 				"nl": 16,
 				"no": 1,
 				"pl": 4,
-				"pt_BR": 12,
+				"pt_BR": 11,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 2,
@@ -1769,7 +1769,8 @@
 				},
 				"aws-cloudformation": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-cloudwatch": {
@@ -1781,6 +1782,7 @@
 				"aws-codeartifact": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1788,14 +1790,16 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aws-cognito-idp": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aws-configure": {
@@ -1803,6 +1807,7 @@
 						"en": 2,
 						"es": 2,
 						"ja": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1811,13 +1816,15 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"lo": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-dynamodb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-ec2": {
@@ -1826,6 +1833,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1833,12 +1841,14 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-eks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-glue": {
@@ -1846,6 +1856,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1864,6 +1875,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1871,6 +1883,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1880,18 +1893,21 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-kafka": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-kendra": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aws-kinesis": {
@@ -1954,32 +1970,38 @@
 				"aws-s3-cp": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-s3-ls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-s3-mb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-s3-mv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-s3-presign": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-s3-rb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-s3-rm": {
@@ -1989,58 +2011,68 @@
 				},
 				"aws-s3-website": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-s3api": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-secretsmanager": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-ses": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-sns": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-sqs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-sts": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-vault": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-workmail": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"awslogs": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"axel": {
@@ -2061,7 +2093,7 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"zh_TW": 1
 					}
@@ -2137,50 +2169,59 @@
 				"az-group": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-lock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-login": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-logout": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-network": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-pipelines": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-provider": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-redis": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-repos": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-serial-console": {
@@ -2191,96 +2232,113 @@
 				"az-sshkey": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-storage": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-storage-account": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-storage-blob": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-storage-container": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-storage-entity": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-storage-queue": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-storage-table": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-tag": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-term": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-upgrade": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-vm": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"az-webapp": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"azure-cli": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
 				},
 				"azurite": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"b2-tools": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"b2sum": {
@@ -2296,7 +2354,8 @@
 				"b3sum": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"babel": {
@@ -2313,7 +2372,8 @@
 				"babeld": {
 					"status": {
 						"de": 1,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"badblocks": {
@@ -2332,7 +2392,8 @@
 				},
 				"bandwhich": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"banner": {
@@ -2390,6 +2451,7 @@
 				"basenc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -2410,7 +2472,8 @@
 				},
 				"bash-it": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bashmarks": {
@@ -2424,7 +2487,8 @@
 				"bastet": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"bat": {
@@ -2456,12 +2520,14 @@
 				"bats": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"ko": 2
 					}
 				},
 				"bazel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bb": {
@@ -2486,6 +2552,7 @@
 				"bcomps": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -2520,12 +2587,14 @@
 				},
 				"betty": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bfg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bfs": {
@@ -2552,43 +2621,50 @@
 				"bgpgrep": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bindkey": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"binwalk": {
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"bioradtopgm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bird": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"birdc": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bison": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bitcoin-cli": {
@@ -2602,7 +2678,8 @@
 				"bitcoind": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"black": {
@@ -2643,6 +2720,7 @@
 				"bmptopnm": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -2650,6 +2728,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -2657,7 +2736,8 @@
 				"bob": {
 					"status": {
 						"en": 2,
-						"fa": 2
+						"fa": 2,
+						"ko": 2
 					}
 				},
 				"boot": {
@@ -2709,7 +2789,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fa": 2
+						"fa": 2,
+						"ko": 2
 					}
 				},
 				"bpytop": {
@@ -2717,12 +2798,14 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"bq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brew": {
@@ -2742,7 +2825,8 @@
 				"brew-autoremove": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"brew-bundle": {
@@ -2751,53 +2835,63 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"brew-install": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"brew-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brew-outdated": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brew-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brew-uninstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brew-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brew-upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brittany": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brotli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"browser-sync": {
@@ -2811,27 +2905,32 @@
 				"bru": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"brushtopbm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bshell": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bssh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"btm": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -2841,12 +2940,14 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"buku": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -4874,7 +4975,7 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"direnv": {
@@ -14041,7 +14142,8 @@
 				},
 				"pants": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"paperkey": {
@@ -14089,6 +14191,7 @@
 				"passwd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"pt_BR": 2
 					}
@@ -15617,6 +15720,7 @@
 					"status": {
 						"da": 1,
 						"en": 2,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -16035,6 +16139,7 @@
 						"id": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -16232,12 +16337,23 @@
 						"en": 2
 					}
 				},
+				"pulumi-about": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pulumi-destroy": {
 					"status": {
 						"en": 2
 					}
 				},
 				"pulumi-login": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
+				"pulumi-preview": {
 					"status": {
 						"en": 2
 					}
@@ -16274,6 +16390,7 @@
 					"status": {
 						"da": 1,
 						"en": 2,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -16307,6 +16424,7 @@
 						"id": 2,
 						"ja": 2,
 						"lo": 2,
+						"nl": 2,
 						"ru": 2,
 						"th": 2,
 						"zh_TW": 2
@@ -16786,7 +16904,9 @@
 				},
 				"read": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"readlink": {
@@ -16861,6 +16981,7 @@
 				"renice": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -16998,6 +17119,7 @@
 						"en": 2,
 						"hi": 2,
 						"ko": 2,
+						"nl": 2,
 						"ta": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -17037,7 +17159,8 @@
 				"route": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"rpi-imager": {
@@ -20837,7 +20960,8 @@
 				},
 				"ya": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"yacas": {
@@ -20889,7 +21013,8 @@
 				},
 				"yazi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ybacklight": {
@@ -21400,7 +21525,7 @@
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
-				"nl": 12,
+				"nl": 13,
 				"no": 0,
 				"pl": 6,
 				"pt_BR": 12,
@@ -22180,6 +22305,11 @@
 					}
 				},
 				"bcachefs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bcachefs-device": {
 					"status": {
 						"en": 2
 					}
@@ -26353,6 +26483,7 @@
 				"print": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
@@ -26518,6 +26649,7 @@
 						"en": 2,
 						"ko": 2,
 						"lo": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"th": 2,
 						"tr": 2
@@ -26907,12 +27039,14 @@
 				"rename": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"renice": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"repo-add": {
@@ -27017,6 +27151,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"uk": 1
 					}
@@ -27024,6 +27159,7 @@
 				"rmdir": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -27050,7 +27186,8 @@
 				},
 				"rpcinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rpi-eeprom-update": {
@@ -27671,7 +27808,8 @@
 				},
 				"sslstrip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"sstat": {
@@ -28105,7 +28243,8 @@
 				"timedatectl": {
 					"status": {
 						"en": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				"timeshift": {
@@ -29001,6 +29140,11 @@
 						"ca": 1,
 						"en": 2,
 						"es": 1
+					}
+				},
+				"xfs_repair": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xinput": {
@@ -33319,7 +33463,8 @@
 				"ps": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"qlmanage": {
@@ -33354,6 +33499,7 @@
 				"rename": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pt_PT": 2
 					}
 				},
@@ -33361,6 +33507,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"nl": 2,
 						"pt_PT": 2,
 						"zh": 2
 					}
@@ -34016,7 +34163,7 @@
 				"lo": 4,
 				"ml": 3,
 				"ne": 5,
-				"nl": 33,
+				"nl": 35,
 				"no": 4,
 				"pl": 15,
 				"pt_BR": 14,
@@ -35094,19 +35241,22 @@
 				"popd": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
 				"powershell": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"nl": 2
 					}
 				},
 				"print": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"ru": 2,
@@ -35142,6 +35292,7 @@
 				"pushd": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -35359,7 +35510,8 @@
 				},
 				"rpcinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"sc": {
