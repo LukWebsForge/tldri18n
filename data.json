@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 22-Sep-24 02:00:06 CEST",
+	"last_update": "Monday, 23-Sep-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5632,6 +5632,11 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1
+					}
+				},
+				"dotenvx": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dotnet": {
@@ -25473,7 +25478,8 @@
 				"mknod": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"mkosi": {
