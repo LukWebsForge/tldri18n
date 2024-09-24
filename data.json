@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 23-Sep-24 02:00:06 CEST",
+	"last_update": "Tuesday, 24-Sep-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2955,6 +2955,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pl": 2,
 						"zh": 2
 					}
@@ -2993,17 +2994,20 @@
 				},
 				"bundletool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bundletool-dump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bundletool-validate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bup": {
@@ -3771,17 +3775,19 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 1,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"clang++": {
 					"status": {
 						"de": 1,
 						"en": 2,
+						"id": 2,
 						"ko": 1,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"clang-cpp": {
@@ -6933,10 +6939,10 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"id": 1,
+						"id": 2,
 						"ko": 1,
 						"pt_BR": 1,
-						"ta": 2
+						"ta": 1
 					}
 				},
 				"gacutil": {
@@ -6992,9 +6998,9 @@
 						"fr": 1,
 						"id": 2,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"pt_BR": 1,
-						"ta": 2
+						"ta": 1
 					}
 				},
 				"gcloud": {
@@ -22478,7 +22484,8 @@
 				"bspc": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"bspwm": {
@@ -23178,7 +23185,8 @@
 						"es": 2,
 						"fa": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"ddcutil": {
@@ -23380,7 +23388,8 @@
 				},
 				"dkms": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"dm-tool": {
@@ -23560,7 +23569,8 @@
 				},
 				"dunstify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"duperemove": {
