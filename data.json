@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 24-Sep-24 02:00:05 CEST",
+	"last_update": "Wednesday, 25-Sep-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 8,
 				"it": 11,
 				"ja": 2,
-				"ko": 16,
+				"ko": 17,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -1459,6 +1459,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ru": 2
@@ -1469,6 +1470,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -1916,6 +1918,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -1923,38 +1926,44 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"aws-lightsail": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-pricing": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aws-quicksight": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"aws-rds": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"aws-route53": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aws-s3": {
@@ -2006,7 +2015,8 @@
 				},
 				"aws-s3-rm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-s3-website": {
@@ -2387,6 +2397,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -2408,30 +2419,34 @@
 				},
 				"base32": {
 					"status": {
+						"de": 2,
 						"en": 2,
-						"fr": 1,
-						"it": 1,
-						"ko": 1,
+						"es": 2,
+						"fr": 2,
+						"id": 2,
+						"it": 2,
+						"ko": 2,
 						"nl": 2,
-						"pl": 1,
-						"pt_BR": 1,
-						"tr": 1,
-						"zh": 1
+						"pl": 2,
+						"pt_BR": 2,
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"base64": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
-						"es": 1,
-						"fr": 1,
-						"it": 1,
-						"ko": 1,
+						"es": 2,
+						"fr": 2,
+						"id": 2,
+						"it": 2,
+						"ko": 2,
 						"nl": 2,
-						"pl": 1,
-						"pt_BR": 1,
-						"tr": 1,
-						"zh": 1
+						"pl": 2,
+						"pt_BR": 2,
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"basename": {
@@ -3123,12 +3138,14 @@
 					"status": {
 						"en": 2,
 						"fa": 2,
+						"id": 2,
 						"pt_BR": 2
 					}
 				},
 				"calibre-server": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -3136,7 +3153,8 @@
 				"calibredb": {
 					"status": {
 						"en": 2,
-						"it": 1,
+						"id": 2,
+						"it": 2,
 						"ko": 1
 					}
 				},
@@ -8946,6 +8964,11 @@
 						"tr": 2
 					}
 				},
+				"gitstats": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gitui": {
 					"status": {
 						"en": 2
@@ -11835,7 +11858,8 @@
 				},
 				"lsd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"lsof": {
@@ -25389,6 +25413,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"mkfs.bcachefs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mkfs.btrfs": {
