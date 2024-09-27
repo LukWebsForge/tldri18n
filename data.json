@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 26-Sep-24 02:00:08 CEST",
+	"last_update": "Friday, 27-Sep-24 02:00:06 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -25598,7 +25598,8 @@
 				},
 				"mopac": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"more": {
@@ -27471,6 +27472,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"secret-tool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sed": {
