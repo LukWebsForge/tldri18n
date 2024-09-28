@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 27-Sep-24 02:00:06 CEST",
+	"last_update": "Saturday, 28-Sep-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1254,6 +1254,7 @@
 				"apkleaks": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2
 					}
@@ -2236,7 +2237,8 @@
 				},
 				"az-serial-console": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-sshkey": {
@@ -2615,7 +2617,8 @@
 				"bfs": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"bg": {
@@ -3041,7 +3044,8 @@
 				},
 				"bvnc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bw": {
@@ -3053,17 +3057,20 @@
 				},
 				"bzegrep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bzfgrep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bzgrep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bzip2": {
@@ -3076,7 +3083,8 @@
 				},
 				"bzip3": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"c99": {
@@ -3098,13 +3106,15 @@
 				},
 				"cadaver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"caddy": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -3118,6 +3128,7 @@
 				"cal": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -3128,6 +3139,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"ml": 1,
 						"pt_BR": 2,
 						"ta": 2,
@@ -3139,6 +3151,7 @@
 						"en": 2,
 						"fa": 2,
 						"id": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -3161,25 +3174,29 @@
 				"calligraflow": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"calligrasheets": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"calligrastage": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"calligrawords": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"cancel": {
@@ -3191,6 +3208,7 @@
 				"carbon-now": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -5761,6 +5779,11 @@
 						"it": 1
 					}
 				},
+				"dtc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"du": {
 					"status": {
 						"de": 1,
@@ -6211,6 +6234,7 @@
 						"de": 2,
 						"en": 2,
 						"hi": 2,
+						"id": 2,
 						"nl": 2,
 						"ru": 2,
 						"sv": 2,
@@ -6327,7 +6351,8 @@
 				"fastd": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"fastfetch": {
@@ -6455,6 +6480,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"id": 2,
 						"zh": 2
 					}
 				},
@@ -6851,7 +6877,8 @@
 				},
 				"fping": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"freshclam": {
@@ -8966,7 +8993,8 @@
 				},
 				"gitstats": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"gitui": {
@@ -10538,7 +10566,8 @@
 				},
 				"ivpn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"jadx": {
@@ -12633,7 +12662,8 @@
 				},
 				"mozillavpn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"mp3info": {
@@ -12747,7 +12777,8 @@
 				},
 				"mullvad": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"multipass": {
@@ -15281,7 +15312,8 @@
 				"plantuml": {
 					"status": {
 						"de": 1,
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"platformio": {
@@ -20361,7 +20393,7 @@
 				"warp-cli": {
 					"status": {
 						"en": 2,
-						"id": 1
+						"id": 2
 					}
 				},
 				"warp-diag": {
@@ -20553,6 +20585,7 @@
 				"whois": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -21548,12 +21581,12 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 12,
+				"es": 13,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
 				"hi": 3,
-				"id": 2,
+				"id": 3,
 				"it": 4,
 				"ja": 0,
 				"ko": 2,
@@ -22786,6 +22819,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"nl": 2
 					}
 				},
@@ -23300,7 +23334,7 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 1
 					}
 				},
 				"dget": {
@@ -23464,12 +23498,14 @@
 				"dnf5": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"id": 2
 					}
 				},
 				"dnsdomainname": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"nl": 2
 					}
 				},
@@ -23513,6 +23549,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 2,
+						"id": 2,
 						"zh": 1
 					}
 				},
@@ -23776,7 +23813,8 @@
 				},
 				"exif": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"exiqgrep": {
@@ -23793,6 +23831,7 @@
 				"export": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"nl": 2
 					}
 				},
@@ -25246,6 +25285,7 @@
 				"mac2unix": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 1
 					}
 				},
@@ -26625,7 +26665,8 @@
 				},
 				"pw-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pw-dot": {
@@ -28320,7 +28361,8 @@
 				},
 				"togglesebool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"toilet": {
@@ -28572,12 +28614,14 @@
 				"unix2dos": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 1
 					}
 				},
 				"unix2mac": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"zh": 1
 					}
 				},
@@ -29195,7 +29239,8 @@
 				},
 				"xfs_repair": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"xinput": {
@@ -33744,6 +33789,7 @@
 				"tail": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -34839,6 +34885,7 @@
 						"de": 2,
 						"en": 2,
 						"hi": 2,
+						"id": 2,
 						"it": 2,
 						"nl": 2,
 						"zh": 2,
