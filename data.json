@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 28-Sep-24 02:00:07 CEST",
+	"last_update": "Sunday, 29-Sep-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -35952,10 +35952,11 @@
 				"wget": {
 					"status": {
 						"ar": 1,
+						"bn": 2,
 						"bs": 1,
 						"ca": 1,
 						"da": 1,
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 1,
 						"fr": 1,
@@ -35969,7 +35970,7 @@
 						"ne": 1,
 						"nl": 2,
 						"no": 1,
-						"pl": 1,
+						"pl": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"ru": 1,
