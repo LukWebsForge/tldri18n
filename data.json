@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 29-Sep-24 02:00:05 CEST",
+	"last_update": "Monday, 30-Sep-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 8,
 				"it": 11,
 				"ja": 2,
-				"ko": 17,
+				"ko": 18,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -3462,7 +3462,8 @@
 				},
 				"carp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"case": {
@@ -3499,39 +3500,46 @@
 				"catimg": {
 					"status": {
 						"en": 2,
-						"fa": 2
+						"fa": 2,
+						"ko": 2
 					}
 				},
 				"cavif": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cb": {
 					"status": {
 						"en": 2,
-						"fa": 2
+						"fa": 2,
+						"ko": 2
 					}
 				},
 				"cbonsai": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cbt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ccache": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ccomps": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -3562,29 +3570,34 @@
 				},
 				"cdk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"certutil": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"cf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"chafa": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"charm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"chars": {
@@ -3996,7 +4009,8 @@
 				},
 				"cmctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cmp": {
@@ -4220,6 +4234,7 @@
 				"convert": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -4234,6 +4249,7 @@
 				"coproc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -4253,12 +4269,14 @@
 				},
 				"core-validate-commit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"corepack": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cosign": {
@@ -13030,6 +13048,11 @@
 						"pl": 2
 					}
 				},
+				"netdiscover": {
+					"status": {
+						"en": 2
+					}
+				},
 				"netlify": {
 					"status": {
 						"en": 2,
@@ -13053,6 +13076,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 1
+					}
+				},
+				"nettacker": {
+					"status": {
+						"en": 2
 					}
 				},
 				"newman": {
@@ -23802,7 +23830,8 @@
 				},
 				"evtest": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"exec": {
