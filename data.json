@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 30-Sep-24 02:00:05 CEST",
+	"last_update": "Tuesday, 01-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3202,6 +3202,7 @@
 				"cancel": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -3610,33 +3611,39 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"cheat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cheatshh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"checkov": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"checksec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"chezmoi": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh_TW": 1
 					}
 				},
@@ -12769,6 +12776,16 @@
 					}
 				},
 				"msfvenom": {
+					"status": {
+						"en": 2
+					}
+				},
+				"msgfmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"msgunfmt": {
 					"status": {
 						"en": 2
 					}
