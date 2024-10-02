@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 01-Oct-24 02:00:05 CEST",
+	"last_update": "Wednesday, 02-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -477,6 +477,11 @@
 						"pl": 2,
 						"pt_BR": 1,
 						"zh": 2
+					}
+				},
+				"$": {
+					"status": {
+						"en": 2
 					}
 				},
 				"2to3": {
@@ -9513,6 +9518,11 @@
 						"en": 2
 					}
 				},
+				"greater-than": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grep": {
 					"status": {
 						"da": 2,
@@ -11375,6 +11385,11 @@
 						"en": 2,
 						"it": 2,
 						"ja": 2
+					}
+				},
+				"less-than": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lex": {
@@ -20044,6 +20059,11 @@
 						"en": 2
 					}
 				},
+				"vertical-bar": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vf": {
 					"status": {
 						"en": 2
@@ -20148,6 +20168,11 @@
 						"es": 2,
 						"nl": 2,
 						"sv": 2
+					}
+				},
+				"vinmap": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vipe": {
@@ -21086,6 +21111,86 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"yadm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-alt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-bootstrap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-clone": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-decrypt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-encrypt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-enter": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-git-crypt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-gitconfig": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-introsepct": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-perms": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-transcrypt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yadm-upgrade": {
+					"status": {
+						"en": 2
 					}
 				},
 				"yank": {
@@ -22046,6 +22151,11 @@
 						"pt_BR": 2,
 						"uk": 2,
 						"zh": 2
+					}
+				},
+				"apt-clone": {
+					"status": {
+						"en": 2
 					}
 				},
 				"apt-file": {
