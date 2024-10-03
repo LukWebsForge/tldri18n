@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 02-Oct-24 02:00:05 CEST",
+	"last_update": "Thursday, 03-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2175,6 +2175,11 @@
 						"ko": 2
 					}
 				},
+				"az-disk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-feedback": {
 					"status": {
 						"en": 2,
@@ -2967,6 +2972,11 @@
 						"zh": 2
 					}
 				},
+				"builtin": {
+					"status": {
+						"en": 2
+					}
+				},
 				"buku": {
 					"status": {
 						"en": 2,
@@ -3499,7 +3509,7 @@
 						"pt_BR": 2,
 						"ru": 1,
 						"tr": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -5708,7 +5718,8 @@
 				},
 				"dotenvx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dotnet": {
@@ -13799,6 +13810,11 @@
 						"en": 2
 					}
 				},
+				"onefetch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ooniprobe": {
 					"status": {
 						"en": 2
@@ -21168,7 +21184,7 @@
 						"en": 2
 					}
 				},
-				"yadm-introsepct": {
+				"yadm-introspect": {
 					"status": {
 						"en": 2
 					}
@@ -21587,6 +21603,11 @@
 					"status": {
 						"en": 2
 					}
+				},
+				"~": {
+					"status": {
+						"en": 2
+					}
 				}
 			}
 		},
@@ -21900,7 +21921,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"ac": {
@@ -22116,7 +22137,7 @@
 						"ml": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ta": 2,
 						"tr": 2,
@@ -22168,7 +22189,7 @@
 						"id": 2,
 						"it": 1,
 						"pl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"uk": 2,
 						"zh": 2
 					}
@@ -22232,7 +22253,7 @@
 						"en": 2,
 						"es": 2,
 						"pl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ta": 2,
 						"tr": 2,
 						"uk": 2,
@@ -22380,7 +22401,7 @@
 						"en": 2,
 						"fr": 2,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -22462,7 +22483,7 @@
 				"autorandr": {
 					"status": {
 						"en": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				},
@@ -22898,7 +22919,7 @@
 						"fr": 1,
 						"ml": 1,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ta": 1,
 						"zh": 1
 					}
@@ -23009,7 +23030,7 @@
 						"ne": 1,
 						"nl": 2,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ta": 2,
 						"th": 1,
@@ -23234,7 +23255,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"tr": 1,
 						"uk": 1,
 						"zh": 1,
@@ -23644,7 +23665,7 @@
 						"fa": 2,
 						"id": 2,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ta": 2,
 						"tr": 1,
 						"zh": 2
@@ -23733,7 +23754,7 @@
 					"status": {
 						"en": 2,
 						"it": 1,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"dpkg-reconfigure": {
@@ -24069,7 +24090,7 @@
 					"status": {
 						"en": 2,
 						"hi": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
@@ -24310,6 +24331,11 @@
 					}
 				},
 				"getfacl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"getfattr": {
 					"status": {
 						"en": 2
 					}
@@ -24613,7 +24639,7 @@
 				"i3lock": {
 					"status": {
 						"en": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"i3status": {
@@ -24965,6 +24991,7 @@
 				"kill": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"nl": 2
 					}
 				},
@@ -25339,6 +25366,7 @@
 				"lspci": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -25476,7 +25504,7 @@
 						"id": 1,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
 						"uk": 1
@@ -25605,6 +25633,7 @@
 				"mkfs": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -26752,12 +26781,12 @@
 						"ta": 2
 					}
 				},
-				"protonvpn-cli": {
+				"protonvpn": {
 					"status": {
 						"en": 2
 					}
 				},
-				"protonvpn-cli-connect": {
+				"protonvpn-connect": {
 					"status": {
 						"en": 2
 					}
@@ -27330,7 +27359,8 @@
 				},
 				"resize2fs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"hi": 2
 					}
 				},
 				"resolvectl": {
@@ -27395,7 +27425,7 @@
 						"en": 2,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"uk": 1
 					}
 				},
@@ -27680,7 +27710,7 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -27758,6 +27788,11 @@
 					}
 				},
 				"setfacl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"setfattr": {
 					"status": {
 						"en": 2
 					}
@@ -28203,6 +28238,11 @@
 						"fr": 2
 					}
 				},
+				"sysdig": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl": {
 					"status": {
 						"ca": 2,
@@ -28590,7 +28630,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh_TW": 2
 					}
 				},
@@ -29132,7 +29172,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"waydroid": {
@@ -29423,7 +29463,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"tr": 1
 					}
 				},
