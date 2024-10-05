@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 04-Oct-24 02:00:06 CEST",
+	"last_update": "Saturday, 05-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -447,7 +447,7 @@
 				"nl": 15,
 				"no": 1,
 				"pl": 4,
-				"pt_BR": 11,
+				"pt_BR": 12,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 2,
@@ -8337,7 +8337,8 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"uk": 2
 					}
 				},
 				"git-filter-repo": {
@@ -8725,6 +8726,7 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -17202,7 +17204,8 @@
 				"rc": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"rcat": {
@@ -18739,7 +18742,8 @@
 				"strings": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"strip-nondeterminism": {
@@ -19245,6 +19249,7 @@
 						"en": 2,
 						"nl": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"sh": 2,
 						"tr": 2
 					}
@@ -19391,7 +19396,8 @@
 				"tlmgr-platform": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"tlmgr-recreate-tlpdb": {
@@ -19460,6 +19466,7 @@
 						"fa": 2,
 						"it": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
@@ -19616,37 +19623,43 @@
 				"transmission-cli": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"transmission-create": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"transmission-daemon": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"transmission-edit": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"transmission-remote": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"transmission-show": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"trap": {
@@ -21948,7 +21961,7 @@
 				"ar": 0,
 				"bn": 0,
 				"bs": 0,
-				"ca": 6,
+				"ca": 5,
 				"cs": 0,
 				"da": 0,
 				"de": 7,
@@ -24158,6 +24171,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"eselect-news": {
+					"status": {
+						"en": 2
 					}
 				},
 				"eselect-profile": {
