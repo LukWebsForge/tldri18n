@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 05-Oct-24 02:00:05 CEST",
+	"last_update": "Sunday, 06-Oct-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -21981,7 +21981,7 @@
 				"nl": 13,
 				"no": 0,
 				"pl": 6,
-				"pt_BR": 12,
+				"pt_BR": 13,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 0,
@@ -22332,6 +22332,7 @@
 						"de": 2,
 						"en": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -22841,6 +22842,11 @@
 						"es": 2
 					}
 				},
+				"blockdev": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bluetoothctl": {
 					"status": {
 						"en": 2,
@@ -23217,19 +23223,22 @@
 				"cgclassify": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"cgcreate": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"cgexec": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"cgroups": {
@@ -25045,7 +25054,8 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"ip-rule": {
@@ -25837,7 +25847,8 @@
 				"megatools-dl": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"mesg": {
@@ -34685,7 +34696,7 @@
 				"da": 2,
 				"de": 19,
 				"en": 100,
-				"es": 10,
+				"es": 11,
 				"fa": 1,
 				"fi": 0,
 				"fr": 8,
@@ -35323,6 +35334,7 @@
 						"bn": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"id": 2,
 						"it": 2,
