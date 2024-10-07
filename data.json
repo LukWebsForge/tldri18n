@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 06-Oct-24 02:00:07 CEST",
+	"last_update": "Monday, 07-Oct-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -18228,6 +18228,11 @@
 						"en": 2
 					}
 				},
+				"shotcut": {
+					"status": {
+						"en": 2
+					}
+				},
 				"showfigfonts": {
 					"status": {
 						"en": 2,
@@ -24594,6 +24599,11 @@
 						"en": 2
 					}
 				},
+				"gif2webp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gio-trash": {
 					"status": {
 						"en": 2,
@@ -24923,6 +24933,11 @@
 						"en": 2
 					}
 				},
+				"ifstat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"iftop": {
 					"status": {
 						"en": 2
@@ -24941,6 +24956,11 @@
 					}
 				},
 				"img2txt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"img2webp": {
 					"status": {
 						"en": 2
 					}
@@ -29822,6 +29842,11 @@
 					}
 				},
 				"zbarcam": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zdump": {
 					"status": {
 						"en": 2
 					}
