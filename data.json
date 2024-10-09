@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 08-Oct-24 02:00:06 CEST",
+	"last_update": "Wednesday, 09-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -470,13 +470,13 @@
 						"en": 2,
 						"es": 1,
 						"hi": 1,
-						"id": 2,
+						"id": 1,
 						"it": 1,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
 						"pt_BR": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"$": {
@@ -554,7 +554,7 @@
 						"id": 2,
 						"it": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -600,7 +600,7 @@
 						"en": 2,
 						"id": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -771,6 +771,11 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"adb-devices": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adb-install": {
@@ -1414,7 +1419,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"zh": 1
 					}
 				},
@@ -1619,7 +1624,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"auditd": {
@@ -2183,7 +2188,8 @@
 				},
 				"az-disk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-feedback": {
@@ -4056,7 +4062,8 @@
 				},
 				"cloudflared": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cmake": {
@@ -4081,6 +4088,7 @@
 						"ca": 2,
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -4101,7 +4109,8 @@
 				},
 				"cmuwmtopbm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"code": {
@@ -4120,12 +4129,14 @@
 				"codecrafters": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"codespell": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"coffee": {
@@ -4168,30 +4179,35 @@
 				"colima": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"colon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"colordiff": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"colorls": {
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ja": 2
+						"ja": 2,
+						"ko": 2
 					}
 				},
 				"colorpicker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"column": {
@@ -4203,12 +4219,14 @@
 				},
 				"combine": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"comby": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"comm": {
@@ -4232,6 +4250,7 @@
 				"compare": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -4239,6 +4258,7 @@
 				"compgen": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -6606,7 +6626,7 @@
 				"fc": {
 					"status": {
 						"en": 2,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"zh": 1
 					}
@@ -12887,8 +12907,8 @@
 					"status": {
 						"bs": 1,
 						"en": 2,
-						"es": 2,
-						"nl": 2
+						"es": 1,
+						"nl": 1
 					}
 				},
 				"mkfile": {
@@ -13566,7 +13586,7 @@
 				"nice": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"nikto": {
@@ -13883,6 +13903,11 @@
 					}
 				},
 				"npm-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-run-script": {
 					"status": {
 						"en": 2
 					}
@@ -16902,6 +16927,11 @@
 					}
 				},
 				"pulumi-preview": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pulumi-stack": {
 					"status": {
 						"en": 2
 					}
@@ -22167,7 +22197,7 @@
 				"ne": 0,
 				"nl": 13,
 				"no": 0,
-				"pl": 6,
+				"pl": 7,
 				"pt_BR": 13,
 				"pt_PT": 1,
 				"ro": 0,
@@ -23296,7 +23326,8 @@
 				"caffeinate": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"caffeine": {
@@ -24071,6 +24102,11 @@
 						"zh": 2
 					}
 				},
+				"dnf-config-manager": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dnf5": {
 					"status": {
 						"en": 2,
@@ -24834,6 +24870,11 @@
 						"en": 2
 					}
 				},
+				"gpclient": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grim": {
 					"status": {
 						"en": 2
@@ -25252,7 +25293,8 @@
 				"ip6tables": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"ip6tables-restore": {
@@ -25894,7 +25936,8 @@
 				},
 				"lz": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"mac2unix": {
@@ -30074,6 +30117,11 @@
 						"fa": 2,
 						"id": 2,
 						"pt_BR": 2
+					}
+				},
+				"yum-config-manager": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zathura": {
@@ -34977,7 +35025,7 @@
 				"lo": 4,
 				"ml": 3,
 				"ne": 5,
-				"nl": 34,
+				"nl": 35,
 				"no": 4,
 				"pl": 14,
 				"pt_BR": 13,
@@ -36387,12 +36435,14 @@
 				},
 				"sdelete": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"sdelete64": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"select-string": {
