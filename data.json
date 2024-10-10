@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 09-Oct-24 02:00:05 CEST",
+	"last_update": "Thursday, 10-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -444,7 +444,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 15,
+				"nl": 16,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -1126,6 +1126,11 @@
 						"ml": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"animdl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"anki": {
@@ -13863,6 +13868,7 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -13870,61 +13876,77 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"npm-fund": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"npm-home": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"npm-name": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
+					}
+				},
+				"npm-outdated": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-query": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"npm-restart": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npm-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npm-run-script": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npm-start": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npm-stop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npm-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npm-why": {
@@ -13932,6 +13954,7 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"sv": 2
 					}
 				},
@@ -29852,6 +29875,11 @@
 						"pt_BR": 2
 					}
 				},
+				"wtype": {
+					"status": {
+						"en": 2
+					}
+				},
 				"x0vncserver": {
 					"status": {
 						"en": 2
@@ -35021,7 +35049,7 @@
 				"id": 17,
 				"it": 16,
 				"ja": 10,
-				"ko": 7,
+				"ko": 10,
 				"lo": 4,
 				"ml": 3,
 				"ne": 5,
@@ -36731,7 +36759,8 @@
 				},
 				"wait-process": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wget": {
@@ -36773,6 +36802,7 @@
 						"bn": 2,
 						"en": 2,
 						"fa": 1,
+						"ko": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -36780,6 +36810,7 @@
 				"where-object": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -36789,6 +36820,7 @@
 						"fr": 1,
 						"id": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 2,
@@ -36803,6 +36835,7 @@
 						"hi": 2,
 						"id": 2,
 						"it": 1,
+						"ko": 2,
 						"ta": 2,
 						"zh": 1,
 						"zh_TW": 2
@@ -36810,7 +36843,8 @@
 				},
 				"wmic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wsl": {
