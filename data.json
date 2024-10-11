@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 10-Oct-24 02:00:05 CEST",
+	"last_update": "Friday, 11-Oct-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2668,6 +2668,11 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"bind": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bindkey": {
@@ -12913,7 +12918,7 @@
 						"bs": 1,
 						"en": 2,
 						"es": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"mkfile": {
@@ -17589,9 +17594,9 @@
 				},
 				"rev": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"sv": 2
+						"sv": 1
 					}
 				},
 				"rfetch": {
@@ -18460,7 +18465,8 @@
 				},
 				"shotcut": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"showfigfonts": {
@@ -24127,7 +24133,8 @@
 				},
 				"dnf-config-manager": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"dnf5": {
@@ -27357,6 +27364,11 @@
 						"en": 2
 					}
 				},
+				"pvscan": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pw-cat": {
 					"status": {
 						"en": 2,
@@ -30149,7 +30161,8 @@
 				},
 				"yum-config-manager": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"zathura": {
@@ -30463,8 +30476,8 @@
 				"fa": 0,
 				"fi": 0,
 				"fr": 40,
-				"hi": 41,
-				"id": 45,
+				"hi": 40,
+				"id": 44,
 				"it": 43,
 				"ja": 0,
 				"ko": 40,
@@ -30473,7 +30486,7 @@
 				"ne": 0,
 				"nl": 54,
 				"no": 0,
-				"pl": 44,
+				"pl": 43,
 				"pt_BR": 58,
 				"pt_PT": 43,
 				"ro": 0,
@@ -30482,12 +30495,12 @@
 				"sr": 0,
 				"sv": 0,
 				"ta": 41,
-				"th": 41,
+				"th": 40,
 				"tr": 40,
 				"uk": 0,
 				"uz": 0,
 				"zh": 62,
-				"zh_TW": 41
+				"zh_TW": 40
 			},
 			"pages": {
 				"aa": {
@@ -30717,7 +30730,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"id": 1,
 						"it": 1,
 						"nl": 2,
@@ -34064,24 +34077,10 @@
 				},
 				"launchd": {
 					"status": {
-						"de": 1,
 						"en": 2,
-						"es": 1,
-						"fr": 1,
-						"hi": 1,
-						"id": 1,
-						"it": 1,
-						"ko": 1,
-						"ne": 1,
 						"nl": 2,
-						"pl": 1,
 						"pt_BR": 2,
-						"pt_PT": 1,
-						"ta": 2,
-						"th": 1,
-						"tr": 1,
-						"zh": 1,
-						"zh_TW": 1
+						"ta": 2
 					}
 				},
 				"lipo": {
@@ -34123,7 +34122,7 @@
 				"look": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"nl": 2,
 						"zh": 1
 					}
@@ -35049,7 +35048,7 @@
 				"id": 17,
 				"it": 16,
 				"ja": 10,
-				"ko": 10,
+				"ko": 12,
 				"lo": 4,
 				"ml": 3,
 				"ne": 5,
@@ -36730,6 +36729,7 @@
 						"en": 2,
 						"fa": 2,
 						"id": 2,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2,
@@ -36738,23 +36738,27 @@
 				},
 				"virtualboxvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vol": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"vswhere": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"w32tm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wait-process": {
