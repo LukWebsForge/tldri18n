@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 11-Oct-24 02:00:07 CEST",
+	"last_update": "Saturday, 12-Oct-24 02:00:21 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 8,
 				"it": 11,
 				"ja": 2,
-				"ko": 24,
+				"ko": 30,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -470,10 +470,10 @@
 						"en": 2,
 						"es": 1,
 						"hi": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
-						"ko": 1,
-						"nl": 1,
+						"ko": 2,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"zh": 1
@@ -519,6 +519,7 @@
 						"pt_PT": 1,
 						"ru": 1,
 						"tr": 1,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -540,6 +541,7 @@
 						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -598,8 +600,8 @@
 				"^": {
 					"status": {
 						"en": 2,
-						"id": 1,
-						"ko": 1,
+						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 1
 					}
@@ -775,7 +777,8 @@
 				},
 				"adb-devices": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"adb-install": {
@@ -806,7 +809,8 @@
 				},
 				"adb-reboot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"adb-reverse": {
@@ -1130,7 +1134,8 @@
 				},
 				"animdl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"anki": {
@@ -1324,6 +1329,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -1722,6 +1728,7 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"tr": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -2078,6 +2085,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-sso": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-sts": {
@@ -3258,7 +3270,7 @@
 						"es": 2,
 						"fr": 1,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -3896,6 +3908,7 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"th": 2
 					}
 				},
@@ -3906,6 +3919,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"th": 2
 					}
 				},
@@ -3916,7 +3930,8 @@
 						"id": 2,
 						"it": 1,
 						"ko": 1,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"clang++": {
@@ -3925,7 +3940,8 @@
 						"en": 2,
 						"id": 2,
 						"ko": 1,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"clang-cpp": {
@@ -3961,20 +3977,23 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"clang-tidy": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"clangd": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"clear": {
@@ -4007,22 +4026,26 @@
 				},
 				"clido": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"clifm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"clip-view": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"clj": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -4282,7 +4305,8 @@
 				},
 				"compopt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"composer": {
@@ -4297,17 +4321,20 @@
 				},
 				"composer-require-checker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"conan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"conan-frogarian": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"conda": {
@@ -4321,12 +4348,14 @@
 				"conda-create": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"conda-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"consul": {
@@ -4393,7 +4422,8 @@
 				},
 				"cosign": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cotton": {
@@ -4442,7 +4472,8 @@
 				"cpdf": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"cpio": {
@@ -4470,7 +4501,8 @@
 				"crackle": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"cradle": {
@@ -4648,12 +4680,14 @@
 				},
 				"crictl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"croc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cron": {
@@ -4679,7 +4713,8 @@
 				},
 				"cronic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"crontab": {
@@ -4688,12 +4723,14 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
+						"pt_BR": 2,
 						"zh_TW": 2
 					}
 				},
 				"crunch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cryfs": {
@@ -4712,37 +4749,44 @@
 				},
 				"cs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cs-complete-dep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cs-fetch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cs-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cs-java": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cs-launch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cs-resolve": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"csc": {
@@ -4755,7 +4799,8 @@
 				"csh": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"csslint": {
@@ -4768,12 +4813,14 @@
 				},
 				"csv-diff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"csv2tsv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"csvclean": {
@@ -4807,7 +4854,8 @@
 				"csvkit": {
 					"status": {
 						"en": 2,
-						"fa": 2
+						"fa": 2,
+						"ko": 2
 					}
 				},
 				"csvlook": {
@@ -4835,7 +4883,8 @@
 				"csvsql": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"csvstat": {
@@ -4847,12 +4896,14 @@
 				},
 				"csvtool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ctags": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ctest": {
@@ -4865,6 +4916,7 @@
 				"cups": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -4872,24 +4924,28 @@
 				"cups-config": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"cupsaccept": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"cupsctl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"cupsd": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -4897,24 +4953,28 @@
 				"cupsdisable": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"cupsenable": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"cupsreject": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"cupstestppd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"curl": {
@@ -4947,45 +5007,53 @@
 				},
 				"cvs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cwebp": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"cypher-shell": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"czkawka-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"d2": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"d8": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dalfox": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"daps": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -5002,6 +5070,7 @@
 						"de": 1,
 						"en": 2,
 						"fr": 1,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 1
 					}
@@ -5011,12 +5080,14 @@
 						"en": 2,
 						"fr": 1,
 						"it": 1,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"datashader_cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"date": {
@@ -5033,22 +5104,26 @@
 				"dc": {
 					"status": {
 						"en": 2,
-						"it": 1
+						"it": 1,
+						"ko": 2
 					}
 				},
 				"dcfldd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dcg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dcode": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dd": {
@@ -5057,40 +5132,47 @@
 						"en": 2,
 						"fa": 1,
 						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"ddev": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ddgr": {
 					"status": {
 						"en": 2,
-						"fa": 2
+						"fa": 2,
+						"ko": 2
 					}
 				},
 				"decaffeinate": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"declare": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"deemix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"delta": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"deluge": {
@@ -5143,13 +5225,15 @@
 				},
 				"devcontainer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"devenv": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"dexdump": {
@@ -5182,7 +5266,8 @@
 				},
 				"dfc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dhclient": {
@@ -5193,7 +5278,8 @@
 				},
 				"dhcpig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dhcpwn": {
@@ -5205,7 +5291,8 @@
 				},
 				"dict": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"diff": {
@@ -5225,12 +5312,14 @@
 				},
 				"diff-pdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"diffoscope": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"diffstat": {
@@ -5243,7 +5332,8 @@
 				"difft": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"dig": {
@@ -5259,7 +5349,8 @@
 				},
 				"dillo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dircolors": {
@@ -5274,6 +5365,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -5298,23 +5390,27 @@
 				"dirsearch": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"diskonaut": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"disown": {
 					"status": {
 						"en": 2,
-						"hi": 2
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"distccd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dive": {
@@ -5335,28 +5431,33 @@
 				"djxl": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"dlv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dmd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dnsx": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"doas": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"docker": {
@@ -5394,6 +5495,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -5425,6 +5527,7 @@
 				"docker-container-diff": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -5432,6 +5535,7 @@
 				"docker-container-remove": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -5439,6 +5543,7 @@
 				"docker-container-rename": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -5446,6 +5551,7 @@
 				"docker-container-rm": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -5453,6 +5559,7 @@
 				"docker-container-top": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -5464,6 +5571,7 @@
 						"fr": 2,
 						"it": 2,
 						"ja": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -5471,6 +5579,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -5480,6 +5589,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5512,6 +5622,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5520,6 +5631,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -5528,6 +5640,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -5559,6 +5672,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5570,6 +5684,7 @@
 						"fr": 2,
 						"id": 2,
 						"ja": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5578,6 +5693,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -5585,6 +5701,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -5592,6 +5709,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -5600,6 +5718,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5610,6 +5729,7 @@
 						"en": 2,
 						"fr": 2,
 						"ja": 2,
+						"ko": 2,
 						"pt_BR": 1,
 						"tr": 1,
 						"zh": 2
@@ -5620,6 +5740,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5629,6 +5750,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5638,6 +5760,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5647,6 +5770,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -5656,6 +5780,7 @@
 						"en": 2,
 						"fr": 2,
 						"ja": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5665,6 +5790,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5674,6 +5800,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5684,6 +5811,7 @@
 						"en": 2,
 						"fr": 2,
 						"ja": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -5691,18 +5819,21 @@
 				"docker-tag": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"docker-top": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"docker-update": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -5710,6 +5841,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -6799,6 +6931,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -6978,13 +7111,15 @@
 				"fossil": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"fossil-add": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"fossil-ci": {
@@ -7023,7 +7158,8 @@
 				"fossil-commit": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"fossil-delete": {
@@ -7095,7 +7231,8 @@
 				"fossil-init": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"fossil-new": {
@@ -7134,7 +7271,8 @@
 				"fossil-rm": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"fping": {
@@ -7148,6 +7286,7 @@
 						"en": 2,
 						"id": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"th": 2
 					}
 				},
@@ -7160,6 +7299,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -7168,6 +7308,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2
 					}
 				},
@@ -7175,6 +7316,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2
 					}
 				},
@@ -7315,107 +7457,128 @@
 						"da": 2,
 						"de": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-app": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-auth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-components-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-components-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-compute": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-config-set": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-container": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-feedback": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-iam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-kms-decrypt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-logging-logs-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-projects": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-sql-backups-describe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-sql-export-sql": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-topic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcloud-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcpdiag": {
@@ -7567,44 +7730,53 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"gh-alias": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"gh-api": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-auth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-browse": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-codespace": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"ko": 2,
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"gh-completion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-cs": {
@@ -7642,109 +7814,130 @@
 				},
 				"gh-environment": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-extension": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-formatting": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-gist": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"gh-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-issue": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-issue-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-label": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-mintty": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-pr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-pr-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-pr-merge": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-reference": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-release": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-repo": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 1
 					}
 				},
 				"gh-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-screensaver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-secret": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-secret-set": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-ssh-key": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-workflow": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ghc": {
@@ -8117,7 +8310,8 @@
 						"id": 2,
 						"ko": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"uk": 2
 					}
 				},
 				"git-cherry-pick": {
@@ -8130,7 +8324,8 @@
 						"it": 2,
 						"ko": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"uk": 2
 					}
 				},
 				"git-clean": {
@@ -9946,6 +10141,7 @@
 						"ru": 2,
 						"ta": 2,
 						"tr": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -13596,7 +13792,7 @@
 				"nice": {
 					"status": {
 						"en": 2,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"nikto": {
@@ -14268,6 +14464,11 @@
 					}
 				},
 				"onefetch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"onionsearch": {
 					"status": {
 						"en": 2
 					}
@@ -17864,128 +18065,152 @@
 				"rustc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
 				},
 				"rustdoc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustfmt": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2,
 						"zh": 2
 					}
 				},
 				"rustic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustscan": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"rustup": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"rustup-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-completions": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-component": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-default": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-doc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-init.sh": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"rustup-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-man": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-override": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-self": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-set": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-target": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-toolchain": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rustup-which": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rvm": {
@@ -19226,6 +19451,7 @@
 						"pt_BR": 2,
 						"ru": 1,
 						"tr": 2,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -19433,13 +19659,13 @@
 				},
 				"time": {
 					"status": {
-						"bs": 2,
+						"bs": 1,
 						"en": 2,
-						"fa": 2,
-						"hi": 2,
-						"nl": 2,
-						"no": 2,
-						"sv": 2
+						"fa": 1,
+						"hi": 1,
+						"nl": 1,
+						"no": 1,
+						"sv": 1
 					}
 				},
 				"timeout": {
@@ -22213,14 +22439,14 @@
 				"de": 7,
 				"en": 100,
 				"es": 13,
-				"fa": 1,
+				"fa": 0,
 				"fi": 0,
-				"fr": 7,
+				"fr": 6,
 				"hi": 3,
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 5,
+				"ko": 4,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -22382,6 +22608,16 @@
 						"en": 2,
 						"es": 2,
 						"pt_BR": 2
+					}
+				},
+				"abrt-action-analyze-backtrace": {
+					"status": {
+						"en": 2
+					}
+				},
+				"abrt-action-analyze-c": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ac": {
@@ -23058,6 +23294,11 @@
 					}
 				},
 				"blastp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bleachbit": {
 					"status": {
 						"en": 2
 					}
@@ -23995,6 +24236,11 @@
 						"en": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"diffimg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dir": {
@@ -25213,7 +25459,8 @@
 				},
 				"insmod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"instaloader": {
@@ -25330,7 +25577,8 @@
 				"ip6tables-restore": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"ip6tables-save": {
@@ -26966,7 +27214,17 @@
 						"en": 2
 					}
 				},
+				"pdfattach": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pdfcrop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pdfdetach": {
 					"status": {
 						"en": 2
 					}
@@ -29033,7 +29291,8 @@
 				"tailf": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"talk": {
@@ -29412,7 +29671,13 @@
 				"unmount": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
+					}
+				},
+				"unopkg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"unshadow": {
@@ -35038,7 +35303,7 @@
 				"ca": 3,
 				"cs": 0,
 				"da": 2,
-				"de": 19,
+				"de": 18,
 				"en": 100,
 				"es": 11,
 				"fa": 1,
@@ -35105,6 +35370,11 @@
 					"status": {
 						"en": 2,
 						"hi": 2
+					}
+				},
+				"bleachbit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bleachbit_console": {
