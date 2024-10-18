@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 17-Oct-24 02:00:07 CEST",
+	"last_update": "Friday, 18-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4616,6 +4616,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"crane-cp": {
+					"status": {
+						"en": 2
 					}
 				},
 				"crane-delete": {
@@ -14341,6 +14346,11 @@
 						"nl": 2
 					}
 				},
+				"npm-token": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-uninstall": {
 					"status": {
 						"en": 2
@@ -22302,6 +22312,11 @@
 					}
 				},
 				"zapier-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zapier-push": {
 					"status": {
 						"en": 2
 					}
