@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 18-Oct-24 02:00:05 CEST",
+	"last_update": "Saturday, 19-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -468,7 +468,7 @@
 						"bn": 1,
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"hi": 1,
 						"id": 2,
 						"it": 1,
@@ -4490,6 +4490,11 @@
 						"tr": 1,
 						"zh": 1,
 						"zh_TW": 1
+					}
+				},
+				"cpan": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cpdf": {
@@ -26135,6 +26140,11 @@
 					}
 				},
 				"latte-dock": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lbu": {
 					"status": {
 						"en": 2
 					}
