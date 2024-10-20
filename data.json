@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 19-Oct-24 02:00:05 CEST",
+	"last_update": "Sunday, 20-Oct-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -813,7 +813,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"adb-reverse": {
@@ -2887,6 +2888,12 @@
 						"ko": 2
 					}
 				},
+				"brave": {
+					"status": {
+						"en": 2,
+						"id": 2
+					}
+				},
 				"brew": {
 					"status": {
 						"en": 2,
@@ -3823,6 +3830,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
@@ -13184,6 +13192,12 @@
 						"ru": 2
 					}
 				},
+				"microsoft-edge": {
+					"status": {
+						"en": 2,
+						"id": 2
+					}
+				},
 				"mid3v2": {
 					"status": {
 						"en": 2,
@@ -13589,6 +13603,12 @@
 						"uk": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"msedge": {
+					"status": {
+						"en": 2,
+						"id": 2
 					}
 				},
 				"msfconsole": {
@@ -14277,6 +14297,11 @@
 						"nl": 2
 					}
 				},
+				"npm-doctor": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-fund": {
 					"status": {
 						"en": 2,
@@ -14367,6 +14392,11 @@
 					}
 				},
 				"npm-update": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-view": {
 					"status": {
 						"en": 2
 					}
@@ -14805,6 +14835,12 @@
 						"en": 2
 					}
 				},
+				"opera": {
+					"status": {
+						"en": 2,
+						"id": 2
+					}
+				},
 				"opt": {
 					"status": {
 						"en": 2
@@ -14842,6 +14878,11 @@
 					}
 				},
 				"ouch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"oxipng": {
 					"status": {
 						"en": 2
 					}
@@ -20305,24 +20346,10 @@
 				},
 				"transmission": {
 					"status": {
-						"de": 1,
 						"en": 2,
-						"es": 1,
-						"fr": 1,
-						"hi": 1,
-						"id": 1,
-						"it": 1,
-						"ko": 1,
-						"ne": 1,
 						"nl": 2,
-						"pl": 1,
 						"pt_BR": 2,
-						"pt_PT": 1,
-						"ta": 2,
-						"th": 1,
-						"tr": 1,
-						"zh": 1,
-						"zh_TW": 1
+						"ta": 2
 					}
 				},
 				"transmission-cli": {
@@ -21279,6 +21306,12 @@
 				"viu": {
 					"status": {
 						"en": 2
+					}
+				},
+				"vivaldi": {
+					"status": {
+						"en": 2,
+						"id": 2
 					}
 				},
 				"vladimyr": {
@@ -22719,7 +22752,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 99,
-				"es": 13,
+				"es": 14,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -23741,6 +23774,7 @@
 				"btrfs": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"hi": 2,
 						"ko": 2,
@@ -23751,6 +23785,7 @@
 				"btrfs-balance": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -23758,6 +23793,7 @@
 				"btrfs-check": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -23766,6 +23802,7 @@
 				"btrfs-device": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -23775,6 +23812,7 @@
 				"btrfs-filesystem": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -23784,6 +23822,7 @@
 				"btrfs-inspect-internal": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -23792,6 +23831,7 @@
 				"btrfs-property": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -23799,6 +23839,7 @@
 				"btrfs-rescue": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -23807,6 +23848,7 @@
 				"btrfs-restore": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -23815,6 +23857,7 @@
 				"btrfs-scrub": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -23824,6 +23867,7 @@
 				"btrfs-subvolume": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -23833,6 +23877,7 @@
 				"btrfs-version": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -25429,6 +25474,12 @@
 				"goobook": {
 					"status": {
 						"en": 2
+					}
+				},
+				"google-chrome-stable": {
+					"status": {
+						"en": 2,
+						"id": 2
 					}
 				},
 				"gpasswd": {
@@ -27306,6 +27357,12 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"opera-stable": {
+					"status": {
+						"en": 2,
+						"id": 2
 					}
 				},
 				"opkg": {
@@ -30296,6 +30353,12 @@
 				"virt-xml-validate": {
 					"status": {
 						"en": 2
+					}
+				},
+				"vivaldi-stable": {
+					"status": {
+						"en": 2,
+						"id": 2
 					}
 				},
 				"vkpurge": {
@@ -35688,11 +35751,11 @@
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
-				"hi": 16,
-				"id": 17,
+				"hi": 15,
+				"id": 18,
 				"it": 15,
 				"ja": 9,
-				"ko": 25,
+				"ko": 31,
 				"lo": 3,
 				"ml": 2,
 				"ne": 4,
@@ -35712,7 +35775,7 @@
 				"uk": 2,
 				"uz": 0,
 				"zh": 45,
-				"zh_TW": 17
+				"zh_TW": 16
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -36008,6 +36071,12 @@
 						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"chromium": {
+					"status": {
+						"en": 2,
+						"id": 2
 					}
 				},
 				"cinst": {
@@ -36626,6 +36695,12 @@
 						"nl": 2
 					}
 				},
+				"microsoft-edge": {
+					"status": {
+						"en": 2,
+						"id": 2
+					}
+				},
 				"mkdir": {
 					"status": {
 						"bn": 2,
@@ -36673,6 +36748,12 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"msedge": {
+					"status": {
+						"en": 2,
+						"id": 2
 					}
 				},
 				"msg": {
@@ -37167,22 +37248,26 @@
 				"sfc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"show-markdown": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"showmount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"shutdown": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 1
 					}
@@ -37191,18 +37276,21 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"slmgr": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"slmgr.vbs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -37241,28 +37329,33 @@
 				},
 				"sort-object": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"start-service": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stop-service": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"subst": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"systeminfo": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
