@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 20-Oct-24 02:00:07 CEST",
+	"last_update": "Monday, 21-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -145,7 +145,7 @@
 						"id": 1,
 						"ko": 1,
 						"ne": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"pt_PT": 1,
@@ -440,7 +440,7 @@
 				"id": 8,
 				"it": 11,
 				"ja": 2,
-				"ko": 35,
+				"ko": 38,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -1576,7 +1576,7 @@
 						"it": 1,
 						"ko": 1,
 						"ne": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"zh": 1
@@ -2232,7 +2232,8 @@
 				},
 				"az-image": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-lock": {
@@ -2243,7 +2244,8 @@
 				},
 				"az-logicapp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"az-login": {
@@ -2586,6 +2588,7 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_PT": 1
 					}
@@ -2634,6 +2637,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"bear": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bedtools": {
@@ -3064,24 +3072,10 @@
 				},
 				"bundler": {
 					"status": {
-						"de": 2,
 						"en": 2,
-						"es": 2,
 						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"ne": 2,
 						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"ta": 2
 					}
 				},
 				"bundletool": {
@@ -3686,6 +3680,11 @@
 						"zh_TW": 1
 					}
 				},
+				"cdecl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cdk": {
 					"status": {
 						"en": 2,
@@ -3902,35 +3901,14 @@
 				},
 				"clamav": {
 					"status": {
-						"ar": 1,
-						"bs": 1,
 						"ca": 2,
-						"da": 1,
-						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
-						"hi": 1,
 						"id": 2,
-						"it": 1,
-						"ja": 1,
-						"ko": 1,
-						"lo": 1,
-						"ml": 1,
-						"ne": 1,
 						"nl": 2,
-						"no": 1,
-						"pl": 1,
 						"pt_BR": 2,
-						"pt_PT": 1,
-						"ru": 1,
-						"sv": 1,
 						"ta": 2,
-						"th": 2,
-						"tr": 1,
-						"uk": 1,
-						"zh": 1,
-						"zh_TW": 1
+						"th": 2
 					}
 				},
 				"clamdscan": {
@@ -4758,23 +4736,8 @@
 				},
 				"cron": {
 					"status": {
-						"de": 2,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"ta": 2
 					}
 				},
 				"cronic": {
@@ -6459,6 +6422,7 @@
 				"ed": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -6940,6 +6904,7 @@
 				"fc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
 						"zh": 1
@@ -6948,77 +6913,90 @@
 				"fc-cache": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"fc-list": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 1,
 						"zh": 2
 					}
 				},
 				"fc-match": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fc-pattern": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fclones": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"fd": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"fdp": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"fdroid": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fdroidcl": {
 					"status": {
 						"de": 1,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fdupes": {
 					"status": {
 						"en": 2,
-						"fr": 1
+						"fr": 1,
+						"ko": 2
 					}
 				},
 				"feh": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"zh": 1
 					}
 				},
 				"feroxbuster": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ffe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ffmpeg": {
@@ -7026,20 +7004,23 @@
 						"de": 1,
 						"en": 2,
 						"it": 1,
+						"ko": 2,
 						"ne": 2,
 						"pt_BR": 2
 					}
 				},
 				"ffplay": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ffprobe": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"ffsend": {
@@ -7047,13 +7028,15 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"ffuf": {
 					"status": {
 						"en": 2,
-						"fr": 1
+						"fr": 1,
+						"ko": 2
 					}
 				},
 				"fg": {
@@ -7063,24 +7046,28 @@
 						"fa": 2,
 						"hi": 2,
 						"ja": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"fgrep": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"fiascotopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"figlet": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"file": {
@@ -7088,12 +7075,14 @@
 						"de": 2,
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"fin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"find": {
@@ -7110,24 +7099,28 @@
 				"finger": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"fio": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"firebase": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"firefox": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -7137,109 +7130,129 @@
 						"de": 1,
 						"en": 2,
 						"fr": 1,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"fisher": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fitstopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fkill": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flac": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"flake8": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"flarectl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flask": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flex": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flips": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"flite": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flock": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"flow": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flutter": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"flutter-pub": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fluxctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fly": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flyctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fmt": {
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -7247,24 +7260,28 @@
 				"fnm": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"fold": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"for": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"forever": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fortune": {
@@ -7272,17 +7289,20 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
-						"fa": 2
+						"fa": 2,
+						"ko": 2
 					}
 				},
 				"fossa": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fossil": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -7290,6 +7310,7 @@
 				"fossil-add": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -7330,6 +7351,7 @@
 				"fossil-commit": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -7403,6 +7425,7 @@
 				"fossil-init": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -7443,6 +7466,7 @@
 				"fossil-rm": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -7450,13 +7474,15 @@
 				"fping": {
 					"status": {
 						"en": 2,
-						"id": 1
+						"id": 1,
+						"ko": 2
 					}
 				},
 				"freshclam": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"th": 2
@@ -7464,7 +7490,8 @@
 				},
 				"from": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"frp": {
@@ -7472,6 +7499,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -7481,6 +7509,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -7489,33 +7518,39 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"fselect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fstopgm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fswatch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fswebcam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ftp": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1
 					}
@@ -7525,34 +7560,40 @@
 						"de": 2,
 						"en": 2,
 						"hi": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"func": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"funzip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fusermount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fvm": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"fzf": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
@@ -7568,40 +7609,47 @@
 				},
 				"gacutil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gallery-dl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gammastep": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ganache-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gatsby": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"gau": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"gcal": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -7609,6 +7657,7 @@
 				"gcalcli": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -7757,72 +7806,86 @@
 				},
 				"gcpdiag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcrane": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcrane-copy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcrane-gc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcrane-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcrane-ls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdal2tiles.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdal_contour": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdal_translate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdaladdo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdalbuildvrt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdaldem": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdalinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdalwarp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdb": {
@@ -7837,23 +7900,27 @@
 				},
 				"gdc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdown": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"gdrive": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdu": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -7861,6 +7928,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
@@ -7868,6 +7936,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -7876,29 +7945,34 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"get-nodeinstalllocation": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"get-nodeversions": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"geth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gfortran": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh": {
@@ -10476,7 +10550,8 @@
 				"gzip": {
 					"status": {
 						"en": 2,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"uk": 2
 					}
 				},
 				"hadolint": {
@@ -12938,6 +13013,7 @@
 				"magick": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -12946,6 +13022,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"hi": 2,
 						"ko": 2,
@@ -12956,6 +13033,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"it": 1,
 						"ko": 2,
@@ -12973,6 +13051,7 @@
 				"magick-import": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -12987,6 +13066,7 @@
 				"magick-montage": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -14370,6 +14450,11 @@
 						"nl": 2
 					}
 				},
+				"npm-team": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-test": {
 					"status": {
 						"en": 2,
@@ -14930,7 +15015,8 @@
 				},
 				"pactl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pageres": {
@@ -16777,12 +16863,14 @@
 				},
 				"polybar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"polybar-msg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pop": {
@@ -18117,23 +18205,7 @@
 				},
 				"ripgrep": {
 					"status": {
-						"de": 2,
-						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"en": 2
 					}
 				},
 				"rkdeveloptool": {
@@ -18772,6 +18844,7 @@
 					"status": {
 						"da": 1,
 						"en": 2,
+						"es": 2,
 						"ja": 1,
 						"ko": 2,
 						"nl": 2
@@ -20230,24 +20303,9 @@
 				},
 				"todoman": {
 					"status": {
-						"de": 2,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"ne": 2,
 						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"ta": 2
 					}
 				},
 				"toipe": {
@@ -20782,6 +20840,7 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"ru": 1,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -22448,6 +22507,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
+						"uk": 2,
 						"zh": 1
 					}
 				},
@@ -23424,7 +23484,6 @@
 				"at": {
 					"status": {
 						"fr": 2,
-						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -25226,6 +25285,7 @@
 						"en": 2,
 						"es": 2,
 						"hi": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"zh": 1
@@ -25233,13 +25293,15 @@
 				},
 				"flatpak-builder": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flatpak-run": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"fluidsynth": {
@@ -26295,6 +26357,11 @@
 					}
 				},
 				"links": {
+					"status": {
+						"en": 2
+					}
+				},
+				"links2": {
 					"status": {
 						"en": 2
 					}
@@ -28672,7 +28739,8 @@
 				},
 				"rofi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rolldice": {
@@ -30727,7 +30795,7 @@
 					"status": {
 						"ca": 1,
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"xfs_repair": {
@@ -31373,7 +31441,7 @@
 				"base64": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"hi": 1,
 						"id": 2,
 						"it": 1,
@@ -35755,7 +35823,7 @@
 				"id": 18,
 				"it": 15,
 				"ja": 9,
-				"ko": 31,
+				"ko": 34,
 				"lo": 3,
 				"ml": 2,
 				"ne": 4,
@@ -36302,6 +36370,7 @@
 						"bn": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"nl": 2,
 						"pl": 2,
@@ -37207,6 +37276,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"ko": 2,
 						"pl": 2,
 						"ru": 2,
 						"zh": 2,
@@ -37215,34 +37285,40 @@
 				},
 				"set-acl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"set-date": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"set-location": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"set-service": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"set-volume": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"setx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sfc": {
