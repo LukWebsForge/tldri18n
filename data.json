@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 21-Oct-24 02:00:05 CEST",
+	"last_update": "Tuesday, 22-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8193,62 +8193,73 @@
 				"ghc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"ghci": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"ghcup": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"ghdl": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"ghost": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gibo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gifdiff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gifsicle": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"giftopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gimp": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"ru": 1
 					}
 				},
 				"gist": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"uk": 2
 					}
 				},
@@ -14436,6 +14447,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"npm-search": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-start": {
