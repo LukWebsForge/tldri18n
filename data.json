@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 22-Oct-24 02:00:05 CEST",
+	"last_update": "Wednesday, 23-Oct-24 02:00:05 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -138,7 +138,7 @@
 						"bn": 1,
 						"de": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"fr": 1,
 						"hi": 1,
@@ -554,6 +554,7 @@
 						"es": 1,
 						"fa": 2,
 						"fr": 1,
+						"hi": 2,
 						"id": 2,
 						"it": 1,
 						"ja": 1,
@@ -26178,6 +26179,16 @@
 					}
 				},
 				"kjv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"knock": {
+					"status": {
+						"en": 2
+					}
+				},
+				"knockd": {
 					"status": {
 						"en": 2
 					}
