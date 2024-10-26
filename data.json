@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 25-Oct-24 02:00:07 CEST",
+	"last_update": "Saturday, 26-Oct-24 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2266,7 +2266,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh_TW": 2
 					}
 				},
 				"az-logout": {
@@ -2274,7 +2275,8 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh_TW": 2
 					}
 				},
 				"az-network": {
@@ -4146,6 +4148,7 @@
 				"cmatrix": {
 					"status": {
 						"ca": 2,
+						"de": 2,
 						"en": 2,
 						"it": 2,
 						"ko": 2,
@@ -4499,7 +4502,8 @@
 				},
 				"cpan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cpdf": {
@@ -4630,7 +4634,8 @@
 				},
 				"crane-cp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"crane-delete": {
@@ -20382,7 +20387,7 @@
 					"status": {
 						"ca": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"hi": 1,
 						"id": 1,
 						"ko": 2,
@@ -22328,7 +22333,7 @@
 				"yes": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"nl": 2,
 						"pl": 2,
@@ -23712,6 +23717,7 @@
 				},
 				"betterlockscreen": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"zh": 2
@@ -24330,6 +24336,11 @@
 						"en": 2
 					}
 				},
+				"cointop": {
+					"status": {
+						"en": 2
+					}
+				},
 				"collectd": {
 					"status": {
 						"en": 2
@@ -24392,7 +24403,7 @@
 						"ca": 1,
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
@@ -26740,7 +26751,7 @@
 				"man": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 1,
 						"ko": 1,
@@ -29004,7 +29015,7 @@
 				"sbctl": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"scancel": {
@@ -30367,7 +30378,7 @@
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 2,
 						"nl": 2
 					}
@@ -35897,7 +35908,7 @@
 				"id": 18,
 				"it": 15,
 				"ja": 9,
-				"ko": 41,
+				"ko": 43,
 				"lo": 3,
 				"ml": 2,
 				"ne": 4,
@@ -37221,29 +37232,34 @@
 				},
 				"remove-appxpackage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"remove-item": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"repair-bde": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"replace": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"resolve-path": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ri": {
