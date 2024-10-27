@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 26-Oct-24 02:00:07 CEST",
+	"last_update": "Sunday, 27-Oct-24 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -142,7 +142,7 @@
 						"fa": 1,
 						"fr": 1,
 						"hi": 1,
-						"id": 1,
+						"id": 2,
 						"ko": 1,
 						"ne": 1,
 						"nl": 2,
@@ -444,7 +444,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 16,
+				"nl": 17,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -1598,6 +1598,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -2160,7 +2161,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
-						"zh_TW": 1
+						"zh_TW": 2
 					}
 				},
 				"az-account": {
@@ -2480,6 +2481,7 @@
 				"bandwhich": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -2487,6 +2489,7 @@
 					"status": {
 						"en": 2,
 						"hi": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -2962,12 +2965,14 @@
 				"brew-list": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
 				"brew-outdated": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -3209,6 +3214,7 @@
 				"cake": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -3292,6 +3298,7 @@
 				"cancel": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -4182,6 +4189,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"pt_BR": 2,
@@ -4473,6 +4481,7 @@
 				"cowsay": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 1
 					}
@@ -4593,151 +4602,176 @@
 				"crane": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-append": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-auth": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-blob": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-catalog": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-config": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-copy": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-cp": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-delete": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-digest": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-export": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-flatten": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-index": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-index-append": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-index-filter": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-ls": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-manifest": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-mutate": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-pull": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-push": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-rebase": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-registry": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-tag": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-validate": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"crane-version": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"createdb": {
@@ -7498,7 +7532,7 @@
 				"fping": {
 					"status": {
 						"en": 2,
-						"id": 1,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -7837,31 +7871,36 @@
 				"gcrane": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"gcrane-copy": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"gcrane-gc": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"gcrane-help": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"gcrane-ls": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"gdal2tiles.py": {
@@ -16122,7 +16161,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 1,
-						"id": 1,
+						"id": 2,
 						"nl": 2,
 						"zh_TW": 1
 					}
@@ -18324,7 +18363,8 @@
 				},
 				"roll": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ropgadget": {
@@ -20389,7 +20429,7 @@
 						"en": 2,
 						"es": 2,
 						"hi": 1,
-						"id": 1,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -22741,7 +22781,7 @@
 				"nl": 100,
 				"no": 0,
 				"pl": 0,
-				"pt_BR": 7,
+				"pt_BR": 46,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -22776,7 +22816,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"chpass": {
@@ -22790,7 +22831,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"df": {
@@ -22836,21 +22878,24 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"ypchpass": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"ypchsh": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				}
 			}
@@ -25462,7 +25507,8 @@
 				},
 				"gcrane-completion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gdebi": {
@@ -28822,6 +28868,7 @@
 				"rolldice": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -31338,7 +31385,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 54,
+				"nl": 55,
 				"no": 0,
 				"pl": 43,
 				"pt_BR": 58,
@@ -32250,7 +32297,8 @@
 				},
 				"gcrane-completion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gcsplit": {
@@ -36653,7 +36701,8 @@
 				},
 				"gcrane-completion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"get-acl": {
