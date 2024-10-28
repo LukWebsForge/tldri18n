@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 27-Oct-24 02:00:10 CEST",
+	"last_update": "Monday, 28-Oct-24 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -147,7 +147,7 @@
 						"ne": 1,
 						"nl": 2,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
 						"ta": 1,
@@ -1075,7 +1075,7 @@
 						"ko": 2,
 						"ne": 2,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 2,
 						"ru": 2,
 						"tr": 2,
@@ -2597,7 +2597,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pl": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"tr": 1,
 						"zh": 1
 					}
@@ -3100,6 +3100,7 @@
 						"es": 2,
 						"fr": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"ta": 2
 					}
 				},
@@ -3685,7 +3686,7 @@
 				"cd": {
 					"status": {
 						"ar": 2,
-						"ca": 1,
+						"ca": 2,
 						"cs": 2,
 						"de": 2,
 						"en": 2,
@@ -3730,6 +3731,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"cfssl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"chafa": {
@@ -4324,7 +4330,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"pt_BR": 2
 					}
 				},
 				"compgen": {
@@ -6799,6 +6806,7 @@
 				},
 				"exit": {
 					"status": {
+						"ca": 2,
 						"de": 2,
 						"en": 2,
 						"hi": 2,
@@ -10359,52 +10367,62 @@
 				},
 				"googler": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gopass": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gops": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"goreload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gotelemetry": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gotty": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gouldtoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gource": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gow": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gox": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gpg": {
@@ -14454,6 +14472,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
+					}
+				},
+				"npm-cache": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-check": {
@@ -24947,6 +24970,11 @@
 						"en": 2
 					}
 				},
+				"dpigs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dpkg": {
 					"status": {
 						"de": 1,
@@ -28182,6 +28210,11 @@
 					}
 				},
 				"pveperf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pvremove": {
 					"status": {
 						"en": 2
 					}
@@ -35943,7 +35976,7 @@
 				"ar": 1,
 				"bn": 8,
 				"bs": 2,
-				"ca": 2,
+				"ca": 3,
 				"cs": 0,
 				"da": 1,
 				"de": 18,
@@ -36030,6 +36063,7 @@
 				"cd": {
 					"status": {
 						"bn": 1,
+						"ca": 2,
 						"cs": 1,
 						"de": 1,
 						"en": 2,
@@ -36591,6 +36625,7 @@
 				"exit": {
 					"status": {
 						"bn": 2,
+						"ca": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
