@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 28-Oct-24 01:00:05 CET",
+	"last_update": "Tuesday, 29-Oct-24 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -440,11 +440,11 @@
 				"id": 9,
 				"it": 11,
 				"ja": 2,
-				"ko": 39,
+				"ko": 40,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 17,
+				"nl": 16,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -748,7 +748,7 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ru": 1,
 						"zh": 2
 					}
@@ -2412,7 +2412,8 @@
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"pt_BR": 2
 					}
 				},
 				"azurite": {
@@ -2921,7 +2922,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"pt_BR": 2
 					}
 				},
 				"brew": {
@@ -4423,7 +4425,8 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"pt_BR": 2
 					}
 				},
 				"convmv": {
@@ -10429,23 +10432,27 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"gpg-card": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gpg-tui": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gpg-zip": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -10453,28 +10460,33 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"gpgconf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gpgv": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"gprbuild": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gprof": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle": {
@@ -11339,6 +11351,7 @@
 				"img2pdf": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -13860,7 +13873,8 @@
 				},
 				"mupdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"musescore": {
@@ -14474,6 +14488,11 @@
 						"pt_BR": 2
 					}
 				},
+				"npm-access": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-cache": {
 					"status": {
 						"en": 2
@@ -14672,6 +14691,11 @@
 						"zh_TW": 2
 					}
 				},
+				"ntpctl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nu": {
 					"status": {
 						"en": 2
@@ -14752,6 +14776,21 @@
 						"en": 2
 					}
 				},
+				"nxc-mssql": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nxc-nfs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nxc-rdp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nxc-smb": {
 					"status": {
 						"en": 2,
@@ -14762,6 +14801,16 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"nxc-vnc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nxcdb": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nyxt": {
@@ -14813,7 +14862,8 @@
 				},
 				"ocrmypdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"octave": {
@@ -15730,86 +15780,101 @@
 				},
 				"pdf-parser": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdffonts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfgrep": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"pdfimages": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"pdfinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfjam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfjoin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdflatex": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfposter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfseparate": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdftex": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdftk": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
 				},
 				"pdftocairo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdftotext": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfunite": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"peco": {
@@ -17890,7 +17955,8 @@
 				},
 				"qpdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"qr": {
@@ -19629,6 +19695,11 @@
 				"steamcmd": {
 					"status": {
 						"de": 2,
+						"en": 2
+					}
+				},
+				"step": {
+					"status": {
 						"en": 2
 					}
 				},
@@ -21843,7 +21914,8 @@
 				},
 				"wkhtmltopdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wondershaper": {
@@ -22111,7 +22183,8 @@
 				},
 				"xpdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xplr": {
@@ -22941,7 +23014,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 10,
+				"ko": 12,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -24959,7 +25032,7 @@
 					"status": {
 						"ca": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"zh": 1
@@ -27811,32 +27884,38 @@
 				},
 				"pdfattach": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfcrop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfdetach": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdftohtml": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdftoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfxup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"perf": {
@@ -29679,6 +29758,11 @@
 						"en": 2
 					}
 				},
+				"swww": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sxiv": {
 					"status": {
 						"en": 2
@@ -30230,6 +30314,11 @@
 					}
 				},
 				"tuxi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tzselect": {
 					"status": {
 						"en": 2
 					}
@@ -31065,22 +31154,26 @@
 				"ydotool": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"yetris": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"yplan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ytfzf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"yum": {
@@ -31090,12 +31183,14 @@
 						"es": 2,
 						"fa": 2,
 						"id": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"yum-config-manager": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -31104,49 +31199,63 @@
 						"de": 2,
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"zbarcam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zenity": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zforce": {
+					"status": {
+						"en": 2,
+						"ko": 2
+					}
+				},
+				"zic": {
 					"status": {
 						"en": 2
 					}
 				},
 				"zile": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zip": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"zipsplit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zramctl": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
@@ -31159,6 +31268,7 @@
 						"es": 2,
 						"fr": 2,
 						"it": 1,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 1
 					}
@@ -35831,7 +35941,7 @@
 				"fa": 0,
 				"fi": 0,
 				"fr": 88,
-				"hi": 11,
+				"hi": 22,
 				"id": 100,
 				"it": 0,
 				"ja": 0,
@@ -35913,6 +36023,7 @@
 						"bn": 2,
 						"en": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
