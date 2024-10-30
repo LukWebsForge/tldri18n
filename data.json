@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 29-Oct-24 01:00:05 CET",
+	"last_update": "Wednesday, 30-Oct-24 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -10327,6 +10327,11 @@
 						"en": 2
 					}
 				},
+				"goenv": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gofmt": {
 					"status": {
 						"en": 2,
@@ -13432,6 +13437,11 @@
 					}
 				},
 				"minikube": {
+					"status": {
+						"en": 2
+					}
+				},
+				"minikube-start": {
 					"status": {
 						"en": 2
 					}
@@ -21149,73 +21159,87 @@
 				},
 				"vboxmanage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-clonevm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-cloud": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-controlvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-createvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-export": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-extpack": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-import": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-movevm": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-registervm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-showvminfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-startvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-unregistervm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vcpkg": {
@@ -23014,7 +23038,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 12,
+				"ko": 15,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -25792,22 +25816,26 @@
 				},
 				"grub-bios-setup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"grub-editenv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"grub-file": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"grub-install": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -25815,28 +25843,33 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"grub-reboot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"grub-script-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"grub-set-default": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"grubby": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"gs": {
@@ -27995,6 +28028,7 @@
 				"pipewire": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -28311,6 +28345,7 @@
 				"pw-cat": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 1
 					}
@@ -28318,6 +28353,7 @@
 				"pw-cli": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -28325,23 +28361,27 @@
 				"pw-config": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pw-dot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pw-dump": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"pw-link": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 1
 					}
@@ -28349,6 +28389,7 @@
 				"pw-loopback": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -28356,30 +28397,35 @@
 				"pw-metadata": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pw-mon": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"pw-play": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 1
 					}
 				},
 				"pw-profiler": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pw-record": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -28387,6 +28433,7 @@
 				"pw-top": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -30916,23 +30963,27 @@
 				},
 				"x0vncserver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"x11vnc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xauth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xbacklight": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"xbps": {
@@ -30965,7 +31016,8 @@
 						"ar": 2,
 						"en": 2,
 						"es": 2,
-						"fr": 1
+						"fr": 1,
+						"ko": 2
 					}
 				},
 				"xclock": {
@@ -30981,39 +31033,46 @@
 				},
 				"xcursorgen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xdg-desktop-menu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xdg-mime": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xdg-open": {
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"xdg-settings": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xdg-user-dirs-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xdotool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xed": {
@@ -31056,7 +31115,8 @@
 				},
 				"xinput": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xman": {
@@ -31078,6 +31138,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 1
 					}
@@ -31085,40 +31146,47 @@
 				"xrdb": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_PT": 2
 					}
 				},
 				"xsel": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"xset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xsetwacom": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xterm": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"xtrlock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xvfb-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xwinwrap": {
@@ -35941,7 +36009,7 @@
 				"fa": 0,
 				"fi": 0,
 				"fr": 88,
-				"hi": 22,
+				"hi": 66,
 				"id": 100,
 				"it": 0,
 				"ja": 0,
@@ -35972,6 +36040,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -35985,6 +36054,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -35998,6 +36068,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -36010,6 +36081,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -36100,7 +36172,7 @@
 				"id": 18,
 				"it": 15,
 				"ja": 9,
-				"ko": 43,
+				"ko": 45,
 				"lo": 3,
 				"ml": 2,
 				"ne": 4,
@@ -37264,6 +37336,7 @@
 				"pushd": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -37271,12 +37344,14 @@
 				"pwd": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"pwlauncher": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -37315,7 +37390,8 @@
 				},
 				"query": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rd": {
@@ -37343,6 +37419,7 @@
 				"rdpsign": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
