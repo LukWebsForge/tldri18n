@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 03-Nov-24 01:00:07 CET",
+	"last_update": "Monday, 04-Nov-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -438,9 +438,9 @@
 				"fr": 11,
 				"hi": 2,
 				"id": 9,
-				"it": 11,
+				"it": 10,
 				"ja": 2,
-				"ko": 58,
+				"ko": 60,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -2592,7 +2592,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 2,
 						"it": 1,
@@ -6353,7 +6353,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 2,
@@ -9775,7 +9775,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"hi": 1,
 						"id": 2,
@@ -10832,6 +10832,11 @@
 						"ko": 2
 					}
 				},
+				"hatch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"haxelib": {
 					"status": {
 						"en": 2,
@@ -11120,27 +11125,32 @@
 				},
 				"home-manager": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"host": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hostapd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hostess": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hostid": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"sv": 2
 					}
@@ -11148,6 +11158,7 @@
 				"hostname": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2,
 						"zh": 1
@@ -11157,6 +11168,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -11164,27 +11176,32 @@
 				"hping3": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"hr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hsd-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hsw-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"html5validator": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"htop": {
@@ -14299,7 +14316,7 @@
 				"naabu": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"nano": {
@@ -14826,6 +14843,11 @@
 						"ko": 2
 					}
 				},
+				"npm-author": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-cache": {
 					"status": {
 						"en": 2,
@@ -14896,6 +14918,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"npm-owner": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-query": {
@@ -21738,42 +21765,50 @@
 				},
 				"vagrant": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vala": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"valac": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vale": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"valgrind": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"var-dump-server": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"varnishlog": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vault": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage": {
@@ -21864,44 +21899,52 @@
 				"vcpkg": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"vcsh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vdir": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"vectorize-pixelart": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vegeta": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"vela": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"velero": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"venv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vercel": {
@@ -21912,32 +21955,38 @@
 				},
 				"verilator": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vertical-bar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vgmstream_cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vgrep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vhs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vi": {
@@ -21971,7 +22020,8 @@
 				},
 				"vidir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"view": {
@@ -21980,6 +22030,7 @@
 						"en": 2,
 						"fa": 2,
 						"hi": 2,
+						"ko": 2,
 						"nl": 2,
 						"no": 2,
 						"sv": 2,
@@ -21989,7 +22040,8 @@
 				"vifm": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vim": {
@@ -22014,6 +22066,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -22022,18 +22075,21 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"sv": 2
 					}
 				},
 				"vinmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vipe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virsh": {
@@ -22143,44 +22199,52 @@
 				},
 				"virt-clone": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virt-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virt-qemu-run": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"virt-sparsify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virt-sysprep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virtualenv": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"virtualenvwrapper": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"visudo": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"sv": 1
 					}
@@ -22194,25 +22258,29 @@
 				},
 				"viu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vivaldi": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"vladimyr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vlc": {
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"ne": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -22220,17 +22288,20 @@
 				},
 				"volta": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vsce": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vt": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
@@ -22238,6 +22309,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"pl": 2,
 						"zh": 2
 					}
@@ -22245,25 +22317,29 @@
 				"vue-build": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"vue-init": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"vue-serve": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"vulkaninfo": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"w": {
@@ -37006,7 +37082,7 @@
 				"id": 18,
 				"it": 15,
 				"ja": 9,
-				"ko": 66,
+				"ko": 73,
 				"lo": 3,
 				"ml": 2,
 				"ne": 4,
@@ -37762,81 +37838,96 @@
 				},
 				"get-acl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-alias": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"get-childitem": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-command": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-content": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-date": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-dedupproperties": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-filehash": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"get-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-history": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-location": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"get-wuapiversion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-wuhistory": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-wusettings": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"getmac": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
