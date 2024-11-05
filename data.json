@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 04-Nov-24 01:00:06 CET",
+	"last_update": "Tuesday, 05-Nov-24 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1640,7 +1640,8 @@
 						"en": 2,
 						"fa": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"audacious": {
@@ -8420,7 +8421,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 2,
 						"it": 1,
@@ -11226,45 +11227,53 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1
 					}
 				},
 				"http-server": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"http-server-upload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"httpflow": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"httpie": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"httping": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"httprobe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"httpry": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"https": {
@@ -11272,62 +11281,74 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"httpx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub-branch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub-browse": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub-ci-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub-clone": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub-delete": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub-fork": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub-issue": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"huggingface-cli": {
@@ -14912,6 +14933,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"npm-org": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-outdated": {
@@ -23750,7 +23776,7 @@
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
-				"hi": 92,
+				"hi": 100,
 				"id": 23,
 				"it": 0,
 				"ja": 0,
@@ -23856,6 +23882,7 @@
 				"sed": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -23909,7 +23936,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 99,
-				"es": 14,
+				"es": 15,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -24293,6 +24320,7 @@
 				"apparmor_status": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -26653,6 +26681,7 @@
 				"google-chrome-stable": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"nl": 2,
 						"pl": 2
@@ -28449,6 +28478,7 @@
 				"nmtui-connect": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -28456,6 +28486,7 @@
 				"nmtui-edit": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -28463,6 +28494,7 @@
 				"nmtui-hostname": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -28577,6 +28609,7 @@
 				"opera-stable": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"nl": 2,
 						"pl": 2
@@ -29476,6 +29509,7 @@
 				"qm-import-disk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -29507,6 +29541,7 @@
 				"qm-move-disk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -29514,6 +29549,7 @@
 				"qm-move_disk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -29557,6 +29593,7 @@
 				"qm-resize": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -30947,6 +30984,7 @@
 				"systemd-umount": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -31392,6 +31430,7 @@
 				"update-alternatives": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -31618,6 +31657,7 @@
 				"vivaldi-stable": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"nl": 2,
 						"pl": 2
@@ -32155,6 +32195,7 @@
 				"yum-config-manager": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -32250,7 +32291,7 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 50,
+				"es": 75,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
@@ -32291,6 +32332,7 @@
 				"chfn": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -32305,6 +32347,7 @@
 				"chsh": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -32354,7 +32397,7 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 0,
+				"es": 20,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
@@ -32397,6 +32440,7 @@
 				"chfn": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"ko": 2,
 						"nl": 2,
@@ -32415,6 +32459,7 @@
 				"chsh": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"ko": 2,
 						"nl": 2,
@@ -37074,7 +37119,7 @@
 				"da": 1,
 				"de": 18,
 				"en": 100,
-				"es": 11,
+				"es": 14,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
@@ -37082,11 +37127,11 @@
 				"id": 18,
 				"it": 15,
 				"ja": 9,
-				"ko": 73,
+				"ko": 77,
 				"lo": 3,
 				"ml": 2,
 				"ne": 4,
-				"nl": 37,
+				"nl": 38,
 				"no": 3,
 				"pl": 14,
 				"pt_BR": 13,
@@ -37144,6 +37189,7 @@
 				"bleachbit": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -37182,6 +37228,7 @@
 				"chdir": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -37560,6 +37607,7 @@
 						"hi": 2,
 						"id": 2,
 						"it": 2,
+						"nl": 2,
 						"sv": 2,
 						"ta": 2,
 						"zh": 2,
@@ -37895,7 +37943,8 @@
 				"get-history": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"get-location": {
@@ -37946,23 +37995,27 @@
 				"if": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"install-module": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"invoke-item": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"invoke-webrequest": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -37974,6 +38027,7 @@
 						"id": 2,
 						"it": 1,
 						"ja": 1,
+						"ko": 2,
 						"nl": 2,
 						"ru": 1,
 						"zh": 1,
@@ -37983,6 +38037,7 @@
 				"iscc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -38024,6 +38079,7 @@
 						"en": 2,
 						"id": 2,
 						"it": 2,
+						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -38155,6 +38211,7 @@
 				"netstat": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -38552,6 +38609,7 @@
 				"sc-config": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -38559,6 +38617,7 @@
 				"sc-create": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -38566,6 +38625,7 @@
 				"sc-delete": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -38573,6 +38633,7 @@
 				"sc-query": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -38705,6 +38766,7 @@
 				"slmgr": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
