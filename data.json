@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 06-Nov-24 01:00:05 CET",
+	"last_update": "Thursday, 07-Nov-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 9,
 				"it": 10,
 				"ja": 2,
-				"ko": 73,
+				"ko": 75,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -783,7 +783,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"adb-install": {
@@ -2659,7 +2660,8 @@
 				},
 				"bdfr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"beanstalkd": {
@@ -3725,7 +3727,8 @@
 				},
 				"cdecl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cdk": {
@@ -3750,7 +3753,8 @@
 				},
 				"cfssl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"chafa": {
@@ -3954,6 +3958,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -4823,6 +4828,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"ta": 2
 					}
@@ -6439,69 +6445,82 @@
 				"dvc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"dvc-add": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"dvc-checkout": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"dvc-commit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dvc-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dvc-dag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dvc-destroy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dvc-diff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dvc-fetch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dvc-freeze": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dvc-gc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dvc-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dvc-unfreeze": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dwebp": {
@@ -10126,7 +10145,8 @@
 				"glances": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"gleam": {
@@ -10885,9 +10905,9 @@
 				"helix": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"hello": {
@@ -10961,72 +10981,86 @@
 				},
 				"hg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-branch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-clone": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-commit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-log": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-pull": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-push": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-remove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-root": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-serve": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hg-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"highlight": {
@@ -11070,58 +11104,69 @@
 				},
 				"hledger": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hledger-accounts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hledger-add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hledger-aregister": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hledger-balance": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"hledger-balancesheet": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hledger-import": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hledger-incomestatement": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hledger-print": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hledger-ui": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hledger-web": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hn": {
@@ -11589,17 +11634,20 @@
 				},
 				"idnits": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iex": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"if": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -11608,37 +11656,45 @@
 						"en": 2,
 						"fa": 2,
 						"fr": 2,
-						"nl": 2
+						"ko": 2,
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"ifdata": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ifne": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ifs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ignite": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ilbmtoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"imapsync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"img2pdf": {
@@ -11651,31 +11707,36 @@
 				"imgcat": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"imgtoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"immich-cli": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"immich-go": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"import": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -12385,14 +12446,16 @@
 						"fr": 1,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"zh": 2
 					}
 				},
 				"killall": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"kind": {
@@ -14438,7 +14501,8 @@
 						"fr": 1,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"nasm": {
@@ -14520,7 +14584,8 @@
 						"hi": 2,
 						"it": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"neomutt": {
@@ -17479,7 +17544,8 @@
 				"pm2": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"zh": 2
 					}
 				},
 				"pngcheck": {
@@ -18662,6 +18728,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"pulumi-logout": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pulumi-preview": {
@@ -19976,7 +20047,8 @@
 				},
 				"screen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"screenfetch": {
@@ -20784,7 +20856,7 @@
 						"en": 2,
 						"nl": 2,
 						"ru": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"stun": {
@@ -20902,7 +20974,7 @@
 				"sv": {
 					"status": {
 						"en": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"svgcleaner": {
@@ -24554,6 +24626,7 @@
 				"aa-status": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
