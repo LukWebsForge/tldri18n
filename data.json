@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 09-Nov-24 01:00:06 CET",
+	"last_update": "Sunday, 10-Nov-24 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 9,
 				"it": 10,
 				"ja": 2,
-				"ko": 89,
+				"ko": 98,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -1333,6 +1333,7 @@
 				"ar": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -1517,6 +1518,7 @@
 				"asciitopgm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2
 					}
@@ -1526,6 +1528,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
@@ -1538,6 +1541,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"ml": 2,
 						"pt_BR": 2,
@@ -1550,6 +1554,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -1559,6 +1564,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pl": 2
@@ -1578,6 +1584,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"ne": 1,
@@ -1772,6 +1779,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -2160,11 +2168,11 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh_TW": 2
 					}
 				},
@@ -2843,6 +2851,7 @@
 				"bmptopnm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -2929,6 +2938,7 @@
 				"bq": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -2997,12 +3007,14 @@
 				"brew-search": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
 				"brew-uninstall": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -3105,6 +3117,7 @@
 				"bundle": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 1,
 						"ko": 2,
@@ -3970,6 +3983,7 @@
 				"clamdscan": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -4588,6 +4602,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"fa": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -4844,6 +4859,7 @@
 				"crontab": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
@@ -7812,6 +7828,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"id": 2,
 						"ko": 1,
@@ -8907,6 +8924,7 @@
 				"git-credential": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -8914,12 +8932,14 @@
 				"git-credential-cache": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
 				"git-credential-store": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -10857,7 +10877,8 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"hashid": {
@@ -11090,7 +11111,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 1,
+						"id": 2,
 						"ja": 1,
 						"ko": 2,
 						"pt_BR": 1,
@@ -11256,12 +11277,14 @@
 				"hsw-cli": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
 				"html5validator": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -11269,7 +11292,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 1,
+						"id": 2,
 						"ja": 1,
 						"ko": 1,
 						"pt_BR": 1,
@@ -11280,6 +11303,7 @@
 				"htpasswd": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -11289,7 +11313,7 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 1
+						"pl": 2
 					}
 				},
 				"http-server": {
@@ -12065,6 +12089,7 @@
 				"jekyll": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"ta": 2
@@ -13876,6 +13901,7 @@
 				"mc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2
 					}
@@ -15258,6 +15284,7 @@
 				"noti": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -19143,6 +19170,11 @@
 						"ko": 2
 					}
 				},
+				"pulumi-whoami": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pup": {
 					"status": {
 						"en": 2,
@@ -19616,6 +19648,7 @@
 				"ranger": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ja": 2,
 						"ko": 2
 					}
@@ -20317,278 +20350,328 @@
 				},
 				"s": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"s3cmd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"safe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sails": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"salt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"salt-call": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"salt-key": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"salt-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sam2p": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"samtools": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sass": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"satis": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sbcl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sbigtopgm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sbt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sbuild": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc-im": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_analysis_dump": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_tracediff": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_ttlexp": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_warts2csv": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_warts2json": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_warts2pcap": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_warts2text": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_wartscat": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_wartsdump": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_wartsfilter": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc_wartsfix": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"scala": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"scala-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"scalafmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"scamper": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"scan-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"scc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"sccmap": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"scd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"scheme": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"scp": {
 					"status": {
 						"en": 2,
 						"hi": 1,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"scrapy": {
 					"status": {
 						"en": 2,
 						"ja": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"scrcpy": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"screen": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"screenfetch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"script": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sdcv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sdiff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sdk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sdkmanager": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"searchsploit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"secrethub": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"security-checker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sed": {
@@ -20603,96 +20686,114 @@
 				},
 				"select": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"semver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sendmail": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"seq": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"sequelize": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"serialver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"serve": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"serverless": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"set": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"set-nodeinstalllocation": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"set-nodeversion": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"sf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sfdp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sftp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sgitopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sgpt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sh": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"sh": 2
 					}
@@ -20744,13 +20845,15 @@
 				},
 				"shar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"shards": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"shasum": {
@@ -20763,129 +20866,153 @@
 				},
 				"shc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"shellcheck": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"shfmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"shift": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"shiori": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"shopt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"shotcut": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"showfigfonts": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"shred": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"shuf": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"siege": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"silicon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"simplehttpserver": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"sindresorhus": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"singularity": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sirtopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"skaffold": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"skate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"skicka": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"skopeo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sl": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"slackcat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sldtoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sleep": {
@@ -20894,6 +21021,7 @@
 						"en": 2,
 						"fa": 1,
 						"hi": 1,
+						"ko": 2,
 						"ml": 1,
 						"nl": 2,
 						"sv": 1,
@@ -20902,186 +21030,221 @@
 				},
 				"slimrb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"smalltalkci": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"smartctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"smbmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snakefmt": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"sngrep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snort": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snowsql": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"snyk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"socat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"solcjs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"solo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sonar-scanner": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sops": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sort": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
 				},
 				"soupault": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"source": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"sv": 1
 					}
 				},
 				"sox": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"soxi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"spark": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"spctoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"spectacle": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"speed-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"speedcrunch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"speedtest": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"speedtest-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"spfquery": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sphinx-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"spicetify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"spike": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"split": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"sponge": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"spotdl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sputoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sqlite-utils": {
@@ -21099,22 +21262,26 @@
 				},
 				"sqlmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sqsc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"srm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ss-local": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ssh": {
@@ -21204,57 +21371,70 @@
 				},
 				"sslscan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"st-flash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"st-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"st-util": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"st4topgm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stack": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"standard": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"standard-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"starship": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"starship-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stat": {
 					"status": {
 						"en": 2,
+						"hi": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -21262,6 +21442,8 @@
 				"stdbuf": {
 					"status": {
 						"en": 2,
+						"hi": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -21269,81 +21451,103 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"hi": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"steamcmd": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"step": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stern": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"stl2gts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"stolonctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stormlock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"stow": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"streamlink": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"streamlit": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"stressapptest": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"strings": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"strip-nondeterminism": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stripe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stty": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2,
 						"zh": 2
@@ -21358,7 +21562,8 @@
 				},
 				"stylua": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"su": {
@@ -21370,23 +21575,27 @@
 				},
 				"subfinder": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"subl": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"subliminal": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sublist3r": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sudo": {
@@ -21394,38 +21603,45 @@
 						"en": 2,
 						"fr": 2,
 						"it": 1,
+						"ko": 2,
 						"pl": 1,
 						"pt_BR": 2
 					}
 				},
 				"sui": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sui-client": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sui-client-faucet": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sui-client-ptb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sui-move": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sum": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ta": 2
 					}
@@ -21433,120 +21649,143 @@
 				"sunicontopnm": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"sup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"supervisorctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"supervisord": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"surfraw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"surge": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sv": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"svgcleaner": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"svgo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"svgr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"svn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"svn-changelist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"swagger-codegen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"swc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"swift": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"swig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"swipl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"symfony": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sync": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"syncthing": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sysbench": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tabula": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tac": {
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -21555,33 +21794,39 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"sh": 1
 					}
 				},
 				"tailscale": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tailscale-file": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tailscale-ssh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tailscale-up": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"takeout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tar": {
@@ -21591,6 +21836,7 @@
 						"es": 2,
 						"fr": 2,
 						"ja": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 1,
@@ -21601,33 +21847,39 @@
 				},
 				"tarsnap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tarsnap-keygen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"task": {
 					"status": {
 						"en": 2,
-						"it": 1
+						"it": 1,
+						"ko": 2
 					}
 				},
 				"tb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tbl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tcc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tcpdump": {
@@ -21638,29 +21890,34 @@
 				},
 				"tcsh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tea": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tectonic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tee": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"telegram-desktop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"telnet": {
@@ -21673,131 +21930,154 @@
 				"termdown": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terminalizer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-fmt": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-output": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"terraform-plan": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terragrunt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tesseract": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"test": {
 					"status": {
 						"en": 2,
 						"ja": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
 				},
 				"testssl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tex": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"texcount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"texdoc": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"texliveonfly": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"textql": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tgatoppm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tgpt": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"theharvester": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"thinkjettopbm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"thunderbird": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"tidy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tifftopnm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tig": {
 					"status": {
 						"de": 1,
 						"en": 2,
+						"ko": 2,
 						"pl": 1
 					}
 				},
@@ -21807,6 +22087,7 @@
 						"en": 2,
 						"fa": 1,
 						"hi": 1,
+						"ko": 2,
 						"nl": 2,
 						"no": 1,
 						"sv": 1
@@ -21815,22 +22096,26 @@
 				"timeout": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"timetrap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"timew": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"timidity": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tldr": {
@@ -21841,7 +22126,7 @@
 						"fr": 1,
 						"hi": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"lo": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -21858,6 +22143,7 @@
 				"tldr-lint": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -22071,12 +22357,14 @@
 				},
 				"tmpmail": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tmsu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tmux": {
@@ -22091,7 +22379,8 @@
 				},
 				"tmuxinator": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"todo": {
@@ -22099,6 +22388,7 @@
 						"en": 2,
 						"fa": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
@@ -22106,12 +22396,14 @@
 				},
 				"todo.sh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"todoist": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ro": 2,
 						"ta": 2
 					}
@@ -22119,6 +22411,7 @@
 				"todoman": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ta": 2
 					}
@@ -22126,23 +22419,27 @@
 				"toipe": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tokei": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"topgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"topydo": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"touch": {
@@ -22163,18 +22460,21 @@
 				"tox": {
 					"status": {
 						"ar": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tpp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tput": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -22182,44 +22482,52 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"traceroute": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"traefik": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trans": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"transcode": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"transcrypt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"transfersh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"transmission": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
@@ -22228,6 +22536,7 @@
 				"transmission-cli": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -22235,6 +22544,7 @@
 				"transmission-create": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -22242,6 +22552,7 @@
 				"transmission-daemon": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -22249,6 +22560,7 @@
 				"transmission-edit": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -22256,6 +22568,7 @@
 				"transmission-remote": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -22263,6 +22576,7 @@
 				"transmission-show": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -22270,33 +22584,39 @@
 				"trap": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 1
 					}
 				},
 				"trash-cli": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"travis": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trawl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tre": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tred": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -22305,6 +22625,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 1
@@ -22312,82 +22633,97 @@
 				},
 				"trivy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"troff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"true": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"sv": 2
 					}
 				},
 				"truffle": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trufflehog": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"truncate": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"ts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ts-node": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tsc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tslint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tsort": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"tspin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tsv-filter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tty": {
@@ -22395,6 +22731,7 @@
 						"bs": 2,
 						"en": 2,
 						"fa": 2,
+						"ko": 2,
 						"nl": 2,
 						"no": 2,
 						"ru": 2,
@@ -22403,70 +22740,83 @@
 				},
 				"tuckr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tuir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"turbo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"twine": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"twm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"twopi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"twurl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tye": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"type": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 1
+						"fr": 1,
+						"ko": 2
 					}
 				},
 				"typeinc": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"typeorm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"typeset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"typst": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"u3d": {
@@ -24561,6 +24911,7 @@
 				"zellij": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -24779,7 +25130,8 @@
 				},
 				"~": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				}
 			}
@@ -24802,7 +25154,7 @@
 				"id": 23,
 				"it": 0,
 				"ja": 0,
-				"ko": 92,
+				"ko": 100,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -24830,6 +25182,7 @@
 						"en": 2,
 						"hi": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -24963,7 +25316,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 99,
-				"es": 15,
+				"es": 16,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -24971,7 +25324,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 38,
+				"ko": 80,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -25388,6 +25741,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -27176,6 +27530,7 @@
 				"dnf-config-manager": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -27632,132 +27987,156 @@
 				},
 				"f5fpc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"factorio": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"fail2ban-client": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"faillock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fakeroot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"faketime": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fallocate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"farge": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fatlabel": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
 				},
 				"fatrace": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fcrackzip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fdisk": {
 					"status": {
 						"en": 2,
 						"hi": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
 				},
 				"feedreader": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"file-rename": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"filefrag": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"finch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"findfs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"findmnt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"firejail": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"firewall-cmd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fixfiles": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flameshot": {
 					"status": {
 						"en": 2,
 						"fr": 1,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"flash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flashrom": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flatpak": {
@@ -27786,49 +28165,58 @@
 				},
 				"fluidsynth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fold": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"foreman": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fprintd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fprintd-delete": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fprintd-enroll": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fprintd-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fprintd-verify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fpsync": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"free": {
@@ -27838,6 +28226,7 @@
 						"es": 2,
 						"hi": 2,
 						"id": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -27845,27 +28234,32 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"fscrypt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fstrim": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fuser": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fwupdmgr": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
@@ -28161,93 +28555,110 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
-						"it": 1
+						"it": 1,
+						"ko": 2
 					}
 				},
 				"handlr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hardinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hcitool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hdparm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"head": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"hlint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"homectl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"homeshick": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hostnamectl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2,
 						"ru": 2
 					}
 				},
 				"htpdate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"http-prompt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"http_load": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hwclock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hwinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hyprctl": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"hyprpm": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"i3": {
@@ -28256,28 +28667,33 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"i3-scrot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"i3exit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"i3lock": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"i3status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"i7z": {
@@ -28285,17 +28701,20 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"ico": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"id3v2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ifdown": {
@@ -28304,85 +28723,101 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"ifmetric": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ifstat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iftop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ifup": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"ikaros": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"img2txt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"img2webp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"imgp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"inotifywait": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"insmod": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"instaloader": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"inxi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ionice": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iostat": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -28392,6 +28827,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -28401,30 +28837,35 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"ip-link": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"ip-neighbour": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"ip-route": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"ip-route-get": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ip-route-list": {
@@ -28463,7 +28904,9 @@
 				"ip-route-show": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -28471,6 +28914,7 @@
 				"ip-rule": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
@@ -28478,6 +28922,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -28486,6 +28931,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -28494,40 +28940,47 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"ipcalc": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipcmk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipcrm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipcs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"ipset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iptables": {
 					"status": {
 						"en": 2,
 						"it": 1,
+						"ko": 2,
 						"nl": 2,
 						"zh": 1
 					}
@@ -28535,61 +28988,72 @@
 				"iptables-restore": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"iptables-save": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"isoinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"isosize": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iw-dev": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iwconfig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iwctl": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"iwlist": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"jhead": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"jobs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -28597,146 +29061,173 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pl": 2,
 						"uk": 1
 					}
 				},
 				"jpegtran": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"just.js": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"kde-builder": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"kde-inhibit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kdesrc-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kdialog": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kdocker": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"kernel-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kexec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"keyctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kill": {
 					"status": {
 						"en": 2,
 						"hi": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"killall": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"kjv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"knock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"knockd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"konsave": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"konsole": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 1
 					}
 				},
 				"kpackagetool5": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kpartx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kreadconfig5": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"krfb-virtualmonitor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kscreen-console": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kscreen-doctor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ksvgtopng5": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kwrite": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ml": 2
 					}
 				},
 				"kwriteconfig5": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"laptop-detect": {
@@ -29163,28 +29654,33 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"zh": 1
 					}
 				},
 				"macchanger": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"machinectl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"maim": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"makepkg": {
 					"status": {
 						"en": 2,
 						"hi": 2,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
@@ -29195,7 +29691,7 @@
 						"es": 2,
 						"fr": 1,
 						"id": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
@@ -29205,68 +29701,81 @@
 				},
 				"mandb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"manpath": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mashtree": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"matchpathcon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mate-about": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"mate-calc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mate-calc-cmd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mate-screenshot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mate-search-tool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mcookie": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mdadm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mdbook": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mediamtx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"megadl": {
@@ -29295,6 +29804,8 @@
 				"megatools-dl": {
 					"status": {
 						"en": 2,
+						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -29302,27 +29813,32 @@
 				"mesg": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"microcom": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mimetype": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"minicom": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mke2fs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mkfs": {
@@ -29425,17 +29941,20 @@
 				},
 				"mkhomedir_helper": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mkinitcpio": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mkisofs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mklost+found": {
@@ -29443,189 +29962,223 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"mknod": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
 				},
 				"mkosi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mksquashfs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"mkswap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mktemp": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"mlabel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mmcli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mmdebstrap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mocp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"modinfo": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"modprobe": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"module": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mokutil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mono": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"mons": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mopac": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"more": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"mount.cifs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"mount.ddi": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"mount.smb3": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"mountpoint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mpg123": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mpicc": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"mpstat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mssh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mycli": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"nala": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"uk": 2
 					}
 				},
 				"namcap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"named": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"namei": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nautilus": {
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"navi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ncal": {
@@ -29661,43 +30214,51 @@
 				},
 				"ncat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ndctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"needrestart": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nemo": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ml": 1
 					}
 				},
 				"nethogs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"netselect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"netselect-apt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"networkctl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
@@ -29706,56 +30267,66 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"nft": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nitch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nitrogen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nixos-container": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nixos-option": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nixos-rebuild": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"nm-online": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nmcli": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ml": 1,
 						"nl": 2,
 						"tr": 1
@@ -29764,12 +30335,14 @@
 				"nmcli-agent": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"nmcli-connection": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"tr": 2
 					}
@@ -29777,6 +30350,7 @@
 				"nmcli-device": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"tr": 2
 					}
@@ -29784,12 +30358,14 @@
 				"nmcli-general": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"nmcli-monitor": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"tr": 2
 					}
@@ -29797,24 +30373,29 @@
 				"nmcli-networking": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"nmcli-radio": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"nmon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nmtui": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"tr": 2
 					}
@@ -29823,6 +30404,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -29831,6 +30413,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -29839,6 +30422,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -29847,106 +30431,125 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"hi": 2
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"nordvpn": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"notify-send": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nova": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nsenter": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"nsnake": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nsxiv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ntfsfix": {
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ntpd": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ntpdate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ntpq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"numactl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"numlockx": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"obabel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"objcopy": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"oomctl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
 				},
 				"openfortivpn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openrc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openvpn3": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -29955,40 +30558,47 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
 				},
 				"opkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"optimus-manager": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ostree": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pacaur": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"paccache": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"pacdiff": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -29996,6 +30606,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -30131,22 +30742,26 @@
 				},
 				"pacstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pacstrap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pactree": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pamac": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"uk": 2
 					}
 				},
@@ -30154,17 +30769,20 @@
 					"status": {
 						"en": 2,
 						"hi": 2,
+						"ko": 2,
 						"uk": 2
 					}
 				},
 				"partprobe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"partx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"paru": {
@@ -30172,18 +30790,21 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"pasuspender": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdbedit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pdfattach": {
@@ -30224,76 +30845,90 @@
 				},
 				"perf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"perl-rename": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"phar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"photorec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"phpdismod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"phpenmod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"phpquery": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"physlock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pi": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"picom": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pidof": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"pidstat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pihole": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pinout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pipewire": {
@@ -30305,161 +30940,190 @@
 				},
 				"pivpn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pkcon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pkgadd": {
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pkgctl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"pkgctl-auth": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"pkgctl-build": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"pkgctl-db-update": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"pkgctl-diff": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"pkgctl-release": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"pkgctl-repo": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"pkgfile": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pkginfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pkgmk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pkgrm": {
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"plasmashell": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"playerctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pluma": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pmount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pngcheck": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"po4a": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"po4a-gettextize": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"po4a-translate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"po4a-updatepo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"portablectl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"portageq": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ports": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"postconf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"postfix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poweroff": {
@@ -30469,100 +31133,118 @@
 						"es": 2,
 						"id": 2,
 						"it": 1,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 1
 					}
 				},
 				"powerprofilesctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"powerstat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"powertop": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 1
 					}
 				},
 				"prename": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pridecat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prime-run": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"print": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"tr": 2
 					}
 				},
 				"prlimit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pro": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"proctl": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"protontricks": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
 				},
 				"protonvpn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"protonvpn-connect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prt-get": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pstoedit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pstree": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ptx": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -30570,47 +31252,56 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"pvcreate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pvdisplay": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pve-firewall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pvecm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pveperf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pvremove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pvs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pvscan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pw-cat": {
@@ -30724,6 +31415,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pl": 2,
 						"tr": 2
 					}
@@ -30731,17 +31423,20 @@
 				"pwn": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pyrit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"qjoypad": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"qm": {
@@ -30802,6 +31497,7 @@
 				"qm-disk-import": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -30809,6 +31505,7 @@
 				"qm-disk-move": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -30816,6 +31513,7 @@
 				"qm-disk-resize": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -31036,53 +31734,63 @@
 				},
 				"qrcp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"qsub": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"qtchooser": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"qtile": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"quickemu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"quickget": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"quotacheck": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"radeontop": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"rankmirrors": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"raspi-config": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
@@ -31091,50 +31799,59 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"raw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rc-service": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rc-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rc-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rcp": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"rdesktop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"readelf": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"zh": 1
 					}
 				},
 				"readpe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"reboot": {
@@ -31145,6 +31862,7 @@
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 1
@@ -31152,17 +31870,20 @@
 				},
 				"reflector": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"register_new_matrix_user": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rename": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
@@ -31170,33 +31891,39 @@
 				"renice": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"repo-add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"repo-remove": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"reportbug": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"repquota": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"reptyr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"reset": {
@@ -31206,76 +31933,88 @@
 						"es": 2,
 						"hi": 2,
 						"it": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"resize2fs": {
 					"status": {
 						"en": 2,
-						"hi": 2
+						"hi": 2,
+						"ko": 2
 					}
 				},
 				"resolvectl": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1
 					}
 				},
 				"resolveip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"restorecon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"retroarch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rexec": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"rfkill": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rig": {
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ripmime": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rkhunter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rlogin": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"rm": {
 					"status": {
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"uk": 1
@@ -31284,19 +32023,22 @@
 				"rmdir": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"rmmod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rofi": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"rolldice": {
@@ -31308,103 +32050,122 @@
 				},
 				"rpcclient": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rpcinfo": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"rpi-eeprom-update": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"uk": 2
 					}
 				},
 				"rpi-otp-private-key": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"rpicam-hello": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rpicam-jpeg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rpicam-raw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rpicam-still": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rpicam-vid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rpm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rpm-ostree": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"rpm2cpio": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rpmbuild": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rpmconf": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"rpmspec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rsh": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"rspamc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rtcwake": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rtorrent": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ruget": {
@@ -31412,39 +32173,46 @@
 						"en": 2,
 						"hi": 2,
 						"id": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"run-mailcap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"run0": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"runcon": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"runlim": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"runuser": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rusnapshot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sa": {
@@ -32245,6 +33013,7 @@
 				"systemd-mount": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -32343,12 +33112,14 @@
 				"tac": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"tailf": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -32356,17 +33127,20 @@
 				"talk": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"taskset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tcpflow": {
@@ -32374,50 +33148,59 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"tcpick": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tcpkill": {
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tcptraceroute": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"telinit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terminator": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"termusic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraria": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tftp": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -32425,108 +33208,127 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"ml": 1
 					}
 				},
 				"tic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"timedatectl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2,
 						"zh": 2
 					}
 				},
 				"timeshift": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tlp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tlp-stat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"togglesebool": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"toilet": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tomb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"toolbox": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"toolbox-create": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"toolbox-enter": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"toolbox-help": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"toolbox-init-container": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"toolbox-list": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"toolbox-rm": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"toolbox-rmi": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"toolbox-run": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
@@ -32535,6 +33337,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh_TW": 2
 					}
@@ -32542,109 +33345,129 @@
 				"tor": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"torify": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"torsocks": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"trace-cmd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tracepath": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trash": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"tr": 2
 					}
 				},
 				"trashy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trayer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"treetime": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trizen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trust": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tshark": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"ttyplot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tune2fs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tuned-adm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tunelp": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"turbostat": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tuxi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tzselect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ubuntu-bug": {
@@ -32672,17 +33495,20 @@
 				},
 				"ubuntu-security-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"udevadm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"udisksctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ufw": {
@@ -32691,6 +33517,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
@@ -32698,6 +33525,7 @@
 				"ul": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -32712,6 +33540,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"ml": 2,
 						"nl": 2,
 						"ta": 2,
@@ -32720,13 +33549,15 @@
 				},
 				"uncompress": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"unix2dos": {
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"zh": 1
 					}
 				},
@@ -32734,6 +33565,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"zh": 1
 					}
 				},
@@ -32747,111 +33579,132 @@
 				},
 				"unopkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"unshadow": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"unshare": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"unsquashfs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"unzipsfx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"update-alternatives": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"update-rc.d": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"updatedb": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"updpkgsums": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"upnpc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"upower": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"uprecords": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"urpme": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"urpmf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"urpmi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"urpmi.addmedia": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"urpmi.removemedia": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"urpmi.update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"urpmq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"urxvt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"usbip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"useradd": {
@@ -32860,12 +33713,14 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"userdbctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"userdel": {
@@ -32874,6 +33729,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -32883,90 +33739,107 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"utmpdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"uuid": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"uuidd": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"uuidgen": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"uuidparse": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"uvcdynctrl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"v4l2-ctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vcgencmd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"veracrypt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vgchange": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vgcreate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vgdisplay": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vgs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vgscan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"viewnior": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vigr": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
@@ -32975,27 +33848,32 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"virt-manager": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virt-viewer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virt-xml": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virt-xml-validate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vivaldi-stable": {
@@ -33003,243 +33881,286 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
 				},
 				"vkpurge": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vmstat": {
 					"status": {
 						"ca": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"vmware-checkvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vncserver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vncviewer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vnstat": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"vnstati": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"vpnc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"vrms": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vso": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vzdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"w": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"waitpid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wajig": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"wal-telegram": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wall": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 1
 					}
 				},
 				"wami": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"warpd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"watch": {
 					"status": {
 						"de": 2,
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"waydroid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"waypipe": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"wdctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wg": {
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"wg-quick": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"whatis": {
 					"status": {
 						"en": 2,
 						"fa": 1,
-						"ja": 2
+						"ja": 2,
+						"ko": 2
 					}
 				},
 				"whiptail": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wifi-menu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wine": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"winetricks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wipefs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wl-copy": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 1
 					}
 				},
 				"wl-paste": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"wmctrl": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"wodim": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"woeusb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wofi": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"wol": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wpa_cli": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"wpa_passphrase": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"wpctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wtf": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
 					}
 				},
 				"wtype": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"x0vncserver": {
@@ -33639,7 +34560,7 @@
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
-				"hi": 0,
+				"hi": 100,
 				"id": 12,
 				"it": 0,
 				"ja": 0,
@@ -33669,6 +34590,7 @@
 				"cal": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -33677,6 +34599,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -33684,6 +34607,7 @@
 				"chpass": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -33692,6 +34616,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -33700,6 +34625,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -33708,6 +34634,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2
@@ -33717,6 +34644,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -33725,6 +34653,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2
 					}
