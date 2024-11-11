@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 10-Nov-24 01:00:08 CET",
+	"last_update": "Monday, 11-Nov-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -15400,6 +15400,11 @@
 						"ko": 2
 					}
 				},
+				"npm-login": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-name": {
 					"status": {
 						"en": 2,
@@ -19170,6 +19175,11 @@
 						"ko": 2
 					}
 				},
+				"pulumi-version": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pulumi-whoami": {
 					"status": {
 						"en": 2
@@ -21527,6 +21537,7 @@
 				"strings": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -25324,7 +25335,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 80,
+				"ko": 82,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -34191,12 +34202,14 @@
 				"xbps": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"xbps-install": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -34204,12 +34217,14 @@
 				"xbps-query": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"xbps-remove": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -34224,12 +34239,14 @@
 				},
 				"xclock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xcowsay": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -34280,18 +34297,21 @@
 				"xed": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"xeyes": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
 				"xfce4-screenshooter": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
@@ -34299,6 +34319,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"tr": 2
 					}
 				},
@@ -34306,13 +34327,15 @@
 					"status": {
 						"ca": 1,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"xfs_repair": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"xinput": {
@@ -34323,17 +34346,20 @@
 				},
 				"xman": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xmodmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xmount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xrandr": {
@@ -34394,12 +34420,14 @@
 				"xwinwrap": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"xxhsum": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"yaourt": {
@@ -34500,7 +34528,8 @@
 				},
 				"zic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zile": {
