@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 12-Nov-24 01:00:06 CET",
+	"last_update": "Wednesday, 13-Nov-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 10,
 				"en": 100,
-				"es": 14,
+				"es": 15,
 				"fa": 2,
 				"fi": 0,
 				"fr": 11,
@@ -2095,8 +2095,8 @@
 				"aws-secretsmanager": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"aws-ses": {
@@ -6255,7 +6255,7 @@
 					"status": {
 						"en": 2,
 						"it": 1,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"dotenvx": {
@@ -13639,6 +13639,7 @@
 				"lzcmp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -13647,6 +13648,7 @@
 				"lzegrep": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -13655,6 +13657,7 @@
 				"lzfgrep": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -13663,6 +13666,7 @@
 				"lzgrep": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -13677,6 +13681,7 @@
 				"lzless": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -13707,6 +13712,7 @@
 				"lzmore": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -14284,6 +14290,7 @@
 				"mogrify": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -14361,6 +14368,7 @@
 				"montage": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -14875,6 +14883,7 @@
 				"netcat": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
@@ -15345,6 +15354,7 @@
 				"npm-author": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -16111,6 +16121,7 @@
 				"opera": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2
@@ -17508,6 +17519,7 @@
 				"pio": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -20010,7 +20022,7 @@
 						"es": 2,
 						"id": 2,
 						"it": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1,
 						"ru": 1,
@@ -22614,6 +22626,7 @@
 				"trash-cli": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -23642,6 +23655,7 @@
 				"vivaldi": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2
@@ -25110,7 +25124,7 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"ru": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"zstd": {
@@ -30157,6 +30171,7 @@
 				"mount.smb3": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -32600,6 +32615,7 @@
 				"shntool-split": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -33132,6 +33148,7 @@
 				"systemd-confext": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -34286,8 +34303,8 @@
 				"wl-paste": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"tr": 2
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"wmctrl": {
