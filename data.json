@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 19-Nov-24 01:00:07 CET",
+	"last_update": "Wednesday, 20-Nov-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -444,7 +444,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 16,
+				"nl": 17,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -459,7 +459,7 @@
 				"tr": 6,
 				"uk": 1,
 				"uz": 0,
-				"zh": 10,
+				"zh": 11,
 				"zh_TW": 2
 			},
 			"pages": {
@@ -13822,7 +13822,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"magick-montage": {
@@ -15451,7 +15451,8 @@
 				},
 				"npm-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npm-login": {
@@ -15466,7 +15467,8 @@
 				},
 				"npm-ls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npm-name": {
@@ -17511,7 +17513,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"picom-trans": {
@@ -19480,131 +19483,152 @@
 				"q": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qalc": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qc": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qcp": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qdbus": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qemu": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qemu-img": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qmmp": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qmv": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qoitopam": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qownnotes": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qpdf": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qr": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qrencode": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qrttoppm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qtcreator": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"quarkus": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"quarto": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"quilt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"quota": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"qutebrowser": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"r": {
@@ -22920,13 +22944,15 @@
 				"u3d": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"ufraw-batch": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"ugrep": {
@@ -22934,25 +22960,29 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"ulimit": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"umask": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"umount": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"unalias": {
@@ -22994,20 +23024,23 @@
 						"ko": 2,
 						"nl": 2,
 						"no": 2,
-						"sv": 2
+						"sv": 2,
+						"zh": 2
 					}
 				},
 				"uncrustify": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"unexpand": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"unflatten": {
@@ -23020,20 +23053,23 @@
 				"unimatrix": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"uniq": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"unison": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"units": {
@@ -23049,7 +23085,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"unlzma": {
@@ -23077,7 +23114,8 @@
 				"unp": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"unrar": {
@@ -23085,13 +23123,15 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"unset": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"unxz": {
@@ -23132,20 +23172,23 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				"updog": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"upt": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"uptime": {
@@ -23159,7 +23202,8 @@
 				"upx": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"users": {
@@ -23168,51 +23212,59 @@
 						"fa": 2,
 						"ko": 2,
 						"nl": 2,
-						"sv": 2
+						"sv": 2,
+						"zh": 2
 					}
 				},
 				"usql": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"uudecode": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"uuencode": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"uv": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"uv-python": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"uv-tool": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"uvicorn": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"vagrant": {
@@ -25437,7 +25489,7 @@
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
-				"nl": 13,
+				"nl": 14,
 				"no": 0,
 				"pl": 8,
 				"pt_BR": 13,
@@ -30854,7 +30906,8 @@
 				},
 				"pacman-r": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pacman-remove": {
@@ -30864,6 +30917,7 @@
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2,
 						"ta": 2,
 						"tr": 2
@@ -30884,6 +30938,7 @@
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2,
 						"ta": 2,
 						"tr": 2
@@ -30967,6 +31022,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"patool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pdbedit": {
@@ -40330,6 +40390,7 @@
 				"clear-host": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2
 					}
