@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 21-Nov-24 01:00:07 CET",
+	"last_update": "Friday, 22-Nov-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -18425,6 +18425,11 @@
 						"pt_BR": 2
 					}
 				},
+				"podman-login": {
+					"status": {
+						"en": 2
+					}
+				},
 				"podman-machine": {
 					"status": {
 						"en": 2,
@@ -19238,6 +19243,11 @@
 					}
 				},
 				"pulumi-logout": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pulumi-new": {
 					"status": {
 						"en": 2
 					}
