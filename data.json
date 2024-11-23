@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 22-Nov-24 01:00:06 CET",
+	"last_update": "Saturday, 23-Nov-24 01:00:05 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -444,7 +444,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 17,
+				"nl": 16,
 				"no": 1,
 				"pl": 4,
 				"pt_BR": 12,
@@ -783,6 +783,7 @@
 				"adb-devices": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"ko": 2,
 						"zh": 2
@@ -1417,8 +1418,14 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"argos-translate": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aria2": {
@@ -6396,6 +6403,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 2,
@@ -29522,6 +29530,11 @@
 					}
 				},
 				"legit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"let": {
 					"status": {
 						"en": 2
 					}
