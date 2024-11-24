@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 23-Nov-24 01:00:05 CET",
+	"last_update": "Sunday, 24-Nov-24 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2453,18 +2453,18 @@
 				"b2sum": {
 					"status": {
 						"en": 2,
-						"fr": 2,
+						"fr": 1,
 						"it": 1,
-						"ko": 2,
-						"nl": 2,
-						"ta": 2
+						"ko": 1,
+						"nl": 1,
+						"ta": 1
 					}
 				},
 				"b3sum": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"ko": 2
+						"fr": 1,
+						"ko": 1
 					}
 				},
 				"babel": {
@@ -13756,6 +13756,11 @@
 						"ko": 2
 					}
 				},
+				"m4b-tool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"macchina": {
 					"status": {
 						"en": 2,
@@ -13968,9 +13973,9 @@
 					"status": {
 						"en": 2,
 						"it": 1,
-						"ko": 2,
-						"nl": 2,
-						"ta": 2,
+						"ko": 1,
+						"nl": 1,
+						"ta": 1,
 						"zh": 1
 					}
 				},
@@ -20935,19 +20940,19 @@
 				"sha1sum": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
+						"ko": 1,
+						"nl": 1,
 						"sh": 1,
-						"ta": 2
+						"ta": 1
 					}
 				},
 				"sha224sum": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
+						"ko": 1,
+						"nl": 1,
 						"sh": 1,
-						"ta": 2
+						"ta": 1
 					}
 				},
 				"sha256sum": {
@@ -20962,19 +20967,19 @@
 				"sha384sum": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
+						"ko": 1,
+						"nl": 1,
 						"sh": 1,
-						"ta": 2
+						"ta": 1
 					}
 				},
 				"sha512sum": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
+						"ko": 1,
+						"nl": 1,
 						"sh": 1,
-						"ta": 2
+						"ta": 1
 					}
 				},
 				"shar": {
@@ -24167,6 +24172,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"wikiman": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wikit": {
