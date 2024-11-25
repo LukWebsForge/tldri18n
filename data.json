@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 24-Nov-24 01:00:08 CET",
+	"last_update": "Monday, 25-Nov-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 10,
 				"en": 100,
-				"es": 15,
+				"es": 16,
 				"fa": 2,
 				"fi": 0,
 				"fr": 11,
@@ -7016,6 +7016,11 @@
 						"ko": 2
 					}
 				},
+				"fabric": {
+					"status": {
+						"en": 2
+					}
+				},
 				"factor": {
 					"status": {
 						"en": 2,
@@ -11482,8 +11487,8 @@
 				"hugo-server": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"hunspell": {
@@ -13819,6 +13824,7 @@
 				"magick-identify": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -13834,6 +13840,7 @@
 				"magick-mogrify": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2
 					}
@@ -14661,6 +14668,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -15218,6 +15226,7 @@
 				"nm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -15506,6 +15515,7 @@
 				"npm-owner": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -15535,6 +15545,7 @@
 				"npm-run": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -16363,6 +16374,7 @@
 				"pamcut": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -16376,6 +16388,7 @@
 				"pamdepth": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -16389,6 +16402,7 @@
 				"pamditherbw": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -16404,6 +16418,7 @@
 				"pamenlarge": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -16417,6 +16432,7 @@
 				"pamfile": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -16574,6 +16590,7 @@
 				"pamtopnm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -17633,6 +17650,7 @@
 				"pio-debug": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -18024,6 +18042,7 @@
 				"pngtopam": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -18052,6 +18071,7 @@
 				"pnmcolormap": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -19068,6 +19088,7 @@
 				"ptpython": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -19473,6 +19494,7 @@
 				"python": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"it": 1,
 						"ko": 2,
@@ -19718,6 +19740,7 @@
 				"radare2": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -19858,6 +19881,7 @@
 				"rc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -24640,6 +24664,7 @@
 				"xzcmp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -25514,11 +25539,11 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 94,
+				"ko": 93,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
-				"nl": 14,
+				"nl": 13,
 				"no": 0,
 				"pl": 8,
 				"pt_BR": 13,
@@ -26551,6 +26576,12 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"bootc": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"bootctl": {
@@ -28235,6 +28266,7 @@
 				"fatrace": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -28346,11 +28378,26 @@
 						"ko": 2
 					}
 				},
+				"flatpak-mask": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flatpak-remote-info": {
+					"status": {
+						"en": 2
+					}
+				},
 				"flatpak-run": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"flatpak-update": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fluidsynth": {
@@ -31060,7 +31107,8 @@
 				},
 				"patool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pdbedit": {
