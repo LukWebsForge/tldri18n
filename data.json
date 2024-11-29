@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 28-Nov-24 01:00:07 CET",
+	"last_update": "Friday, 29-Nov-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -25553,7 +25553,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 7,
-				"en": 99,
+				"en": 100,
 				"es": 17,
 				"fa": 0,
 				"fi": 0,
@@ -31744,16 +31744,6 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
-					}
-				},
-				"pwd": {
-					"status": {
-						"ko": 2,
-						"lo": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"th": 2,
-						"tr": 2
 					}
 				},
 				"pwdx": {
