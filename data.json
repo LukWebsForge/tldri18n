@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 30-Nov-24 01:00:06 CET",
+	"last_update": "Sunday, 01-Dec-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4544,6 +4544,7 @@
 				"cowsay": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"it": 1,
 						"ko": 1
@@ -10307,6 +10308,7 @@
 				"gnmic-subscribe": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -11497,7 +11499,7 @@
 				"hugo-server": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -11831,6 +11833,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"incus": {
+					"status": {
+						"en": 2
 					}
 				},
 				"indent": {
@@ -13775,7 +13782,8 @@
 				},
 				"m4b-tool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"macchina": {
@@ -16562,6 +16570,7 @@
 				"pamstretch": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -19287,6 +19296,11 @@
 						"ko": 2
 					}
 				},
+				"pulumi-gen-completion": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pulumi-login": {
 					"status": {
 						"en": 2,
@@ -19378,7 +19392,7 @@
 					"status": {
 						"ar": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"hi": 1,
 						"id": 1,
@@ -24223,7 +24237,8 @@
 				},
 				"wikiman": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"wikit": {
@@ -25554,7 +25569,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 17,
+				"es": 18,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -26655,6 +26670,7 @@
 				"brightnessctl": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"ml": 2,
 						"tr": 2,
@@ -27426,6 +27442,11 @@
 						"ko": 2
 					}
 				},
+				"darling": {
+					"status": {
+						"en": 2
+					}
+				},
 				"datamash": {
 					"status": {
 						"en": 2,
@@ -27725,6 +27746,7 @@
 				"dmenu": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -27789,7 +27811,8 @@
 				},
 				"dnf5-group": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dnsdomainname": {
@@ -28673,6 +28696,7 @@
 				"gnome-screenshot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -28736,6 +28760,7 @@
 				"grim": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -29085,6 +29110,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"imv": {
+					"status": {
+						"en": 2
 					}
 				},
 				"init": {
@@ -30977,6 +31007,11 @@
 						"ta": 2
 					}
 				},
+				"pacman-f": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pacman-files": {
 					"status": {
 						"de": 2,
@@ -31032,6 +31067,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -31053,6 +31089,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -32178,6 +32215,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"readcd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"readelf": {
@@ -33312,6 +33354,7 @@
 				"swww": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -33870,6 +33913,7 @@
 				"trash": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"tr": 2
@@ -33927,6 +33971,7 @@
 				"tuned-adm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -34521,6 +34566,11 @@
 						"ko": 2
 					}
 				},
+				"wf-recorder": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wg": {
 					"status": {
 						"en": 2,
@@ -34558,6 +34608,7 @@
 				"wine": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -34791,6 +34842,7 @@
 				"xfce4-screenshooter": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 2
 					}
