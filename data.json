@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 01-Dec-24 01:00:07 CET",
+	"last_update": "Monday, 02-Dec-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7793,6 +7793,7 @@
 				"fzf": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"tr": 2,
@@ -12578,6 +12579,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -14459,6 +14461,7 @@
 				"mosh": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -19297,6 +19300,11 @@
 					}
 				},
 				"pulumi-gen-completion": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pulumi-install": {
 					"status": {
 						"en": 2
 					}
@@ -26974,6 +26982,11 @@
 						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"cdrdao": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ceph": {
@@ -34777,6 +34790,7 @@
 				"xcowsay": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
