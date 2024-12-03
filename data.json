@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 02-Dec-24 01:00:06 CET",
+	"last_update": "Tuesday, 03-Dec-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -17758,6 +17758,7 @@
 				"pio-project": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
