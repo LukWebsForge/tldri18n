@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 04-Dec-24 01:00:06 CET",
+	"last_update": "Thursday, 05-Dec-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -459,7 +459,7 @@
 				"tr": 6,
 				"uk": 1,
 				"uz": 0,
-				"zh": 11,
+				"zh": 13,
 				"zh_TW": 2
 			},
 			"pages": {
@@ -3006,8 +3006,8 @@
 				"brew-list": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2
+						"id": 1,
+						"ko": 1
 					}
 				},
 				"brew-outdated": {
@@ -7379,6 +7379,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"flexget": {
+					"status": {
+						"en": 2
 					}
 				},
 				"flips": {
@@ -25070,136 +25075,158 @@
 				"zapier": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zapier-analytics": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zapier-build": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zapier-convert": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zapier-init": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zapier-push": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zapier-scaffold": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zbarimg": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"sv": 2
+						"sv": 2,
+						"zh": 2
 					}
 				},
 				"zcat": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zcmp": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zdb": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zdiff": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zeek": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zegrep": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zeisstopnm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zek": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zellij": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zfgrep": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zfs": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zgrep": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zig": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zint": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zip": {
@@ -25217,38 +25244,44 @@
 				"zip2john": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zipalign": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zipcloak": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zipgrep": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zipinfo": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zipnote": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zless": {
@@ -25259,58 +25292,67 @@
 						"ko": 2,
 						"nl": 2,
 						"no": 2,
-						"sv": 2
+						"sv": 2,
+						"zh": 2
 					}
 				},
 				"zlib-flate": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zm": {
 					"status": {
 						"en": 2,
 						"fa": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zmore": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zmv": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"znew": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zola": {
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zopflipng": {
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zotero": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zoxide": {
@@ -25318,19 +25360,22 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zpool": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zrun": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zsh": {
@@ -25361,13 +25406,15 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				"zstdless": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"zstdmt": {
@@ -25376,13 +25423,15 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				"zsteg": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"~": {
@@ -25605,7 +25654,7 @@
 				"tr": 4,
 				"uk": 2,
 				"uz": 0,
-				"zh": 9,
+				"zh": 10,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -33774,17 +33823,20 @@
 				},
 				"tmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"tmt-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"tmt-try": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"tod": {
