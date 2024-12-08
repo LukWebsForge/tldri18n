@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 07-Dec-24 01:00:07 CET",
+	"last_update": "Sunday, 08-Dec-24 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 10,
 				"en": 100,
-				"es": 16,
+				"es": 17,
 				"fa": 2,
 				"fi": 0,
 				"fr": 11,
@@ -510,7 +510,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
-						"fr": 1,
+						"fr": 2,
 						"hi": 1,
 						"id": 2,
 						"it": 1,
@@ -533,7 +533,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
-						"fr": 1,
+						"fr": 2,
 						"hi": 1,
 						"id": 2,
 						"it": 1,
@@ -555,7 +555,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
-						"fr": 1,
+						"fr": 2,
 						"hi": 2,
 						"id": 2,
 						"it": 1,
@@ -785,6 +785,7 @@
 				"adb-devices": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -820,6 +821,7 @@
 				"adb-reboot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"zh": 2
@@ -18464,6 +18466,7 @@
 				"podman-build": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -18471,6 +18474,7 @@
 				"podman-compose": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -18478,6 +18482,7 @@
 				"podman-image": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -18485,18 +18490,21 @@
 				"podman-images": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"podman-login": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"podman-machine": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -18504,6 +18512,7 @@
 				"podman-ps": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -18511,6 +18520,7 @@
 				"podman-rmi": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -18518,6 +18528,7 @@
 				"podman-run": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -24206,8 +24217,8 @@
 				"while": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"whisper": {
@@ -25364,6 +25375,11 @@
 						"zh": 2
 					}
 				},
+				"zpaq": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zpool": {
 					"status": {
 						"en": 2,
@@ -26119,6 +26135,7 @@
 				"apt-clone": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -26189,6 +26206,7 @@
 				"apt-moo": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pl": 2,
 						"uk": 2
@@ -28093,6 +28111,11 @@
 						"ko": 2
 					}
 				},
+				"eclean": {
+					"status": {
+						"en": 2
+					}
+				},
 				"edit": {
 					"status": {
 						"en": 2,
@@ -28251,6 +28274,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"euse": {
+					"status": {
+						"en": 2
 					}
 				},
 				"evtest": {
@@ -31653,9 +31681,9 @@
 				"protontricks": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"ta": 2
+						"ko": 1,
+						"pt_BR": 1,
+						"ta": 1
 					}
 				},
 				"protonvpn": {
@@ -33531,6 +33559,11 @@
 						"ko": 2
 					}
 				},
+				"systemd-cryptsetup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemd-delta": {
 					"status": {
 						"en": 2,
@@ -34694,6 +34727,7 @@
 				"wl-copy": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 1
 					}
@@ -34701,6 +34735,7 @@
 				"wl-paste": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"tr": 1
 					}
