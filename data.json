@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 08-Dec-24 01:00:09 CET",
+	"last_update": "Monday, 09-Dec-24 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -604,6 +604,7 @@
 				"^": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"id": 2,
 						"ko": 2,
@@ -5736,6 +5737,11 @@
 						"pl": 2
 					}
 				},
+				"docker-context": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-cp": {
 					"status": {
 						"de": 2,
@@ -7029,7 +7035,8 @@
 				},
 				"fabric": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"factor": {
@@ -7147,7 +7154,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"fdp": {
@@ -10939,7 +10947,8 @@
 				},
 				"hatch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"haxelib": {
@@ -11845,7 +11854,8 @@
 				},
 				"incus": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"indent": {
@@ -16485,6 +16495,7 @@
 				"pamflip": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -18458,6 +18469,7 @@
 				"podman": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2
@@ -22836,7 +22848,8 @@
 				},
 				"trdsql": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tre": {
@@ -25346,6 +25359,7 @@
 				"zola": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"zh": 2
@@ -25643,7 +25657,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 18,
+				"es": 19,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -27054,7 +27068,8 @@
 				},
 				"cdrdao": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ceph": {
@@ -27525,7 +27540,8 @@
 				},
 				"darling": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"datamash": {
@@ -28399,6 +28415,7 @@
 				"farge": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -29205,7 +29222,8 @@
 				},
 				"imv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"init": {
@@ -30765,12 +30783,14 @@
 				"nm-online": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"nmcli": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"ml": 1,
 						"nl": 2,
@@ -30780,6 +30800,7 @@
 				"nmcli-agent": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -30787,6 +30808,7 @@
 				"nmcli-connection": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"tr": 2
@@ -30795,6 +30817,7 @@
 				"nmcli-device": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"tr": 2
@@ -30803,6 +30826,7 @@
 				"nmcli-general": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -30810,6 +30834,7 @@
 				"nmcli-monitor": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"tr": 2
@@ -30818,6 +30843,7 @@
 				"nmcli-networking": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -30825,6 +30851,7 @@
 				"nmcli-radio": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -32310,7 +32337,8 @@
 				},
 				"readcd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"readelf": {
@@ -34450,7 +34478,8 @@
 				},
 				"vgremove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"vgs": {
@@ -34667,7 +34696,8 @@
 				},
 				"wf-recorder": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"wg": {
@@ -35015,6 +35045,7 @@
 				"xsel": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2
 					}
