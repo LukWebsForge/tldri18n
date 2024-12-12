@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 11-Dec-24 01:00:10 CET",
+	"last_update": "Thursday, 12-Dec-24 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4394,6 +4394,7 @@
 				"compgen": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -4402,6 +4403,7 @@
 				"complete": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -8403,6 +8405,11 @@
 						"ko": 2
 					}
 				},
+				"gh-skyline": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-ssh-key": {
 					"status": {
 						"en": 2,
@@ -10839,6 +10846,7 @@
 				"gum": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -15514,6 +15522,7 @@
 				"npm-list": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -19319,7 +19328,8 @@
 				},
 				"pulumi-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pulumi-destroy": {
@@ -22239,7 +22249,8 @@
 				},
 				"tex-fmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"texcount": {
@@ -25662,7 +25673,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 19,
+				"es": 21,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -27900,7 +27911,8 @@
 				},
 				"dnf-group": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dnf5": {
@@ -29280,6 +29292,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -29291,6 +29304,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"tr": 2
@@ -29299,6 +29313,7 @@
 				"ip-link": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -29306,6 +29321,7 @@
 				"ip-neighbour": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -29313,6 +29329,7 @@
 				"ip-route": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -29320,6 +29337,7 @@
 				"ip-route-get": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -29369,6 +29387,7 @@
 				"ip-rule": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -31940,36 +31959,42 @@
 				"qm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-cleanup": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-clone": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-cloud-init": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-cloudinit-dump": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-config": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -31977,18 +32002,21 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-delsnapshot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-destroy": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -32019,30 +32047,35 @@
 				"qm-guest-cmd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-guest-exec": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-guest-exec-status": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-guest-passwd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-help": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -34204,6 +34237,7 @@
 				"uname": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2,
 						"ml": 2,
@@ -34732,6 +34766,7 @@
 				"whiptail": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -35190,6 +35225,7 @@
 				"zenity": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -35525,7 +35561,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 55,
+				"nl": 54,
 				"no": 0,
 				"pl": 43,
 				"pt_BR": 58,
@@ -39782,6 +39818,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"tag": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tail": {
