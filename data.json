@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 12-Dec-24 01:00:09 CET",
+	"last_update": "Friday, 13-Dec-24 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -19658,6 +19658,7 @@
 				"qmmp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -19665,6 +19666,7 @@
 				"qmv": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -25673,7 +25675,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 21,
+				"es": 22,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -29904,7 +29906,7 @@
 				"loginctl": {
 					"status": {
 						"en": 2,
-						"pl": 2
+						"pl": 1
 					}
 				},
 				"logrotate": {
@@ -32091,24 +32093,28 @@
 				"qm-list": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-listsnapshot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-migrate": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-monitor": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -32133,36 +32139,42 @@
 				"qm-mtunnel": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-nbdstop": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-pending": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-reboot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-rescan": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-reset": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -32178,12 +32190,14 @@
 				"qm-resume": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-rollback": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -32264,6 +32278,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
