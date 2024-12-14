@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 13-Dec-24 01:00:08 CET",
+	"last_update": "Saturday, 14-Dec-24 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -32271,6 +32271,7 @@
 				"qm-wait": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
