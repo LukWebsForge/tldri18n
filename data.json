@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 14-Dec-24 01:00:10 CET",
+	"last_update": "Sunday, 15-Dec-24 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2634,13 +2634,13 @@
 				"batch": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"it": 1,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 1
+						"es": 1,
+						"it": 2,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 2
 					}
 				},
 				"bats": {
@@ -20386,6 +20386,7 @@
 				"ruff": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -23901,6 +23902,11 @@
 						"ko": 2
 					}
 				},
+				"vitest": {
+					"status": {
+						"en": 2
+					}
+				},
 				"viu": {
 					"status": {
 						"en": 2,
@@ -25675,7 +25681,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 22,
+				"es": 23,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -25683,7 +25689,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 93,
+				"ko": 92,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -29696,6 +29702,11 @@
 						"ko": 2
 					}
 				},
+				"kwallet-query": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kwrite": {
 					"status": {
 						"en": 2,
@@ -32204,18 +32215,21 @@
 				"qm-sendkey": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-showcmd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-shutdown": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -32229,18 +32243,21 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-status": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-stop": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -32259,12 +32276,14 @@
 				"qm-unlock": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-vncproxy": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
