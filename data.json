@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 15-Dec-24 01:00:09 CET",
+	"last_update": "Monday, 16-Dec-24 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -476,7 +476,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"$": {
@@ -41356,7 +41356,7 @@
 						"ko": 2,
 						"nl": 2,
 						"ru": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
