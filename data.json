@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 16-Dec-24 01:00:08 CET",
+	"last_update": "Tuesday, 17-Dec-24 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3952,6 +3952,11 @@
 						"nl": 2,
 						"no": 1,
 						"sv": 1
+					}
+				},
+				"cidr": {
+					"status": {
+						"en": 2
 					}
 				},
 				"circo": {
@@ -8407,7 +8412,8 @@
 				},
 				"gh-skyline": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gh-ssh-key": {
@@ -10251,6 +10257,7 @@
 				"glow": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -15958,6 +15965,7 @@
 				"obs": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -25491,6 +25499,7 @@
 				"~": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				}
@@ -28974,6 +28983,11 @@
 						"ko": 2
 					}
 				},
+				"grub2-mkpasswd-pbkdf2": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grubby": {
 					"status": {
 						"en": 2,
@@ -31351,30 +31365,35 @@
 				"pdfattach": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"pdfcrop": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"pdfdetach": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"pdftohtml": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"pdftoppm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -32236,6 +32255,7 @@
 				"qm-snapshot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -32264,12 +32284,14 @@
 				"qm-suspend": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"qm-template": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
