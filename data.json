@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 17-Dec-24 01:00:08 CET",
+	"last_update": "Wednesday, 18-Dec-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3102,10 +3102,10 @@
 				"btop": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"builtin": {
@@ -16796,6 +16796,7 @@
 				"patch": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -17252,36 +17253,42 @@
 				"pg_ctl": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"pg_dump": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"pg_dumpall": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"pg_isready": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"pg_restore": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"pgbench": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -17424,6 +17431,7 @@
 				"pgrep": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -31400,6 +31408,7 @@
 				"pdfxup": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -39879,7 +39888,8 @@
 				},
 				"tag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tail": {
