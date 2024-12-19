@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 18-Dec-24 01:00:07 CET",
+	"last_update": "Thursday, 19-Dec-24 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -12926,6 +12926,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"lazygit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lb": {
