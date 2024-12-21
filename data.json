@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 20-Dec-24 01:00:10 CET",
+	"last_update": "Saturday, 21-Dec-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 10,
 				"en": 100,
-				"es": 17,
+				"es": 18,
 				"fa": 2,
 				"fi": 0,
 				"fr": 11,
@@ -440,7 +440,7 @@
 				"id": 9,
 				"it": 10,
 				"ja": 2,
-				"ko": 98,
+				"ko": 97,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -6708,6 +6708,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 2,
 						"pt_BR": 2
@@ -6717,6 +6718,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 2
 					}
@@ -7844,7 +7846,7 @@
 				"gallery-dl": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"gammastep": {
@@ -12931,6 +12933,11 @@
 						"ko": 2
 					}
 				},
+				"lazydocker": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lazygit": {
 					"status": {
 						"en": 2
@@ -13019,6 +13026,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"let": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lex": {
@@ -13697,6 +13709,7 @@
 				"lynx": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -21007,7 +21020,7 @@
 				"set": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"set-nodeinstalllocation": {
@@ -23327,6 +23340,7 @@
 				"unzip": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ru": 1,
@@ -23433,6 +23447,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"v": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vagrant": {
@@ -25514,6 +25533,11 @@
 						"zh": 2
 					}
 				},
+				"{": {
+					"status": {
+						"en": 2
+					}
+				},
 				"~": {
 					"status": {
 						"en": 2,
@@ -25708,7 +25732,7 @@
 				"da": 0,
 				"de": 7,
 				"en": 100,
-				"es": 24,
+				"es": 25,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -26422,6 +26446,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -26433,6 +26458,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -27081,6 +27107,7 @@
 				"cat": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"ko": 2,
 						"ml": 2,
@@ -27666,24 +27693,28 @@
 				"deb-get": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"debchange": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"debman": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"debootstrap": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"zh": 1
@@ -27692,18 +27723,21 @@
 				"deborphan": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"debsecan": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"debtap": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -27723,6 +27757,7 @@
 				"debuild": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -28050,6 +28085,7 @@
 				"dpkg-deb": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -28057,6 +28093,7 @@
 				"dpkg-query": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 2,
 						"pt_BR": 2
@@ -28065,6 +28102,7 @@
 				"dpkg-reconfigure": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"uk": 2
 					}
@@ -28358,6 +28396,11 @@
 					}
 				},
 				"eww": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exch": {
 					"status": {
 						"en": 2
 					}
@@ -29650,6 +29693,7 @@
 				"kill": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"ko": 2,
 						"nl": 2
@@ -29810,18 +29854,21 @@
 				"ldconfig": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ldd": {
 					"status": {
 						"de": 1,
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lddd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ledctl": {
@@ -29830,11 +29877,6 @@
 					}
 				},
 				"legit": {
-					"status": {
-						"en": 2
-					}
-				},
-				"let": {
 					"status": {
 						"en": 2
 					}
@@ -30035,6 +30077,11 @@
 						"zh": 2
 					}
 				},
+				"lsfd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lshw": {
 					"status": {
 						"en": 2
@@ -30183,6 +30230,7 @@
 				"mac2unix": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"zh": 1
@@ -31235,6 +31283,11 @@
 						"tr": 2
 					}
 				},
+				"pacman-q": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pacman-query": {
 					"status": {
 						"de": 2,
@@ -31434,6 +31487,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"phar": {
@@ -33869,6 +33927,7 @@
 				"tac": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -34205,6 +34264,7 @@
 				"ttyplot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -34238,6 +34298,7 @@
 				"tuxi": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -34334,6 +34395,7 @@
 				"unix2dos": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"zh": 1
@@ -34342,6 +34404,7 @@
 				"unix2mac": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"zh": 1
@@ -35329,6 +35392,7 @@
 				"zip": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -35633,10 +35697,10 @@
 				"fi": 0,
 				"fr": 40,
 				"hi": 40,
-				"id": 45,
+				"id": 44,
 				"it": 43,
 				"ja": 0,
-				"ko": 99,
+				"ko": 98,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -35650,12 +35714,12 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
-				"ta": 41,
+				"ta": 40,
 				"th": 40,
 				"tr": 40,
 				"uk": 0,
 				"uz": 0,
-				"zh": 62,
+				"zh": 61,
 				"zh_TW": 40
 			},
 			"pages": {
@@ -35816,6 +35880,11 @@
 						"pt_BR": 2
 					}
 				},
+				"autoraise": {
+					"status": {
+						"en": 2
+					}
+				},
 				"auvaltool": {
 					"status": {
 						"en": 2,
@@ -35858,6 +35927,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
+					}
+				},
+				"bclm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"biomesyncd": {
