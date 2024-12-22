@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 21-Dec-24 01:00:07 CET",
+	"last_update": "Sunday, 22-Dec-24 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2186,7 +2186,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"it": 1,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -6606,6 +6606,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"fr": 1,
 						"it": 1,
@@ -6681,6 +6682,7 @@
 				"elinks": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -21481,6 +21483,11 @@
 						"ko": 2
 					}
 				},
+				"speedtest-rs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"spfquery": {
 					"status": {
 						"en": 2,
@@ -23113,7 +23120,7 @@
 				"typeset": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"typst": {
@@ -23313,6 +23320,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"until": {
+					"status": {
+						"en": 2
 					}
 				},
 				"unxz": {
