@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 24-Dec-24 01:00:07 CET",
+	"last_update": "Wednesday, 25-Dec-24 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -855,6 +855,11 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"adb-uninstall": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adguardhome": {
@@ -2968,6 +2973,11 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2
+					}
+				},
+				"break": {
+					"status": {
+						"en": 2
 					}
 				},
 				"brew": {
