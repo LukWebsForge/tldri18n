@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 25-Dec-24 01:00:08 CET",
+	"last_update": "Thursday, 26-Dec-24 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -12318,6 +12318,7 @@
 				"josm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -27935,6 +27936,7 @@
 				"distrobox-upgrade": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
