@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 27-Dec-24 01:00:07 CET",
+	"last_update": "Saturday, 28-Dec-24 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2956,6 +2956,11 @@
 						"es": 2,
 						"fa": 2,
 						"ko": 2
+					}
+				},
+				"bpython": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bpytop": {
