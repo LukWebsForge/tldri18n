@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 28-Dec-24 01:00:10 CET",
+	"last_update": "Sunday, 29-Dec-24 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5308,6 +5308,11 @@
 						"en": 2
 					}
 				},
+				"dbx": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dc": {
 					"status": {
 						"en": 2,
@@ -6805,6 +6810,7 @@
 				"env": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 1,
 						"ko": 2,
@@ -6853,6 +6859,7 @@
 				"errno": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2
 					}
@@ -6986,6 +6993,7 @@
 						"ca": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"id": 2,
 						"ko": 2,
@@ -7828,6 +7836,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"function": {
+					"status": {
+						"en": 2
 					}
 				},
 				"funzip": {
@@ -13271,6 +13284,7 @@
 				"llvd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -13306,30 +13320,35 @@
 				"llvm-as": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"llvm-bcanalyzer": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"llvm-cat": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"llvm-config": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"llvm-dis": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -14881,6 +14900,7 @@
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 1,
+						"zh": 2,
 						"zh_TW": 2
 					}
 				},
@@ -16740,6 +16760,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pamtosrf": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pamtotga": {
@@ -18873,6 +18898,11 @@
 						"ko": 2
 					}
 				},
+				"ppmtoapplevol": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ppmtoarbtxt": {
 					"status": {
 						"en": 2,
@@ -18994,6 +19024,11 @@
 						"ko": 2
 					}
 				},
+				"ppmtopjxl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ppmtoppm": {
 					"status": {
 						"en": 2,
@@ -19004,6 +19039,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ppmtorgb3": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ppmtosixel": {
@@ -19068,6 +19108,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ppmwheel": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pppd": {
@@ -20123,6 +20168,11 @@
 						"nl": 2
 					}
 				},
+				"readarray": {
+					"status": {
+						"en": 2
+					}
+				},
 				"readlink": {
 					"status": {
 						"en": 2,
@@ -20276,6 +20326,11 @@
 						"ko": 2
 					}
 				},
+				"rgb3toppm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rgpt": {
 					"status": {
 						"en": 2,
@@ -20318,6 +20373,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"rlatopam": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rletopnm": {
@@ -21600,6 +21660,11 @@
 						"ko": 2
 					}
 				},
+				"spottopgm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sputoppm": {
 					"status": {
 						"en": 2,
@@ -21629,6 +21694,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"srftopam": {
+					"status": {
+						"en": 2
 					}
 				},
 				"srm": {
@@ -22073,6 +22143,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"svgtopam": {
+					"status": {
+						"en": 2
 					}
 				},
 				"svn": {
@@ -23203,6 +23278,7 @@
 				"typeset": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -25831,11 +25907,11 @@
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
-				"hi": 3,
+				"hi": 2,
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 92,
+				"ko": 91,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -25854,7 +25930,7 @@
 				"tr": 4,
 				"uk": 2,
 				"uz": 0,
-				"zh": 10,
+				"zh": 9,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -28588,6 +28664,11 @@
 						"ko": 2
 					}
 				},
+				"fadvise": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fail2ban-client": {
 					"status": {
 						"en": 2,
@@ -28678,6 +28759,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"fincore": {
+					"status": {
+						"en": 2
 					}
 				},
 				"findfs": {
@@ -28861,6 +28947,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"fwconsole": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fwupdmgr": {
@@ -29329,6 +29420,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"i386": {
+					"status": {
+						"en": 2
 					}
 				},
 				"i3exit": {
@@ -30054,6 +30150,16 @@
 					"status": {
 						"en": 2,
 						"pl": 2
+					}
+				},
+				"linux32": {
+					"status": {
+						"en": 2
+					}
+				},
+				"linux64": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lnav": {
@@ -31348,11 +31454,6 @@
 						"ta": 2
 					}
 				},
-				"pacman-de": {
-					"status": {
-						"en": 2
-					}
-				},
 				"pacman-deptest": {
 					"status": {
 						"de": 2,
@@ -31375,6 +31476,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pl": 2,
@@ -31405,7 +31507,8 @@
 				},
 				"pacman-q": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pacman-query": {
@@ -31461,6 +31564,11 @@
 						"pl": 2,
 						"ta": 2,
 						"tr": 2
+					}
+				},
+				"pacman-t": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pacman-u": {
@@ -31774,6 +31882,7 @@
 				"pkgfile": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -34511,6 +34620,7 @@
 				},
 				"uname": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"it": 2,
@@ -34519,6 +34629,11 @@
 						"nl": 2,
 						"ta": 2,
 						"uk": 2
+					}
+				},
+				"uname26": {
+					"status": {
+						"en": 2
 					}
 				},
 				"uncompress": {
@@ -35165,6 +35280,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"x86_64": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xauth": {
