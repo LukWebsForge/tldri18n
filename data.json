@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 29-Dec-24 01:00:10 CET",
+	"last_update": "Monday, 30-Dec-24 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -435,12 +435,12 @@
 				"es": 18,
 				"fa": 2,
 				"fi": 0,
-				"fr": 11,
+				"fr": 10,
 				"hi": 2,
 				"id": 9,
 				"it": 10,
 				"ja": 2,
-				"ko": 97,
+				"ko": 96,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -1307,6 +1307,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"apkeep": {
+					"status": {
+						"en": 2
 					}
 				},
 				"apkleaks": {
@@ -5372,6 +5377,7 @@
 				"declare": {
 					"status": {
 						"en": 2,
+						"es": 1,
 						"ko": 1
 					}
 				},
@@ -12437,6 +12443,11 @@
 						"pt_BR": 2
 					}
 				},
+				"jupyterlab": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jupytext": {
 					"status": {
 						"en": 2,
@@ -13259,12 +13270,14 @@
 				"llc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"lldb": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -13272,12 +13285,14 @@
 				"lli": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"llm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -18360,6 +18375,11 @@
 						"ko": 2
 					}
 				},
+				"pnmmercator": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pnmmontage": {
 					"status": {
 						"en": 2,
@@ -18786,6 +18806,11 @@
 						"ko": 2
 					}
 				},
+				"ppmdraw": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ppmfade": {
 					"status": {
 						"en": 2,
@@ -18802,6 +18827,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ppmglobe": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ppmhist": {
@@ -24155,6 +24185,11 @@
 						"zh": 2
 					}
 				},
+				"vmtouch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"volta": {
 					"status": {
 						"en": 2,
@@ -25388,6 +25423,7 @@
 				"zbarimg": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"sv": 2,
 						"zh": 2
@@ -25481,6 +25517,7 @@
 				"zig": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -26174,6 +26211,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -28847,8 +28885,8 @@
 				"flatpak-run": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"flatpak-update": {
@@ -35610,6 +35648,7 @@
 				"zbarcam": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
