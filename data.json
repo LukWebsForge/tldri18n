@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 30-Dec-24 01:00:09 CET",
+	"last_update": "Tuesday, 31-Dec-24 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -12443,6 +12443,11 @@
 						"pt_BR": 2
 					}
 				},
+				"jupyter-lab": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jupyterlab": {
 					"status": {
 						"en": 2
@@ -12996,7 +13001,8 @@
 				},
 				"latexpand": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"laydown": {
@@ -13259,6 +13265,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"lit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"live-server": {
@@ -16837,7 +16848,8 @@
 				},
 				"pangolin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pants": {
@@ -20325,7 +20337,8 @@
 				},
 				"return": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rev": {
@@ -22147,7 +22160,8 @@
 				},
 				"suspend": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"sv": {
@@ -23234,6 +23248,11 @@
 						"no": 2,
 						"ru": 2,
 						"sv": 2
+					}
+				},
+				"tuc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tuckr": {
