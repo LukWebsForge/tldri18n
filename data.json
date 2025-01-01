@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 31-Dec-24 01:00:11 CET",
+	"last_update": "Wednesday, 01-Jan-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3346,6 +3346,11 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"caller": {
+					"status": {
+						"en": 2
 					}
 				},
 				"calligraflow": {
@@ -13436,6 +13441,11 @@
 						"zh_TW": 2
 					}
 				},
+				"llvm-mc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"llvm-nm": {
 					"status": {
 						"bs": 2,
@@ -22611,7 +22621,7 @@
 				"timew": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"timidity": {
@@ -27682,11 +27692,11 @@
 				},
 				"coredumpctl": {
 					"status": {
-						"ca": 2,
+						"ca": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"pl": 2
+						"es": 1,
+						"ko": 1,
+						"pl": 1
 					}
 				},
 				"cp": {
@@ -28073,6 +28083,7 @@
 				"distrobox": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -28650,6 +28661,7 @@
 				"exec": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -32981,6 +32993,7 @@
 				},
 				"rm": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
@@ -33134,6 +33147,7 @@
 				"rtorrent": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
