@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 01-Jan-25 01:00:08 CET",
+	"last_update": "Thursday, 02-Jan-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2659,7 +2659,7 @@
 						"es": 2,
 						"it": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"pt_PT": 2
@@ -5383,7 +5383,8 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"ko": 1
+						"ko": 1,
+						"nl": 2
 					}
 				},
 				"deemix": {
@@ -13274,7 +13275,8 @@
 				},
 				"lit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"live-server": {
@@ -23338,7 +23340,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1
+						"ko": 1,
+						"nl": 2
 					}
 				},
 				"typst": {
@@ -25981,7 +25984,7 @@
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
-				"nl": 13,
+				"nl": 14,
 				"no": 0,
 				"pl": 8,
 				"pt_BR": 13,
@@ -28234,7 +28237,8 @@
 				"dnf-group": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"dnf5": {
@@ -29493,7 +29497,8 @@
 				},
 				"i386": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"i3exit": {
@@ -30018,6 +30023,11 @@
 						"ko": 2
 					}
 				},
+				"kpackagetool6": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kpartx": {
 					"status": {
 						"en": 2,
@@ -30223,12 +30233,14 @@
 				},
 				"linux32": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"linux64": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"lnav": {
@@ -30302,6 +30314,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"lookandfeeltool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"losetup": {
@@ -31548,6 +31565,7 @@
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"ta": 2
@@ -31577,7 +31595,8 @@
 				"pacman-q": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pacman-query": {
@@ -31587,6 +31606,7 @@
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"tr": 2
@@ -31729,6 +31749,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"pct": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pdbedit": {
@@ -32226,6 +32251,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pveversion": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pvremove": {
@@ -33381,8 +33411,8 @@
 				"semanage-port": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"sensible-browser": {
@@ -34704,7 +34734,8 @@
 				},
 				"uname26": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"uncompress": {
@@ -35355,7 +35386,8 @@
 				},
 				"x86_64": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"xauth": {
