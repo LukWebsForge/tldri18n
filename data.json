@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 03-Jan-25 01:00:10 CET",
+	"last_update": "Saturday, 04-Jan-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -490,7 +490,8 @@
 				},
 				"%": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"2to3": {
@@ -781,7 +782,7 @@
 						"id": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"ru": 1,
@@ -3350,7 +3351,8 @@
 				},
 				"caller": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"calligraflow": {
@@ -7551,7 +7553,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"forever": {
@@ -12451,12 +12453,14 @@
 				},
 				"jupyter-lab": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"jupyterlab": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"jupytext": {
@@ -14103,7 +14107,8 @@
 				},
 				"mapfile": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"masscan": {
@@ -20224,7 +20229,8 @@
 				},
 				"readarray": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"readlink": {
@@ -22636,7 +22642,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"hi": 1,
 						"ja": 1,
@@ -31525,7 +31531,8 @@
 				},
 				"pacman-d": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pacman-database": {
@@ -31535,6 +31542,7 @@
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"ta": 2
@@ -31546,6 +31554,7 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"ta": 2
@@ -31657,12 +31666,14 @@
 				},
 				"pacman-t": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pacman-u": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pacman-upgrade": {
@@ -31672,6 +31683,7 @@
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2,
 						"ta": 2
 					}
@@ -33412,7 +33424,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"sensible-browser": {
