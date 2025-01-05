@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 04-Jan-25 01:00:10 CET",
+	"last_update": "Sunday, 05-Jan-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -485,7 +485,8 @@
 						"es": 2,
 						"hi": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"%": {
@@ -1312,7 +1313,8 @@
 				},
 				"apkeep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"apkleaks": {
@@ -3696,10 +3698,10 @@
 				"case": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"zh": 2
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"cat": {
@@ -7192,9 +7194,10 @@
 				"fc-list": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"es": 2,
+						"ko": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"fc-match": {
@@ -11703,6 +11706,7 @@
 				},
 				"id": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -12909,6 +12913,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"kubectl-wait": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kubectx": {
@@ -20224,7 +20233,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"readarray": {
@@ -23025,6 +23035,7 @@
 				"trans": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -24225,7 +24236,8 @@
 				},
 				"vmtouch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"volta": {
@@ -25976,7 +25988,7 @@
 				"ca": 5,
 				"cs": 0,
 				"da": 0,
-				"de": 7,
+				"de": 6,
 				"en": 100,
 				"es": 27,
 				"fa": 0,
@@ -30324,7 +30336,8 @@
 				},
 				"lookandfeeltool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"losetup": {
@@ -33337,6 +33350,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"scriptlive": {
+					"status": {
+						"en": 2
 					}
 				},
 				"scriptreplay": {
