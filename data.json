@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 05-Jan-25 01:00:10 CET",
+	"last_update": "Monday, 06-Jan-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -459,7 +459,7 @@
 				"tr": 5,
 				"uk": 1,
 				"uz": 0,
-				"zh": 12,
+				"zh": 13,
 				"zh_TW": 2
 			},
 			"pages": {
@@ -790,6 +790,11 @@
 						"zh": 1
 					}
 				},
+				"adb-connect": {
+					"status": {
+						"en": 2
+					}
+				},
 				"adb-devices": {
 					"status": {
 						"en": 2,
@@ -798,6 +803,11 @@
 						"id": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"adb-disconnect": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adb-forward": {
@@ -829,6 +839,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"adb-pair": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adb-reboot": {
@@ -3435,6 +3450,7 @@
 				"cargo-build": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -8247,6 +8263,12 @@
 						"nl": 2
 					}
 				},
+				"gendesk": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
 				"get-nodeinstalllocation": {
 					"status": {
 						"en": 2,
@@ -12005,7 +12027,8 @@
 						"en": 2,
 						"fr": 1,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"install-nodeversion": {
@@ -12917,7 +12940,8 @@
 				},
 				"kubectl-wait": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"kubectx": {
@@ -23731,6 +23755,7 @@
 				"valgrind": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -26069,6 +26094,7 @@
 				},
 				"a2enconf": {
 					"status": {
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -26084,6 +26110,7 @@
 				},
 				"a2enmod": {
 					"status": {
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -26139,6 +26166,7 @@
 				},
 				"aa-disable": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -26308,6 +26336,7 @@
 				},
 				"alien": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"fr": 2,
@@ -31737,9 +31766,14 @@
 				"parted": {
 					"status": {
 						"en": 2,
-						"hi": 2,
-						"ko": 2,
-						"uk": 2
+						"hi": 1,
+						"ko": 1,
+						"uk": 1
+					}
+				},
+				"parted-interactive": {
+					"status": {
+						"en": 2
 					}
 				},
 				"partprobe": {
