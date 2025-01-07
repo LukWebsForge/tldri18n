@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 06-Jan-25 01:00:09 CET",
+	"last_update": "Tuesday, 07-Jan-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4003,6 +4003,7 @@
 						"es": 2,
 						"fr": 1,
 						"hi": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
@@ -6676,6 +6677,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
@@ -7140,6 +7142,7 @@
 					"status": {
 						"bs": 2,
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"hi": 2,
 						"ko": 2,
@@ -10352,7 +10355,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"gml2gv": {
@@ -14453,7 +14457,7 @@
 						"fa": 2,
 						"fr": 1,
 						"hi": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -14936,7 +14940,7 @@
 						"en": 2,
 						"es": 2,
 						"hi": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -16972,7 +16976,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"pastel": {
@@ -21215,7 +21220,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"sequelize": {
@@ -22679,6 +22685,7 @@
 						"es": 2,
 						"fr": 1,
 						"hi": 1,
+						"id": 2,
 						"ja": 1,
 						"ko": 1,
 						"lo": 1,
@@ -23305,7 +23312,8 @@
 				},
 				"tuc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tuckr": {
@@ -30366,7 +30374,7 @@
 				"lookandfeeltool": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"losetup": {
@@ -30610,7 +30618,8 @@
 						"hi": 2,
 						"ko": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"man": {
@@ -32057,6 +32066,31 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"plasma-apply-colorscheme": {
+					"status": {
+						"en": 2
+					}
+				},
+				"plasma-apply-cursortheme": {
+					"status": {
+						"en": 2
+					}
+				},
+				"plasma-apply-desktoptheme": {
+					"status": {
+						"en": 2
+					}
+				},
+				"plasma-apply-lookandfeel": {
+					"status": {
+						"en": 2
+					}
+				},
+				"plasma-apply-wallpaperimage": {
+					"status": {
+						"en": 2
 					}
 				},
 				"plasmashell": {
@@ -33925,6 +33959,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"steamos-chroot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"steamos-dump-info": {
