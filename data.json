@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 09-Jan-25 01:00:09 CET",
+	"last_update": "Friday, 10-Jan-25 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -32981,7 +32981,7 @@
 				"reflector": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"register_new_matrix_user": {
@@ -33429,7 +33429,8 @@
 				},
 				"scriptlive": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"scriptreplay": {
