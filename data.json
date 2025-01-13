@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 12-Jan-25 01:00:10 CET",
+	"last_update": "Monday, 13-Jan-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -493,6 +493,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				".": {
+					"status": {
+						"en": 2
 					}
 				},
 				"2to3": {
@@ -7378,7 +7383,8 @@
 				},
 				"filecheck": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fin": {
@@ -29086,7 +29092,8 @@
 				},
 				"fwconsole": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fwupdmgr": {
