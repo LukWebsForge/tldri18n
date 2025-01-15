@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 13-Jan-25 01:00:10 CET",
+	"last_update": "Wednesday, 15-Jan-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -785,7 +785,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
@@ -5555,6 +5555,7 @@
 						"fa": 1,
 						"fr": 1,
 						"it": 1,
+						"ja": 2,
 						"ko": 1,
 						"pl": 1,
 						"pt_BR": 2,
@@ -6732,6 +6733,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -10852,6 +10854,7 @@
 						"es": 2,
 						"fa": 2,
 						"fr": 1,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -18102,7 +18105,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 1,
-						"id": 1,
+						"id": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -23054,6 +23057,11 @@
 						"ru": 2
 					}
 				},
+				"tqdm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tr": {
 					"status": {
 						"en": 2,
@@ -26044,7 +26052,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 91,
+				"ko": 90,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -26835,6 +26843,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"aurpublish": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aurvote": {
@@ -28102,7 +28115,8 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"ta": 1
+						"ta": 1,
+						"zh": 2
 					}
 				},
 				"dget": {
@@ -29676,6 +29690,11 @@
 						"es": 2
 					}
 				},
+				"informant": {
+					"status": {
+						"en": 2
+					}
+				},
 				"init": {
 					"status": {
 						"en": 2,
@@ -30389,7 +30408,8 @@
 				"lookandfeeltool": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"nl": 2
 					}
 				},
 				"losetup": {
@@ -32100,7 +32120,8 @@
 				},
 				"plasma-apply-lookandfeel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"plasma-apply-wallpaperimage": {
@@ -32834,6 +32855,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"qmake": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qmrestore": {
