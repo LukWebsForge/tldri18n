@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 15-Jan-25 01:00:11 CET",
+	"last_update": "Thursday, 16-Jan-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6511,6 +6511,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -26071,7 +26072,7 @@
 				"tr": 4,
 				"uk": 2,
 				"uz": 0,
-				"zh": 9,
+				"zh": 10,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -27440,7 +27441,8 @@
 						"ml": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"cbatticon": {
@@ -29488,7 +29490,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"hlint": {
