@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 17-Jan-25 01:00:12 CET",
+	"last_update": "Saturday, 18-Jan-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 10,
 				"en": 100,
-				"es": 18,
+				"es": 19,
 				"fa": 2,
 				"fi": 0,
 				"fr": 10,
@@ -497,7 +497,8 @@
 				},
 				".": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"2to3": {
@@ -3720,6 +3721,7 @@
 				"case": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
@@ -13503,7 +13505,8 @@
 				},
 				"llvm-mc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"llvm-nm": {
@@ -13803,7 +13806,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"lspath": {
@@ -22358,7 +22362,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"sh": 1
+						"sh": 1,
+						"zh": 2
 					}
 				},
 				"tailscale": {
@@ -26063,7 +26068,7 @@
 				"nl": 14,
 				"no": 0,
 				"pl": 8,
-				"pt_BR": 13,
+				"pt_BR": 12,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 0,
@@ -28486,6 +28491,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"dump.exfat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dumpe2fs": {
@@ -31053,7 +31063,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"mount.cifs": {
@@ -34208,8 +34219,8 @@
 				"systemd-analyze": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pl": 2
+						"ko": 1,
+						"pl": 1
 					}
 				},
 				"systemd-ask-password": {
@@ -34768,6 +34779,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"tune.exfat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tune2fs": {
