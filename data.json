@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 18-Jan-25 01:00:10 CET",
+	"last_update": "Sunday, 19-Jan-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5237,6 +5237,7 @@
 				},
 				"cut": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -30278,6 +30279,11 @@
 					}
 				},
 				"lftp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"libinput": {
 					"status": {
 						"en": 2
 					}
