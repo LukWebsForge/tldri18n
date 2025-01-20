@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 19-Jan-25 01:00:10 CET",
+	"last_update": "Monday, 20-Jan-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1079,17 +1079,17 @@
 				},
 				"alacritty": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"zh": 1
 					}
 				},
 				"alex": {
@@ -11031,7 +11031,8 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"hadolint": {
@@ -13164,7 +13165,8 @@
 						"en": 2,
 						"it": 2,
 						"ja": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"less-than": {
@@ -15629,7 +15631,8 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"npm-access": {
@@ -21126,7 +21129,8 @@
 					"status": {
 						"en": 2,
 						"hi": 1,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"scrapy": {
@@ -21844,7 +21848,8 @@
 						"fr": 2,
 						"hi": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"ssh-add": {
@@ -21871,7 +21876,8 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"ssh-keygen": {
@@ -28300,7 +28306,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"dnf": {
@@ -29765,7 +29772,8 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"ip-address": {
@@ -30095,6 +30103,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"kmod": {
+					"status": {
+						"en": 2
 					}
 				},
 				"knock": {
@@ -32460,8 +32473,8 @@
 				"pw-dump": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"pw-link": {
