@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 20-Jan-25 01:00:11 CET",
+	"last_update": "Tuesday, 21-Jan-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -8760,14 +8760,14 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
-						"id": 2,
+						"id": 1,
 						"it": 1,
-						"ko": 2,
-						"ta": 2,
+						"ko": 1,
+						"ta": 1,
 						"tr": 1,
-						"uk": 2
+						"uk": 1
 					}
 				},
 				"git-blame-someone-else": {
@@ -10816,7 +10816,7 @@
 				"gprof": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"gradle": {
@@ -11883,6 +11883,7 @@
 				},
 				"ifconfig": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"fa": 2,
 						"fr": 2,
@@ -13011,6 +13012,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"lame": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lando": {
@@ -16396,6 +16402,7 @@
 				},
 				"openssl": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2,
 						"uk": 2
@@ -35311,6 +35318,7 @@
 				},
 				"vnstat": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2
