@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 21-Jan-25 01:00:10 CET",
+	"last_update": "Wednesday, 22-Jan-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -30631,6 +30631,11 @@
 						"en": 2
 					}
 				},
+				"lxc-create": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lxc-network": {
 					"status": {
 						"en": 2
@@ -30766,6 +30771,12 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"mbw": {
+					"status": {
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"mcookie": {
