@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 23-Jan-25 01:00:10 CET",
+	"last_update": "Friday, 24-Jan-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1539,6 +1539,24 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"arthas": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
+				"arthas-trace": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
+				"arthas-watch": {
+					"status": {
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"asar": {
@@ -22466,6 +22484,7 @@
 				},
 				"tcpdump": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -24925,7 +24944,8 @@
 						"ko": 2,
 						"pl": 1,
 						"pt_BR": 2,
-						"pt_PT": 1
+						"pt_PT": 1,
+						"zh": 2
 					}
 				},
 				"xmake": {
