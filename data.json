@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 28-Jan-25 01:00:11 CET",
+	"last_update": "Wednesday, 29-Jan-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -10964,7 +10964,7 @@
 				"gt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"gtop": {
@@ -24666,6 +24666,11 @@
 						"ko": 2
 					}
 				},
+				"whatweb": {
+					"status": {
+						"en": 2
+					}
+				},
 				"where": {
 					"status": {
 						"da": 2,
@@ -29866,6 +29871,11 @@
 						"es": 2,
 						"ko": 2,
 						"tr": 2
+					}
+				},
+				"ip-maddress": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ip-neighbour": {
