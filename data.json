@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 30-Jan-25 01:00:12 CET",
+	"last_update": "Friday, 31-Jan-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 9,
 				"en": 100,
-				"es": 18,
+				"es": 19,
 				"fa": 1,
 				"fi": 0,
 				"fr": 10,
@@ -482,15 +482,16 @@
 				"$": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"es": 1,
+						"hi": 1,
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"%": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2,
 						"pl": 2
@@ -12537,6 +12538,7 @@
 				"jupyter-lab": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -23137,7 +23139,8 @@
 				},
 				"tqdm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tr": {
@@ -26942,7 +26945,8 @@
 				},
 				"aurpublish": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aurvote": {
@@ -28226,6 +28230,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"dialog": {
+					"status": {
+						"en": 2
 					}
 				},
 				"diff3": {
@@ -29795,7 +29804,8 @@
 				},
 				"informant": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"init": {
@@ -32990,7 +33000,8 @@
 				},
 				"qmake": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"qmrestore": {
