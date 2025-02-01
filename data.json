@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 31-Jan-25 01:00:11 CET",
+	"last_update": "Saturday, 01-Feb-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -9003,6 +9003,11 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"git-cliff": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-clone": {
@@ -19648,7 +19653,7 @@
 				"pulumi-config": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"pulumi-destroy": {
@@ -29535,6 +29540,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"gtk-launch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"guake": {
