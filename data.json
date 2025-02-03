@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 02-Feb-25 01:00:10 CET",
+	"last_update": "Monday, 03-Feb-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -520,6 +520,7 @@
 				},
 				"7z": {
 					"status": {
+						"ar": 2,
 						"bn": 1,
 						"ca": 1,
 						"de": 1,
@@ -1084,7 +1085,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 1,
 						"it": 1,
@@ -5382,7 +5383,8 @@
 				},
 				"dbx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dc": {
@@ -5759,6 +5761,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 1,
 						"zh": 2,
 						"zh_TW": 2
@@ -7416,6 +7419,11 @@
 						"it": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"filebrowser": {
+					"status": {
+						"en": 2
 					}
 				},
 				"filecheck": {
@@ -10522,6 +10530,7 @@
 				},
 				"go": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
@@ -17697,6 +17706,7 @@
 				},
 				"pgrep": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2
@@ -20370,6 +20380,7 @@
 				"readarray": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -22480,6 +22491,7 @@
 				},
 				"tar": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -23316,6 +23328,11 @@
 						"zh": 1
 					}
 				},
+				"trip": {
+					"status": {
+						"en": 2
+					}
+				},
 				"trivy": {
 					"status": {
 						"en": 2,
@@ -23818,13 +23835,15 @@
 				"uv": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
 				},
 				"uv-add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"uv-python": {
@@ -23844,7 +23863,8 @@
 				},
 				"uv-tree": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"uvicorn": {
@@ -23863,6 +23883,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"vagrant-box": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vala": {
@@ -25745,6 +25770,7 @@
 				},
 				"zip": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"fr": 1,
 						"ko": 2,
@@ -26153,7 +26179,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 100,
-				"es": 27,
+				"es": 28,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -28608,7 +28634,8 @@
 				},
 				"dump.exfat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dumpe2fs": {
@@ -29046,7 +29073,8 @@
 				},
 				"fincore": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"findfs": {
@@ -29620,6 +29648,7 @@
 				"head": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -29845,6 +29874,7 @@
 				"insmod": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pl": 2
 					}
@@ -30223,7 +30253,8 @@
 				},
 				"kmod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"knock": {
@@ -30414,7 +30445,8 @@
 				},
 				"libinput": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"libtool": {
@@ -30741,6 +30773,12 @@
 					}
 				},
 				"lxc-create": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
+				"lxc-ls": {
 					"status": {
 						"en": 2
 					}
@@ -31162,6 +31200,7 @@
 				"modinfo": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -31169,6 +31208,7 @@
 				"modprobe": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -33346,6 +33386,7 @@
 				"rmmod": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -34935,7 +34976,8 @@
 				},
 				"tune.exfat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tune2fs": {
@@ -35021,6 +35063,7 @@
 				},
 				"ufw": {
 					"status": {
+						"ar": 2,
 						"ca": 2,
 						"en": 2,
 						"es": 2,
