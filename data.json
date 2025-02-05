@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 04-Feb-25 01:00:10 CET",
+	"last_update": "Wednesday, 05-Feb-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -22195,10 +22195,10 @@
 				"stty": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"ru": 2,
-						"zh": 2
+						"ko": 1,
+						"nl": 1,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"stun": {
@@ -31754,7 +31754,7 @@
 				"opkg": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"optimus-manager": {
@@ -31800,6 +31800,7 @@
 				},
 				"pacman": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
