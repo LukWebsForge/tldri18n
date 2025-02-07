@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 06-Feb-25 01:00:06 CET",
+	"last_update": "Friday, 07-Feb-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 9,
 				"it": 10,
 				"ja": 2,
-				"ko": 96,
+				"ko": 95,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -986,6 +986,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"aider": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aircrack-ng": {
@@ -3955,6 +3960,7 @@
 				},
 				"chisel": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -5277,7 +5283,8 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 2,
-						"ru": 1
+						"ru": 1,
+						"zh": 2
 					}
 				},
 				"cvs": {
@@ -6535,6 +6542,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"dtrx": {
+					"status": {
+						"en": 2
 					}
 				},
 				"du": {
@@ -7934,7 +7946,8 @@
 				},
 				"function": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"funzip": {
@@ -11978,6 +11991,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"img2sixel": {
+					"status": {
+						"en": 2
 					}
 				},
 				"imgcat": {
@@ -16485,6 +16503,7 @@
 				},
 				"openssl-req": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -16503,6 +16522,7 @@
 				},
 				"openssl-x509": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -20174,11 +20194,11 @@
 				},
 				"rails": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"id": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"id": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"rails-console": {
@@ -20210,7 +20230,8 @@
 				},
 				"rails-new": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rails-routes": {
@@ -20222,7 +20243,8 @@
 				},
 				"rails-server": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"railway": {
@@ -21699,6 +21721,16 @@
 						"ko": 2
 					}
 				},
+				"snmpget": {
+					"status": {
+						"en": 2
+					}
+				},
+				"snmpwalk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"snort": {
 					"status": {
 						"en": 2,
@@ -23168,6 +23200,7 @@
 				},
 				"tr": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
@@ -23890,6 +23923,11 @@
 						"en": 2
 					}
 				},
+				"vagrant-plugin": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vala": {
 					"status": {
 						"en": 2,
@@ -24348,7 +24386,7 @@
 				"virt-sysprep": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"virtualenv": {
@@ -24586,7 +24624,7 @@
 				"watch": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"watchexec": {
@@ -26178,7 +26216,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 100,
+				"en": 99,
 				"es": 28,
 				"fa": 0,
 				"fi": 0,
@@ -26187,7 +26225,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 90,
+				"ko": 89,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -27481,6 +27519,11 @@
 						"ko": 2
 					}
 				},
+				"bwrap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"byzanz-record": {
 					"status": {
 						"en": 2,
@@ -28736,6 +28779,11 @@
 						"ko": 2
 					}
 				},
+				"eglinfo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ego": {
 					"status": {
 						"en": 2,
@@ -29809,6 +29857,11 @@
 						"ko": 2
 					}
 				},
+				"ifstatus": {
+					"status": {
+						"en": 2
+					}
+				},
 				"iftop": {
 					"status": {
 						"en": 2,
@@ -30562,6 +30615,11 @@
 					"status": {
 						"en": 2,
 						"pl": 1
+					}
+				},
+				"logread": {
+					"status": {
+						"en": 2
 					}
 				},
 				"logrotate": {
@@ -34089,7 +34147,6 @@
 				},
 				"snmpwalk": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
@@ -34386,6 +34443,7 @@
 				},
 				"systemctl": {
 					"status": {
+						"ar": 2,
 						"ca": 2,
 						"en": 2,
 						"es": 2,
@@ -34919,7 +34977,7 @@
 				"trap": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"trash": {
@@ -35575,7 +35633,6 @@
 				"watch": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -41237,17 +41294,17 @@
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
-				"hi": 32,
+				"hi": 31,
 				"id": 19,
 				"it": 15,
 				"ja": 9,
-				"ko": 100,
+				"ko": 99,
 				"lo": 3,
 				"ml": 2,
 				"ne": 4,
 				"nl": 38,
 				"no": 3,
-				"pl": 17,
+				"pl": 18,
 				"pt_BR": 13,
 				"pt_PT": 4,
 				"ro": 0,
@@ -41921,6 +41978,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"es": {
+					"status": {
+						"en": 2
 					}
 				},
 				"eventcreate": {
@@ -42854,6 +42916,7 @@
 						"hi": 2,
 						"id": 2,
 						"ko": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				},
@@ -42863,6 +42926,7 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				},
