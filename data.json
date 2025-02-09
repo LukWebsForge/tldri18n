@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 08-Feb-25 01:00:07 CET",
+	"last_update": "Sunday, 09-Feb-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5911,12 +5911,12 @@
 				},
 				"docker-image": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"docker-images": {
@@ -14262,6 +14262,11 @@
 						"nl": 2
 					}
 				},
+				"mariadb-install-db": {
+					"status": {
+						"en": 2
+					}
+				},
 				"masscan": {
 					"status": {
 						"en": 2,
@@ -20691,6 +20696,7 @@
 				"rmlint": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -29601,6 +29607,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"growpart": {
+					"status": {
+						"en": 2
 					}
 				},
 				"grub-bios-setup": {
