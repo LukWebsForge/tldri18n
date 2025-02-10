@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 09-Feb-25 01:00:08 CET",
+	"last_update": "Monday, 10-Feb-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -459,7 +459,7 @@
 				"tr": 5,
 				"uk": 1,
 				"uz": 0,
-				"zh": 13,
+				"zh": 15,
 				"zh_TW": 2
 			},
 			"pages": {
@@ -3026,7 +3026,8 @@
 				},
 				"bpython": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bpytop": {
@@ -7931,6 +7932,7 @@
 				},
 				"ftp": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
@@ -10828,6 +10830,7 @@
 				},
 				"gpg": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"ja": 2,
@@ -11006,6 +11009,7 @@
 				"gt": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -12300,7 +12304,8 @@
 				"jadx": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jar": {
@@ -12348,38 +12353,44 @@
 				"javap": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jbang": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jc": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jcal": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jdeps": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jdupes": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jekyll": {
@@ -12388,13 +12399,15 @@
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"jello": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jenv": {
@@ -12408,13 +12421,15 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jetifier": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jf": {
@@ -12422,7 +12437,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"jfrog": {
@@ -12431,7 +12447,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				"jhat": {
@@ -12444,19 +12461,22 @@
 				"jhipster": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jhsdb": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jigsaw": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jmap": {
@@ -12469,13 +12489,15 @@
 				"jmeter": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jmtpfs": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jobs": {
@@ -12483,20 +12505,23 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"joe": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"john": {
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"join": {
@@ -12504,32 +12529,37 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"zh": 2
 					}
 				},
 				"josm": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jp2a": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jpegoptim": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jpegtopnm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jps": {
@@ -12545,64 +12575,74 @@
 						"en": 2,
 						"fr": 1,
 						"ko": 2,
-						"ru": 1
+						"ru": 1,
+						"zh": 2
 					}
 				},
 				"jrnl": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"json5": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jstack": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jtbl": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"julia": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jupyter": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"jupyter-lab": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"jupyterlab": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"jupytext": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"just": {
@@ -12610,21 +12650,24 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				"just.1": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"jwt": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"k3d": {
@@ -12938,6 +12981,7 @@
 				"kubeadm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -13262,7 +13306,7 @@
 				"less-than": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"let": {
@@ -17943,6 +17987,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"picotool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"picttoppm": {
@@ -23232,9 +23281,9 @@
 				"tput": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"ko": 2,
-						"ru": 2
+						"fr": 1,
+						"ko": 1,
+						"ru": 1
 					}
 				},
 				"tqdm": {
@@ -25397,116 +25446,135 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yacas": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yacc": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-alt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-bootstrap": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-clone": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-config": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-decrypt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-encrypt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-enter": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-git-crypt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-gitconfig": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-init": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-introspect": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-list": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-perms": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-transcrypt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yadm-upgrade": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yank": {
@@ -25520,14 +25588,16 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"yard": {
 					"status": {
 						"en": 2,
 						"fa": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yarn": {
@@ -25552,19 +25622,22 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"ybacklight": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"ybmtopbm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yes": {
@@ -25576,67 +25649,77 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 1,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"yesod": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"ykinfo": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"ykman": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"ykman-config": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"ykman-fido": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"ykman-oath": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"ykman-openpgp": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"yolo": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"you-get": {
 					"status": {
 						"en": 2,
 						"fa": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"youtube-dl": {
@@ -25646,45 +25729,52 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				"youtube-viewer": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yq": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yt-dlp": {
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"pt_PT": 1
+						"pt_PT": 1,
+						"zh": 2
 					}
 				},
 				"yuvsplittoppm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yuvtoppm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"yuy2topam": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"z": {
@@ -26258,7 +26348,7 @@
 		},
 		"linux": {
 			"progress": {
-				"ar": 0,
+				"ar": 1,
 				"bn": 0,
 				"bs": 0,
 				"ca": 5,
@@ -28375,7 +28465,9 @@
 				},
 				"dialog": {
 					"status": {
-						"en": 2
+						"ar": 2,
+						"en": 2,
+						"es": 2
 					}
 				},
 				"diff3": {
@@ -29079,7 +29171,8 @@
 				},
 				"fadvise": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fail2ban-client": {
@@ -30001,7 +30094,7 @@
 				"inxi": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"ionice": {
@@ -30901,7 +30994,8 @@
 				},
 				"lxc-ls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lxc-network": {
@@ -31875,6 +31969,7 @@
 				"opkg": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -32181,7 +32276,8 @@
 				},
 				"paxs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pct": {
@@ -32804,8 +32900,8 @@
 				"pw-play": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
+						"ko": 1,
+						"pt_BR": 1,
 						"tr": 1
 					}
 				},
@@ -32818,9 +32914,9 @@
 				"pw-record": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"ko": 1,
+						"pt_BR": 1,
+						"tr": 1
 					}
 				},
 				"pw-top": {
@@ -33475,6 +33571,7 @@
 				},
 				"rkhunter": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -35711,8 +35808,8 @@
 				"waypipe": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"wdctl": {
