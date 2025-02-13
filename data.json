@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 12-Feb-25 01:00:09 CET",
+	"last_update": "Thursday, 13-Feb-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -16460,6 +16460,11 @@
 						"ko": 2
 					}
 				},
+				"olevba": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ollama": {
 					"status": {
 						"en": 2,
@@ -26366,7 +26371,7 @@
 		},
 		"linux": {
 			"progress": {
-				"ar": 1,
+				"ar": 0,
 				"bn": 0,
 				"bs": 0,
 				"ca": 5,
@@ -26398,8 +26403,8 @@
 				"sv": 0,
 				"ta": 4,
 				"th": 0,
-				"tr": 4,
-				"uk": 2,
+				"tr": 3,
+				"uk": 1,
 				"uz": 0,
 				"zh": 10,
 				"zh_TW": 0
@@ -29473,6 +29478,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"fuzzel": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fwconsole": {
