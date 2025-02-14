@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 13-Feb-25 01:00:09 CET",
+	"last_update": "Friday, 14-Feb-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1183,16 +1183,16 @@
 				},
 				"ani-cli": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"id": 2,
-						"ko": 2,
-						"ml": 2,
-						"nl": 2,
-						"zh": 2
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"id": 1,
+						"ko": 1,
+						"ml": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"animdl": {
@@ -8289,12 +8289,12 @@
 				},
 				"gdb": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"id": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"fr": 1,
+						"id": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"gdc": {
