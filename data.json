@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 14-Feb-25 01:00:09 CET",
+	"last_update": "Saturday, 15-Feb-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -11567,7 +11567,8 @@
 				},
 				"htmlq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"htop": {
