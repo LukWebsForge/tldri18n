@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 17-Feb-25 01:00:10 CET",
+	"last_update": "Tuesday, 18-Feb-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -26207,22 +26207,22 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 53,
+				"es": 50,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
-				"hi": 100,
-				"id": 23,
+				"hi": 92,
+				"id": 21,
 				"it": 0,
 				"ja": 0,
-				"ko": 100,
+				"ko": 92,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 100,
+				"nl": 92,
 				"no": 0,
-				"pl": 100,
-				"pt_BR": 100,
+				"pl": 92,
+				"pt_BR": 92,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -26323,6 +26323,11 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2
+					}
+				},
+				"procstat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sed": {
