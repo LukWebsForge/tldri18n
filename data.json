@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 20-Feb-25 01:00:10 CET",
+	"last_update": "Friday, 21-Feb-25 01:00:06 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6556,7 +6556,8 @@
 				},
 				"dtrx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"du": {
@@ -21844,7 +21845,8 @@
 				},
 				"snmpwalk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snort": {
@@ -26187,7 +26189,8 @@
 				},
 				"{": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"~": {
@@ -26389,7 +26392,7 @@
 		},
 		"linux": {
 			"progress": {
-				"ar": 0,
+				"ar": 1,
 				"bn": 0,
 				"bs": 0,
 				"ca": 5,
@@ -26421,8 +26424,8 @@
 				"sv": 0,
 				"ta": 4,
 				"th": 0,
-				"tr": 3,
-				"uk": 1,
+				"tr": 4,
+				"uk": 2,
 				"uz": 0,
 				"zh": 10,
 				"zh_TW": 0
@@ -29500,7 +29503,8 @@
 				},
 				"fuzzel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fwconsole": {
@@ -29751,7 +29755,8 @@
 				},
 				"growpart": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"grub-bios-setup": {
@@ -34353,11 +34358,6 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
-					}
-				},
-				"snmpwalk": {
-					"status": {
-						"ko": 2
 					}
 				},
 				"sockstat": {
