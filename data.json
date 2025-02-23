@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 22-Feb-25 01:00:07 CET",
+	"last_update": "Sunday, 23-Feb-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4032,6 +4032,12 @@
 					}
 				},
 				"chronic": {
+					"status": {
+						"en": 2,
+						"ko": 2
+					}
+				},
+				"chronyc": {
 					"status": {
 						"en": 2,
 						"ko": 2
@@ -14322,7 +14328,8 @@
 				},
 				"mariadb-install-db": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"masscan": {
@@ -15466,7 +15473,8 @@
 				},
 				"nhentai": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"nice": {
@@ -18015,7 +18023,8 @@
 				},
 				"picotool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"picttoppm": {
@@ -21843,7 +21852,42 @@
 						"ko": 2
 					}
 				},
+				"snmpbulkget": {
+					"status": {
+						"en": 2
+					}
+				},
+				"snmpdf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"snmpget": {
+					"status": {
+						"en": 2
+					}
+				},
+				"snmpgetnext": {
+					"status": {
+						"en": 2
+					}
+				},
+				"snmpset": {
+					"status": {
+						"en": 2
+					}
+				},
+				"snmpstatus": {
+					"status": {
+						"en": 2
+					}
+				},
+				"snmptable": {
+					"status": {
+						"en": 2
+					}
+				},
+				"snmptest": {
 					"status": {
 						"en": 2
 					}
@@ -26405,7 +26449,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 99,
-				"es": 28,
+				"es": 29,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -27437,7 +27481,8 @@
 				},
 				"bluebuild": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bluetoothctl": {
@@ -27715,7 +27760,8 @@
 				},
 				"bwrap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"byzanz-record": {
@@ -28025,12 +28071,6 @@
 					}
 				},
 				"chpasswd": {
-					"status": {
-						"en": 2,
-						"ko": 2
-					}
-				},
-				"chronyc": {
 					"status": {
 						"en": 2,
 						"ko": 2
@@ -28978,7 +29018,8 @@
 				},
 				"eglinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ego": {
