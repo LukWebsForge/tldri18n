@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 24-Feb-25 01:00:07 CET",
+	"last_update": "Tuesday, 25-Feb-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -19477,6 +19477,11 @@
 						"en": 2
 					}
 				},
+				"print.zsh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"printenv": {
 					"status": {
 						"en": 2,
@@ -24100,7 +24105,8 @@
 				},
 				"vagrant-plugin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"vala": {
@@ -26261,7 +26267,7 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 50,
+				"es": 57,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
@@ -26381,7 +26387,8 @@
 				},
 				"procstat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"sed": {
@@ -26449,7 +26456,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 99,
-				"es": 29,
+				"es": 32,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -26617,6 +26624,7 @@
 				"aa-enforce": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -26656,12 +26664,14 @@
 				"abrt-action-analyze-backtrace": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"abrt-action-analyze-c": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -26694,6 +26704,7 @@
 						"ca": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -26708,6 +26719,7 @@
 						"ca": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -26720,6 +26732,7 @@
 						"ca": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -26755,6 +26768,7 @@
 				"adig": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
@@ -26770,6 +26784,7 @@
 				"ahost": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pl": 2
 					}
@@ -26779,6 +26794,7 @@
 						"bn": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"hi": 2,
 						"ko": 2,
@@ -26791,6 +26807,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -26822,6 +26839,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pl": 2,
 						"zh": 2
@@ -26831,6 +26849,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"no": 2,
 						"ta": 2,
@@ -26841,6 +26860,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"hi": 2,
 						"ko": 2,
@@ -26869,6 +26889,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pl": 2,
 						"zh": 2
@@ -27048,6 +27069,7 @@
 				"apx": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"ta": 2
@@ -27056,6 +27078,7 @@
 				"apx-pkgmanagers": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -27063,6 +27086,7 @@
 				"apx-stacks": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -27070,6 +27094,7 @@
 				"apx-subsystems": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -27078,6 +27103,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -27112,6 +27138,7 @@
 				"archivemount": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -27119,6 +27146,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 1
 					}
@@ -27127,6 +27155,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 1
 					}
@@ -27135,6 +27164,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -27143,6 +27173,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"zh": 2
@@ -27151,12 +27182,14 @@
 				"arpaname": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"arpspoof": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -27164,6 +27197,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
@@ -27198,6 +27232,7 @@
 				"asterisk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -27205,6 +27240,7 @@
 				"atool": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -27212,6 +27248,7 @@
 				"atop": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -27239,6 +27276,7 @@
 				"aura": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -27246,6 +27284,7 @@
 				"auracle": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -27253,6 +27292,7 @@
 				"aurman": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -27266,6 +27306,7 @@
 				"aurvote": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -27273,12 +27314,14 @@
 				"ausyscall": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"authconfig": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -27287,18 +27330,21 @@
 				"auto-cpufreq": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"autopkgtest": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"autorandr": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 1
@@ -27307,12 +27353,14 @@
 				"autorecon": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"avahi-browse": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 1
 					}
@@ -27320,12 +27368,14 @@
 				"avahi-resolve": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"avifenc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -28085,6 +28135,7 @@
 				"chsh": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -32798,10 +32849,14 @@
 				},
 				"print": {
 					"status": {
-						"en": 2,
 						"ko": 2,
 						"nl": 2,
 						"tr": 2
+					}
+				},
+				"print.runmailcap": {
+					"status": {
+						"en": 2
 					}
 				},
 				"prlimit": {
@@ -41546,7 +41601,7 @@
 				"cs": 0,
 				"da": 1,
 				"de": 18,
-				"en": 100,
+				"en": 99,
 				"es": 16,
 				"fa": 1,
 				"fi": 0,
@@ -41569,7 +41624,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 4,
-				"ta": 21,
+				"ta": 20,
 				"th": 6,
 				"tr": 4,
 				"uk": 2,
@@ -42831,7 +42886,6 @@
 				},
 				"print": {
 					"status": {
-						"en": 2,
 						"hi": 2,
 						"id": 2,
 						"ko": 2,
@@ -42841,6 +42895,11 @@
 						"ru": 2,
 						"sv": 2,
 						"zh": 2
+					}
+				},
+				"print.win": {
+					"status": {
+						"en": 2
 					}
 				},
 				"prompt": {
