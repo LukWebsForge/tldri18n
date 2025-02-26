@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 25-Feb-25 01:00:07 CET",
+	"last_update": "Wednesday, 26-Feb-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -8657,7 +8657,8 @@
 				},
 				"ghostty": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gibo": {
@@ -12038,7 +12039,8 @@
 				},
 				"img2sixel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"imgcat": {
@@ -19824,7 +19826,8 @@
 				},
 				"pulumi-env": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pulumi-gen-completion": {
@@ -19868,7 +19871,8 @@
 				},
 				"pulumi-state": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pulumi-up": {
@@ -21869,7 +21873,8 @@
 				},
 				"snmpget": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"snmpgetnext": {
@@ -23542,7 +23547,8 @@
 				},
 				"trip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"trivy": {
@@ -30161,7 +30167,8 @@
 				},
 				"ifstatus": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"iftop": {
@@ -30923,7 +30930,8 @@
 				},
 				"logread": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"logrotate": {
@@ -42295,7 +42303,8 @@
 				},
 				"es": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"eventcreate": {
