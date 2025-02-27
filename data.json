@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 26-Feb-25 01:00:07 CET",
+	"last_update": "Thursday, 27-Feb-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -16486,7 +16486,8 @@
 				},
 				"olevba": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ollama": {
@@ -21930,6 +21931,7 @@
 				"socat": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -24100,6 +24102,7 @@
 				"vagrant": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -24112,7 +24115,8 @@
 				"vagrant-plugin": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"fr": 2
 					}
 				},
 				"vala": {
@@ -34400,7 +34404,8 @@
 				},
 				"smbcacls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"smbclient": {
