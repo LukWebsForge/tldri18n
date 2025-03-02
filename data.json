@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 01-Mar-25 01:00:06 CET",
+	"last_update": "Sunday, 02-Mar-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -9917,10 +9917,10 @@
 				"git-revert": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
 						"it": 1,
-						"ko": 2,
+						"ko": 1,
 						"tr": 1
 					}
 				},
@@ -12069,6 +12069,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"impacket-secretsdump": {
+					"status": {
+						"en": 2
 					}
 				},
 				"import": {
@@ -19873,7 +19878,7 @@
 				"pulumi-state": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"pulumi-up": {
@@ -21456,6 +21461,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"secretsdump.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"security-checker": {
@@ -26458,7 +26468,7 @@
 		},
 		"linux": {
 			"progress": {
-				"ar": 1,
+				"ar": 0,
 				"bn": 0,
 				"bs": 0,
 				"ca": 5,
@@ -26490,8 +26500,8 @@
 				"sv": 0,
 				"ta": 4,
 				"th": 0,
-				"tr": 4,
-				"uk": 2,
+				"tr": 3,
+				"uk": 1,
 				"uz": 0,
 				"zh": 10,
 				"zh_TW": 0
@@ -31245,6 +31255,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"mangohud": {
+					"status": {
+						"en": 2
 					}
 				},
 				"manpath": {
