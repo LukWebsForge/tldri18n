@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 03-Mar-25 01:00:07 CET",
+	"last_update": "Tuesday, 04-Mar-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4546,6 +4546,11 @@
 						"it": 1,
 						"ko": 1,
 						"pl": 2
+					}
+				},
+				"composer-audit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"composer-require-checker": {
@@ -19867,6 +19872,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pulumi-refresh": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pulumi-stack": {
