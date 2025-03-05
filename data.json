@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 04-Mar-25 01:00:08 CET",
+	"last_update": "Wednesday, 05-Mar-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 9,
 				"en": 100,
-				"es": 19,
+				"es": 20,
 				"fa": 1,
 				"fi": 0,
 				"fr": 10,
@@ -7064,6 +7064,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 1,
 						"ko": 2,
@@ -13252,7 +13253,8 @@
 				},
 				"lazygit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lb": {
@@ -19554,6 +19556,7 @@
 				"protoc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"zh": 1
 					}
@@ -24467,6 +24470,7 @@
 				"virsh": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -27612,7 +27616,8 @@
 				},
 				"bootc-switch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bootctl": {
@@ -29964,7 +29969,8 @@
 				},
 				"gtk-launch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"guake": {
@@ -31269,7 +31275,8 @@
 				},
 				"mangohud": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"manpath": {
@@ -35463,6 +35470,11 @@
 						"en": 2
 					}
 				},
+				"uci": {
+					"status": {
+						"en": 2
+					}
+				},
 				"udevadm": {
 					"status": {
 						"en": 2,
@@ -36417,6 +36429,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"yakuake": {
+					"status": {
+						"en": 2
 					}
 				},
 				"yaourt": {
