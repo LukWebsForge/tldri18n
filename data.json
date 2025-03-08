@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 07-Mar-25 01:00:07 CET",
+	"last_update": "Saturday, 08-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -424,7 +424,7 @@
 		},
 		"common": {
 			"progress": {
-				"ar": 0,
+				"ar": 1,
 				"bn": 0,
 				"bs": 0,
 				"ca": 0,
@@ -433,7 +433,7 @@
 				"de": 9,
 				"en": 100,
 				"es": 20,
-				"fa": 1,
+				"fa": 2,
 				"fi": 0,
 				"fr": 10,
 				"hi": 2,
@@ -5591,6 +5591,7 @@
 				},
 				"dhclient": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -11189,7 +11190,8 @@
 				},
 				"hash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fa": 2
 					}
 				},
 				"hashcat": {
@@ -11420,15 +11422,6 @@
 						"ko": 2
 					}
 				},
-				"histexpand": {
-					"status": {
-						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"ko": 2,
-						"ru": 2
-					}
-				},
 				"history": {
 					"status": {
 						"en": 2,
@@ -11561,6 +11554,7 @@
 				"hostname": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2,
@@ -14323,7 +14317,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"makebuildserver": {
@@ -14447,7 +14441,7 @@
 						"ko": 1,
 						"nl": 2,
 						"ta": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"mdatopbm": {
@@ -14817,7 +14811,7 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"mongodump": {
@@ -14884,7 +14878,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"moreutils": {
@@ -15002,7 +14996,7 @@
 						"it": 1,
 						"ko": 2,
 						"pt_BR": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"mr": {
@@ -15184,7 +15178,7 @@
 						"nl": 2,
 						"pt_BR": 1,
 						"ta": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -22773,6 +22767,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"id": 2,
 						"ja": 2,
@@ -23410,6 +23405,7 @@
 						"ca": 1,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"hi": 1,
 						"id": 2,
 						"ko": 2,
@@ -24971,6 +24967,11 @@
 						"ko": 2
 					}
 				},
+				"wezterm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wfuzz": {
 					"status": {
 						"en": 2,
@@ -26110,6 +26111,7 @@
 					"status": {
 						"ar": 2,
 						"en": 2,
+						"fa": 2,
 						"fr": 1,
 						"ja": 2,
 						"ko": 2,
@@ -26541,7 +26543,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 1,
-				"ko": 89,
+				"ko": 88,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -26943,6 +26945,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"apachectl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"apk": {
@@ -30575,6 +30582,11 @@
 						"ko": 2
 					}
 				},
+				"iwinfo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"iwlist": {
 					"status": {
 						"en": 2,
@@ -31219,16 +31231,36 @@
 						"en": 2
 					}
 				},
+				"lxc-attach": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lxc-checkconfig": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lxc-create": {
 					"status": {
 						"en": 2,
 						"es": 2
 					}
 				},
+				"lxc-destroy": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lxc-info": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lxc-ls": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"lxc-network": {
@@ -31237,6 +31269,16 @@
 					}
 				},
 				"lxc-profile": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lxc-start": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lxc-stop": {
 					"status": {
 						"en": 2
 					}
@@ -31874,6 +31916,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"netplan": {
+					"status": {
+						"en": 2
 					}
 				},
 				"netselect": {
@@ -32655,8 +32702,8 @@
 				"pihole": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"pinout": {
@@ -32937,16 +32984,12 @@
 						"ko": 2
 					}
 				},
-				"print": {
+				"print.runmailcap": {
 					"status": {
+						"en": 2,
 						"ko": 2,
 						"nl": 2,
 						"tr": 2
-					}
-				},
-				"print.runmailcap": {
-					"status": {
-						"en": 2
 					}
 				},
 				"prlimit": {
@@ -41709,7 +41752,7 @@
 				"cs": 0,
 				"da": 1,
 				"de": 18,
-				"en": 99,
+				"en": 100,
 				"es": 16,
 				"fa": 1,
 				"fi": 0,
@@ -41732,7 +41775,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 4,
-				"ta": 20,
+				"ta": 21,
 				"th": 6,
 				"tr": 4,
 				"uk": 2,
@@ -42995,8 +43038,9 @@
 						"nl": 2
 					}
 				},
-				"print": {
+				"print.win": {
 					"status": {
+						"en": 2,
 						"hi": 2,
 						"id": 2,
 						"ko": 2,
@@ -43006,11 +43050,6 @@
 						"ru": 2,
 						"sv": 2,
 						"zh": 2
-					}
-				},
-				"print.win": {
-					"status": {
-						"en": 2
 					}
 				},
 				"prompt": {
