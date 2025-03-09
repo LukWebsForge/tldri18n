@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 08-Mar-25 01:00:07 CET",
+	"last_update": "Sunday, 09-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -26527,7 +26527,7 @@
 		},
 		"linux": {
 			"progress": {
-				"ar": 0,
+				"ar": 1,
 				"bn": 0,
 				"bs": 0,
 				"ca": 5,
@@ -35390,6 +35390,7 @@
 				},
 				"tor": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2
