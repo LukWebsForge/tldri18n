@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 09-Mar-25 01:00:07 CET",
+	"last_update": "Monday, 10-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -456,7 +456,7 @@
 				"sv": 1,
 				"ta": 3,
 				"th": 1,
-				"tr": 5,
+				"tr": 6,
 				"uk": 1,
 				"uz": 0,
 				"zh": 15,
@@ -12101,6 +12101,11 @@
 						"en": 2
 					}
 				},
+				"impacket-mssqlclient": {
+					"status": {
+						"en": 2
+					}
+				},
 				"impacket-secretsdump": {
 					"status": {
 						"en": 2
@@ -15081,6 +15086,11 @@
 						"ko": 2
 					}
 				},
+				"mssqlclient.py": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mtr": {
 					"status": {
 						"en": 2,
@@ -15769,6 +15779,7 @@
 						"ja": 2,
 						"ko": 2,
 						"pt_BR": 1,
+						"tr": 2,
 						"zh": 1
 					}
 				},
@@ -15776,7 +15787,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"tr": 2
 					}
 				},
 				"nodenv": {
@@ -15947,7 +15959,8 @@
 				"npm-install": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"tr": 2
 					}
 				},
 				"npm-list": {
@@ -16028,7 +16041,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"tr": 2
 					}
 				},
 				"npm-run-script": {
@@ -16058,7 +16072,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"npm-stop": {
@@ -16154,7 +16169,8 @@
 						"de": 2,
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"tr": 2
 					}
 				},
 				"nrm": {
