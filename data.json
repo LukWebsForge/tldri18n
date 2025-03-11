@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 10-Mar-25 01:00:07 CET",
+	"last_update": "Tuesday, 11-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3198,10 +3198,10 @@
 				"btop": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
 						"ko": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"builtin": {
@@ -8015,6 +8015,7 @@
 				},
 				"g++": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"id": 2,
@@ -8079,6 +8080,7 @@
 				},
 				"gcc": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -8409,6 +8411,11 @@
 					}
 				},
 				"getopts": {
+					"status": {
+						"en": 2
+					}
+				},
+				"getuserspns.py": {
 					"status": {
 						"en": 2
 					}
@@ -12097,6 +12104,11 @@
 					}
 				},
 				"impacket-getnpusers": {
+					"status": {
+						"en": 2
+					}
+				},
+				"impacket-getuserspns": {
 					"status": {
 						"en": 2
 					}
@@ -19538,26 +19550,30 @@
 				},
 				"print": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"print.zsh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"printenv": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"printf": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"procs": {
@@ -19928,7 +19944,8 @@
 				},
 				"pulumi-refresh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pulumi-stack": {
@@ -23850,6 +23867,7 @@
 				},
 				"ulimit": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2,
 						"zh": 2
@@ -24194,6 +24212,11 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2
+					}
+				},
+				"vagrant-validate": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vala": {
@@ -28443,7 +28466,8 @@
 				"cryptsetup-luksformat": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"cryptsetup-open": {
@@ -29611,7 +29635,7 @@
 				"fluidsynth": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"fold": {
@@ -33812,6 +33836,11 @@
 						"pl": 2
 					}
 				},
+				"resize": {
+					"status": {
+						"en": 2
+					}
+				},
 				"resize2fs": {
 					"status": {
 						"en": 2,
@@ -35574,7 +35603,8 @@
 				},
 				"ubus": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"uci": {
