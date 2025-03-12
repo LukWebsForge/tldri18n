@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 11-Mar-25 01:00:07 CET",
+	"last_update": "Wednesday, 12-Mar-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 9,
 				"en": 100,
-				"es": 20,
+				"es": 19,
 				"fa": 2,
 				"fi": 0,
 				"fr": 10,
@@ -440,13 +440,13 @@
 				"id": 9,
 				"it": 10,
 				"ja": 3,
-				"ko": 95,
+				"ko": 94,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
 				"nl": 16,
 				"no": 1,
-				"pl": 5,
+				"pl": 4,
 				"pt_BR": 11,
 				"pt_PT": 1,
 				"ro": 0,
@@ -456,7 +456,7 @@
 				"sv": 1,
 				"ta": 3,
 				"th": 1,
-				"tr": 6,
+				"tr": 5,
 				"uk": 1,
 				"uz": 0,
 				"zh": 15,
@@ -8415,6 +8415,11 @@
 						"en": 2
 					}
 				},
+				"gettext": {
+					"status": {
+						"en": 2
+					}
+				},
 				"getuserspns.py": {
 					"status": {
 						"en": 2
@@ -15083,7 +15088,17 @@
 				"msgfmt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
+					}
+				},
+				"msginit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"msgmerge": {
+					"status": {
+						"en": 2
 					}
 				},
 				"msgunfmt": {
@@ -16399,6 +16414,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"o": {
+					"status": {
+						"en": 2
 					}
 				},
 				"oathtool": {
@@ -18086,9 +18106,9 @@
 				"picocom": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"zh": 2
+						"es": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"picom-trans": {
@@ -31540,8 +31560,8 @@
 				"minicom": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"mke2fs": {
@@ -33247,11 +33267,21 @@
 						"tr": 1
 					}
 				},
+				"pw-reserve": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pw-top": {
 					"status": {
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"pw-v4l2": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pwdx": {
@@ -35480,6 +35510,31 @@
 						"ko": 2,
 						"nl": 2,
 						"tr": 2
+					}
+				},
+				"trash-empty": {
+					"status": {
+						"en": 2
+					}
+				},
+				"trash-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"trash-put": {
+					"status": {
+						"en": 2
+					}
+				},
+				"trash-restore": {
+					"status": {
+						"en": 2
+					}
+				},
+				"trash-rm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"trashy": {
