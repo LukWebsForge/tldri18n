@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 12-Mar-25 01:00:08 CET",
+	"last_update": "Thursday, 13-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6786,12 +6786,12 @@
 				"ed": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"it": 1,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ru": 2
+						"es": 1,
+						"it": 2,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ru": 1
 					}
 				},
 				"edgepaint": {
@@ -15316,12 +15316,12 @@
 				"nano": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"nasm": {
@@ -21993,6 +21993,11 @@
 						"en": 2
 					}
 				},
+				"snmpnetstat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"snmpset": {
 					"status": {
 						"en": 2
@@ -27774,6 +27779,11 @@
 						"zh": 2
 					}
 				},
+				"bridge": {
+					"status": {
+						"en": 2
+					}
+				},
 				"brightnessctl": {
 					"status": {
 						"en": 2,
@@ -30435,9 +30445,9 @@
 				"ip-link": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"tr": 2
+						"es": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"ip-maddress": {
@@ -32214,6 +32224,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"nstat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nsxiv": {
