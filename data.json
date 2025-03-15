@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 14-Mar-25 01:00:07 CET",
+	"last_update": "Saturday, 15-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2568,6 +2568,11 @@
 						"de": 1,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"bacon": {
+					"status": {
+						"en": 2
 					}
 				},
 				"badblocks": {
