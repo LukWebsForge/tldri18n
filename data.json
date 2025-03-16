@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 15-Mar-25 01:00:07 CET",
+	"last_update": "Sunday, 16-Mar-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 9,
 				"en": 100,
-				"es": 19,
+				"es": 20,
 				"fa": 2,
 				"fi": 0,
 				"fr": 10,
@@ -8404,6 +8404,11 @@
 						"en": 2
 					}
 				},
+				"getarch.py": {
+					"status": {
+						"en": 2
+					}
+				},
 				"geth": {
 					"status": {
 						"en": 2,
@@ -12109,6 +12114,11 @@
 					}
 				},
 				"impacket-getadusers": {
+					"status": {
+						"en": 2
+					}
+				},
+				"impacket-getarch": {
 					"status": {
 						"en": 2
 					}
@@ -22889,7 +22899,8 @@
 				},
 				"tcpreplay": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tcsh": {
@@ -25038,7 +25049,8 @@
 				},
 				"wezterm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"wfuzz": {
@@ -29418,6 +29430,11 @@
 						"ko": 2
 					}
 				},
+				"expac": {
+					"status": {
+						"en": 2
+					}
+				},
 				"expect": {
 					"status": {
 						"en": 2,
@@ -30659,7 +30676,8 @@
 				},
 				"iwinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"iwlist": {
@@ -31312,6 +31330,11 @@
 					}
 				},
 				"lxc-checkconfig": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lxc-console": {
 					"status": {
 						"en": 2
 					}
@@ -34357,8 +34380,8 @@
 				"semanage-permissive": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"semanage-port": {
@@ -37069,13 +37092,13 @@
 				"da": 0,
 				"de": 42,
 				"en": 100,
-				"es": 79,
+				"es": 78,
 				"fa": 0,
 				"fi": 0,
 				"fr": 39,
 				"hi": 40,
 				"id": 44,
-				"it": 43,
+				"it": 42,
 				"ja": 0,
 				"ko": 98,
 				"lo": 0,
@@ -37084,8 +37107,8 @@
 				"nl": 54,
 				"no": 0,
 				"pl": 43,
-				"pt_BR": 58,
-				"pt_PT": 43,
+				"pt_BR": 57,
+				"pt_PT": 42,
 				"ro": 0,
 				"ru": 0,
 				"sh": 0,
@@ -40696,6 +40719,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 1
+					}
+				},
+				"herd-list": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hidd": {
