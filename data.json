@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 17-Mar-25 01:00:07 CET",
+	"last_update": "Tuesday, 18-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 9,
 				"en": 100,
-				"es": 20,
+				"es": 19,
 				"fa": 2,
 				"fi": 0,
 				"fr": 10,
@@ -495,6 +495,11 @@
 						"en": 2,
 						"ko": 2,
 						"pl": 2
+					}
+				},
+				",": {
+					"status": {
+						"en": 2
 					}
 				},
 				".": {
@@ -3167,6 +3172,11 @@
 						"zh": 2
 					}
 				},
+				"browsh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bru": {
 					"status": {
 						"en": 2,
@@ -3301,7 +3311,7 @@
 				"byobu": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"bzegrep": {
@@ -3470,6 +3480,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"carbonyl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cargo": {
@@ -4502,6 +4517,11 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"comma": {
+					"status": {
+						"en": 2
 					}
 				},
 				"command": {
@@ -11576,11 +11596,11 @@
 				"hostname": {
 					"status": {
 						"en": 2,
-						"fa": 2,
-						"ko": 2,
-						"nl": 2,
-						"ru": 2,
-						"zh": 2
+						"fa": 1,
+						"ko": 1,
+						"nl": 1,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"hping": {
@@ -15823,6 +15843,7 @@
 				},
 				"node": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"fr": 1,
@@ -15965,6 +15986,11 @@
 					}
 				},
 				"npm-ci": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-config": {
 					"status": {
 						"en": 2
 					}
@@ -24268,6 +24294,11 @@
 						"es": 2
 					}
 				},
+				"vagrant-halt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vagrant-plugin": {
 					"status": {
 						"en": 2,
@@ -26642,9 +26673,9 @@
 				"fr": 6,
 				"hi": 2,
 				"id": 3,
-				"it": 4,
+				"it": 3,
 				"ja": 1,
-				"ko": 88,
+				"ko": 87,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -35041,6 +35072,11 @@
 						"zh": 2
 					}
 				},
+				"systemctl-enable": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-reboot": {
 					"status": {
 						"en": 2,
@@ -35120,6 +35156,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"systemd-disable": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemd-dissect": {
@@ -35711,6 +35752,11 @@
 						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"ubuntu-drivers": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ubuntu-security-status": {
@@ -37110,7 +37156,7 @@
 				"ca": 0,
 				"cs": 0,
 				"da": 0,
-				"de": 42,
+				"de": 41,
 				"en": 100,
 				"es": 78,
 				"fa": 0,
@@ -40739,6 +40785,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 1
+					}
+				},
+				"herd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"herd-list": {
