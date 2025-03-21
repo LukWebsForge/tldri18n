@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 20-Mar-25 01:00:07 CET",
+	"last_update": "Friday, 21-Mar-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 9,
 				"en": 100,
-				"es": 20,
+				"es": 19,
 				"fa": 2,
 				"fi": 0,
 				"fr": 10,
@@ -15998,6 +15998,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"npm-deprecate": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-doctor": {
