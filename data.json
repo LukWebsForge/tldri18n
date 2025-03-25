@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 24-Mar-25 01:00:07 CET",
+	"last_update": "Tuesday, 25-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -432,7 +432,7 @@
 				"da": 0,
 				"de": 9,
 				"en": 99,
-				"es": 19,
+				"es": 20,
 				"fa": 2,
 				"fi": 0,
 				"fr": 10,
@@ -2581,7 +2581,8 @@
 				},
 				"bacon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"badblocks": {
@@ -4524,7 +4525,8 @@
 				},
 				"comma": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"command": {
@@ -8038,6 +8040,7 @@
 				},
 				"fzf": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -15996,7 +15999,8 @@
 				},
 				"npm-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"npm-dedupe": {
@@ -23197,6 +23201,7 @@
 				"timew": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -29509,7 +29514,8 @@
 				},
 				"expac": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"expect": {
@@ -37191,7 +37197,7 @@
 				"da": 0,
 				"de": 41,
 				"en": 99,
-				"es": 78,
+				"es": 79,
 				"fa": 0,
 				"fi": 0,
 				"fr": 39,
@@ -40821,7 +40827,8 @@
 				},
 				"herd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"herd-list": {
