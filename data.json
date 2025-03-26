@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 25-Mar-25 01:00:07 CET",
+	"last_update": "Wednesday, 26-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1681,16 +1681,16 @@
 				"at": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
+						"es": 1,
+						"fr": 1,
+						"id": 1,
 						"it": 1,
-						"ko": 2,
+						"ko": 1,
 						"ne": 1,
-						"nl": 2,
+						"nl": 1,
 						"pl": 1,
-						"pt_BR": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"atktopbm": {
@@ -2180,6 +2180,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"aws-s3-sync": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-s3-website": {
@@ -3792,11 +3797,11 @@
 				"case": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"cat": {
@@ -8016,7 +8021,7 @@
 				"function": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"funzip": {
@@ -8780,6 +8785,7 @@
 				},
 				"git": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -8810,6 +8816,7 @@
 				},
 				"git-add": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -8822,7 +8829,8 @@
 						"pt_BR": 2,
 						"ta": 1,
 						"tr": 1,
-						"uk": 1
+						"uk": 1,
+						"zh": 2
 					}
 				},
 				"git-alias": {
@@ -8949,7 +8957,8 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"git-browse": {
@@ -9072,7 +9081,8 @@
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"git-checkout-index": {
@@ -9194,7 +9204,8 @@
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 1,
-						"uk": 1
+						"uk": 1,
+						"zh": 2
 					}
 				},
 				"git-commit-graph": {
@@ -9361,7 +9372,8 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-diff-files": {
@@ -9417,6 +9429,7 @@
 				},
 				"git-fetch": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -9544,7 +9557,8 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-ignore": {
@@ -9581,6 +9595,7 @@
 				},
 				"git-init": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -9590,7 +9605,8 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"git-instaweb": {
@@ -9695,7 +9711,8 @@
 						"it": 1,
 						"ko": 2,
 						"tr": 1,
-						"uk": 1
+						"uk": 1,
+						"zh": 2
 					}
 				},
 				"git-merge-base": {
@@ -9800,6 +9817,7 @@
 				},
 				"git-pull": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -9821,6 +9839,7 @@
 				},
 				"git-push": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -9830,7 +9849,8 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 1,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"git-range-diff": {
@@ -10189,7 +10209,8 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 1,
-						"uk": 1
+						"uk": 1,
+						"zh": 2
 					}
 				},
 				"git-stripspace": {
@@ -11240,7 +11261,7 @@
 				"hash": {
 					"status": {
 						"en": 2,
-						"fa": 2
+						"fa": 1
 					}
 				},
 				"hashcat": {
@@ -13900,7 +13921,7 @@
 				"local": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"locust": {
@@ -14358,9 +14379,9 @@
 				"magick-mogrify": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"ko": 1,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"magick-montage": {
@@ -14374,8 +14395,8 @@
 				"mail": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"mailx": {
@@ -14444,7 +14465,7 @@
 				"mariadb-install-db": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"masscan": {
@@ -17333,10 +17354,10 @@
 				"passwd": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"es": 1,
+						"fr": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"paste": {
@@ -20107,19 +20128,19 @@
 				},
 				"pwd": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"ja": 2,
-						"ko": 2,
-						"lo": 2,
-						"nl": 2,
-						"ru": 2,
-						"th": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"ja": 1,
+						"ko": 1,
+						"lo": 1,
+						"nl": 1,
+						"ru": 1,
+						"th": 1,
+						"zh_TW": 1
 					}
 				},
 				"pwgen": {
@@ -20713,8 +20734,8 @@
 				"readarray": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"nl": 2
+						"es": 1,
+						"nl": 1
 					}
 				},
 				"readlink": {
@@ -21632,7 +21653,8 @@
 				},
 				"secretsdump.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"security-checker": {
@@ -22062,7 +22084,7 @@
 				"snmpget": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"snmpgetnext": {
@@ -22073,7 +22095,7 @@
 				"snmpnetstat": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"snmpset": {
@@ -22099,7 +22121,7 @@
 				"snmpwalk": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"snort": {
@@ -22601,9 +22623,9 @@
 				"stty": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"ru": 1,
 						"zh": 1
 					}
@@ -23973,10 +23995,10 @@
 				},
 				"ulimit": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"umask": {
@@ -24952,7 +24974,7 @@
 				"wait": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"waitress-serve": {
@@ -25440,7 +25462,7 @@
 				"xgettext": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"xh": {
@@ -27539,7 +27561,7 @@
 				"aurpublish": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"aurvote": {
@@ -27883,7 +27905,7 @@
 				"bridge": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"brightnessctl": {
@@ -28277,9 +28299,9 @@
 				"chage": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"ko": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"chat": {
@@ -28637,8 +28659,8 @@
 				"cu": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"curlie": {
@@ -28861,9 +28883,9 @@
 				},
 				"dialog": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"diff3": {
@@ -29673,7 +29695,7 @@
 				"fincore": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"findfs": {
@@ -30202,7 +30224,7 @@
 				"gtk-launch": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"guake": {
@@ -30435,7 +30457,7 @@
 				"ifstatus": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"iftop": {
@@ -30568,7 +30590,7 @@
 				"ip-maddress": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"ip-neighbour": {
@@ -30775,7 +30797,7 @@
 				"iwinfo": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"iwlist": {
@@ -31213,7 +31235,7 @@
 				"logread": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"logrotate": {
@@ -31443,7 +31465,7 @@
 				"lxc-create": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"lxc-destroy": {
@@ -32356,7 +32378,7 @@
 				"nstat": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"nsxiv": {
@@ -33322,8 +33344,8 @@
 				"pw-cat": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
+						"ko": 1,
+						"pt_BR": 1,
 						"tr": 1
 					}
 				},
@@ -33786,7 +33808,7 @@
 				"qmake": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"qmrestore": {
@@ -35810,7 +35832,7 @@
 				"ubus": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"uci": {
@@ -36065,12 +36087,12 @@
 				},
 				"usermod": {
 					"status": {
-						"ca": 2,
+						"ca": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"ko": 2,
-						"nl": 2
+						"es": 1,
+						"fr": 1,
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"utmpdump": {
@@ -37665,12 +37687,12 @@
 				"date": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"id": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"dd": {
