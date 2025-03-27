@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 26-Mar-25 01:00:07 CET",
+	"last_update": "Thursday, 27-Mar-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -488,7 +488,7 @@
 						"id": 2,
 						"ko": 1,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"%": {
@@ -1202,7 +1202,7 @@
 						"ko": 1,
 						"ml": 1,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"animdl": {
@@ -1624,15 +1624,15 @@
 				},
 				"asdf": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"id": 2,
+						"fr": 1,
+						"id": 1,
 						"it": 2,
-						"ja": 2,
-						"ko": 2,
+						"ja": 1,
+						"ko": 1,
 						"pt_BR": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"aspell": {
@@ -2732,13 +2732,13 @@
 				"batch": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"it": 2,
+						"es": 1,
+						"it": 1,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"pl": 1,
 						"pt_BR": 1,
-						"pt_PT": 2
+						"pt_PT": 1
 					}
 				},
 				"bats": {
@@ -3226,7 +3226,7 @@
 						"es": 1,
 						"fr": 1,
 						"ko": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"builtin": {
@@ -3297,6 +3297,11 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"busybox": {
+					"status": {
+						"en": 2
 					}
 				},
 				"buzzphrase": {
@@ -5818,7 +5823,8 @@
 				},
 				"dockdiver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"docker": {
@@ -10409,6 +10415,7 @@
 				"gitlab-ctl": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"tr": 1
 					}
@@ -10541,8 +10548,8 @@
 				"glances": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"gleam": {
@@ -12355,6 +12362,11 @@
 					}
 				},
 				"ipfs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ipmitool": {
 					"status": {
 						"en": 2
 					}
@@ -14462,6 +14474,11 @@
 						"nl": 2
 					}
 				},
+				"mariadb": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mariadb-install-db": {
 					"status": {
 						"en": 2,
@@ -15394,7 +15411,7 @@
 						"ko": 1,
 						"nl": 1,
 						"pt_BR": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"nasm": {
@@ -15541,7 +15558,7 @@
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"nettacker": {
@@ -15846,7 +15863,7 @@
 						"it": 1,
 						"ko": 2,
 						"pl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"nmblookup": {
@@ -15881,7 +15898,7 @@
 						"ko": 2,
 						"pt_BR": 1,
 						"tr": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"nodemon": {
@@ -16810,6 +16827,26 @@
 						"ar": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"openstack-help": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openstack-image": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openstack-server": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openstack-volume": {
+					"status": {
+						"en": 2
 					}
 				},
 				"openttd": {
@@ -18194,7 +18231,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"picom-trans": {
@@ -19208,7 +19245,7 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"popeye": {
@@ -19232,7 +19269,7 @@
 						"ko": 2,
 						"nl": 2,
 						"ta": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"ppmbrighten": {
@@ -19714,6 +19751,11 @@
 						"ko": 2
 					}
 				},
+				"propelauth": {
+					"status": {
+						"en": 2
+					}
+				},
 				"prosodyctl": {
 					"status": {
 						"en": 2,
@@ -19731,7 +19773,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"proxify": {
@@ -20117,7 +20159,7 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"pv": {
@@ -20971,7 +21013,7 @@
 						"ru": 1,
 						"sv": 1,
 						"ta": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -21851,7 +21893,7 @@
 						"en": 2,
 						"ko": 2,
 						"ta": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"shc": {
@@ -22439,7 +22481,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"sslscan": {
@@ -22627,7 +22669,7 @@
 						"ko": 1,
 						"nl": 1,
 						"ru": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"stun": {
@@ -22901,6 +22943,11 @@
 						"ko": 2
 					}
 				},
+				"tailscale-set": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tailscale-ssh": {
 					"status": {
 						"en": 2,
@@ -22953,6 +23000,7 @@
 				"task": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 2
 					}
@@ -23253,7 +23301,7 @@
 						"th": 1,
 						"tr": 1,
 						"uk": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -23714,7 +23762,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"trash-cli": {
@@ -23765,7 +23813,7 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"trip": {
@@ -24036,7 +24084,7 @@
 						"nl": 1,
 						"pt_BR": 1,
 						"ta": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"unar": {
@@ -24109,7 +24157,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"unlink": {
@@ -24944,6 +24992,7 @@
 				},
 				"w": {
 					"status": {
+						"ar": 2,
 						"da": 1,
 						"en": 2,
 						"ko": 1,
@@ -25093,7 +25142,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"wdiff": {
@@ -25197,7 +25246,7 @@
 						"en": 2,
 						"fa": 2,
 						"ko": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"which": {
@@ -25294,7 +25343,7 @@
 				"wireplumber": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"wkhtmltopdf": {
@@ -26120,7 +26169,7 @@
 						"fr": 1,
 						"ja": 1,
 						"ko": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"zapier": {
@@ -26294,7 +26343,7 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"uk": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"zip2john": {
@@ -26523,22 +26572,22 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 57,
+				"es": 53,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
-				"hi": 92,
-				"id": 21,
+				"hi": 86,
+				"id": 20,
 				"it": 0,
 				"ja": 0,
-				"ko": 92,
+				"ko": 86,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 92,
+				"nl": 86,
 				"no": 0,
-				"pl": 92,
-				"pt_BR": 92,
+				"pl": 86,
+				"pt_BR": 86,
 				"pt_PT": 0,
 				"ro": 0,
 				"ru": 0,
@@ -26616,6 +26665,11 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2
+					}
+				},
+				"ipmitool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"look": {
@@ -27498,6 +27552,11 @@
 						"zh": 2
 					}
 				},
+				"at": {
+					"status": {
+						"en": 2
+					}
+				},
 				"atool": {
 					"status": {
 						"en": 2,
@@ -27684,6 +27743,11 @@
 						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"batch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"battop": {
@@ -29815,6 +29879,7 @@
 				},
 				"fprintd": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -30302,7 +30367,8 @@
 				},
 				"hollywood": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"homectl": {
@@ -30722,6 +30788,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"ipmitool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ipset": {
@@ -35820,7 +35891,8 @@
 				},
 				"ubuntu-drivers": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 1
 					}
 				},
 				"ubuntu-security-status": {
@@ -36446,6 +36518,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"wireplumber": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wl-copy": {
