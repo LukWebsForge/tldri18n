@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 27-Mar-25 01:00:09 CET",
+	"last_update": "Friday, 28-Mar-25 01:00:07 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -14485,6 +14485,11 @@
 						"es": 1
 					}
 				},
+				"marimo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"masscan": {
 					"status": {
 						"en": 2,
@@ -15609,6 +15614,7 @@
 				"ng": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -23581,6 +23587,26 @@
 						"ko": 2,
 						"nl": 2,
 						"ta": 2
+					}
+				},
+				"tofu": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tofu-fmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tofu-output": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tofu-plan": {
+					"status": {
+						"en": 2
 					}
 				},
 				"toipe": {
