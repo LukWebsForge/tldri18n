@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 28-Mar-25 01:00:07 CET",
+	"last_update": "Saturday, 29-Mar-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 9,
 				"it": 10,
 				"ja": 3,
-				"ko": 94,
+				"ko": 93,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -4507,7 +4507,6 @@
 				},
 				"column": {
 					"status": {
-						"en": 2,
 						"it": 2,
 						"ja": 2,
 						"ko": 2
@@ -7648,7 +7647,6 @@
 				},
 				"flock": {
 					"status": {
-						"en": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -11378,7 +11376,6 @@
 				},
 				"hexdump": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
@@ -13277,10 +13274,21 @@
 						"th": 2
 					}
 				},
+				"kubeseal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubetail": {
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"kubie": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"kustomize": {
@@ -13334,9 +13342,8 @@
 				},
 				"last": {
 					"status": {
-						"en": 2,
-						"ko": 1,
-						"nl": 1
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"lastcomm": {
@@ -13945,9 +13952,9 @@
 				"logger": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"logname": {
@@ -15051,9 +15058,8 @@
 				},
 				"mount": {
 					"status": {
-						"de": 1,
-						"en": 2,
-						"it": 1,
+						"de": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -15170,8 +15176,8 @@
 				"msfconsole": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"msfvenom": {
@@ -17415,6 +17421,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"patator": {
+					"status": {
+						"en": 2
 					}
 				},
 				"patch": {
@@ -20871,9 +20882,9 @@
 				"renice": {
 					"status": {
 						"en": 2,
-						"ko": 1,
-						"nl": 1,
-						"pt_BR": 1
+						"ko": 2,
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"repren": {
@@ -20914,10 +20925,9 @@
 				},
 				"rev": {
 					"status": {
-						"de": 1,
-						"en": 2,
+						"de": 2,
 						"ko": 2,
-						"sv": 1
+						"sv": 2
 					}
 				},
 				"rfetch": {
@@ -21653,8 +21663,7 @@
 				},
 				"script": {
 					"status": {
-						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"sd": {
@@ -22693,7 +22702,6 @@
 				},
 				"su": {
 					"status": {
-						"en": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -25269,7 +25277,6 @@
 				},
 				"whereis": {
 					"status": {
-						"en": 2,
 						"fa": 2,
 						"ko": 2,
 						"zh": 2
@@ -26800,7 +26807,7 @@
 				"id": 3,
 				"it": 3,
 				"ja": 1,
-				"ko": 87,
+				"ko": 86,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -28567,6 +28574,11 @@
 						"ko": 2
 					}
 				},
+				"column": {
+					"status": {
+						"en": 2
+					}
+				},
 				"compose": {
 					"status": {
 						"en": 2,
@@ -29884,6 +29896,11 @@
 						"en": 2
 					}
 				},
+				"flock": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fluidsynth": {
 					"status": {
 						"en": 2,
@@ -30383,6 +30400,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"hexdump": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hlint": {
@@ -31121,6 +31143,7 @@
 				},
 				"last": {
 					"status": {
+						"en": 2,
 						"es": 2,
 						"nl": 2
 					}
@@ -31315,6 +31338,11 @@
 						"en": 2,
 						"nl": 2,
 						"pt_BR": 2
+					}
+				},
+				"logger": {
+					"status": {
+						"en": 2
 					}
 				},
 				"login": {
@@ -32064,6 +32092,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"mount": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mount.cifs": {
@@ -34080,8 +34113,9 @@
 				},
 				"renice": {
 					"status": {
-						"ko": 2,
-						"nl": 2
+						"en": 2,
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"repo-add": {
@@ -34163,6 +34197,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"rev": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rexec": {
@@ -34507,7 +34546,8 @@
 				},
 				"script": {
 					"status": {
-						"ko": 2
+						"en": 2,
+						"ko": 1
 					}
 				},
 				"scriptlive": {
@@ -35117,6 +35157,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"su": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sview": {
@@ -36513,6 +36558,11 @@
 						"ko": 2
 					}
 				},
+				"whereis": {
+					"status": {
+						"en": 2
+					}
+				},
 				"whiptail": {
 					"status": {
 						"en": 2,
@@ -36617,6 +36667,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"write": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wtf": {
