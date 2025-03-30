@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 29-Mar-25 01:00:08 CET",
+	"last_update": "Sunday, 30-Mar-25 01:00:08 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3141,6 +3141,11 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"brew-services": {
+					"status": {
+						"en": 2
 					}
 				},
 				"brew-uninstall": {
@@ -11517,6 +11522,7 @@
 				"hledger": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -14472,7 +14478,9 @@
 						"nl": 1,
 						"pt_BR": 1,
 						"ta": 1,
-						"tr": 1
+						"tr": 1,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"mapfile": {
@@ -26447,6 +26455,11 @@
 						"fa": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"zmap": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zmore": {
