@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 30-Mar-25 01:00:08 CET",
+	"last_update": "Monday, 31-Mar-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3250,6 +3250,7 @@
 				"bun": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"fr": 2,
 						"ko": 2,
 						"pl": 2,
@@ -4676,6 +4677,16 @@
 						"ko": 2
 					}
 				},
+				"copr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"copr-cli": {
+					"status": {
+						"en": 2
+					}
+				},
 				"coproc": {
 					"status": {
 						"en": 2,
@@ -5565,6 +5576,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -6630,6 +6642,7 @@
 				},
 				"du": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -7535,6 +7548,7 @@
 				},
 				"find": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"fr": 2,
 						"ja": 2,
@@ -11052,6 +11066,7 @@
 				},
 				"grep": {
 					"status": {
+						"ar": 2,
 						"da": 2,
 						"de": 1,
 						"en": 2,
@@ -12999,6 +13014,7 @@
 				},
 				"kill": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 1,
@@ -14502,7 +14518,8 @@
 				},
 				"marimo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"masscan": {
@@ -15911,6 +15928,7 @@
 						"ar": 2,
 						"de": 1,
 						"en": 2,
+						"fa": 2,
 						"fr": 1,
 						"id": 2,
 						"it": 1,
@@ -19815,6 +19833,7 @@
 				},
 				"ps": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"id": 2,
@@ -21108,6 +21127,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"rsactftool.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rscript": {
@@ -22944,6 +22968,7 @@
 				},
 				"tail": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -23607,17 +23632,20 @@
 				},
 				"tofu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tofu-fmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tofu-output": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tofu-plan": {
@@ -25178,6 +25206,7 @@
 				},
 				"wc": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -28975,6 +29004,7 @@
 				},
 				"df": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ja": 2,
 						"ko": 2,
@@ -30408,6 +30438,7 @@
 				},
 				"head": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -31027,6 +31058,7 @@
 				},
 				"kill": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"hi": 2,
@@ -35292,6 +35324,11 @@
 						"zh": 2
 					}
 				},
+				"systemctl-disable": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-enable": {
 					"status": {
 						"en": 2
@@ -35376,11 +35413,6 @@
 					"status": {
 						"en": 2,
 						"ko": 2
-					}
-				},
-				"systemd-disable": {
-					"status": {
-						"en": 2
 					}
 				},
 				"systemd-dissect": {
