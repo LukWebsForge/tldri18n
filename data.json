@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 01-Apr-25 02:00:07 CEST",
+	"last_update": "Wednesday, 02-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3199,7 +3199,8 @@
 				},
 				"browsh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bru": {
@@ -3515,7 +3516,8 @@
 				},
 				"carbonyl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"cargo": {
@@ -4548,7 +4550,8 @@
 				"comma": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"command": {
@@ -4686,7 +4689,8 @@
 				},
 				"copr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"copr-cli": {
@@ -11040,7 +11044,8 @@
 				},
 				"gpg2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gpgconf": {
@@ -12223,42 +12228,50 @@
 				},
 				"impacket-getadusers": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-getarch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-getnpusers": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-getuserspns": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-mssqlclient": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-secretsdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-sniff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-sniffer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"import": {
@@ -27817,12 +27830,14 @@
 				},
 				"avahi-resolve-address": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"avahi-resolve-host-name": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"avifenc": {
@@ -30863,7 +30878,7 @@
 						"es": 1,
 						"fr": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -31307,7 +31322,7 @@
 				"lex": {
 					"status": {
 						"en": 2,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"lftp": {
@@ -31673,7 +31688,8 @@
 				},
 				"lxc-console": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lxc-create": {
@@ -33561,6 +33577,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"tr": 1
 					}
@@ -35917,7 +35934,8 @@
 				},
 				"trash-put": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"trash-restore": {
