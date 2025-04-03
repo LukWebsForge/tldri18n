@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 02-Apr-25 02:00:08 CEST",
+	"last_update": "Thursday, 03-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 9,
 				"it": 10,
 				"ja": 3,
-				"ko": 93,
+				"ko": 92,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -11102,7 +11102,7 @@
 				"greater-than": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"grep": {
@@ -11590,6 +11590,7 @@
 				"hledger-add": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -21887,6 +21888,176 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"sfdk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-apply": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-build-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-build-requires": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-build-shell": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-check": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-cmake": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-compiledb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-deploy": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-device": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-device-model-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-device-model-show": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-exec": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-install": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-remove": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-set": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-show": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-start": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-emulator-stop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-engine": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-maintain": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-make": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-make-install": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-package": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-prepare": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-qmake": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-qmltypes": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-scrape": {
+					"status": {
+						"en": 2
+					}
+				},
+				"sfdk-undeploy": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sfdp": {
