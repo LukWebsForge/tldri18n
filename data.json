@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 03-Apr-25 02:00:08 CEST",
+	"last_update": "Friday, 04-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7324,6 +7324,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"faker": {
+					"status": {
+						"en": 2
 					}
 				},
 				"false": {
@@ -35383,6 +35388,11 @@
 						"ko": 2
 					}
 				},
+				"steamos-select-branch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"steamos-session-select": {
 					"status": {
 						"en": 2,
@@ -36935,7 +36945,7 @@
 				"wpctl": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"write": {
