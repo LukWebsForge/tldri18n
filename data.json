@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 05-Apr-25 02:00:09 CEST",
+	"last_update": "Sunday, 06-Apr-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11754,6 +11754,7 @@
 				},
 				"htop": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"id": 2,
@@ -14194,6 +14195,7 @@
 				},
 				"lsof": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -15303,6 +15305,7 @@
 				},
 				"mtr": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -22223,6 +22226,7 @@
 				},
 				"shred": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2,
 						"nl": 2
@@ -22822,6 +22826,7 @@
 				},
 				"stat": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"hi": 2,
 						"ko": 2,
@@ -24581,6 +24586,7 @@
 				},
 				"uptime": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
@@ -25597,6 +25603,7 @@
 				},
 				"whois": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"id": 2,
 						"ko": 2,
@@ -28159,6 +28166,7 @@
 				},
 				"blkid": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2,
 						"pl": 2,
@@ -30356,6 +30364,7 @@
 				},
 				"getcap": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -32244,6 +32253,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"mkinitfs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mkisofs": {
@@ -34962,6 +34976,7 @@
 				},
 				"setcap": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -35329,6 +35344,7 @@
 				},
 				"ss": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
