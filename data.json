@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 06-Apr-25 02:00:09 CEST",
+	"last_update": "Monday, 07-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -424,7 +424,7 @@
 		},
 		"common": {
 			"progress": {
-				"ar": 1,
+				"ar": 2,
 				"bn": 0,
 				"bs": 0,
 				"ca": 0,
@@ -1536,6 +1536,7 @@
 				},
 				"arp": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -9328,7 +9329,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-count-objects": {
@@ -9336,14 +9338,16 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-cp": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-create-branch": {
@@ -11668,6 +11672,7 @@
 				},
 				"host": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -17420,7 +17425,7 @@
 				"pandoc": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"pangolin": {
@@ -18748,6 +18753,7 @@
 				},
 				"pkill": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -23957,7 +23963,7 @@
 				"tqdm": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"tr": {
@@ -25407,6 +25413,7 @@
 				},
 				"watch": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 1
 					}
@@ -30724,6 +30731,7 @@
 				},
 				"hostnamectl": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 2,
 						"pl": 2,
@@ -34559,6 +34567,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"rnm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rofi": {
