@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 09-Apr-25 02:00:06 CEST",
+	"last_update": "Thursday, 10-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12268,6 +12268,16 @@
 						"nl": 2
 					}
 				},
+				"impacket-rpcdump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"impacket-rpcmap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"impacket-secretsdump": {
 					"status": {
 						"en": 2,
@@ -21182,6 +21192,16 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"rpcdump.py": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rpcmap.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rpi-imager": {
