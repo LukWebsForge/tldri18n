@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 11-Apr-25 02:00:06 CEST",
+	"last_update": "Saturday, 12-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -14600,7 +14600,7 @@
 				"masscan": {
 					"status": {
 						"en": 2,
-						"ko": 2,
+						"ko": 1,
 						"pl": 1
 					}
 				},
@@ -42546,7 +42546,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 4,
-				"ta": 21,
+				"ta": 20,
 				"th": 6,
 				"tr": 4,
 				"uk": 2,
@@ -43910,6 +43910,11 @@
 						"uk": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"query": {
