@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 12-Apr-25 02:00:08 CEST",
+	"last_update": "Sunday, 13-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -459,7 +459,7 @@
 				"tr": 5,
 				"uk": 1,
 				"uz": 0,
-				"zh": 15,
+				"zh": 16,
 				"zh_TW": 2
 			},
 			"pages": {
@@ -502,7 +502,8 @@
 				},
 				",": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				".": {
@@ -1643,7 +1644,7 @@
 						"ja": 1,
 						"ko": 1,
 						"pt_BR": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"aspell": {
@@ -1701,7 +1702,7 @@
 						"nl": 1,
 						"pl": 1,
 						"pt_BR": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"atktopbm": {
@@ -3825,7 +3826,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"cat": {
@@ -4581,7 +4582,7 @@
 						"es": 1,
 						"ko": 1,
 						"pt_BR": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"complete": {
@@ -4691,6 +4692,7 @@
 				"copr": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -8908,7 +8910,8 @@
 						"id": 2,
 						"ko": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"git-am": {
@@ -8922,7 +8925,8 @@
 						"ko": 2,
 						"pl": 2,
 						"ta": 2,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"git-annex": {
@@ -8932,7 +8936,8 @@
 						"id": 2,
 						"ko": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-annotate": {
@@ -8941,7 +8946,8 @@
 						"id": 2,
 						"ko": 2,
 						"tr": 1,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"git-apply": {
@@ -8952,7 +8958,8 @@
 						"id": 2,
 						"ko": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-archive": {
@@ -8964,21 +8971,24 @@
 						"it": 2,
 						"ko": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-archive-file": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-authors": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-bisect": {
@@ -8991,7 +9001,8 @@
 						"it": 1,
 						"ko": 2,
 						"ta": 2,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"git-blame": {
@@ -9005,14 +9016,16 @@
 						"ko": 1,
 						"ta": 1,
 						"tr": 1,
-						"uk": 1
+						"uk": 1,
+						"zh": 2
 					}
 				},
 				"git-blame-someone-else": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-branch": {
@@ -9034,28 +9047,32 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-browse-ci": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-brv": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-bug": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-bugreport": {
@@ -9063,14 +9080,16 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-bulk": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-bundle": {
@@ -9082,7 +9101,8 @@
 						"it": 1,
 						"ko": 2,
 						"ta": 1,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"git-cat-file": {
@@ -9093,14 +9113,16 @@
 						"it": 2,
 						"ko": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-changelog": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-check-attr": {
@@ -9108,7 +9130,8 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-check-ignore": {
@@ -9120,7 +9143,8 @@
 						"it": 2,
 						"ko": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-check-mailmap": {
@@ -9128,7 +9152,8 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-check-ref-format": {
@@ -9136,7 +9161,8 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-checkout": {
@@ -9160,7 +9186,8 @@
 						"id": 2,
 						"ko": 2,
 						"tr": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"git-cherry": {
@@ -9171,7 +9198,8 @@
 						"ko": 2,
 						"ta": 2,
 						"tr": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"git-cherry-pick": {
@@ -9185,7 +9213,8 @@
 						"ko": 2,
 						"ta": 2,
 						"tr": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"git-clean": {
@@ -9197,27 +9226,31 @@
 						"it": 2,
 						"ko": 2,
 						"ta": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-clear": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-clear-soft": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-cliff": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"git-clone": {
@@ -9240,7 +9273,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-cola": {
@@ -9249,7 +9283,8 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"git-column": {
@@ -9257,7 +9292,8 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-commit": {
@@ -9283,7 +9319,8 @@
 						"id": 2,
 						"ko": 2,
 						"tr": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"git-commit-tree": {
@@ -9292,7 +9329,8 @@
 						"id": 2,
 						"ko": 2,
 						"tr": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"git-commits-since": {
@@ -9300,7 +9338,8 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"uk": 2
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"git-config": {
@@ -9322,7 +9361,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-count": {
@@ -10615,7 +10655,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"gleam": {
@@ -11054,6 +11094,7 @@
 				"gpg2": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -11704,7 +11745,7 @@
 						"ko": 1,
 						"nl": 1,
 						"ru": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"hping": {
@@ -12241,30 +12282,35 @@
 				"impacket-getadusers": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"impacket-getarch": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"impacket-getnpusers": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"impacket-getuserspns": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"impacket-mssqlclient": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -12281,18 +12327,21 @@
 				"impacket-secretsdump": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"impacket-sniff": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"impacket-sniffer": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -12892,6 +12941,7 @@
 				"jupyterlab": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -14050,7 +14100,7 @@
 						"en": 2,
 						"ko": 1,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"logname": {
@@ -14577,6 +14627,7 @@
 				"mapfile": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -16633,7 +16684,8 @@
 				},
 				"o": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"oathtool": {
@@ -21218,7 +21270,8 @@
 				},
 				"rsactftool.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rscript": {
@@ -23914,7 +23967,8 @@
 				},
 				"tofu-plan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"toipe": {
@@ -24380,7 +24434,7 @@
 						"ar": 1,
 						"en": 2,
 						"ko": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"umask": {
@@ -25332,7 +25386,7 @@
 						"en": 2,
 						"ko": 1,
 						"pl": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 2
 					}
 				},
@@ -27135,7 +27189,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
-				"ta": 4,
+				"ta": 3,
 				"th": 0,
 				"tr": 3,
 				"uk": 1,
@@ -27527,7 +27581,8 @@
 				},
 				"apachectl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"apk": {
@@ -27810,7 +27865,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"arecord": {
@@ -27819,7 +27874,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"arithmetic": {
@@ -28042,12 +28097,14 @@
 				"avahi-resolve-address": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"avahi-resolve-host-name": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -28590,6 +28647,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"caligula": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cam": {
@@ -30821,6 +30883,7 @@
 				"i386": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -30984,7 +31047,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"ip": {
@@ -31174,7 +31238,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"iptables-restore": {
@@ -31536,6 +31600,7 @@
 				"lex": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -31760,7 +31825,7 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"uk": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"lscpu": {
@@ -33618,7 +33683,7 @@
 						"it": 1,
 						"ko": 2,
 						"pt_BR": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"powerprofilesctl": {
@@ -33877,6 +33942,7 @@
 				"pw-record": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
@@ -34410,7 +34476,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"reflector": {
@@ -34484,7 +34550,8 @@
 				},
 				"resize": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"resize2fs": {
@@ -37410,6 +37477,11 @@
 						"ko": 2
 					}
 				},
+				"znc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zramctl": {
 					"status": {
 						"en": 2,
@@ -38178,7 +38250,7 @@
 						"nl": 1,
 						"pl": 1,
 						"pt_BR": 1,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"dd": {
@@ -41380,7 +41452,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"ipconfig": {
@@ -41635,7 +41708,7 @@
 						"id": 1,
 						"ko": 2,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"opensnoop": {
