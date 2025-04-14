@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 13-Apr-25 02:00:08 CEST",
+	"last_update": "Monday, 14-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -10977,6 +10977,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"gomi": {
+					"status": {
+						"en": 2
 					}
 				},
 				"google-chrome": {
@@ -27167,7 +27172,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 98,
-				"es": 32,
+				"es": 33,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -31672,12 +31677,14 @@
 				"linux32": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"linux64": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -33066,6 +33073,7 @@
 				"pacman-d": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -33201,12 +33209,14 @@
 				"pacman-t": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"pacman-u": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -33927,6 +33937,7 @@
 				"pw-play": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
