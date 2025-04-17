@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 16-Apr-25 02:00:06 CEST",
+	"last_update": "Thursday, 17-Apr-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -503,6 +503,7 @@
 				",": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -4698,7 +4699,8 @@
 				},
 				"copr-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"coproc": {
@@ -8508,12 +8510,14 @@
 				},
 				"getadusers.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"getarch.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"geth": {
@@ -8524,7 +8528,8 @@
 				},
 				"getnpusers.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"getopts": {
@@ -12321,12 +12326,14 @@
 				},
 				"impacket-rpcdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-rpcmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-secretsdump": {
@@ -32104,7 +32111,7 @@
 				"mangohud": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"manpath": {
