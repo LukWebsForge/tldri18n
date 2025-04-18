@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 17-Apr-25 02:00:09 CEST",
+	"last_update": "Friday, 18-Apr-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -32345,8 +32345,8 @@
 				"mkfs.vfat": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"mkfs.xfs": {
@@ -36256,6 +36256,7 @@
 				"trash-put": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -36456,6 +36457,7 @@
 				"uname26": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
