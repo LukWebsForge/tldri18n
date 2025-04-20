@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 19-Apr-25 02:00:07 CEST",
+	"last_update": "Sunday, 20-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7333,7 +7333,8 @@
 				},
 				"faker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"false": {
@@ -24983,7 +24984,7 @@
 				"venv": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"vercel": {
@@ -27391,7 +27392,8 @@
 				},
 				"abrt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"abrt-action-analyze-backtrace": {
@@ -27935,6 +27937,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"arptables": {
+					"status": {
+						"en": 2
 					}
 				},
 				"as": {
@@ -32355,6 +32362,7 @@
 				"mkfs.vfat": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"zh": 1
 					}
