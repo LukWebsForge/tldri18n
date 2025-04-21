@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 20-Apr-25 02:00:08 CEST",
+	"last_update": "Monday, 21-Apr-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1279,6 +1279,11 @@
 						"fr": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"ansible-lint": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ansible-playbook": {
@@ -27393,7 +27398,8 @@
 				"abrt": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"abrt-action-analyze-backtrace": {
@@ -29834,6 +29840,11 @@
 					}
 				},
 				"eclean": {
+					"status": {
+						"en": 2
+					}
+				},
+				"eclean-kernel": {
 					"status": {
 						"en": 2
 					}
@@ -32364,6 +32375,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
