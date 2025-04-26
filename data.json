@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 25-Apr-25 02:00:09 CEST",
+	"last_update": "Saturday, 26-Apr-25 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1623,13 +1623,13 @@
 				"asciinema": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
+						"es": 1,
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
 						"nl": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"asciitopgm": {
@@ -2718,9 +2718,9 @@
 				"bashmarks": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"zh": 2
+						"it": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"bastet": {
@@ -4126,16 +4126,7 @@
 				},
 				"chsh": {
 					"status": {
-						"bs": 2,
-						"da": 2,
-						"de": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2
+						"fr": 2
 					}
 				},
 				"cidr": {
@@ -7713,11 +7704,6 @@
 						"ko": 2
 					}
 				},
-				"flex": {
-					"status": {
-						"ko": 2
-					}
-				},
 				"flexget": {
 					"status": {
 						"en": 2
@@ -9420,7 +9406,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"git-credential": {
@@ -9428,7 +9415,8 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-credential-cache": {
@@ -12349,12 +12337,14 @@
 				},
 				"impacket-ping": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-ping6": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-rpcdump": {
@@ -13534,11 +13524,6 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
-					}
-				},
-				"last": {
-					"status": {
 						"ko": 2
 					}
 				},
@@ -21239,6 +21224,7 @@
 				},
 				"rm": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"es": 1,
@@ -21895,11 +21881,6 @@
 				"screenfetch": {
 					"status": {
 						"en": 2,
-						"ko": 2
-					}
-				},
-				"script": {
-					"status": {
 						"ko": 2
 					}
 				},
@@ -25697,13 +25678,6 @@
 						"zh": 2
 					}
 				},
-				"whereis": {
-					"status": {
-						"fa": 2,
-						"ko": 2,
-						"zh": 2
-					}
-				},
 				"which": {
 					"status": {
 						"en": 2,
@@ -27231,11 +27205,11 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 98,
-				"es": 33,
+				"en": 99,
+				"es": 32,
 				"fa": 0,
 				"fi": 0,
-				"fr": 6,
+				"fr": 5,
 				"hi": 2,
 				"id": 3,
 				"it": 3,
@@ -27254,12 +27228,12 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
-				"ta": 3,
+				"ta": 4,
 				"th": 0,
 				"tr": 3,
 				"uk": 1,
 				"uz": 0,
-				"zh": 10,
+				"zh": 9,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -29079,11 +29053,6 @@
 						"ko": 2
 					}
 				},
-				"coproc": {
-					"status": {
-						"ko": 2
-					}
-				},
 				"coredumpctl": {
 					"status": {
 						"ca": 1,
@@ -29091,21 +29060,6 @@
 						"es": 1,
 						"ko": 1,
 						"pl": 1
-					}
-				},
-				"cp": {
-					"status": {
-						"ca": 2,
-						"de": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"uk": 2,
-						"zh": 2,
-						"zh_TW": 2
 					}
 				},
 				"cpufreq-aperf": {
@@ -29793,11 +29747,6 @@
 				"dstat": {
 					"status": {
 						"en": 2,
-						"ko": 2
-					}
-				},
-				"duc": {
-					"status": {
 						"ko": 2
 					}
 				},
@@ -31490,12 +31439,6 @@
 						"nl": 2
 					}
 				},
-				"killall": {
-					"status": {
-						"es": 2,
-						"ko": 2
-					}
-				},
 				"kjv": {
 					"status": {
 						"en": 2,
@@ -32159,18 +32102,6 @@
 						"zh": 2
 					}
 				},
-				"man": {
-					"status": {
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ru": 2,
-						"uk": 2
-					}
-				},
 				"mandb": {
 					"status": {
 						"en": 2,
@@ -32415,9 +32346,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
-						"nl": 2,
-						"zh": 1
+						"nl": 2
 					}
 				},
 				"mkfs.xfs": {
@@ -33707,11 +33636,6 @@
 						"ko": 2
 					}
 				},
-				"pngcheck": {
-					"status": {
-						"ko": 2
-					}
-				},
 				"po4a": {
 					"status": {
 						"en": 2,
@@ -34726,21 +34650,6 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
-					}
-				},
-				"rm": {
-					"status": {
-						"ar": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"uk": 2
-					}
-				},
-				"rmdir": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"pt_BR": 2
 					}
 				},
 				"rmmod": {
@@ -36006,12 +35915,6 @@
 						"ko": 2
 					}
 				},
-				"tac": {
-					"status": {
-						"es": 2,
-						"ko": 2
-					}
-				},
 				"tailf": {
 					"status": {
 						"en": 2,
@@ -36516,15 +36419,6 @@
 						"nl": 2
 					}
 				},
-				"uname": {
-					"status": {
-						"ar": 2,
-						"es": 2,
-						"it": 2,
-						"ko": 2,
-						"ml": 2
-					}
-				},
 				"uname26": {
 					"status": {
 						"en": 2,
@@ -36949,13 +36843,6 @@
 					"status": {
 						"en": 2,
 						"ko": 2
-					}
-				},
-				"w": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"zh": 2
 					}
 				},
 				"waitpid": {
@@ -37561,12 +37448,6 @@
 						"ko": 2
 					}
 				},
-				"zip": {
-					"status": {
-						"es": 2,
-						"ko": 2
-					}
-				},
 				"zipsplit": {
 					"status": {
 						"en": 2,
@@ -37871,15 +37752,15 @@
 				"ca": 0,
 				"cs": 0,
 				"da": 0,
-				"de": 41,
-				"en": 99,
-				"es": 79,
+				"de": 42,
+				"en": 100,
+				"es": 78,
 				"fa": 0,
 				"fi": 0,
 				"fr": 39,
 				"hi": 40,
 				"id": 44,
-				"it": 42,
+				"it": 43,
 				"ja": 0,
 				"ko": 98,
 				"lo": 0,
@@ -38479,14 +38360,6 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
-					}
-				},
-				"ed": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"ru": 2
 					}
 				},
 				"emond": {
@@ -41924,13 +41797,6 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
-					}
-				},
-				"readlink": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"pt_PT": 2
 					}
 				},
 				"reboot": {
