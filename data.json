@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 28-Apr-25 02:00:08 CEST",
+	"last_update": "Tuesday, 29-Apr-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -446,7 +446,7 @@
 				"ne": 0,
 				"nl": 16,
 				"no": 1,
-				"pl": 4,
+				"pl": 5,
 				"pt_BR": 11,
 				"pt_PT": 1,
 				"ro": 0,
@@ -3824,6 +3824,11 @@
 						"zh": 2
 					}
 				},
+				"cariddi": {
+					"status": {
+						"en": 2
+					}
+				},
 				"carp": {
 					"status": {
 						"en": 2,
@@ -4555,7 +4560,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"command": {
@@ -4695,7 +4701,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"copr-cli": {
@@ -11116,7 +11123,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"gpgconf": {
@@ -12314,85 +12322,98 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-getarch": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-getnpusers": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-getuserspns": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-mqtt_check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"impacket-mssqlclient": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-ping": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-ping6": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-rpcdump": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-rpcmap": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-secretsdump": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-sniff": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-sniffer": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"import": {
@@ -12664,7 +12685,8 @@
 				},
 				"j": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"jadx": {
@@ -12753,7 +12775,8 @@
 				},
 				"jco": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"jdeps": {
@@ -12879,7 +12902,8 @@
 				},
 				"jo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"jobs": {
@@ -13018,6 +13042,7 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
+						"pl": 2,
 						"zh": 2
 					}
 				},
@@ -14698,7 +14723,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"mariadb": {
@@ -16335,7 +16361,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"npm-login": {
@@ -24492,7 +24519,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 1,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"typst": {
@@ -27281,7 +27309,7 @@
 				"ne": 0,
 				"nl": 13,
 				"no": 0,
-				"pl": 8,
+				"pl": 9,
 				"pt_BR": 12,
 				"pt_PT": 1,
 				"ro": 0,
@@ -27476,7 +27504,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"abrt-action-analyze-backtrace": {
@@ -28216,14 +28245,16 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"avahi-resolve-host-name": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"avifenc": {
@@ -30973,7 +31004,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"i3exit": {
@@ -31246,6 +31278,7 @@
 						"fr": 1,
 						"ko": 1,
 						"nl": 2,
+						"pl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -31280,7 +31313,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"ipcalc": {
@@ -31683,7 +31717,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"lftp": {
@@ -31755,14 +31790,16 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"linux64": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"lldpctl": {
@@ -31859,7 +31896,8 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"losetup": {
@@ -31869,7 +31907,8 @@
 				},
 				"lrunzip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"lrzip": {
@@ -31884,7 +31923,8 @@
 				},
 				"lrzuntar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"pl": 2
 					}
 				},
 				"lsattr": {
@@ -32400,7 +32440,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"mkfs.xfs": {
@@ -33140,7 +33181,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"pacman-database": {
@@ -33172,7 +33214,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"pacman-files": {
@@ -33213,7 +33256,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"pacman-query": {
@@ -33233,7 +33277,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"pacman-remove": {
@@ -33276,14 +33321,16 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"pacman-u": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"pacman-upgrade": {
@@ -34001,6 +34048,7 @@
 						"es": 2,
 						"ko": 1,
 						"nl": 2,
+						"pl": 2,
 						"pt_BR": 1,
 						"tr": 1
 					}
@@ -34017,6 +34065,7 @@
 						"es": 2,
 						"ko": 1,
 						"nl": 2,
+						"pl": 2,
 						"pt_BR": 1,
 						"tr": 1
 					}
@@ -36285,7 +36334,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"trash-restore": {
@@ -36477,7 +36527,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"uncompress": {
@@ -37136,7 +37187,8 @@
 				"x86_64": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"xauth": {
@@ -37291,6 +37343,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"xhost": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xinput": {
