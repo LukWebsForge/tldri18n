@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 29-Apr-25 02:00:08 CEST",
+	"last_update": "Wednesday, 30-Apr-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12061,6 +12061,13 @@
 						"zh": 2
 					}
 				},
+				"i3lock": {
+					"status": {
+						"en": 2,
+						"ko": 2,
+						"pt_BR": 2
+					}
+				},
 				"ia": {
 					"status": {
 						"en": 2,
@@ -23337,6 +23344,24 @@
 						"en": 2
 					}
 				},
+				"swaybg": {
+					"status": {
+						"en": 2,
+						"ko": 2
+					}
+				},
+				"swayidle": {
+					"status": {
+						"en": 2,
+						"ko": 2
+					}
+				},
+				"swaylock": {
+					"status": {
+						"en": 2,
+						"ko": 1
+					}
+				},
 				"swc": {
 					"status": {
 						"en": 2,
@@ -31014,13 +31039,6 @@
 						"ko": 2
 					}
 				},
-				"i3lock": {
-					"status": {
-						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
-					}
-				},
 				"i3status": {
 					"status": {
 						"en": 2,
@@ -35694,24 +35712,6 @@
 					}
 				},
 				"swapon": {
-					"status": {
-						"en": 2,
-						"ko": 2
-					}
-				},
-				"swaybg": {
-					"status": {
-						"en": 2,
-						"ko": 2
-					}
-				},
-				"swayidle": {
-					"status": {
-						"en": 2,
-						"ko": 2
-					}
-				},
-				"swaylock": {
 					"status": {
 						"en": 2,
 						"ko": 2
