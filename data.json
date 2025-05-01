@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 30-Apr-25 02:00:07 CEST",
+	"last_update": "Thursday, 01-May-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15802,6 +15802,11 @@
 						"ko": 2
 					}
 				},
+				"netexec": {
+					"status": {
+						"en": 2
+					}
+				},
 				"netlify": {
 					"status": {
 						"en": 2,
@@ -22748,7 +22753,7 @@
 				"spectacle": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"speed-test": {
@@ -31544,6 +31549,11 @@
 						"nl": 2
 					}
 				},
+				"kinfocenter": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kjv": {
 					"status": {
 						"en": 2,
@@ -31597,6 +31607,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"krdpserver": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kreadconfig5": {
@@ -36009,6 +36024,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"systemsettings": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systool": {
