@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 01-May-25 02:00:07 CEST",
+	"last_update": "Friday, 02-May-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12360,6 +12360,7 @@
 				"impacket-mqtt_check": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -12693,6 +12694,7 @@
 				"j": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -12783,6 +12785,7 @@
 				"jco": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -12910,6 +12913,7 @@
 				"jo": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -15804,7 +15808,8 @@
 				},
 				"netexec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"netlify": {
@@ -15958,7 +15963,7 @@
 				},
 				"nix": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -18707,15 +18712,11 @@
 						"nl": 2
 					}
 				},
-				"pio-package": {
-					"status": {
-						"ko": 2,
-						"nl": 2
-					}
-				},
 				"pio-pkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"pio-platform": {
@@ -25915,7 +25916,7 @@
 				"wormhole": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"wp": {
@@ -27337,7 +27338,7 @@
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
-				"nl": 13,
+				"nl": 14,
 				"no": 0,
 				"pl": 9,
 				"pt_BR": 12,
@@ -29016,8 +29017,8 @@
 				"checkupdates": {
 					"status": {
 						"en": 2,
-						"hi": 2,
-						"ko": 2
+						"hi": 1,
+						"ko": 1
 					}
 				},
 				"checkupdates-aur": {
@@ -31863,10 +31864,20 @@
 						"uk": 2
 					}
 				},
+				"locale-gen": {
+					"status": {
+						"en": 2
+					}
+				},
 				"localectl": {
 					"status": {
 						"en": 2,
 						"pl": 2
+					}
+				},
+				"localedef": {
+					"status": {
+						"en": 2
 					}
 				},
 				"locate": {
@@ -31941,6 +31952,7 @@
 				"lrunzip": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -31957,6 +31969,7 @@
 				"lrzuntar": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
