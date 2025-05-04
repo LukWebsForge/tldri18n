@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 03-May-25 02:00:12 CEST",
+	"last_update": "Sunday, 04-May-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1822,6 +1822,7 @@
 						"id": 1,
 						"it": 1,
 						"ko": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -12372,6 +12373,11 @@
 						"pl": 2
 					}
 				},
+				"impacket-ntfs-read": {
+					"status": {
+						"en": 2
+					}
+				},
 				"impacket-ping": {
 					"status": {
 						"en": 2,
@@ -13162,7 +13168,7 @@
 				"katana": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"kate": {
@@ -16596,6 +16602,11 @@
 						"en": 2,
 						"ja": 2,
 						"ko": 2
+					}
+				},
+				"ntfs-read.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ntfy": {
@@ -24549,7 +24560,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -27142,7 +27153,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 86,
+				"nl": 100,
 				"no": 0,
 				"pl": 86,
 				"pt_BR": 86,
@@ -27228,7 +27239,8 @@
 				},
 				"ipmitool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"look": {
@@ -27257,7 +27269,8 @@
 				"procstat": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"sed": {
@@ -27326,7 +27339,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 99,
-				"es": 33,
+				"es": 32,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -27555,7 +27568,8 @@
 				},
 				"abrt-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ac": {
@@ -28269,7 +28283,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"avahi-resolve-address": {
@@ -30436,7 +30451,8 @@
 				},
 				"flock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"fluidsynth": {
@@ -31303,12 +31319,12 @@
 				"ip-route-show": {
 					"status": {
 						"en": 2,
-						"es": 1,
-						"fr": 1,
-						"ko": 1,
+						"es": 2,
+						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"ip-rule": {
@@ -31944,7 +31960,7 @@
 				"lookandfeeltool": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -33647,6 +33663,11 @@
 						"ko": 2
 					}
 				},
+				"pkexec": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pkgadd": {
 					"status": {
 						"ca": 2,
@@ -34097,11 +34118,11 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 1,
-						"tr": 1
+						"pt_BR": 2,
+						"tr": 2
 					}
 				},
 				"pw-profiler": {
@@ -34114,11 +34135,11 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 1,
-						"tr": 1
+						"pt_BR": 2,
+						"tr": 2
 					}
 				},
 				"pw-reserve": {
@@ -35254,6 +35275,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"setfont": {
+					"status": {
+						"en": 2
 					}
 				},
 				"setsebool": {
@@ -36531,7 +36557,7 @@
 				"udisksctl": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"ufw": {
@@ -42554,7 +42580,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 90,
+				"nl": 100,
 				"no": 0,
 				"pl": 90,
 				"pt_BR": 0,
@@ -42630,7 +42656,8 @@
 				"share": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"snoop": {
