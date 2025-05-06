@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 05-May-25 02:00:08 CEST",
+	"last_update": "Tuesday, 06-May-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -483,7 +483,7 @@
 					"status": {
 						"ar": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"hi": 1,
 						"id": 2,
 						"ko": 1,
@@ -810,7 +810,7 @@
 				"adb": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 2,
 						"it": 1,
@@ -1628,7 +1628,7 @@
 				"asciinema": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 1,
 						"it": 1,
@@ -1704,7 +1704,7 @@
 				"at": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 1,
 						"it": 1,
@@ -21687,6 +21687,11 @@
 						"ko": 2
 					}
 				},
+				"rustup-uninstall": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rustup-update": {
 					"status": {
 						"en": 2,
@@ -29246,6 +29251,11 @@
 						"ko": 2
 					}
 				},
+				"create-image": {
+					"status": {
+						"en": 2
+					}
+				},
 				"create_ap": {
 					"status": {
 						"en": 2,
@@ -31302,7 +31312,7 @@
 						"lo": 1,
 						"ml": 1,
 						"ne": 1,
-						"nl": 1,
+						"nl": 2,
 						"no": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -32024,9 +32034,9 @@
 				"lscpu": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2,
-						"ru": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"lsfd": {
