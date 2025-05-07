@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 06-May-25 02:00:07 CEST",
+	"last_update": "Wednesday, 07-May-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13293,6 +13293,36 @@
 						"ko": 2
 					}
 				},
+				"kite": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kiterunner": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kiterunner-brute": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kiterunner-kb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kiterunner-scan": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kiterunner-wordlist": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kitex": {
 					"status": {
 						"en": 2,
@@ -13370,6 +13400,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"kr": {
+					"status": {
+						"en": 2
 					}
 				},
 				"krita": {
@@ -15982,6 +16017,16 @@
 						"ko": 2
 					}
 				},
+				"nix-build.2": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-build.3": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nix-classic": {
 					"status": {
 						"en": 2,
@@ -15996,6 +16041,16 @@
 						"ko": 2
 					}
 				},
+				"nix-develop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-edit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nix-env": {
 					"status": {
 						"de": 2,
@@ -16003,88 +16058,131 @@
 						"ko": 2
 					}
 				},
+				"nix-flake": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-profile": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-registry": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-repl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-search": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nix-shell": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"ko": 2
+						"ko": 1
+					}
+				},
+				"nix-shell.2": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-shell.3": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nix-store": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
+					}
+				},
+				"nix-store.2": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-store.3": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-why-depends": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nix3-build": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-develop": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-edit": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-flake": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-profile": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-registry": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-repl": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-run": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-search": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-shell": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-store": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"nix3-why-depends": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
