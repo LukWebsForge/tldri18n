@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 07-May-25 02:00:08 CEST",
+	"last_update": "Thursday, 08-May-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12376,7 +12376,8 @@
 				},
 				"impacket-ntfs-read": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-ping": {
@@ -13295,12 +13296,14 @@
 				},
 				"kite": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"kiterunner": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"kiterunner-brute": {
@@ -13404,7 +13407,8 @@
 				},
 				"kr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"krita": {
@@ -16705,7 +16709,8 @@
 				},
 				"ntfs-read.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ntfy": {
@@ -21734,7 +21739,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"rustup-man": {
@@ -21782,12 +21788,14 @@
 				"rustup-toolchain": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"rustup-uninstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rustup-update": {
@@ -26101,6 +26109,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"x8": {
+					"status": {
+						"en": 2
 					}
 				},
 				"x_x": {
