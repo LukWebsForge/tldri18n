@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 08-May-25 02:00:09 CEST",
+	"last_update": "Friday, 09-May-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4530,13 +4530,6 @@
 						"ko": 2
 					}
 				},
-				"column": {
-					"status": {
-						"it": 2,
-						"ja": 2,
-						"ko": 2
-					}
-				},
 				"combine": {
 					"status": {
 						"en": 2,
@@ -7728,11 +7721,6 @@
 				"flite": {
 					"status": {
 						"en": 2,
-						"ko": 2
-					}
-				},
-				"flock": {
-					"status": {
 						"ko": 2
 					}
 				},
@@ -11516,15 +11504,6 @@
 						"zh": 2
 					}
 				},
-				"hexdump": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"ru": 2,
-						"zh": 2
-					}
-				},
 				"hexo": {
 					"status": {
 						"en": 2,
@@ -12575,7 +12554,9 @@
 				},
 				"ipcalc": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"ko": 1
 					}
 				},
 				"ipcs": {
@@ -15357,13 +15338,6 @@
 				"most": {
 					"status": {
 						"en": 2,
-						"ko": 2
-					}
-				},
-				"mount": {
-					"status": {
-						"de": 2,
-						"it": 2,
 						"ko": 2
 					}
 				},
@@ -21328,13 +21302,6 @@
 						"es": 2
 					}
 				},
-				"rev": {
-					"status": {
-						"de": 2,
-						"ko": 2,
-						"sv": 2
-					}
-				},
 				"rfetch": {
 					"status": {
 						"en": 2,
@@ -22692,7 +22659,7 @@
 				"smbmap": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"sn": {
@@ -23295,12 +23262,6 @@
 					"status": {
 						"en": 2,
 						"ko": 2
-					}
-				},
-				"su": {
-					"status": {
-						"ko": 2,
-						"tr": 2
 					}
 				},
 				"subfinder": {
@@ -23924,7 +23885,7 @@
 				"tldr": {
 					"status": {
 						"ar": 2,
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 1,
@@ -25765,6 +25726,7 @@
 				"watch": {
 					"status": {
 						"ar": 2,
+						"de": 1,
 						"en": 2,
 						"ko": 1
 					}
@@ -27456,7 +27418,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 99,
-				"es": 32,
+				"es": 33,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -29268,7 +29230,10 @@
 				},
 				"column": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2
 					}
 				},
 				"compose": {
@@ -30574,6 +30539,7 @@
 				"flock": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -30728,7 +30694,7 @@
 				"genfstab": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"genie": {
@@ -31082,7 +31048,12 @@
 				},
 				"hexdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"ko": 2,
+						"pt_BR": 2,
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"hlint": {
@@ -31482,12 +31453,6 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
-					}
-				},
-				"ipcalc": {
-					"status": {
-						"de": 2,
-						"ko": 2
 					}
 				},
 				"ipcmk": {
@@ -31963,6 +31928,11 @@
 						"pl": 2
 					}
 				},
+				"linux-boot-prober": {
+					"status": {
+						"en": 2
+					}
+				},
 				"linux32": {
 					"status": {
 						"en": 2,
@@ -32378,11 +32348,11 @@
 				"makepkg": {
 					"status": {
 						"en": 2,
-						"hi": 2,
-						"ko": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"hi": 1,
+						"ko": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"mandb": {
@@ -32787,7 +32757,10 @@
 				},
 				"mount": {
 					"status": {
-						"en": 2
+						"de": 1,
+						"en": 2,
+						"it": 1,
+						"ko": 2
 					}
 				},
 				"mount.cifs": {
@@ -32848,11 +32821,6 @@
 				"mt": {
 					"status": {
 						"en": 2,
-						"ko": 2
-					}
-				},
-				"mycli": {
-					"status": {
 						"ko": 2
 					}
 				},
@@ -34905,7 +34873,10 @@
 				},
 				"rev": {
 					"status": {
-						"en": 2
+						"de": 1,
+						"en": 2,
+						"ko": 2,
+						"sv": 1
 					}
 				},
 				"rexec": {
@@ -35612,11 +35583,6 @@
 						"ko": 2
 					}
 				},
-				"smbmap": {
-					"status": {
-						"ko": 2
-					}
-				},
 				"smbnetfs": {
 					"status": {
 						"en": 2,
@@ -35865,7 +35831,9 @@
 				},
 				"su": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2,
+						"tr": 2
 					}
 				},
 				"sview": {
@@ -37176,8 +37144,6 @@
 				},
 				"watch": {
 					"status": {
-						"de": 2,
-						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -38058,7 +38024,7 @@
 				"fi": 0,
 				"fr": 39,
 				"hi": 40,
-				"id": 44,
+				"id": 45,
 				"it": 43,
 				"ja": 0,
 				"ko": 98,
@@ -42566,6 +42532,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"zh": 2
 					}
