@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 10-May-25 02:00:09 CEST",
+	"last_update": "Sunday, 11-May-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -21303,6 +21303,11 @@
 						"es": 2
 					}
 				},
+				"reuse": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rfetch": {
 					"status": {
 						"en": 2,
@@ -22949,6 +22954,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"sqlx": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sqsc": {
@@ -25729,7 +25739,8 @@
 						"ar": 2,
 						"de": 1,
 						"en": 2,
-						"ko": 1
+						"ko": 1,
+						"pt_BR": 2
 					}
 				},
 				"watchexec": {
@@ -27423,7 +27434,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 99,
+				"en": 100,
 				"es": 33,
 				"fa": 0,
 				"fi": 0,
@@ -37151,11 +37162,6 @@
 					"status": {
 						"en": 2,
 						"ko": 2
-					}
-				},
-				"watch": {
-					"status": {
-						"pt_BR": 2
 					}
 				},
 				"waydroid": {
