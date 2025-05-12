@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 11-May-25 02:00:09 CEST",
+	"last_update": "Monday, 12-May-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2962,6 +2962,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"blahaj": {
+					"status": {
+						"en": 2
 					}
 				},
 				"blender": {
@@ -26219,6 +26224,11 @@
 						"ko": 2
 					}
 				},
+				"xml-c14n": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xml-canonic": {
 					"status": {
 						"en": 2,
@@ -26261,6 +26271,11 @@
 						"ko": 2
 					}
 				},
+				"xml-p2x": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xml-pyx": {
 					"status": {
 						"en": 2,
@@ -26289,6 +26304,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"xml-xmln": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xmllint": {
