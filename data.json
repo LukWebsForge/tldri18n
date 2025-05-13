@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 12-May-25 02:00:10 CEST",
+	"last_update": "Tuesday, 13-May-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5487,6 +5487,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"tr": 1
+					}
+				},
+				"dbeaver": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dbt": {
