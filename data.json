@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 14-May-25 02:00:08 CEST",
+	"last_update": "Thursday, 15-May-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -19625,6 +19625,11 @@
 						"ko": 2
 					}
 				},
+				"pokeget": {
+					"status": {
+						"en": 2
+					}
+				},
 				"polybar": {
 					"status": {
 						"en": 2,
@@ -20142,7 +20147,7 @@
 				"progress": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"projucer": {
@@ -20458,6 +20463,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pulumi-down": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pulumi-env": {
@@ -28571,12 +28581,12 @@
 				},
 				"blkid": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"ko": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"ko": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"blkpr": {
@@ -29180,6 +29190,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"chmem": {
+					"status": {
+						"en": 2
 					}
 				},
 				"chntpw": {
