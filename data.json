@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 16-May-25 02:00:07 CEST",
+	"last_update": "Saturday, 17-May-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20533,6 +20533,11 @@
 						"ko": 2
 					}
 				},
+				"pulumi-update": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pulumi-version": {
 					"status": {
 						"en": 2
@@ -28792,11 +28797,11 @@
 				"btrfs-filesystem": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"ko": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"btrfs-inspect-internal": {
