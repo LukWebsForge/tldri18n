@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 17-May-25 02:00:07 CEST",
+	"last_update": "Sunday, 18-May-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -431,7 +431,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 9,
-				"en": 99,
+				"en": 100,
 				"es": 20,
 				"fa": 2,
 				"fi": 0,
@@ -503,6 +503,7 @@
 				",": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -512,6 +513,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -4591,7 +4593,7 @@
 				"compgen": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 1,
 						"pt_BR": 1,
 						"zh": 2
@@ -8195,6 +8197,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"gawk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gcal": {
@@ -15047,8 +15054,8 @@
 				"mise": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"mispipe": {
@@ -16013,12 +16020,14 @@
 				},
 				"nix-build.2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-build.3": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-classic": {
@@ -16037,12 +16046,14 @@
 				},
 				"nix-develop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-edit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-env": {
@@ -16054,129 +16065,80 @@
 				},
 				"nix-flake": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-profile": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-registry": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-repl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-shell": {
 					"status": {
 						"de": 1,
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"nix-shell.2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-shell.3": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-store": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"nix-store.2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-store.3": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-why-depends": {
 					"status": {
-						"en": 2
-					}
-				},
-				"nix3-build": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-develop": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-edit": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-flake": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-profile": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-registry": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-repl": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-run": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-search": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-shell": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-store": {
-					"status": {
-						"ko": 2
-					}
-				},
-				"nix3-why-depends": {
-					"status": {
+						"en": 2,
 						"ko": 2
 					}
 				},
@@ -16794,7 +16756,8 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"nvm": {
@@ -19510,7 +19473,8 @@
 						"de": 2,
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"pnpm-audit": {
@@ -26202,7 +26166,7 @@
 				"xh": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"xidel": {
@@ -27480,7 +27444,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 100,
-				"es": 33,
+				"es": 32,
 				"fa": 0,
 				"fi": 0,
 				"fr": 6,
@@ -29644,6 +29608,11 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"decode-dimms": {
+					"status": {
+						"en": 2
 					}
 				},
 				"delpart": {
@@ -32606,10 +32575,10 @@
 				"mkfs.btrfs": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"id": 1,
+						"ko": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"mkfs.cramfs": {
@@ -42898,7 +42867,7 @@
 				"da": 1,
 				"de": 18,
 				"en": 100,
-				"es": 16,
+				"es": 17,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
@@ -44974,6 +44943,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ja": 2,
 						"ko": 2,
 						"ta": 2,
