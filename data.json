@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 19-May-25 02:00:06 CEST",
+	"last_update": "Tuesday, 20-May-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2894,6 +2894,11 @@
 						"ko": 2
 					}
 				},
+				"biff": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bind": {
 					"status": {
 						"en": 2,
@@ -2973,7 +2978,8 @@
 				},
 				"blahaj": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"blender": {
@@ -3369,7 +3375,7 @@
 				"byobu": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"bzegrep": {
@@ -5498,7 +5504,8 @@
 				},
 				"dbeaver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dbt": {
@@ -5571,7 +5578,7 @@
 				"declare": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 1,
 						"nl": 2
 					}
@@ -6751,6 +6758,16 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"dunstctl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dunstify": {
+					"status": {
+						"en": 2
 					}
 				},
 				"duplicacy": {
@@ -9602,6 +9619,11 @@
 						"tr": 2
 					}
 				},
+				"git-for-each-ref": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-for-each-repo": {
 					"status": {
 						"en": 2,
@@ -12364,6 +12386,7 @@
 				"impacket-mqtt_check": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -12379,12 +12402,14 @@
 				"impacket-ntfs-read": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"impacket-ping": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -12392,6 +12417,7 @@
 				"impacket-ping6": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -12399,6 +12425,7 @@
 				"impacket-rpcdump": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -12406,6 +12433,7 @@
 				"impacket-rpcmap": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -12706,6 +12734,7 @@
 				"j": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -12797,6 +12826,7 @@
 				"jco": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -13301,6 +13331,7 @@
 				"kite": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -13412,6 +13443,7 @@
 				"kr": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -15852,6 +15884,7 @@
 				"netexec": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -16296,6 +16329,11 @@
 						"ko": 2
 					}
 				},
+				"notify-send": {
+					"status": {
+						"en": 2
+					}
+				},
 				"notmuch": {
 					"status": {
 						"en": 2,
@@ -16704,6 +16742,11 @@
 						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"ntp-ctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ntpctl": {
@@ -20431,7 +20474,8 @@
 				},
 				"pulumi-down": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pulumi-env": {
@@ -27443,7 +27487,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 100,
+				"en": 99,
 				"es": 32,
 				"fa": 0,
 				"fi": 0,
@@ -30027,13 +30071,11 @@
 				},
 				"dunstctl": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"dunstify": {
 					"status": {
-						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -33186,7 +33228,6 @@
 				},
 				"notify-send": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
@@ -38065,8 +38106,8 @@
 				"fi": 0,
 				"fr": 39,
 				"hi": 40,
-				"id": 45,
-				"it": 43,
+				"id": 44,
+				"it": 42,
 				"ja": 0,
 				"ko": 98,
 				"lo": 0,
@@ -38723,27 +38764,6 @@
 					}
 				},
 				"g[": {
-					"status": {
-						"de": 2,
-						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"zh": 2,
-						"zh_TW": 2
-					}
-				},
-				"gawk": {
 					"status": {
 						"de": 2,
 						"en": 2,
