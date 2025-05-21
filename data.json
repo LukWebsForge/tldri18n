@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 20-May-25 02:00:08 CEST",
+	"last_update": "Wednesday, 21-May-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -38099,7 +38099,7 @@
 				"ca": 0,
 				"cs": 0,
 				"da": 0,
-				"de": 42,
+				"de": 41,
 				"en": 100,
 				"es": 78,
 				"fa": 0,
@@ -38109,7 +38109,7 @@
 				"id": 44,
 				"it": 42,
 				"ja": 0,
-				"ko": 98,
+				"ko": 97,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -41868,6 +41868,12 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"mac-cleanup": {
+					"status": {
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"machine": {
