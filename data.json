@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 21-May-25 02:00:07 CEST",
+	"last_update": "Thursday, 22-May-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3857,7 +3857,7 @@
 				"case": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
@@ -6760,6 +6760,11 @@
 						"ko": 2
 					}
 				},
+				"dunst": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dunstctl": {
 					"status": {
 						"en": 2
@@ -6951,6 +6956,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"elasticsearch-reset-password": {
+					"status": {
+						"en": 2
 					}
 				},
 				"electron-packager": {
@@ -42901,7 +42911,7 @@
 				"id": 19,
 				"it": 15,
 				"ja": 16,
-				"ko": 99,
+				"ko": 98,
 				"lo": 3,
 				"ml": 2,
 				"ne": 4,
@@ -44877,6 +44887,11 @@
 						"ja": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"vol.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vswhere": {
