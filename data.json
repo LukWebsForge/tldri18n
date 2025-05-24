@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 23-May-25 02:00:07 CEST",
+	"last_update": "Saturday, 24-May-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -9949,6 +9949,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
+					}
+				},
+				"git-name-rev": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-notes": {
