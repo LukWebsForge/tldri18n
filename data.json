@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 25-May-25 02:00:08 CEST",
+	"last_update": "Monday, 26-May-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1746,7 +1746,10 @@
 				},
 				"atool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"atoum": {
@@ -6772,12 +6775,14 @@
 				},
 				"dunstctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 1
 					}
 				},
 				"dunstify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"duplicacy": {
@@ -15030,6 +15035,11 @@
 						"ru": 2
 					}
 				},
+				"micromamba": {
+					"status": {
+						"en": 2
+					}
+				},
 				"microsoft-edge": {
 					"status": {
 						"en": 2,
@@ -16351,7 +16361,8 @@
 				},
 				"notify-send": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 1
 					}
 				},
 				"notmuch": {
@@ -24464,6 +24475,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -27880,6 +27892,11 @@
 						"zh": 2
 					}
 				},
+				"alsamixer": {
+					"status": {
+						"en": 2
+					}
+				},
 				"alternatives": {
 					"status": {
 						"de": 2,
@@ -28319,13 +28336,6 @@
 				"at": {
 					"status": {
 						"en": 2
-					}
-				},
-				"atool": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"tr": 2
 					}
 				},
 				"atop": {
@@ -30089,14 +30099,8 @@
 						"ko": 2
 					}
 				},
-				"dunstctl": {
-					"status": {
-						"ko": 2
-					}
-				},
 				"dunstify": {
 					"status": {
-						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -30750,8 +30754,13 @@
 				"fwupdmgr": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"ta": 2
+						"ko": 1,
+						"ta": 1
+					}
+				},
+				"fwupdtool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gamescope": {
@@ -32684,9 +32693,9 @@
 				"mkfs.fat": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"ko": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"mkfs.minix": {
@@ -33243,11 +33252,6 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
-					}
-				},
-				"notify-send": {
-					"status": {
 						"ko": 2
 					}
 				},
@@ -35450,6 +35454,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"setarch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"setcap": {
