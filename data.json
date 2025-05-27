@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 26-May-25 02:00:08 CEST",
+	"last_update": "Tuesday, 27-May-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6973,6 +6973,11 @@
 						"en": 2
 					}
 				},
+				"elasticsearch-syskeygen": {
+					"status": {
+						"en": 2
+					}
+				},
 				"electron-packager": {
 					"status": {
 						"en": 2,
@@ -9683,9 +9688,9 @@
 				"git-fsck": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"ko": 2,
-						"tr": 2
+						"fr": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"git-gc": {
@@ -12469,6 +12474,16 @@
 						"es": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"impacket-smbclient": {
+					"status": {
+						"en": 2
+					}
+				},
+				"impacket-smbserver": {
+					"status": {
+						"en": 2
 					}
 				},
 				"impacket-sniff": {
@@ -22731,10 +22746,20 @@
 						"ko": 1
 					}
 				},
+				"smbclient.py": {
+					"status": {
+						"en": 2
+					}
+				},
 				"smbmap": {
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"smbserver.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sn": {
@@ -37460,6 +37485,7 @@
 				"x86_64": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
