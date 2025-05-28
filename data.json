@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 27-May-25 02:00:08 CEST",
+	"last_update": "Wednesday, 28-May-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -27554,7 +27554,7 @@
 				"id": 3,
 				"it": 3,
 				"ja": 1,
-				"ko": 85,
+				"ko": 84,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -30907,6 +30907,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gio": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gio-trash": {
