@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 28-May-25 02:00:07 CEST",
+	"last_update": "Thursday, 29-May-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,11 +440,11 @@
 				"id": 9,
 				"it": 10,
 				"ja": 3,
-				"ko": 91,
+				"ko": 90,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 16,
+				"nl": 17,
 				"no": 1,
 				"pl": 5,
 				"pt_BR": 11,
@@ -1161,6 +1161,12 @@
 						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"alr": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"amass": {
@@ -4485,6 +4491,11 @@
 						"ko": 2
 					}
 				},
+				"codex": {
+					"status": {
+						"en": 2
+					}
+				},
 				"coffee": {
 					"status": {
 						"en": 2,
@@ -7302,6 +7313,46 @@
 						"ko": 2
 					}
 				},
+				"exo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exo-compute": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exo-compute-block-storage": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exo-compute-instance": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exo-compute-sks": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exo-dbaas": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exo-iam": {
+					"status": {
+						"en": 2
+					}
+				},
+				"exo-storage": {
+					"status": {
+						"en": 2
+					}
+				},
 				"expand": {
 					"status": {
 						"en": 2,
@@ -8613,7 +8664,8 @@
 				},
 				"getuserspns.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gfortran": {
@@ -11161,6 +11213,7 @@
 						"en": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -12478,12 +12531,14 @@
 				},
 				"impacket-smbclient": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-smbserver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"impacket-sniff": {
@@ -13383,22 +13438,26 @@
 				},
 				"kiterunner-brute": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"kiterunner-kb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"kiterunner-scan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"kiterunner-wordlist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"kitex": {
@@ -15501,7 +15560,8 @@
 				},
 				"mqtt_check.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mr": {
@@ -15598,7 +15658,8 @@
 				},
 				"mssqlclient.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mtr": {
@@ -16055,6 +16116,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"nicotine": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nikto": {
@@ -16880,7 +16946,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"nxc-ftp": {
@@ -18523,6 +18590,7 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -20515,13 +20583,15 @@
 				"pulumi-destroy": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"pulumi-down": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pulumi-env": {
@@ -20584,12 +20654,14 @@
 				"pulumi-up": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"pulumi-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pulumi-version": {
@@ -21555,12 +21627,14 @@
 				},
 				"rpcdump.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rpcmap.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"rpi-imager": {
@@ -22193,7 +22267,8 @@
 				"secretsdump.py": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"security-checker": {
@@ -22748,7 +22823,8 @@
 				},
 				"smbclient.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"smbmap": {
@@ -22759,7 +22835,8 @@
 				},
 				"smbserver.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"sn": {
@@ -22783,12 +22860,14 @@
 				},
 				"sniff.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"sniffer.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"snmpbulkget": {
@@ -26317,19 +26396,22 @@
 				},
 				"xml-c14n": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"xml-canonic": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"xml-depyx": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"xml-edit": {
@@ -26364,13 +26446,15 @@
 				},
 				"xml-p2x": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"xml-pyx": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"xml-select": {
@@ -26399,7 +26483,8 @@
 				},
 				"xml-xmln": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"xmllint": {
@@ -33466,6 +33551,7 @@
 						"it": 2,
 						"ko": 2,
 						"ml": 1,
+						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
@@ -35488,7 +35574,8 @@
 				},
 				"setarch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"setcap": {
