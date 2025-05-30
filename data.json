@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 29-May-25 02:00:07 CEST",
+	"last_update": "Friday, 30-May-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4246,7 +4246,8 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"clang++": {
@@ -4257,7 +4258,8 @@
 						"id": 2,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"clang-cpp": {
@@ -5750,6 +5752,7 @@
 						"pl": 1,
 						"pt_BR": 2,
 						"tr": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -8250,7 +8253,8 @@
 						"id": 2,
 						"ko": 1,
 						"pt_BR": 2,
-						"ta": 1
+						"ta": 1,
+						"zh": 2
 					}
 				},
 				"gacutil": {
@@ -8324,7 +8328,8 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 2,
-						"ta": 1
+						"ta": 1,
+						"zh": 2
 					}
 				},
 				"gcloud": {
@@ -18789,7 +18794,8 @@
 				},
 				"ping.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ping6": {
@@ -18803,7 +18809,8 @@
 				},
 				"ping6.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pinky": {
@@ -25967,6 +25974,11 @@
 						"zh": 2
 					}
 				},
+				"wcurl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wdiff": {
 					"status": {
 						"en": 2,
@@ -30745,7 +30757,8 @@
 				},
 				"flex": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"flock": {
@@ -31278,6 +31291,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
@@ -32303,12 +32317,14 @@
 				},
 				"lrzip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"lrztar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"lrzuntar": {
@@ -32809,6 +32825,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"zh": 1
 					}
