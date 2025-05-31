@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 30-May-25 02:00:09 CEST",
+	"last_update": "Saturday, 31-May-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2460,6 +2460,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"az-quantum": {
+					"status": {
+						"en": 2
 					}
 				},
 				"az-redis": {
@@ -6796,7 +6801,8 @@
 				"dunstify": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"duplicacy": {
@@ -13055,6 +13061,7 @@
 				"jo": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -14607,6 +14614,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ludusavi": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lumen": {
@@ -27642,8 +27654,8 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 99,
-				"es": 32,
+				"en": 100,
+				"es": 33,
 				"fa": 0,
 				"fi": 0,
 				"fr": 5,
@@ -27658,7 +27670,7 @@
 				"nl": 14,
 				"no": 0,
 				"pl": 9,
-				"pt_BR": 12,
+				"pt_BR": 11,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 0,
@@ -30221,11 +30233,6 @@
 						"ko": 2
 					}
 				},
-				"dunstify": {
-					"status": {
-						"pt_BR": 2
-					}
-				},
 				"duperemove": {
 					"status": {
 						"en": 2,
@@ -32443,27 +32450,32 @@
 				},
 				"lvcreate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lvdisplay": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lvextend": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lvreduce": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lvremove": {
@@ -33076,6 +33088,7 @@
 				"nala": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"uk": 2
 					}
@@ -34165,6 +34178,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pokego": {
+					"status": {
+						"en": 2
 					}
 				},
 				"portablectl": {
