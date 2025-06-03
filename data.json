@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 02-Jun-25 02:00:07 CEST",
+	"last_update": "Tuesday, 03-Jun-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -454,7 +454,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 1,
-				"ta": 3,
+				"ta": 2,
 				"th": 1,
 				"tr": 5,
 				"uk": 1,
@@ -504,6 +504,7 @@
 				",": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -921,7 +922,8 @@
 				},
 				"adb-uninstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"adguardhome": {
@@ -4318,6 +4320,12 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"claude": {
+					"status": {
+						"en": 2,
+						"ja": 2
 					}
 				},
 				"clear": {
@@ -7825,6 +7833,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"flask-unsign": {
+					"status": {
+						"en": 2
 					}
 				},
 				"flexget": {
@@ -14955,6 +14968,11 @@
 						"es": 2
 					}
 				},
+				"markdown2pdf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"masscan": {
 					"status": {
 						"en": 2,
@@ -20906,6 +20924,7 @@
 						"es": 2,
 						"id": 2,
 						"it": 1,
+						"ja": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 1,
@@ -27690,7 +27709,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 100,
-				"es": 33,
+				"es": 34,
 				"fa": 0,
 				"fi": 0,
 				"fr": 5,
@@ -38007,6 +38026,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -38022,6 +38042,7 @@
 				"zdump": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -38035,12 +38056,14 @@
 				"zforce": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"zic": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
