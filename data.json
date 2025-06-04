@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 03-Jun-25 02:00:08 CEST",
+	"last_update": "Wednesday, 04-Jun-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13818,6 +13818,7 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh_TW": 2
 					}
 				},
@@ -18332,7 +18333,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"pdfposter": {
@@ -18352,7 +18354,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"pdftk": {
@@ -24000,7 +24003,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"tex-fmt": {
@@ -31854,7 +31858,8 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"iwinfo": {
@@ -33557,6 +33562,11 @@
 						"ko": 2
 					}
 				},
+				"oniux": {
+					"status": {
+						"en": 2
+					}
+				},
 				"oomctl": {
 					"status": {
 						"en": 2,
@@ -34475,9 +34485,9 @@
 				"pw-cat": {
 					"status": {
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"tr": 1
 					}
 				},
@@ -36184,6 +36194,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
