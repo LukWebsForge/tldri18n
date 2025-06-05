@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 04-Jun-25 02:00:08 CEST",
+	"last_update": "Thursday, 05-Jun-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -636,12 +636,14 @@
 				},
 				"]": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"]]": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"^": {
@@ -6234,6 +6236,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
+					}
+				},
+				"docker-search": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-secret": {
@@ -25225,6 +25232,11 @@
 						"es": 2
 					}
 				},
+				"uv-init": {
+					"status": {
+						"en": 2
+					}
+				},
 				"uv-python": {
 					"status": {
 						"en": 2,
@@ -27713,7 +27725,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 100,
-				"es": 34,
+				"es": 33,
 				"fa": 0,
 				"fi": 0,
 				"fr": 5,
@@ -33118,6 +33130,11 @@
 						"pl": 2
 					}
 				},
+				"mount.steamos": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mountpoint": {
 					"status": {
 						"en": 2,
@@ -36109,10 +36126,20 @@
 						"ko": 2
 					}
 				},
+				"steamos-boot-install": {
+					"status": {
+						"en": 2
+					}
+				},
 				"steamos-chroot": {
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"steamos-devmode": {
+					"status": {
+						"en": 2
 					}
 				},
 				"steamos-dump-info": {
@@ -36127,6 +36154,11 @@
 					}
 				},
 				"steamos-factory-reset-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"steamos-finalize-install": {
 					"status": {
 						"en": 2
 					}
@@ -38102,6 +38134,11 @@
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
+					}
+				},
+				"zsync": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zypper": {
