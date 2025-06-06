@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 05-Jun-25 02:00:07 CEST",
+	"last_update": "Friday, 06-Jun-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -29367,8 +29367,8 @@
 				"chattr": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"chcon": {
