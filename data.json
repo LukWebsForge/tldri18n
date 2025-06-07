@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 06-Jun-25 02:00:07 CEST",
+	"last_update": "Saturday, 07-Jun-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -22293,6 +22293,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -24408,6 +24409,7 @@
 						"fr": 1,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_PT": 1
 					}
 				},
@@ -25223,18 +25225,21 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
 				"uv-add": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"uv-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"uv-python": {
@@ -25242,6 +25247,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -25249,13 +25255,15 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
 				"uv-tree": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"uvicorn": {
@@ -27236,6 +27244,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -32600,7 +32609,7 @@
 				"lxc-create": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"lxc-destroy": {
