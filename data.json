@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 08-Jun-25 02:00:08 CEST",
+	"last_update": "Monday, 09-Jun-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -33662,6 +33662,7 @@
 				"pacaur": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -38136,18 +38137,21 @@
 				"zile": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"zipsplit": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"znc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"zramctl": {
