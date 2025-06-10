@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 09-Jun-25 02:00:07 CEST",
+	"last_update": "Tuesday, 10-Jun-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -830,7 +830,8 @@
 				},
 				"adb-connect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"adb-devices": {
@@ -845,12 +846,14 @@
 				},
 				"adb-disconnect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"adb-forward": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"adb-install": {
@@ -881,7 +884,8 @@
 				},
 				"adb-pair": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"adb-reboot": {
@@ -925,12 +929,14 @@
 				"adb-uninstall": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2
 					}
 				},
 				"adguardhome": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -1010,6 +1016,7 @@
 				"age-keygen": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -1037,6 +1044,7 @@
 				"airdecap-ng": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -1098,6 +1106,7 @@
 				"airshare": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -1209,6 +1218,7 @@
 				"androguard": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -1233,6 +1243,7 @@
 				"animdl": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -1277,6 +1288,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -1296,13 +1308,15 @@
 				},
 				"ansible-lint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ansible-playbook": {
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"id": 2,
 						"it": 1,
@@ -14421,6 +14435,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"loft": {
+					"status": {
+						"en": 2
 					}
 				},
 				"logger": {
@@ -29216,6 +29235,11 @@
 						"ko": 2
 					}
 				},
+				"cage": {
+					"status": {
+						"en": 2
+					}
+				},
 				"caja": {
 					"status": {
 						"en": 2,
@@ -34123,6 +34147,7 @@
 				"pivpn": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -34263,6 +34288,7 @@
 				"pluma": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -34405,6 +34431,7 @@
 				"pro": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
