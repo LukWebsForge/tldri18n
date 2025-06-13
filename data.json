@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 12-Jun-25 02:00:08 CEST",
+	"last_update": "Friday, 13-Jun-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -23791,8 +23791,8 @@
 				"sync": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"syncthing": {
@@ -33078,8 +33078,8 @@
 				"mktemp": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"mlabel": {
