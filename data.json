@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 13-Jun-25 02:00:09 CEST",
+	"last_update": "Saturday, 14-Jun-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1025,6 +1025,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"agg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aider": {
@@ -7672,6 +7677,7 @@
 						"ja": 2,
 						"ko": 2,
 						"ne": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -23792,7 +23798,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"syncthing": {
@@ -24544,17 +24550,17 @@
 				},
 				"touch": {
 					"status": {
-						"ca": 1,
+						"ca": 2,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
+						"es": 1,
+						"fa": 1,
 						"hi": 1,
-						"id": 2,
-						"ko": 2,
+						"id": 1,
+						"ko": 1,
 						"nl": 2,
-						"pt_BR": 2,
+						"pt_BR": 1,
 						"pt_PT": 1,
-						"zh": 2,
+						"zh": 1,
 						"zh_TW": 1
 					}
 				},
@@ -33079,7 +33085,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"mlabel": {
@@ -36704,6 +36710,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"termshark": {
+					"status": {
+						"en": 2
 					}
 				},
 				"termusic": {
