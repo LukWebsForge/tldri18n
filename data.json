@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 14-Jun-25 02:00:09 CEST",
+	"last_update": "Sunday, 15-Jun-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4641,9 +4641,9 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"compare": {
@@ -5875,11 +5875,11 @@
 				},
 				"dirs": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"tr": 2
+						"it": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"dirsearch": {
@@ -7166,12 +7166,12 @@
 				"env": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
+						"es": 1,
+						"fr": 1,
 						"it": 1,
-						"ko": 2,
-						"nl": 2,
-						"no": 2
+						"ko": 1,
+						"nl": 1,
+						"no": 1
 					}
 				},
 				"envoy": {
@@ -13303,6 +13303,11 @@
 						"ko": 2
 					}
 				},
+				"k3s": {
+					"status": {
+						"en": 2
+					}
+				},
 				"k6": {
 					"status": {
 						"de": 2,
@@ -15295,7 +15300,7 @@
 				"mitmdump": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"mitmproxy": {
@@ -15752,6 +15757,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"mtm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mtr": {
@@ -24041,10 +24051,10 @@
 				"test": {
 					"status": {
 						"en": 2,
-						"ja": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2
+						"ja": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1
 					}
 				},
 				"testssl": {
@@ -27798,7 +27808,7 @@
 				"id": 3,
 				"it": 3,
 				"ja": 1,
-				"ko": 84,
+				"ko": 83,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -27936,6 +27946,16 @@
 						"zh": 2
 					}
 				},
+				"aa-audit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aa-cleanprof": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aa-complain": {
 					"status": {
 						"de": 2,
@@ -27943,6 +27963,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"aa-decode": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aa-disable": {
@@ -27964,6 +27989,26 @@
 						"pl": 2
 					}
 				},
+				"aa-genprof": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aa-logprof": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aa-mergeprof": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aa-remove-unknown": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aa-status": {
 					"status": {
 						"en": 2,
@@ -27971,6 +28016,16 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"aa-teardown": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aa-unconfined": {
+					"status": {
+						"en": 2
 					}
 				},
 				"abbr": {
@@ -28252,6 +28307,11 @@
 						"ko": 2,
 						"pl": 2,
 						"zh": 2
+					}
+				},
+				"apparmor_parser": {
+					"status": {
+						"en": 2
 					}
 				},
 				"apparmor_status": {
