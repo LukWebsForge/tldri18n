@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 18-Jun-25 02:00:07 CEST",
+	"last_update": "Thursday, 19-Jun-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6741,6 +6741,11 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"dropdb": {
+					"status": {
+						"en": 2
 					}
 				},
 				"drupal": {
@@ -13574,6 +13579,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"komac": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kompose": {
@@ -25303,10 +25313,25 @@
 						"nl": 2
 					}
 				},
+				"uv-help": {
+					"status": {
+						"en": 2
+					}
+				},
 				"uv-init": {
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"uv-lock": {
+					"status": {
+						"en": 2
+					}
+				},
+				"uv-pip": {
+					"status": {
+						"en": 2
 					}
 				},
 				"uv-python": {
@@ -25316,6 +25341,21 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"uv-remove": {
+					"status": {
+						"en": 2
+					}
+				},
+				"uv-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"uv-sync": {
+					"status": {
+						"en": 2
 					}
 				},
 				"uv-tool": {
@@ -25331,6 +25371,16 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2
+					}
+				},
+				"uv-venv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"uv-version": {
+					"status": {
+						"en": 2
 					}
 				},
 				"uvicorn": {
@@ -35769,11 +35819,11 @@
 				"sed": {
 					"status": {
 						"en": 2,
-						"ja": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"ja": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"see": {
@@ -37994,6 +38044,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"xdg-user-dir": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xdg-user-dirs-update": {
