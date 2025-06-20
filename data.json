@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 19-Jun-25 02:00:07 CEST",
+	"last_update": "Friday, 20-Jun-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,7 +440,7 @@
 				"id": 9,
 				"it": 9,
 				"ja": 3,
-				"ko": 90,
+				"ko": 89,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -2956,6 +2956,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"bing-rewards": {
+					"status": {
+						"en": 2
 					}
 				},
 				"binwalk": {
@@ -20454,6 +20459,41 @@
 						"zh": 2
 					}
 				},
+				"prowler": {
+					"status": {
+						"en": 2
+					}
+				},
+				"prowler-aws": {
+					"status": {
+						"en": 2
+					}
+				},
+				"prowler-azure": {
+					"status": {
+						"en": 2
+					}
+				},
+				"prowler-gcp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"prowler-github": {
+					"status": {
+						"en": 2
+					}
+				},
+				"prowler-kubernetes": {
+					"status": {
+						"en": 2
+					}
+				},
+				"prowler-m365": {
+					"status": {
+						"en": 2
+					}
+				},
 				"proxify": {
 					"status": {
 						"en": 2,
@@ -20860,7 +20900,7 @@
 				"pv": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"pwd": {
@@ -27309,8 +27349,8 @@
 				"zcat": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"zcmp": {
@@ -28085,6 +28125,11 @@
 					}
 				},
 				"aa-unconfined": {
+					"status": {
+						"en": 2
+					}
+				},
+				"aa-update-browser": {
 					"status": {
 						"en": 2
 					}
@@ -29842,6 +29887,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"crond": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cryptcat": {
