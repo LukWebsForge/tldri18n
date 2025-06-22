@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 21-Jun-25 02:00:07 CEST",
+	"last_update": "Sunday, 22-Jun-25 02:00:22 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15658,7 +15658,8 @@
 				"mplayer": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"mpremote": {
@@ -15672,6 +15673,7 @@
 						"en": 2,
 						"it": 1,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -26018,6 +26020,7 @@
 						"it": 2,
 						"ko": 2,
 						"ne": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
