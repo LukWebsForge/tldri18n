@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 22-Jun-25 02:00:22 CEST",
+	"last_update": "Monday, 23-Jun-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3428,6 +3428,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"bzcat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bzegrep": {
