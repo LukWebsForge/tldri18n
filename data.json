@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 24-Jun-25 02:00:06 CEST",
+	"last_update": "Wednesday, 25-Jun-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -481,14 +481,14 @@
 				},
 				"$": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"hi": 1,
-						"id": 2,
+						"id": 1,
 						"ko": 1,
 						"nl": 2,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"%": {
@@ -3464,6 +3464,11 @@
 						"it": 1,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"bzip2recover": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bzip3": {
@@ -13122,6 +13127,11 @@
 						"zh": 2
 					}
 				},
+				"jira": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jmap": {
 					"status": {
 						"en": 2,
@@ -15756,6 +15766,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"msgcat": {
+					"status": {
+						"en": 2
 					}
 				},
 				"msgfmt": {
