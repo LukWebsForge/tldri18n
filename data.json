@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 25-Jun-25 02:00:07 CEST",
+	"last_update": "Thursday, 26-Jun-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11560,6 +11560,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"gvim": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gvpack": {
@@ -25339,6 +25344,11 @@
 						"nl": 2,
 						"sv": 2,
 						"zh": 2
+					}
+				},
+				"usleep": {
+					"status": {
+						"en": 2
 					}
 				},
 				"usql": {
