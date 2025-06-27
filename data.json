@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 26-Jun-25 02:00:07 CEST",
+	"last_update": "Friday, 27-Jun-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -431,7 +431,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 9,
-				"en": 100,
+				"en": 99,
 				"es": 21,
 				"fa": 2,
 				"fi": 0,
@@ -11736,6 +11736,11 @@
 						"zh": 2
 					}
 				},
+				"hexedit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"hexo": {
 					"status": {
 						"en": 2,
@@ -17390,6 +17395,11 @@
 						"ko": 2
 					}
 				},
+				"on_ac_power": {
+					"status": {
+						"en": 2
+					}
+				},
 				"onefetch": {
 					"status": {
 						"en": 2,
@@ -18920,6 +18930,11 @@
 						"ko": 2
 					}
 				},
+				"pico": {
+					"status": {
+						"en": 2
+					}
+				},
 				"picocom": {
 					"status": {
 						"en": 2,
@@ -19348,6 +19363,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pkgz": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pkill": {
@@ -20959,6 +20979,11 @@
 						"zh": 2
 					}
 				},
+				"pwqgen": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pwsh": {
 					"status": {
 						"en": 2,
@@ -21159,6 +21184,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"qemu-system-riscv64": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qmmp": {
@@ -21810,6 +21840,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"rnano": {
+					"status": {
+						"en": 2
 					}
 				},
 				"roave-backward-compatibility-check": {
@@ -26486,8 +26521,7 @@
 				},
 				"wireplumber": {
 					"status": {
-						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"wkhtmltopdf": {
@@ -26541,7 +26575,6 @@
 				},
 				"wpexec": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
@@ -34822,9 +34855,9 @@
 				"pw-cli": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"ko": 1,
+						"pt_BR": 1,
+						"tr": 1
 					}
 				},
 				"pw-config": {
@@ -37733,6 +37766,11 @@
 						"ko": 2
 					}
 				},
+				"virt-what": {
+					"status": {
+						"en": 2
+					}
+				},
 				"virt-xml": {
 					"status": {
 						"en": 2,
@@ -38021,6 +38059,11 @@
 					"status": {
 						"en": 2,
 						"ko": 1
+					}
+				},
+				"wpexec": {
+					"status": {
+						"en": 2
 					}
 				},
 				"write": {
