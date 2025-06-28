@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 27-Jun-25 02:00:07 CEST",
+	"last_update": "Saturday, 28-Jun-25 02:00:22 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -652,12 +652,12 @@
 				"^": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"id": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"es": 1,
+						"hi": 1,
+						"id": 1,
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"a2ping": {
@@ -2630,6 +2630,7 @@
 				"b2sum": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
@@ -11466,6 +11467,11 @@
 						"ko": 2
 					}
 				},
+				"gst-device-monitor-1.0": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gst-inspect-1.0": {
 					"status": {
 						"en": 2,
@@ -11475,7 +11481,7 @@
 				"gst-launch-1.0": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"gsutil": {
@@ -37712,6 +37718,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"vgextend": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vgremove": {
