@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 28-Jun-25 02:00:22 CEST",
+	"last_update": "Sunday, 29-Jun-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1046,7 +1046,7 @@
 						"id": 1,
 						"ko": 1,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"airdecap-ng": {
@@ -4023,7 +4023,7 @@
 						"sv": 1,
 						"ta": 2,
 						"zh": 2,
-						"zh_TW": 1
+						"zh_TW": 2
 					}
 				},
 				"cdecl": {
@@ -8731,6 +8731,7 @@
 				"getadusers.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -8749,6 +8750,7 @@
 				"getnpusers.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -11570,7 +11572,8 @@
 				},
 				"gvim": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gvpack": {
@@ -13561,6 +13564,7 @@
 				"kiterunner": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -14650,6 +14654,7 @@
 					"status": {
 						"ar": 2,
 						"ca": 2,
+						"cs": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -20867,6 +20872,11 @@
 					}
 				},
 				"pulumi-new": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pulumi-org": {
 					"status": {
 						"en": 2
 					}
@@ -28569,17 +28579,17 @@
 				},
 				"apt-add-repository": {
 					"status": {
-						"ca": 2,
-						"de": 2,
+						"ca": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"pl": 2,
-						"th": 2,
-						"uk": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"pl": 1,
+						"th": 1,
+						"uk": 1,
+						"zh": 1
 					}
 				},
 				"apt-cache": {
@@ -37808,6 +37818,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"vlock": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vmstat": {
