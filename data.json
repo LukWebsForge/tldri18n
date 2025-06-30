@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 29-Jun-25 02:00:09 CEST",
+	"last_update": "Monday, 30-Jun-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -656,7 +656,7 @@
 						"hi": 1,
 						"id": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -1042,7 +1042,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"id": 1,
 						"ko": 1,
 						"nl": 2,
@@ -1669,7 +1669,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
-						"zh": 1
+						"zh": 2
 					}
 				},
 				"asciitopgm": {
@@ -2751,6 +2751,7 @@
 				"basenc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -3132,6 +3133,11 @@
 						"ko": 2
 					}
 				},
+				"boxxy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bpkg": {
 					"status": {
 						"en": 2,
@@ -3438,7 +3444,8 @@
 				},
 				"bzcat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bzegrep": {
@@ -4510,6 +4517,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"cmd-wrapped": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cmp": {
@@ -5873,6 +5885,7 @@
 				"dircolors": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2
@@ -8282,6 +8295,7 @@
 					"status": {
 						"ar": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
@@ -8954,6 +8968,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"gh-repo-create": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gh-run": {
@@ -11474,10 +11493,15 @@
 						"en": 2
 					}
 				},
+				"gst-discoverer-1.0": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gst-inspect-1.0": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"gst-launch-1.0": {
@@ -13628,7 +13652,8 @@
 				},
 				"komac": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"kompose": {
@@ -16092,6 +16117,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ndc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"neato": {
@@ -20878,7 +20908,8 @@
 				},
 				"pulumi-org": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pulumi-preview": {
@@ -21190,7 +21221,6 @@
 				},
 				"qemu": {
 					"status": {
-						"en": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -21202,7 +21232,17 @@
 						"zh": 2
 					}
 				},
+				"qemu-system-i386": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qemu-system-riscv64": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qemu-system-x86_64": {
 					"status": {
 						"en": 2
 					}
@@ -28410,6 +28450,11 @@
 						"pl": 2
 					}
 				},
+				"aide": {
+					"status": {
+						"en": 2
+					}
+				},
 				"alien": {
 					"status": {
 						"bn": 2,
@@ -29034,6 +29079,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"away": {
+					"status": {
+						"en": 2
 					}
 				},
 				"backlight_control": {
@@ -30003,7 +30053,8 @@
 				},
 				"crond": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"cryptcat": {
@@ -31692,6 +31743,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"haveged": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hcitool": {
@@ -35816,6 +35872,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"runlevel": {
+					"status": {
+						"en": 2
 					}
 				},
 				"runlim": {
@@ -43635,7 +43696,7 @@
 				"da": 1,
 				"de": 18,
 				"en": 100,
-				"es": 17,
+				"es": 18,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
@@ -43835,6 +43896,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -45673,6 +45735,7 @@
 				"where-object": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
