@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 01-Jul-25 02:00:25 CEST",
+	"last_update": "Wednesday, 02-Jul-25 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4144,6 +4144,11 @@
 						"en": 2
 					}
 				},
+				"chkrootkit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chmod": {
 					"status": {
 						"de": 2,
@@ -7572,6 +7577,13 @@
 						"pt_BR": 2
 					}
 				},
+				"fastapi": {
+					"status": {
+						"en": 2,
+						"ko": 2,
+						"zh": 2
+					}
+				},
 				"fastboot": {
 					"status": {
 						"en": 2,
@@ -8220,6 +8232,11 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"freeramdisk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"freshclam": {
@@ -11767,6 +11784,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"hexdump": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hexedit": {
@@ -23700,7 +23722,8 @@
 				"stow": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"streamlink": {
@@ -23715,6 +23738,11 @@
 						"es": 2,
 						"hi": 2,
 						"ko": 2
+					}
+				},
+				"stress-ng": {
+					"status": {
+						"en": 2
 					}
 				},
 				"stressapptest": {
@@ -25195,6 +25223,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -28061,7 +28090,7 @@
 				"id": 3,
 				"it": 3,
 				"ja": 1,
-				"ko": 83,
+				"ko": 82,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -31077,6 +31106,11 @@
 						"ko": 2
 					}
 				},
+				"fancontrol": {
+					"status": {
+						"en": 2
+					}
+				},
 				"farge": {
 					"status": {
 						"en": 2,
@@ -32862,6 +32896,11 @@
 						"pt_BR": 1,
 						"ru": 1,
 						"zh": 1
+					}
+				},
+				"lsdev": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lsfd": {
