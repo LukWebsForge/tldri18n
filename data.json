@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 03-Jul-25 02:00:09 CEST",
+	"last_update": "Friday, 04-Jul-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13193,6 +13193,41 @@
 					}
 				},
 				"jira": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-bookmark": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-diff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-git": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-log": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-operation": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-status": {
 					"status": {
 						"en": 2
 					}
