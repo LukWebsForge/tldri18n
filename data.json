@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 04-Jul-25 02:00:09 CEST",
+	"last_update": "Saturday, 05-Jul-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -440,11 +440,11 @@
 				"id": 9,
 				"it": 9,
 				"ja": 3,
-				"ko": 89,
+				"ko": 88,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 18,
+				"nl": 17,
 				"no": 1,
 				"pl": 5,
 				"pt_BR": 11,
@@ -8694,6 +8694,31 @@
 						"ko": 2
 					}
 				},
+				"gdm-binary": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdm-restart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdm-safe-restart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdm-stop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gdmsetup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gdown": {
 					"status": {
 						"en": 2,
@@ -11480,6 +11505,11 @@
 						"ko": 2
 					}
 				},
+				"gron": {
+					"status": {
+						"en": 2
+					}
+				},
 				"groups": {
 					"status": {
 						"en": 2,
@@ -13223,6 +13253,26 @@
 					}
 				},
 				"jj-operation": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-parallelize": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-rebase": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-resolve": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-split": {
 					"status": {
 						"en": 2
 					}
@@ -15586,6 +15636,11 @@
 						"ko": 2
 					}
 				},
+				"modutil": {
+					"status": {
+						"en": 2
+					}
+				},
 				"moe": {
 					"status": {
 						"en": 2,
@@ -16434,6 +16489,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"nix-channel": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nix-classic": {
@@ -19455,6 +19515,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pkcs11-tool": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pkg-config": {
@@ -22927,6 +22992,11 @@
 						"ko": 2
 					}
 				},
+				"sg_raw": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sgitopnm": {
 					"status": {
 						"en": 2,
@@ -23432,6 +23502,13 @@
 						"en": 2
 					}
 				},
+				"spf": {
+					"status": {
+						"en": 2,
+						"zh": 2,
+						"zh_TW": 2
+					}
+				},
 				"spfquery": {
 					"status": {
 						"en": 2,
@@ -23714,10 +23791,10 @@
 				},
 				"steamcmd": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"hi": 2,
-						"ko": 2
+						"hi": 1,
+						"ko": 1
 					}
 				},
 				"step": {
@@ -26861,6 +26938,11 @@
 						"pt_BR": 2,
 						"pt_PT": 1,
 						"zh": 2
+					}
+				},
+				"xlsclients": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xmake": {
@@ -30604,11 +30686,21 @@
 						"nl": 2
 					}
 				},
+				"dnf-deplist": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dnf-group": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"nl": 2
+					}
+				},
+				"dnf-repoquery": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dnf5": {
