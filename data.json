@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 05-Jul-25 02:00:10 CEST",
+	"last_update": "Sunday, 06-Jul-25 02:00:22 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -437,7 +437,7 @@
 				"fi": 0,
 				"fr": 10,
 				"hi": 2,
-				"id": 9,
+				"id": 8,
 				"it": 9,
 				"ja": 3,
 				"ko": 88,
@@ -3471,6 +3471,7 @@
 						"en": 2,
 						"it": 1,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -7082,6 +7083,11 @@
 						"ko": 2
 					}
 				},
+				"elasticsearch-keystore": {
+					"status": {
+						"en": 2
+					}
+				},
 				"elasticsearch-reset-password": {
 					"status": {
 						"en": 2
@@ -9155,7 +9161,7 @@
 						"ja": 1,
 						"ko": 1,
 						"ml": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"sr": 1,
@@ -13232,12 +13238,42 @@
 						"en": 2
 					}
 				},
+				"jj-abandon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-absorb": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-bookmark": {
 					"status": {
 						"en": 2
 					}
 				},
+				"jj-commit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-describe": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-diff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-edit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-evolog": {
 					"status": {
 						"en": 2
 					}
@@ -13248,6 +13284,11 @@
 					}
 				},
 				"jj-log": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-new": {
 					"status": {
 						"en": 2
 					}
@@ -13272,7 +13313,32 @@
 						"en": 2
 					}
 				},
+				"jj-restore": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-revert": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-show": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-simplify-parents": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-split": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-squash": {
 					"status": {
 						"en": 2
 					}
@@ -15423,6 +15489,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"minecraft": {
+					"status": {
+						"en": 2
 					}
 				},
 				"minetest": {
@@ -21350,8 +21421,8 @@
 				"qemu-img": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"qemu-system-i386": {
@@ -28204,7 +28275,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 100,
-				"es": 34,
+				"es": 33,
 				"fa": 0,
 				"fi": 0,
 				"fr": 5,
@@ -30142,6 +30213,11 @@
 						"pl": 1
 					}
 				},
+				"counter-strike-2": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cpufreq-aperf": {
 					"status": {
 						"en": 2,
@@ -30232,6 +30308,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"cs2": {
+					"status": {
+						"en": 2
 					}
 				},
 				"csplit": {
@@ -30696,6 +30777,11 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2
+					}
+				},
+				"dnf-install": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dnf-repoquery": {
@@ -31198,8 +31284,8 @@
 				"factorio": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"fadvise": {
@@ -37889,7 +37975,7 @@
 						"es": 1,
 						"fr": 1,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"utmpdump": {
