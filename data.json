@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 06-Jul-25 02:00:22 CEST",
+	"last_update": "Monday, 07-Jul-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8700,6 +8700,11 @@
 						"ko": 2
 					}
 				},
+				"gdm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gdm-binary": {
 					"status": {
 						"en": 2
@@ -9309,6 +9314,7 @@
 						"id": 1,
 						"it": 1,
 						"ko": 1,
+						"nl": 2,
 						"ta": 1,
 						"tr": 1,
 						"uk": 1,
@@ -9332,6 +9338,7 @@
 						"id": 2,
 						"it": 1,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 1,
@@ -9601,6 +9608,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 1,
@@ -10268,6 +10276,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 1,
 						"uk": 2,
@@ -10684,6 +10693,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -16237,6 +16247,26 @@
 						"ko": 2
 					}
 				},
+				"nagios": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nagios2": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nagios3": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nagios4": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nano": {
 					"status": {
 						"en": 2,
@@ -18839,6 +18869,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"pgcli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pgmbentley": {
