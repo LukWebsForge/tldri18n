@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 07-Jul-25 02:00:09 CEST",
+	"last_update": "Tuesday, 08-Jul-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -444,7 +444,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 17,
+				"nl": 18,
 				"no": 1,
 				"pl": 5,
 				"pt_BR": 11,
@@ -3401,7 +3401,8 @@
 				},
 				"bunzip2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"bup": {
@@ -3445,7 +3446,8 @@
 				"bzcat": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"bzegrep": {
@@ -5983,6 +5985,11 @@
 						"ko": 2
 					}
 				},
+				"dnswalk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dnsx": {
 					"status": {
 						"en": 2,
@@ -7833,6 +7840,11 @@
 						"es": 2
 					}
 				},
+				"filen": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fin": {
 					"status": {
 						"en": 2,
@@ -8707,7 +8719,8 @@
 				},
 				"gdm-binary": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gdm-restart": {
@@ -22128,7 +22141,8 @@
 				},
 				"rnano": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"roave-backward-compatibility-check": {
@@ -28641,6 +28655,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -28888,6 +28903,7 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
+						"nl": 2,
 						"pl": 1,
 						"th": 1,
 						"uk": 1,
@@ -30250,7 +30266,8 @@
 				},
 				"counter-strike-2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"cpufreq-aperf": {
@@ -30347,7 +30364,8 @@
 				},
 				"cs2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"csplit": {
@@ -30804,7 +30822,8 @@
 				},
 				"dnf-deplist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"dnf-group": {
@@ -30819,9 +30838,15 @@
 						"en": 2
 					}
 				},
-				"dnf-repoquery": {
+				"dnf-module": {
 					"status": {
 						"en": 2
+					}
+				},
+				"dnf-repoquery": {
+					"status": {
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"dnf5": {
@@ -36154,7 +36179,7 @@
 				"run-mailcap": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"run0": {
