@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 08-Jul-25 02:00:09 CEST",
+	"last_update": "Wednesday, 09-Jul-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7854,6 +7854,7 @@
 				"find": {
 					"status": {
 						"ar": 2,
+						"de": 2,
 						"en": 2,
 						"fr": 2,
 						"ja": 2,
@@ -8714,7 +8715,8 @@
 				},
 				"gdm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gdm-binary": {
@@ -15353,10 +15355,25 @@
 						"ko": 2
 					}
 				},
+				"mc.cli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mc.fm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mcfly": {
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"mcli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mcs": {
@@ -15557,6 +15574,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"minio-client": {
+					"status": {
+						"en": 2
 					}
 				},
 				"miniserve": {
@@ -25004,14 +25026,14 @@
 				},
 				"touch": {
 					"status": {
-						"ca": 2,
+						"ca": 1,
 						"en": 2,
 						"es": 1,
 						"fa": 1,
 						"hi": 1,
 						"id": 1,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"zh": 1,
