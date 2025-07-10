@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 09-Jul-25 02:00:09 CEST",
+	"last_update": "Thursday, 10-Jul-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -146,7 +146,7 @@
 						"ko": 2,
 						"ne": 1,
 						"nl": 2,
-						"pl": 1,
+						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1,
@@ -435,12 +435,12 @@
 				"es": 21,
 				"fa": 2,
 				"fi": 0,
-				"fr": 10,
+				"fr": 9,
 				"hi": 2,
 				"id": 8,
 				"it": 9,
 				"ja": 3,
-				"ko": 88,
+				"ko": 87,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -474,7 +474,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"pl": 1,
+						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -4894,6 +4894,7 @@
 				"cp": {
 					"status": {
 						"ca": 1,
+						"cs": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -6817,7 +6818,7 @@
 				"dtc": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"dtrx": {
@@ -7392,7 +7393,7 @@
 				"exercism": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"exfatlabel": {
@@ -8737,7 +8738,8 @@
 				},
 				"gdm-stop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gdmsetup": {
@@ -11538,7 +11540,8 @@
 				},
 				"gron": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"groups": {
@@ -12730,6 +12733,11 @@
 						"pl": 2
 					}
 				},
+				"impacket-psexec": {
+					"status": {
+						"en": 2
+					}
+				},
 				"impacket-rpcdump": {
 					"status": {
 						"en": 2,
@@ -13304,6 +13312,31 @@
 					}
 				},
 				"jj-git": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-git-clone": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-git-fetch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-git-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-git-push": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-git-remote": {
 					"status": {
 						"en": 2
 					}
@@ -15224,6 +15257,11 @@
 						"ko": 1
 					}
 				},
+				"mailsy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mailx": {
 					"status": {
 						"en": 2,
@@ -15652,20 +15690,21 @@
 				},
 				"mkdir": {
 					"status": {
+						"cs": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
+						"es": 1,
+						"fa": 1,
 						"fr": 1,
 						"hi": 1,
-						"id": 2,
+						"id": 1,
 						"it": 1,
-						"ko": 2,
-						"nl": 2,
+						"ko": 1,
+						"nl": 1,
 						"sr": 1,
-						"ta": 2,
+						"ta": 1,
 						"tr": 1,
-						"zh": 2,
-						"zh_TW": 2
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"mkdocs": {
@@ -15949,6 +15988,26 @@
 						"ko": 2
 					}
 				},
+				"mpic++": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mpicc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mpiexec": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mpirun": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mplayer": {
 					"status": {
 						"en": 2,
@@ -16174,6 +16233,7 @@
 				},
 				"mv": {
 					"status": {
+						"cs": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -20888,6 +20948,11 @@
 						"ko": 2
 					}
 				},
+				"psexec.py": {
+					"status": {
+						"en": 2
+					}
+				},
 				"psgrep": {
 					"status": {
 						"en": 2,
@@ -22127,6 +22192,7 @@
 				"rm": {
 					"status": {
 						"ar": 2,
+						"cs": 2,
 						"de": 1,
 						"en": 2,
 						"es": 1,
@@ -22145,6 +22211,7 @@
 				"rmdir": {
 					"status": {
 						"ar": 2,
+						"cs": 2,
 						"en": 2,
 						"hi": 2,
 						"ko": 2,
@@ -22164,6 +22231,7 @@
 				"rnano": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -22246,6 +22314,11 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"rsql": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rss2email": {
@@ -22747,6 +22820,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"sccache": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sccmap": {
@@ -25437,7 +25515,8 @@
 				},
 				"tzconfig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"u3d": {
@@ -28341,11 +28420,11 @@
 				"ar": 1,
 				"bn": 0,
 				"bs": 0,
-				"ca": 5,
+				"ca": 4,
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 100,
+				"en": 99,
 				"es": 33,
 				"fa": 0,
 				"fi": 0,
@@ -30387,6 +30466,7 @@
 				"cs2": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -30832,6 +30912,16 @@
 						"ta": 2,
 						"tr": 1,
 						"zh": 2
+					}
+				},
+				"dnf-builddep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"dnf-changelog": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dnf-config-manager": {
@@ -32196,6 +32286,26 @@
 						"ko": 2
 					}
 				},
+				"i2cdetect": {
+					"status": {
+						"en": 2
+					}
+				},
+				"i2cdump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"i2cget": {
+					"status": {
+						"en": 2
+					}
+				},
+				"i2cset": {
+					"status": {
+						"en": 2
+					}
+				},
 				"i3-scrot": {
 					"status": {
 						"en": 2,
@@ -32445,7 +32555,7 @@
 				},
 				"ip-route-list": {
 					"status": {
-						"ar": 1,
+						"ar": 2,
 						"bs": 1,
 						"ca": 1,
 						"da": 1,
@@ -32478,6 +32588,7 @@
 				},
 				"ip-route-show": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -33898,7 +34009,6 @@
 				},
 				"mpicc": {
 					"status": {
-						"en": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -38861,6 +38971,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"yumdownloader": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zathura": {
