@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 11-Jul-25 02:00:08 CEST",
+	"last_update": "Saturday, 12-Jul-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5723,14 +5723,14 @@
 				},
 				"deno": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"id": 2,
-						"ko": 2,
-						"zh": 2
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"id": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"dep": {
@@ -31543,6 +31543,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"fftest": {
+					"status": {
+						"en": 2
 					}
 				},
 				"file-rename": {
