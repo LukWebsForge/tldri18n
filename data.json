@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 12-Jul-25 02:00:09 CEST",
+	"last_update": "Sunday, 13-Jul-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7986,10 +7986,10 @@
 				},
 				"flutter": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"flutter-pub": {
@@ -16419,6 +16419,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ncspot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ncu": {
@@ -27776,6 +27781,7 @@
 				},
 				"yt-dlp": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"ko": 1,
 						"pt_PT": 1,
