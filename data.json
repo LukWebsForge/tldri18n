@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 15-Jul-25 02:00:10 CEST",
+	"last_update": "Wednesday, 16-Jul-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -433,7 +433,7 @@
 				"de": 9,
 				"en": 99,
 				"es": 21,
-				"fa": 2,
+				"fa": 1,
 				"fi": 0,
 				"fr": 9,
 				"hi": 2,
@@ -460,7 +460,7 @@
 				"uk": 1,
 				"uz": 0,
 				"zh": 16,
-				"zh_TW": 2
+				"zh_TW": 1
 			},
 			"pages": {
 				"!": {
@@ -1829,6 +1829,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"audit2why": {
+					"status": {
+						"en": 2
 					}
 				},
 				"auditd": {
@@ -3970,6 +3975,11 @@
 						"en": 2,
 						"fa": 2,
 						"ko": 2
+					}
+				},
+				"cava": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cavif": {
@@ -10066,6 +10076,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
@@ -21193,6 +21204,11 @@
 						"es": 1
 					}
 				},
+				"pulumi-console": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pulumi-destroy": {
 					"status": {
 						"en": 2,
@@ -21214,6 +21230,11 @@
 					}
 				},
 				"pulumi-gen-completion": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pulumi-import": {
 					"status": {
 						"en": 2
 					}
@@ -21244,6 +21265,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"pulumi-plugin": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pulumi-preview": {
@@ -23777,6 +23803,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"spotify_player": {
+					"status": {
+						"en": 2
 					}
 				},
 				"spottopgm": {
@@ -27979,6 +28010,11 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"zinit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zint": {
