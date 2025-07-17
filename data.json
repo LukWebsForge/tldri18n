@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 16-Jul-25 02:00:08 CEST",
+	"last_update": "Thursday, 17-Jul-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1833,7 +1833,8 @@
 				},
 				"audit2why": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"auditd": {
@@ -4082,6 +4083,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"chainctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"charm": {
@@ -16009,6 +16015,11 @@
 						"en": 2
 					}
 				},
+				"mpicxx": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mpiexec": {
 					"status": {
 						"en": 2
@@ -21282,6 +21293,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"pulumi-schema": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pulumi-stack": {
@@ -26990,6 +27006,11 @@
 						"ko": 2
 					}
 				},
+				"wlc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wlsunset": {
 					"status": {
 						"en": 2
@@ -28798,6 +28819,11 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"acpi_listen": {
+					"status": {
+						"en": 2
 					}
 				},
 				"add-apt-repository": {
