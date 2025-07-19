@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 18-Jul-25 02:00:09 CEST",
+	"last_update": "Saturday, 19-Jul-25 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16007,27 +16007,32 @@
 				},
 				"mpic++": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mpicc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mpicxx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mpiexec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mpirun": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mplayer": {
@@ -17840,6 +17845,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"openocd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"openscad": {
@@ -21283,10 +21293,15 @@
 						"en": 2
 					}
 				},
+				"pulumi-policy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pulumi-preview": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"pulumi-refresh": {
@@ -24814,6 +24829,7 @@
 						"ja": 1,
 						"ko": 1,
 						"lo": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"ru": 1,
@@ -26855,6 +26871,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"wezterm-cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wfuzz": {
