@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 19-Jul-25 02:00:12 CEST",
+	"last_update": "Sunday, 20-Jul-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -21783,6 +21783,26 @@
 						"ko": 2
 					}
 				},
+				"rabbitmqctl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rabbitmqctl-cluster": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rabbitmqctl-users": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rabbitmqctl-vhosts": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rabin2": {
 					"status": {
 						"en": 2,
@@ -27980,12 +28000,14 @@
 				},
 				"zed": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"zeditor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"zeek": {
@@ -28528,7 +28550,7 @@
 				"id": 3,
 				"it": 3,
 				"ja": 1,
-				"ko": 82,
+				"ko": 81,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -37832,7 +37854,22 @@
 				"trace-cmd": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
+					}
+				},
+				"trace-cmd-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"trace-cmd-record": {
+					"status": {
+						"en": 2
+					}
+				},
+				"trace-cmd-report": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tracepath": {
