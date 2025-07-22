@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 21-Jul-25 02:00:10 CEST",
+	"last_update": "Tuesday, 22-Jul-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -22802,7 +22802,6 @@
 				},
 				"sc-im": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
@@ -22943,6 +22942,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"scim": {
+					"status": {
+						"en": 2
 					}
 				},
 				"scp": {
