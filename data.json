@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 22-Jul-25 02:00:11 CEST",
+	"last_update": "Wednesday, 23-Jul-25 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12665,9 +12665,13 @@
 						"ko": 2
 					}
 				},
+				"immich": {
+					"status": {
+						"en": 2
+					}
+				},
 				"immich-cli": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2
 					}
@@ -12986,7 +12990,6 @@
 				},
 				"ippevepcl": {
 					"status": {
-						"en": 2,
 						"pt_BR": 2
 					}
 				},
@@ -21796,7 +21799,7 @@
 				"r2e": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"rabbitmqctl": {
@@ -22420,12 +22423,6 @@
 						"en": 2
 					}
 				},
-				"rss2email": {
-					"status": {
-						"en": 2,
-						"ko": 2
-					}
-				},
 				"rsstail": {
 					"status": {
 						"en": 2,
@@ -22800,11 +22797,6 @@
 						"ko": 2
 					}
 				},
-				"sc-im": {
-					"status": {
-						"ko": 2
-					}
-				},
 				"sc_analysis_dump": {
 					"status": {
 						"de": 2,
@@ -22946,7 +22938,8 @@
 				},
 				"scim": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"scp": {
