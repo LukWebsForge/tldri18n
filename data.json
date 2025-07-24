@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 23-Jul-25 02:00:12 CEST",
+	"last_update": "Thursday, 24-Jul-25 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -540,6 +540,7 @@
 						"ar": 2,
 						"bn": 1,
 						"ca": 1,
+						"cs": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -6002,6 +6003,11 @@
 						"ko": 2
 					}
 				},
+				"dmypy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dnswalk": {
 					"status": {
 						"en": 2
@@ -7859,7 +7865,8 @@
 				},
 				"filen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fin": {
@@ -8789,6 +8796,11 @@
 						"fr": 2,
 						"ko": 2,
 						"ta": 2
+					}
+				},
+				"gemini": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gemtopbm": {
@@ -11719,6 +11731,7 @@
 				},
 				"gzip": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -12667,11 +12680,7 @@
 				},
 				"immich": {
 					"status": {
-						"en": 2
-					}
-				},
-				"immich-cli": {
-					"status": {
+						"en": 2,
 						"es": 2,
 						"ko": 2
 					}
@@ -12756,7 +12765,8 @@
 				},
 				"impacket-psexec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"impacket-rpcdump": {
@@ -12986,11 +12996,6 @@
 				"ipmitool": {
 					"status": {
 						"en": 2
-					}
-				},
-				"ippevepcl": {
-					"status": {
-						"pt_BR": 2
 					}
 				},
 				"ippeveprinter": {
@@ -15447,7 +15452,8 @@
 				},
 				"mcli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"mcs": {
@@ -15652,7 +15658,8 @@
 				},
 				"minio-client": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"miniserve": {
@@ -16039,6 +16046,7 @@
 				"mpicxx": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -24532,6 +24540,7 @@
 				"tar": {
 					"status": {
 						"ar": 2,
+						"cs": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -25846,6 +25855,7 @@
 				},
 				"unzip": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -28020,6 +28030,7 @@
 				"zeditor": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -28105,6 +28116,7 @@
 				"zip": {
 					"status": {
 						"ar": 2,
+						"cs": 2,
 						"en": 2,
 						"fa": 2,
 						"fr": 1,
@@ -32629,6 +32641,7 @@
 				},
 				"ip": {
 					"status": {
+						"cs": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -34369,6 +34382,7 @@
 				},
 				"nmcli": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -34396,6 +34410,7 @@
 				},
 				"nmcli-device": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -34405,6 +34420,7 @@
 				},
 				"nmcli-general": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -34413,6 +34429,7 @@
 				},
 				"nmcli-monitor": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -39130,7 +39147,8 @@
 				},
 				"yumdownloader": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"zathura": {
