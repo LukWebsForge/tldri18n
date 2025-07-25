@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 24-Jul-25 02:00:12 CEST",
+	"last_update": "Friday, 25-Jul-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -447,7 +447,7 @@
 				"nl": 18,
 				"no": 1,
 				"pl": 5,
-				"pt_BR": 11,
+				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 2,
@@ -1830,6 +1830,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"audit2allow": {
+					"status": {
+						"en": 2
 					}
 				},
 				"audit2why": {
@@ -10733,15 +10738,15 @@
 				},
 				"git-switch": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"tr": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"git-symbolic-ref": {
@@ -10860,6 +10865,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gitea": {
+					"status": {
+						"en": 2
 					}
 				},
 				"github-label-sync": {
@@ -16040,6 +16050,8 @@
 				"mpicc": {
 					"status": {
 						"en": 2,
+						"it": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -28566,7 +28578,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 99,
+				"en": 100,
 				"es": 33,
 				"fa": 0,
 				"fi": 0,
@@ -34157,12 +34169,6 @@
 				"mpg123": {
 					"status": {
 						"en": 2,
-						"ko": 2
-					}
-				},
-				"mpicc": {
-					"status": {
-						"it": 2,
 						"ko": 2
 					}
 				},
