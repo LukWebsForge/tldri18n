@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 25-Jul-25 02:00:10 CEST",
+	"last_update": "Saturday, 26-Jul-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11338,7 +11338,8 @@
 				"gofmt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"goimports": {
@@ -28578,7 +28579,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 100,
+				"en": 99,
 				"es": 33,
 				"fa": 0,
 				"fi": 0,
@@ -32344,6 +32345,11 @@
 						"ko": 2
 					}
 				},
+				"hddtemp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"hdparm": {
 					"status": {
 						"en": 2,
@@ -34416,12 +34422,12 @@
 				},
 				"nmcli-device": {
 					"status": {
-						"cs": 2,
+						"cs": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"tr": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1,
+						"tr": 1
 					}
 				},
 				"nmcli-general": {
@@ -35696,9 +35702,13 @@
 				},
 				"qm-cloud-init": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"qm-cloudinit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qm-cloudinit-dump": {
