@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 26-Jul-25 02:00:09 CEST",
+	"last_update": "Sunday, 27-Jul-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -430,8 +430,8 @@
 				"ca": 0,
 				"cs": 0,
 				"da": 0,
-				"de": 9,
-				"en": 99,
+				"de": 8,
+				"en": 100,
 				"es": 21,
 				"fa": 1,
 				"fi": 0,
@@ -440,7 +440,7 @@
 				"id": 8,
 				"it": 9,
 				"ja": 3,
-				"ko": 87,
+				"ko": 86,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -3764,8 +3764,8 @@
 				"cargo-install": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"cargo-locate-project": {
@@ -7854,6 +7854,11 @@
 						"it": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"file-rename": {
+					"status": {
+						"en": 2
 					}
 				},
 				"filebrowser": {
@@ -15373,6 +15378,13 @@
 						"zh_TW": 2
 					}
 				},
+				"manim": {
+					"status": {
+						"en": 2,
+						"ko": 2,
+						"zh": 2
+					}
+				},
 				"mapfile": {
 					"status": {
 						"en": 2,
@@ -18978,6 +18990,11 @@
 						"ko": 2
 					}
 				},
+				"perl-rename": {
+					"status": {
+						"en": 2
+					}
+				},
 				"perlbrew": {
 					"status": {
 						"en": 2,
@@ -20858,6 +20875,11 @@
 						"ko": 1
 					}
 				},
+				"prename": {
+					"status": {
+						"en": 2
+					}
+				},
 				"prettier": {
 					"status": {
 						"en": 2,
@@ -21650,12 +21672,6 @@
 						"zh": 2
 					}
 				},
-				"qemu": {
-					"status": {
-						"ko": 2,
-						"zh": 2
-					}
-				},
 				"qemu-img": {
 					"status": {
 						"en": 2,
@@ -21778,6 +21794,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"qwen": {
+					"status": {
+						"en": 2
 					}
 				},
 				"r": {
@@ -22175,6 +22196,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"rename": {
+					"status": {
+						"en": 2
 					}
 				},
 				"renice": {
@@ -27072,11 +27098,6 @@
 						"ko": 2
 					}
 				},
-				"wireplumber": {
-					"status": {
-						"ko": 2
-					}
-				},
 				"wkhtmltopdf": {
 					"status": {
 						"en": 2,
@@ -27128,11 +27149,6 @@
 				"wpaclean": {
 					"status": {
 						"en": 2,
-						"ko": 2
-					}
-				},
-				"wpexec": {
-					"status": {
 						"ko": 2
 					}
 				},
@@ -28592,7 +28608,7 @@
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
-				"nl": 14,
+				"nl": 15,
 				"no": 0,
 				"pl": 9,
 				"pt_BR": 11,
@@ -29228,6 +29244,11 @@
 						"tr": 2,
 						"uk": 2,
 						"zh": 2
+					}
+				},
+				"apt-install": {
+					"status": {
+						"en": 2
 					}
 				},
 				"apt-key": {
@@ -31711,7 +31732,6 @@
 				},
 				"file-rename": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
@@ -31903,6 +31923,7 @@
 						"hi": 2,
 						"id": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -35036,7 +35057,6 @@
 				},
 				"perl-rename": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
@@ -35382,7 +35402,6 @@
 				},
 				"prename": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
@@ -35700,15 +35719,11 @@
 						"ko": 2
 					}
 				},
-				"qm-cloud-init": {
-					"status": {
-						"es": 2,
-						"ko": 2
-					}
-				},
 				"qm-cloudinit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"qm-cloudinit-dump": {
@@ -36182,9 +36197,14 @@
 				"rename": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1
+					}
+				},
+				"rename.util": {
+					"status": {
+						"en": 2
 					}
 				},
 				"renice": {
@@ -37372,6 +37392,7 @@
 						"hi": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
 						"uk": 2,
@@ -37380,18 +37401,21 @@
 				},
 				"systemctl-disable": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"systemctl-enable": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"systemctl-reboot": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"systemd-ac-power": {
@@ -38719,7 +38743,8 @@
 				},
 				"wireplumber": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wl-copy": {
@@ -38792,7 +38817,8 @@
 				},
 				"wpexec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"write": {
@@ -39533,7 +39559,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 41,
-				"en": 100,
+				"en": 99,
 				"es": 78,
 				"fa": 0,
 				"fi": 0,
@@ -43594,7 +43620,6 @@
 				},
 				"rename": {
 					"status": {
-						"en": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_PT": 2
