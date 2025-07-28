@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 27-Jul-25 02:00:10 CEST",
+	"last_update": "Monday, 28-Jul-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3414,6 +3414,7 @@
 				"bunzip2": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -6010,7 +6011,8 @@
 				},
 				"dmypy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"dnswalk": {
@@ -8756,6 +8758,7 @@
 				"gdm-binary": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -10749,7 +10752,7 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"tr": 1,
 						"zh": 1
 					}
@@ -16078,6 +16081,7 @@
 				"mpiexec": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -16347,6 +16351,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -17663,7 +17668,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"obs": {
@@ -17900,6 +17905,11 @@
 					}
 				},
 				"openocd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openrgb": {
 					"status": {
 						"en": 2
 					}
@@ -23619,6 +23629,11 @@
 						"ko": 2
 					}
 				},
+				"slocate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"smalltalkci": {
 					"status": {
 						"en": 2,
@@ -27106,7 +27121,8 @@
 				},
 				"wlc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"wlsunset": {
@@ -31097,7 +31113,8 @@
 				},
 				"dnf-builddep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dnf-changelog": {
@@ -34447,7 +34464,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"tr": 1
 					}
 				},
