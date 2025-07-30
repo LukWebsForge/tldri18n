@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 29-Jul-25 02:00:10 CEST",
+	"last_update": "Wednesday, 30-Jul-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -544,6 +544,7 @@
 						"ar": 2,
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -5712,6 +5713,11 @@
 						"ko": 2
 					}
 				},
+				"dcgmi": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dcode": {
 					"status": {
 						"en": 2,
@@ -7171,6 +7177,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"elasticsearch-croneval": {
+					"status": {
+						"en": 2
 					}
 				},
 				"elasticsearch-keystore": {
@@ -15475,7 +15486,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"pl": 1
+						"pl": 2
 					}
 				},
 				"mat2": {
@@ -18549,6 +18560,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"papermc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"par2": {
@@ -28669,7 +28685,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 99,
+				"en": 100,
 				"es": 33,
 				"fa": 0,
 				"fi": 0,
@@ -30328,6 +30344,11 @@
 						"pt_BR": 2
 					}
 				},
+				"certtool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cewl": {
 					"status": {
 						"en": 2,
@@ -30513,13 +30534,14 @@
 				},
 				"cmus": {
 					"status": {
-						"ca": 2,
+						"ca": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"ko": 2,
-						"ml": 2,
-						"pt_BR": 2
+						"es": 1,
+						"fr": 1,
+						"ko": 1,
+						"ml": 1,
+						"nl": 2,
+						"pt_BR": 1
 					}
 				},
 				"cockpit-bridge": {
@@ -31803,11 +31825,6 @@
 				"fftest": {
 					"status": {
 						"en": 2
-					}
-				},
-				"file-rename": {
-					"status": {
-						"ko": 2
 					}
 				},
 				"filefrag": {
@@ -35130,11 +35147,6 @@
 						"ko": 2
 					}
 				},
-				"perl-rename": {
-					"status": {
-						"ko": 2
-					}
-				},
 				"pg": {
 					"status": {
 						"en": 2
@@ -35222,6 +35234,11 @@
 						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"pirut": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pivpn": {
@@ -35473,11 +35490,6 @@
 						"en": 2,
 						"ko": 2,
 						"pl": 1
-					}
-				},
-				"prename": {
-					"status": {
-						"ko": 2
 					}
 				},
 				"pridecat": {
@@ -36271,10 +36283,7 @@
 				},
 				"rename": {
 					"status": {
-						"en": 2,
-						"ko": 1,
-						"nl": 1,
-						"pt_BR": 1
+						"en": 2
 					}
 				},
 				"rename.util": {
@@ -39633,8 +39642,8 @@
 				"ca": 0,
 				"cs": 0,
 				"da": 0,
-				"de": 41,
-				"en": 99,
+				"de": 42,
+				"en": 100,
 				"es": 78,
 				"fa": 0,
 				"fi": 0,
@@ -43691,13 +43700,6 @@
 						"nl": 2,
 						"zh": 2,
 						"zh_TW": 2
-					}
-				},
-				"rename": {
-					"status": {
-						"ko": 2,
-						"nl": 2,
-						"pt_PT": 2
 					}
 				},
 				"route": {
