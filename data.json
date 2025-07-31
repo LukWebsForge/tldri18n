@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 30-Jul-25 02:00:11 CEST",
+	"last_update": "Thursday, 31-Jul-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -25595,6 +25595,11 @@
 						"nl": 2
 					}
 				},
+				"trunk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ts": {
 					"status": {
 						"en": 2,
@@ -28834,12 +28839,14 @@
 				},
 				"aa-audit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aa-cleanprof": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aa-complain": {
@@ -30028,6 +30035,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
+					}
+				},
+				"bsub": {
+					"status": {
+						"en": 2
 					}
 				},
 				"btrbk": {
@@ -31946,8 +31958,8 @@
 				"flock": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"fluidsynth": {
@@ -37357,6 +37369,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"stratis": {
+					"status": {
+						"en": 2
 					}
 				},
 				"stress": {
@@ -44439,42 +44456,42 @@
 		"windows": {
 			"progress": {
 				"ar": 1,
-				"bn": 8,
+				"bn": 7,
 				"bs": 2,
-				"ca": 3,
+				"ca": 2,
 				"cs": 0,
 				"da": 1,
-				"de": 18,
+				"de": 17,
 				"en": 100,
-				"es": 99,
+				"es": 93,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
-				"hi": 31,
-				"id": 19,
-				"it": 15,
-				"ja": 16,
-				"ko": 98,
+				"hi": 29,
+				"id": 18,
+				"it": 14,
+				"ja": 15,
+				"ko": 92,
 				"lo": 3,
 				"ml": 2,
-				"ne": 4,
-				"nl": 38,
-				"no": 3,
-				"pl": 18,
-				"pt_BR": 13,
-				"pt_PT": 4,
+				"ne": 3,
+				"nl": 35,
+				"no": 2,
+				"pl": 16,
+				"pt_BR": 12,
+				"pt_PT": 3,
 				"ro": 0,
-				"ru": 8,
+				"ru": 7,
 				"sh": 0,
 				"sr": 0,
 				"sv": 4,
-				"ta": 20,
+				"ta": 19,
 				"th": 6,
-				"tr": 4,
+				"tr": 3,
 				"uk": 2,
 				"uz": 0,
-				"zh": 44,
-				"zh_TW": 16
+				"zh": 41,
+				"zh_TW": 15
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -45598,6 +45615,81 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"mimikatz": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-crypto": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-dpapi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-event": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-kerberos": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-lsadump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-misc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-net": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-privilege": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-process": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-sekurlsa": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-service": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-standard": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-token": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mimikatz-vault": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mkdir": {
