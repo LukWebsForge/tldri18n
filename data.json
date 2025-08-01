@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 31-Jul-25 02:00:11 CEST",
+	"last_update": "Friday, 01-Aug-25 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1889,7 +1889,8 @@
 				"audit2why": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				},
 				"auditd": {
@@ -3464,7 +3465,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"bup": {
@@ -3509,7 +3511,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"bzegrep": {
@@ -4737,6 +4740,7 @@
 				"comm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2
@@ -6021,6 +6025,13 @@
 						"en": 2,
 						"hi": 2,
 						"ko": 2
+					}
+				},
+				"distcc": {
+					"status": {
+						"en": 2,
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"distccd": {
@@ -8823,7 +8834,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"gdm-restart": {
@@ -11907,6 +11919,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"ru": 1,
 						"sh": 1
 					}
@@ -12827,7 +12840,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-ping": {
@@ -12849,7 +12863,8 @@
 				"impacket-psexec": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				},
 				"impacket-rpcdump": {
@@ -12880,14 +12895,16 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-smbserver": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-sniff": {
@@ -13861,7 +13878,8 @@
 				},
 				"kerl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"keybase": {
@@ -13932,7 +13950,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"kiterunner": {
@@ -14055,7 +14074,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"krita": {
@@ -15526,7 +15546,8 @@
 				},
 				"mc.cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mc.fm": {
@@ -15543,7 +15564,9 @@
 				"mcli": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"mcs": {
@@ -15749,7 +15772,9 @@
 				"minio-client": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"miniserve": {
@@ -16139,14 +16164,16 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"mpiexec": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"mpirun": {
@@ -16653,7 +16680,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"netlify": {
@@ -19076,7 +19104,8 @@
 				},
 				"perl-rename": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"perlbrew": {
@@ -20961,7 +20990,8 @@
 				},
 				"prename": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"prettier": {
@@ -21387,7 +21417,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"pulumi-env": {
@@ -21484,7 +21515,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"pulumi-version": {
@@ -21930,7 +21962,8 @@
 				},
 				"rabbitmqctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rabbitmqctl-cluster": {
@@ -22465,7 +22498,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"roave-backward-compatibility-check": {
@@ -22752,7 +22786,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"rustup-man": {
@@ -22808,7 +22843,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"rustup-update": {
@@ -23469,6 +23505,7 @@
 				"sha1sum": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2,
 						"sh": 1,
@@ -24402,6 +24439,11 @@
 						"pt_BR": 2
 					}
 				},
+				"sudoedit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sui": {
 					"status": {
 						"en": 2,
@@ -25002,7 +25044,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"sh": 1,
 						"ta": 1,
 						"th": 1,
@@ -27429,7 +27471,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"xml-canonic": {
@@ -27480,7 +27523,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"xml-pyx": {
@@ -27518,7 +27562,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"xmllint": {
@@ -28155,7 +28200,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"zeek": {
@@ -29030,6 +29076,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -29278,7 +29325,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
-						"pl": 1,
+						"pl": 2,
 						"th": 1,
 						"uk": 1,
 						"zh": 1
@@ -30756,7 +30803,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"csplit": {
@@ -31225,7 +31273,8 @@
 				"dnf-deplist": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"dnf-group": {
@@ -31746,7 +31795,7 @@
 				"factorio": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -31959,7 +32008,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"fluidsynth": {
@@ -32340,7 +32389,7 @@
 				"grub-editenv": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"grub-file": {
@@ -32857,7 +32906,7 @@
 						"da": 1,
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"hi": 1,
 						"id": 1,
@@ -32869,7 +32918,6 @@
 						"ne": 1,
 						"nl": 2,
 						"no": 1,
-						"pl": 1,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"ru": 1,
@@ -37294,7 +37342,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"steamos-chroot": {
@@ -39291,7 +39340,8 @@
 				"yumdownloader": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pl": 2
 					}
 				},
 				"zathura": {
