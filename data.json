@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 01-Aug-25 02:00:12 CEST",
+	"last_update": "Saturday, 02-Aug-25 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4024,7 +4024,7 @@
 						"nl": 2,
 						"no": 1,
 						"pt_BR": 2,
-						"ru": 1,
+						"ru": 2,
 						"tr": 1,
 						"zh": 2,
 						"zh_TW": 1
@@ -7137,7 +7137,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 2,
-						"ru": 1,
+						"ru": 2,
 						"sr": 1,
 						"zh": 2,
 						"zh_TW": 1
@@ -38409,6 +38409,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"updatectl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"updatedb": {
