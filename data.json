@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 02-Aug-25 02:00:12 CEST",
+	"last_update": "Sunday, 03-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -26267,6 +26267,11 @@
 						"fr": 2
 					}
 				},
+				"vagrant-snapshot": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vagrant-validate": {
 					"status": {
 						"en": 2
@@ -32340,6 +32345,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gpu-screen-recorder": {
+					"status": {
+						"en": 2
 					}
 				},
 				"grim": {
