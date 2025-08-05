@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 04-Aug-25 02:00:10 CEST",
+	"last_update": "Tuesday, 05-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7204,6 +7204,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"elasticsearch-create-enrollment-token": {
+					"status": {
+						"en": 2
 					}
 				},
 				"elasticsearch-croneval": {
@@ -35708,6 +35713,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pveam": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pvecm": {
