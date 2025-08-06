@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 05-Aug-25 02:00:10 CEST",
+	"last_update": "Wednesday, 06-Aug-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1794,6 +1794,11 @@
 						"it": 2,
 						"ko": 2,
 						"pl": 2
+					}
+				},
+				"astroterm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"astyle": {
@@ -7204,6 +7209,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"elasticsearch-certutil": {
+					"status": {
+						"en": 2
 					}
 				},
 				"elasticsearch-create-enrollment-token": {
@@ -26524,7 +26534,7 @@
 				"vhs": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"vi": {
@@ -31579,6 +31589,11 @@
 						"ko": 2
 					}
 				},
+				"efibootdump": {
+					"status": {
+						"en": 2
+					}
+				},
 				"efibootmgr": {
 					"status": {
 						"en": 2,
@@ -35199,6 +35214,11 @@
 						"en": 2
 					}
 				},
+				"pct-template": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pdbedit": {
 					"status": {
 						"en": 2,
@@ -35960,6 +35980,11 @@
 						"ko": 2
 					}
 				},
+				"qm-disk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-disk-import": {
 					"status": {
 						"en": 2,
@@ -36203,6 +36228,11 @@
 						"ko": 2
 					}
 				},
+				"qm-terminal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-unlock": {
 					"status": {
 						"en": 2,
@@ -36437,7 +36467,7 @@
 				"reptyr": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"reset": {
@@ -45238,15 +45268,15 @@
 						"ca": 1,
 						"de": 1,
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"id": 2,
+						"es": 1,
+						"hi": 1,
+						"id": 1,
 						"it": 1,
 						"ja": 1,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ta": 2,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ta": 1,
 						"th": 1,
 						"zh": 1,
 						"zh_TW": 1
