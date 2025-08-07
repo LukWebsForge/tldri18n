@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 06-Aug-25 02:00:11 CEST",
+	"last_update": "Thursday, 07-Aug-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1461,6 +1461,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -28782,7 +28783,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 100,
+				"en": 99,
 				"es": 33,
 				"fa": 0,
 				"fi": 0,
@@ -28791,11 +28792,11 @@
 				"id": 3,
 				"it": 3,
 				"ja": 1,
-				"ko": 81,
+				"ko": 80,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
-				"nl": 15,
+				"nl": 14,
 				"no": 0,
 				"pl": 9,
 				"pt_BR": 11,
@@ -29699,8 +29700,8 @@
 				"aur": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"aura": {
@@ -31600,6 +31601,11 @@
 						"ko": 2
 					}
 				},
+				"efivar": {
+					"status": {
+						"en": 2
+					}
+				},
 				"eglinfo": {
 					"status": {
 						"en": 2,
@@ -32457,8 +32463,8 @@
 				"grub-install": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"grub-mkconfig": {
@@ -35214,6 +35220,26 @@
 						"en": 2
 					}
 				},
+				"pct-clone": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-resize": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-status": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pct-template": {
 					"status": {
 						"en": 2
@@ -35752,6 +35778,21 @@
 						"ko": 2
 					}
 				},
+				"pvesh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pvesm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pveum": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pveversion": {
 					"status": {
 						"en": 2
@@ -35923,6 +35964,11 @@
 						"ko": 2
 					}
 				},
+				"qm-agent": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-cleanup": {
 					"status": {
 						"en": 2,
@@ -35931,13 +35977,6 @@
 					}
 				},
 				"qm-clone": {
-					"status": {
-						"en": 2,
-						"es": 2,
-						"ko": 2
-					}
-				},
-				"qm-cloudinit": {
 					"status": {
 						"en": 2,
 						"es": 2,
@@ -36001,12 +36040,22 @@
 						"nl": 2
 					}
 				},
+				"qm-disk-rescan": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qm-disk-resize": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"qm-guest": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qm-guest-cmd": {
@@ -36046,11 +36095,15 @@
 				},
 				"qm-import-disk": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"qm-importdisk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qm-list": {
@@ -36130,8 +36183,8 @@
 				"qm-rescan": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"qm-reset": {
@@ -36169,6 +36222,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"qm-set": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qm-showcmd": {
@@ -36229,6 +36287,11 @@
 					}
 				},
 				"qm-terminal": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qm-unlink": {
 					"status": {
 						"en": 2
 					}
@@ -45274,7 +45337,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ta": 1,
 						"th": 1,
