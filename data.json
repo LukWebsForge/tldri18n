@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 07-Aug-25 02:00:11 CEST",
+	"last_update": "Friday, 08-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15760,7 +15760,8 @@
 				},
 				"minecraft": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"minetest": {
@@ -15782,6 +15783,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"minidlna": {
+					"status": {
+						"en": 2
 					}
 				},
 				"minifab": {
@@ -30817,7 +30823,8 @@
 				"crond": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"it": 2
 					}
 				},
 				"cryptcat": {
@@ -31865,6 +31872,8 @@
 				"fail2ban-client": {
 					"status": {
 						"en": 2,
+						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -31985,6 +31994,7 @@
 				"firewall-cmd": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -33917,7 +33927,8 @@
 				},
 				"lynis": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lz": {
@@ -35313,6 +35324,7 @@
 				"photorec": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -35999,10 +36011,10 @@
 				},
 				"qm-create": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"qm-delsnapshot": {
@@ -36623,6 +36635,7 @@
 					"status": {
 						"ar": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -37561,6 +37574,7 @@
 				"strace": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -38549,6 +38563,11 @@
 						"nl": 2
 					}
 				},
+				"update-initramfs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"update-rc.d": {
 					"status": {
 						"en": 2,
@@ -39352,6 +39371,7 @@
 						"de": 1,
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 1
 					}
