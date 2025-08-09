@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 08-Aug-25 02:00:10 CEST",
+	"last_update": "Saturday, 09-Aug-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -493,7 +493,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 8,
-				"en": 100,
+				"en": 99,
 				"es": 21,
 				"fa": 1,
 				"fi": 0,
@@ -2703,9 +2703,13 @@
 						"ko": 2
 					}
 				},
+				"b2": {
+					"status": {
+						"en": 2
+					}
+				},
 				"b2-tools": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2
 					}
@@ -5450,13 +5454,6 @@
 						"ko": 2
 					}
 				},
-				"csvkit": {
-					"status": {
-						"en": 2,
-						"fa": 2,
-						"ko": 2
-					}
-				},
 				"csvlook": {
 					"status": {
 						"en": 2,
@@ -7232,12 +7229,22 @@
 						"en": 2
 					}
 				},
+				"elasticsearch-node": {
+					"status": {
+						"en": 2
+					}
+				},
 				"elasticsearch-reset-password": {
 					"status": {
 						"en": 2
 					}
 				},
 				"elasticsearch-syskeygen": {
+					"status": {
+						"en": 2
+					}
+				},
+				"elasticsearch-users": {
 					"status": {
 						"en": 2
 					}
@@ -14051,6 +14058,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"kodi-send": {
+					"status": {
+						"en": 2
 					}
 				},
 				"komac": {
@@ -23398,47 +23410,12 @@
 						"en": 2
 					}
 				},
-				"sfdk-emulator-exec": {
-					"status": {
-						"en": 2
-					}
-				},
 				"sfdk-emulator-install": {
 					"status": {
 						"en": 2
 					}
 				},
-				"sfdk-emulator-list": {
-					"status": {
-						"en": 2
-					}
-				},
 				"sfdk-emulator-remove": {
-					"status": {
-						"en": 2
-					}
-				},
-				"sfdk-emulator-set": {
-					"status": {
-						"en": 2
-					}
-				},
-				"sfdk-emulator-show": {
-					"status": {
-						"en": 2
-					}
-				},
-				"sfdk-emulator-start": {
-					"status": {
-						"en": 2
-					}
-				},
-				"sfdk-emulator-status": {
-					"status": {
-						"en": 2
-					}
-				},
-				"sfdk-emulator-stop": {
 					"status": {
 						"en": 2
 					}
@@ -31690,7 +31667,6 @@
 				"esa-snap": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"ko": 2
 					}
 				},
@@ -33779,9 +33755,9 @@
 				"lspci": {
 					"status": {
 						"en": 2,
-						"hi": 2,
-						"ru": 2,
-						"zh": 2
+						"hi": 1,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"lsscsi": {
@@ -35242,6 +35218,11 @@
 					}
 				},
 				"pct-resize": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-set": {
 					"status": {
 						"en": 2
 					}
@@ -37354,11 +37335,21 @@
 				},
 				"snap": {
 					"status": {
-						"bn": 2,
+						"bn": 1,
 						"en": 2,
-						"ja": 2,
-						"ko": 2,
-						"ml": 2
+						"ja": 1,
+						"ko": 1,
+						"ml": 1
+					}
+				},
+				"snap.esa": {
+					"status": {
+						"en": 2
+					}
+				},
+				"snap.pkg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"snapper": {
