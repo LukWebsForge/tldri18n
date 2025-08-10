@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 09-Aug-25 02:00:11 CEST",
+	"last_update": "Sunday, 10-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7239,6 +7239,11 @@
 						"en": 2
 					}
 				},
+				"elasticsearch-saml-metadata": {
+					"status": {
+						"en": 2
+					}
+				},
 				"elasticsearch-syskeygen": {
 					"status": {
 						"en": 2
@@ -12145,7 +12150,7 @@
 						"id": 2,
 						"ja": 1,
 						"ko": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 1
 					}
@@ -12338,7 +12343,7 @@
 						"id": 2,
 						"ja": 1,
 						"ko": 1,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ta": 1,
 						"zh": 2
 					}
@@ -12619,7 +12624,7 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"id3tag": {
@@ -13630,7 +13635,7 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -13957,7 +13962,7 @@
 						"fr": 2,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -15405,7 +15410,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 1
+						"pt_BR": 2
 					}
 				},
 				"magick-identify": {
@@ -15504,7 +15509,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
-						"pt_BR": 1,
+						"pt_BR": 2,
 						"ta": 1,
 						"tr": 1,
 						"zh": 2,
@@ -29906,6 +29911,11 @@
 						"zh": 2
 					}
 				},
+				"bindfs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bitwise": {
 					"status": {
 						"en": 2,
@@ -35157,7 +35167,7 @@
 						"uk": 1
 					}
 				},
-				"parted-interactive": {
+				"parted.interactive": {
 					"status": {
 						"en": 2
 					}
@@ -35213,6 +35223,11 @@
 					}
 				},
 				"pct-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-exec": {
 					"status": {
 						"en": 2
 					}
