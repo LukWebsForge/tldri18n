@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 10-Aug-25 02:00:10 CEST",
+	"last_update": "Monday, 11-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -509,7 +509,7 @@
 				"nl": 18,
 				"no": 1,
 				"pl": 5,
-				"pt_BR": 10,
+				"pt_BR": 11,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 2,
@@ -4124,6 +4124,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
+						"ru": 2,
 						"sr": 1,
 						"sv": 1,
 						"ta": 2,
@@ -17123,6 +17124,7 @@
 						"it": 1,
 						"ko": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -18687,7 +18689,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"pass-otp": {
@@ -19404,7 +19407,8 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"pt_BR": 2
 					}
 				},
 				"php-artisan": {
@@ -21641,7 +21645,8 @@
 						"ko": 1,
 						"lo": 1,
 						"nl": 2,
-						"ru": 1,
+						"pt_BR": 2,
+						"ru": 2,
 						"th": 1,
 						"zh_TW": 1
 					}
@@ -22534,15 +22539,15 @@
 				},
 				"rmdir": {
 					"status": {
-						"ar": 2,
-						"cs": 2,
+						"ar": 1,
+						"cs": 1,
 						"en": 2,
-						"hi": 2,
-						"ko": 2,
-						"nl": 2,
-						"ta": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"hi": 1,
+						"ko": 1,
+						"nl": 1,
+						"ta": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"rmlint": {
@@ -24109,6 +24114,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"sr": {
+					"status": {
+						"en": 2
 					}
 				},
 				"srftopam": {
@@ -28771,7 +28781,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 6,
-				"en": 99,
+				"en": 100,
 				"es": 33,
 				"fa": 0,
 				"fi": 0,
@@ -31674,12 +31684,6 @@
 						"ko": 2
 					}
 				},
-				"esa-snap": {
-					"status": {
-						"de": 2,
-						"ko": 2
-					}
-				},
 				"esearch": {
 					"status": {
 						"en": 2,
@@ -33478,15 +33482,20 @@
 				"libuser-lid": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"nl": 2
+						"es": 1,
+						"nl": 1
 					}
 				},
 				"lid": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"nl": 2
+						"es": 1,
+						"nl": 1
+					}
+				},
+				"lid.libuser": {
+					"status": {
+						"en": 2
 					}
 				},
 				"light": {
@@ -33897,6 +33906,11 @@
 					}
 				},
 				"lxc-stop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lxc-top": {
 					"status": {
 						"en": 2
 					}
@@ -36101,17 +36115,13 @@
 						"ko": 2
 					}
 				},
-				"qm-import-disk": {
+				"qm-importdisk": {
 					"status": {
+						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
-					}
-				},
-				"qm-importdisk": {
-					"status": {
-						"en": 2
 					}
 				},
 				"qm-list": {
@@ -36513,7 +36523,7 @@
 				"repo-add": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"repo-remove": {
@@ -37350,21 +37360,23 @@
 				},
 				"snap": {
 					"status": {
-						"bn": 1,
-						"en": 2,
-						"ja": 1,
-						"ko": 1,
-						"ml": 1
+						"en": 2
 					}
 				},
 				"snap.esa": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snap.pkg": {
 					"status": {
-						"en": 2
+						"bn": 2,
+						"en": 2,
+						"ja": 2,
+						"ko": 2,
+						"ml": 2
 					}
 				},
 				"snapper": {
