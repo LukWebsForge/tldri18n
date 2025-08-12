@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 11-Aug-25 02:00:10 CEST",
+	"last_update": "Tuesday, 12-Aug-25 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -493,7 +493,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 8,
-				"en": 99,
+				"en": 100,
 				"es": 21,
 				"fa": 1,
 				"fi": 0,
@@ -2705,11 +2705,7 @@
 				},
 				"b2": {
 					"status": {
-						"en": 2
-					}
-				},
-				"b2-tools": {
-					"status": {
+						"en": 2,
 						"es": 2,
 						"ko": 2
 					}
@@ -14231,9 +14227,9 @@
 				},
 				"kubectl-get": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"kubectl-label": {
@@ -35277,6 +35273,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"pdfbook2": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pdfcrop": {
