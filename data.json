@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 13-Aug-25 02:00:12 CEST",
+	"last_update": "Thursday, 14-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -152,7 +152,7 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
-						"ru": 1,
+						"ru": 2,
 						"ta": 1,
 						"tr": 1,
 						"uk": 1,
@@ -306,7 +306,7 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
-						"ru": 1,
+						"ru": 2,
 						"ta": 2,
 						"tr": 1,
 						"uk": 2,
@@ -1903,13 +1903,17 @@
 				},
 				"audit2allow": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 1,
+						"ko": 1,
+						"nl": 2
 					}
 				},
 				"audit2why": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -4079,7 +4083,7 @@
 				"cbonsai": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"cbt": {
@@ -22540,7 +22544,7 @@
 						"en": 2,
 						"hi": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"ta": 1,
 						"zh": 1,
 						"zh_TW": 1
@@ -26403,6 +26407,11 @@
 						"ko": 2
 					}
 				},
+				"vboxmanage-modifyvm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vboxmanage-movevm": {
 					"status": {
 						"en": 2,
@@ -29671,13 +29680,6 @@
 					}
 				},
 				"atop": {
-					"status": {
-						"en": 2,
-						"es": 2,
-						"ko": 2
-					}
-				},
-				"audit2allow": {
 					"status": {
 						"en": 2,
 						"es": 2,
@@ -33479,14 +33481,14 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"lid": {
 					"status": {
 						"en": 2,
 						"es": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"lid.libuser": {
