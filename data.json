@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 14-Aug-25 02:00:10 CEST",
+	"last_update": "Friday, 15-Aug-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16089,6 +16089,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"monolith": {
+					"status": {
+						"en": 2
 					}
 				},
 				"monop": {
