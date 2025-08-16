@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 15-Aug-25 02:00:09 CEST",
+	"last_update": "Saturday, 16-Aug-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -477,6 +477,11 @@
 				"zh_TW": 0
 			},
 			"pages": {
+				"crypto": {
+					"status": {
+						"en": 2
+					}
+				},
 				"enable": {
 					"status": {
 						"en": 2
@@ -18139,6 +18144,11 @@
 						"ko": 2
 					}
 				},
+				"openstack-flavor": {
+					"status": {
+						"en": 2
+					}
+				},
 				"openstack-help": {
 					"status": {
 						"en": 2
@@ -28800,7 +28810,7 @@
 				"id": 3,
 				"it": 3,
 				"ja": 1,
-				"ko": 80,
+				"ko": 79,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -32582,6 +32592,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"hd-idle": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hddtemp": {
