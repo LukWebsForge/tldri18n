@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 18-Aug-25 02:00:10 CEST",
+	"last_update": "Tuesday, 19-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -56,7 +56,7 @@
 				"fr": 100,
 				"hi": 100,
 				"id": 100,
-				"it": 85,
+				"it": 92,
 				"ja": 100,
 				"ko": 100,
 				"lo": 0,
@@ -374,6 +374,7 @@
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
@@ -780,6 +781,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -787,6 +789,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -5934,7 +5937,8 @@
 				},
 				"devpod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"devspace": {
@@ -33639,7 +33643,8 @@
 				},
 				"lid.libuser": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"light": {
