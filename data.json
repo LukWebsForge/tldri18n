@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 19-Aug-25 02:00:10 CEST",
+	"last_update": "Wednesday, 20-Aug-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8057,7 +8057,8 @@
 				"file-rename": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"filebrowser": {
@@ -12987,6 +12988,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -14602,7 +14604,8 @@
 					"status": {
 						"en": 2,
 						"id": 1,
-						"ko": 1
+						"ko": 1,
+						"nl": 2
 					}
 				},
 				"license": {
@@ -19283,7 +19286,8 @@
 				"perl-rename": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"perlbrew": {
@@ -21171,7 +21175,8 @@
 				"prename": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"prettier": {
@@ -24241,7 +24246,8 @@
 				},
 				"sr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"srftopam": {
@@ -24598,7 +24604,8 @@
 				"sudoedit": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"sui": {
@@ -28923,7 +28930,7 @@
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
-				"nl": 14,
+				"nl": 15,
 				"no": 0,
 				"pl": 9,
 				"pt_BR": 11,
@@ -36163,7 +36170,8 @@
 				},
 				"qm-agent": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"qm-cleanup": {
@@ -36377,7 +36385,8 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"ko": 1
+						"ko": 1,
+						"nl": 2
 					}
 				},
 				"qm-reset": {
@@ -36486,7 +36495,8 @@
 				},
 				"qm-unlink": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"qm-unlock": {
@@ -37102,7 +37112,7 @@
 				"scanimage": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"schroot": {
@@ -39713,6 +39723,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
