@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 21-Aug-25 02:00:08 CEST",
+	"last_update": "Friday, 22-Aug-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -978,7 +978,8 @@
 				"adb-connect": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"adb-devices": {
@@ -994,13 +995,15 @@
 				"adb-disconnect": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"adb-forward": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"adb-install": {
@@ -1032,7 +1035,8 @@
 				"adb-pair": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"adb-reboot": {
@@ -1077,7 +1081,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 2
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"adguardhome": {
@@ -20189,6 +20194,11 @@
 						"ko": 2
 					}
 				},
+				"plink": {
+					"status": {
+						"en": 2
+					}
+				},
 				"plocate": {
 					"status": {
 						"en": 2,
@@ -24247,6 +24257,7 @@
 				"sr": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -32063,6 +32074,11 @@
 						"ko": 2
 					}
 				},
+				"fbi": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fbset": {
 					"status": {
 						"en": 2
@@ -37939,7 +37955,17 @@
 						"en": 2
 					}
 				},
+				"systemctl-start": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-stop": {
 					"status": {
 						"en": 2
 					}
