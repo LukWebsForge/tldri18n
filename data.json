@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 22-Aug-25 02:00:08 CEST",
+	"last_update": "Saturday, 23-Aug-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6205,7 +6205,8 @@
 				"doas": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"dockdiver": {
@@ -13011,6 +13012,11 @@
 						"es": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"impacket-sambapipe": {
+					"status": {
+						"en": 2
 					}
 				},
 				"impacket-secretsdump": {
@@ -23115,6 +23121,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"sambapipe.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"samtools": {
