@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 23-Aug-25 02:00:07 CEST",
+	"last_update": "Sunday, 24-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4941,7 +4941,8 @@
 						"de": 2,
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"conda-create": {
@@ -4949,6 +4950,11 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"conda-env": {
+					"status": {
+						"en": 2
 					}
 				},
 				"conda-install": {
@@ -14269,6 +14275,11 @@
 						"pt_BR": 2
 					}
 				},
+				"kubectl-api-resources": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-apply": {
 					"status": {
 						"en": 2,
@@ -14276,6 +14287,11 @@
 					}
 				},
 				"kubectl-auth": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kubectl-autoscale": {
 					"status": {
 						"en": 2
 					}
@@ -15274,7 +15290,8 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"luac": {
@@ -27305,6 +27322,7 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -31705,7 +31723,7 @@
 				"e2fsck": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"e2image": {
@@ -44071,6 +44089,11 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"orb": {
+					"status": {
+						"en": 2
 					}
 				},
 				"osascript": {
