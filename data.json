@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 24-Aug-25 02:00:10 CEST",
+	"last_update": "Monday, 25-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -535,6 +535,11 @@
 						"en": 2
 					}
 				},
+				"question-mark": {
+					"status": {
+						"en": 2
+					}
+				},
 				"reload": {
 					"status": {
 						"en": 2
@@ -564,7 +569,7 @@
 		},
 		"common": {
 			"progress": {
-				"ar": 2,
+				"ar": 1,
 				"bn": 0,
 				"bs": 0,
 				"ca": 0,
@@ -4950,6 +4955,11 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"conda-doctor": {
+					"status": {
+						"en": 2
 					}
 				},
 				"conda-env": {
