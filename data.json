@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 25-Aug-25 02:00:10 CEST",
+	"last_update": "Tuesday, 26-Aug-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -22546,7 +22546,8 @@
 				},
 				"rename": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"renice": {
@@ -24086,7 +24087,8 @@
 				},
 				"soffice": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"solcjs": {
@@ -29631,6 +29633,7 @@
 				"apt-install": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"ru": 2
 					}
 				},
@@ -31532,7 +31535,8 @@
 				},
 				"dnf-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"dnf-module": {
@@ -32414,6 +32418,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"gdbus": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gdebi": {
@@ -34018,7 +34027,7 @@
 				"lvdisplay": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"lvextend": {
@@ -35463,6 +35472,11 @@
 						"en": 2
 					}
 				},
+				"pct-console": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pct-create": {
 					"status": {
 						"en": 2
@@ -36220,7 +36234,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"qm-agent": {
@@ -36302,7 +36317,8 @@
 				},
 				"qm-disk-rescan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"qm-disk-resize": {
@@ -36322,7 +36338,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"qm-guest-exec": {
