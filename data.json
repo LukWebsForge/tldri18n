@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 26-Aug-25 02:00:09 CEST",
+	"last_update": "Wednesday, 27-Aug-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -42,7 +42,7 @@
 	"entries": {
 		"android": {
 			"progress": {
-				"ar": 0,
+				"ar": 7,
 				"bn": 100,
 				"bs": 0,
 				"ca": 0,
@@ -83,6 +83,7 @@
 			"pages": {
 				"am": {
 					"status": {
+						"ar": 2,
 						"bn": 2,
 						"de": 2,
 						"en": 2,
@@ -10307,6 +10308,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 1,
 						"zh": 2
@@ -10471,6 +10473,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -14625,6 +14628,11 @@
 						"ko": 1
 					}
 				},
+				"less-than-more-than": {
+					"status": {
+						"en": 2
+					}
+				},
 				"let": {
 					"status": {
 						"en": 2
@@ -15260,6 +15268,11 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2
+					}
+				},
+				"lsix": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lsof": {
@@ -29492,12 +29505,12 @@
 				},
 				"aplay": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"pl": 2,
-						"zh": 2
+						"es": 1,
+						"ko": 1,
+						"pl": 1,
+						"zh": 1
 					}
 				},
 				"apparmor_parser": {
@@ -30295,11 +30308,12 @@
 				"brightnessctl": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"ml": 2,
-						"tr": 2,
-						"zh": 2
+						"es": 1,
+						"ko": 1,
+						"ml": 1,
+						"nl": 2,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"broot": {
@@ -32138,6 +32152,7 @@
 						"en": 2,
 						"hi": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
@@ -32149,6 +32164,11 @@
 					}
 				},
 				"fftest": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fgconsole": {
 					"status": {
 						"en": 2
 					}
@@ -35373,6 +35393,11 @@
 						"ta": 2
 					}
 				},
+				"pacsift": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pacstall": {
 					"status": {
 						"en": 2,
@@ -37999,6 +38024,11 @@
 						"nl": 2
 					}
 				},
+				"systemctl-mask": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-reboot": {
 					"status": {
 						"en": 2,
@@ -38048,7 +38078,7 @@
 				"systemd-cat": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"systemd-cgls": {
@@ -38212,7 +38242,7 @@
 				"systemd-sysusers": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"systemd-tmpfiles": {
@@ -39788,13 +39818,13 @@
 				},
 				"yum": {
 					"status": {
-						"ca": 2,
+						"ca": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"id": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"es": 1,
+						"fa": 1,
+						"id": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"yum-config-manager": {
