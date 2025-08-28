@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 27-Aug-25 02:00:10 CEST",
+	"last_update": "Thursday, 28-Aug-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -56,7 +56,7 @@
 				"fr": 100,
 				"hi": 100,
 				"id": 100,
-				"it": 92,
+				"it": 100,
 				"ja": 100,
 				"ko": 100,
 				"lo": 0,
@@ -226,6 +226,7 @@
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
@@ -1628,6 +1629,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -2930,6 +2932,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -2952,6 +2955,7 @@
 				"bash-it": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -11101,7 +11105,8 @@
 				},
 				"gitea": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"github-label-sync": {
@@ -11397,6 +11402,7 @@
 						"ar": 2,
 						"en": 2,
 						"fr": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
 						"tr": 2,
@@ -12673,6 +12679,11 @@
 						"zh": 2
 					}
 				},
+				"i3-msg": {
+					"status": {
+						"en": 2
+					}
+				},
 				"i3lock": {
 					"status": {
 						"en": 2,
@@ -13035,7 +13046,8 @@
 				},
 				"impacket-sambapipe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"impacket-secretsdump": {
@@ -14648,6 +14660,7 @@
 				"libreoffice": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 1,
 						"ko": 1,
 						"nl": 2
@@ -16012,8 +16025,8 @@
 				"mitmproxy": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"mitmweb": {
@@ -24445,6 +24458,11 @@
 						"ko": 2
 					}
 				},
+				"st.2": {
+					"status": {
+						"en": 2
+					}
+				},
 				"st4topgm": {
 					"status": {
 						"en": 2,
@@ -25556,6 +25574,7 @@
 				"todoman": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"ta": 2
@@ -28991,7 +29010,7 @@
 				"id": 3,
 				"it": 3,
 				"ja": 1,
-				"ko": 79,
+				"ko": 78,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -30205,6 +30224,7 @@
 				},
 				"bluetoothctl": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"hi": 2,
 						"ko": 2,
@@ -30642,6 +30662,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"cec-client": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ceph": {
@@ -31536,6 +31561,7 @@
 				"dnf-deplist": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -33091,6 +33117,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"inputattach": {
+					"status": {
+						"en": 2
 					}
 				},
 				"insmod": {
@@ -34901,6 +34932,7 @@
 				},
 				"nmcli-agent": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -34947,6 +34979,7 @@
 				},
 				"nmcli-networking": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -34955,6 +34988,7 @@
 				},
 				"nmcli-radio": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -36593,6 +36627,7 @@
 				"qm-unlink": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -37784,8 +37819,13 @@
 				"st": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2
+						"id": 1,
+						"ko": 1
+					}
+				},
+				"st.1": {
+					"status": {
+						"en": 2
 					}
 				},
 				"startx": {
@@ -38530,6 +38570,7 @@
 				"top": {
 					"status": {
 						"ca": 2,
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -39085,6 +39126,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"vgcfgbackup": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vgchange": {
