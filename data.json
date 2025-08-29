@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 28-Aug-25 02:00:09 CEST",
+	"last_update": "Friday, 29-Aug-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -456,7 +456,7 @@
 				"fi": 0,
 				"fr": 0,
 				"hi": 0,
-				"id": 0,
+				"id": 58,
 				"it": 0,
 				"ja": 0,
 				"ko": 0,
@@ -484,52 +484,62 @@
 			"pages": {
 				"clock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"configure": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"crypto": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"delete": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"dir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"enable": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"erase": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"interface": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"ip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"line": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"login": {
@@ -584,7 +594,7 @@
 				"fi": 0,
 				"fr": 9,
 				"hi": 2,
-				"id": 8,
+				"id": 9,
 				"it": 9,
 				"ja": 3,
 				"ko": 86,
@@ -1473,7 +1483,8 @@
 				"ansible-lint": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"id": 2
 					}
 				},
 				"ansible-playbook": {
@@ -2852,6 +2863,7 @@
 				"badblocks": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 2
 					}
@@ -3144,7 +3156,8 @@
 				},
 				"bing-rewards": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"binwalk": {
@@ -4130,6 +4143,7 @@
 				"cat": {
 					"status": {
 						"ar": 2,
+						"cs": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -4371,6 +4385,7 @@
 				"choose": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -4908,7 +4923,7 @@
 				"complete": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"it": 1,
 						"ko": 1
 					}
@@ -5411,7 +5426,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"ta": 2
+						"ta": 2,
+						"zh": 2
 					}
 				},
 				"cronic": {
@@ -5428,6 +5444,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 2,
+						"zh": 2,
 						"zh_TW": 2
 					}
 				},
@@ -6040,6 +6057,7 @@
 						"es": 2,
 						"fa": 1,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 2,
 						"ko": 1,
@@ -7623,6 +7641,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"pl": 2
@@ -9836,6 +9855,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"zh": 2
 					}
 				},
@@ -10074,6 +10094,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
@@ -10364,6 +10385,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
@@ -10420,6 +10442,7 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 2,
+						"nl": 2,
 						"tr": 1,
 						"uk": 1,
 						"zh": 2
@@ -10541,6 +10564,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"uk": 2,
@@ -10609,6 +10633,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
@@ -12441,7 +12466,8 @@
 				"htmlq": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"id": 2
 					}
 				},
 				"htop": {
@@ -14626,6 +14652,7 @@
 				},
 				"less": {
 					"status": {
+						"cs": 2,
 						"de": 2,
 						"en": 2,
 						"it": 2,
@@ -16192,6 +16219,7 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
+						"id": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -16231,6 +16259,7 @@
 				"mongosh": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -16268,6 +16297,7 @@
 				},
 				"more": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"es": 2,
 						"it": 1,
@@ -24756,7 +24786,8 @@
 				"surfraw": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"surge": {
@@ -26657,6 +26688,11 @@
 						"ko": 2
 					}
 				},
+				"vc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vcluster": {
 					"status": {
 						"en": 2
@@ -26716,7 +26752,8 @@
 				"vercel": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"verilator": {
@@ -29924,6 +29961,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
+						"it": 2,
 						"ko": 1
 					}
 				},
@@ -30008,6 +30046,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -30665,6 +30704,11 @@
 					}
 				},
 				"cec-client": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cec-ctl": {
 					"status": {
 						"en": 2
 					}
@@ -31482,6 +31526,7 @@
 				"dkms": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -31564,6 +31609,12 @@
 						"es": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"dnf-download": {
+					"status": {
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"dnf-group": {
@@ -31685,6 +31736,7 @@
 						"id": 1,
 						"it": 1,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -31708,9 +31760,9 @@
 				"dpkg-reconfigure": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"uk": 2
+						"es": 1,
+						"ko": 1,
+						"uk": 1
 					}
 				},
 				"dracut": {
@@ -31889,7 +31941,8 @@
 				"emerge": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"engrampa": {
@@ -32390,6 +32443,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
+					}
+				},
+				"fsadm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fsck": {
@@ -37060,7 +37118,8 @@
 				"rpm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"rpm-ostree": {
@@ -38056,6 +38115,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"systemctl-edit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemctl-enable": {
