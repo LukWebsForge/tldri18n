@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 29-Aug-25 02:00:07 CEST",
+	"last_update": "Saturday, 30-Aug-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12706,6 +12706,11 @@
 					}
 				},
 				"i3-msg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"i3-nagbar": {
 					"status": {
 						"en": 2
 					}
