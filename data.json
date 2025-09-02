@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 01-Sep-25 02:00:08 CEST",
+	"last_update": "Tuesday, 02-Sep-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12285,7 +12285,7 @@
 				"history": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"id": 1,
 						"ja": 1,
 						"ko": 1,
@@ -21874,6 +21874,7 @@
 						"fr": 1,
 						"hi": 1,
 						"id": 1,
+						"it": 2,
 						"ja": 1,
 						"ko": 1,
 						"lo": 1,
@@ -24883,6 +24884,11 @@
 					"status": {
 						"en": 2,
 						"ko": 1
+					}
+				},
+				"swaymsg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"swc": {
@@ -29058,7 +29064,7 @@
 				"fr": 5,
 				"hi": 2,
 				"id": 3,
-				"it": 3,
+				"it": 4,
 				"ja": 1,
 				"ko": 78,
 				"lo": 0,
@@ -36810,6 +36816,7 @@
 				"rankmirrors": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -37013,6 +37020,7 @@
 				"retroarch": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -37152,6 +37160,7 @@
 				"rpm": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -37159,6 +37168,7 @@
 				"rpm-ostree": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -38173,6 +38183,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"systemctl-restart": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemctl-show-environment": {
@@ -47424,6 +47439,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
