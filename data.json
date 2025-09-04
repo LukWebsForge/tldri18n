@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 03-Sep-25 02:00:07 CEST",
+	"last_update": "Thursday, 04-Sep-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -17600,8 +17600,8 @@
 				"npm-ls": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"nl": 2
+						"es": 1,
+						"nl": 1
 					}
 				},
 				"npm-name": {
@@ -19228,7 +19228,7 @@
 				"pbzip2": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"pcapfix": {
@@ -22465,6 +22465,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"rbw": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rc": {
@@ -29070,7 +29075,7 @@
 				"da": 0,
 				"de": 6,
 				"en": 100,
-				"es": 33,
+				"es": 32,
 				"fa": 0,
 				"fi": 0,
 				"fr": 5,
@@ -32691,6 +32696,16 @@
 						"ko": 2
 					}
 				},
+				"gksu": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gksudo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gnome-calculator": {
 					"status": {
 						"en": 2,
@@ -34179,6 +34194,16 @@
 					}
 				},
 				"ltrace": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvchange": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvconvert": {
 					"status": {
 						"en": 2
 					}
