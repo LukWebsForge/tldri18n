@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 04-Sep-25 02:00:07 CEST",
+	"last_update": "Friday, 05-Sep-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -590,7 +590,7 @@
 				"de": 8,
 				"en": 100,
 				"es": 21,
-				"fa": 1,
+				"fa": 2,
 				"fi": 0,
 				"fr": 9,
 				"hi": 2,
@@ -890,6 +890,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
@@ -1243,6 +1244,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -1563,6 +1565,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
@@ -1677,7 +1680,8 @@
 						"fr": 1,
 						"id": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"arduino-builder": {
@@ -5406,6 +5410,7 @@
 				"createdb": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"ko": 2
 					}
 				},
@@ -6048,6 +6053,7 @@
 				"dict": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"ko": 2
 					}
 				},
@@ -15280,9 +15286,9 @@
 				"lprm": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1
 					}
 				},
 				"lpstat": {
@@ -17539,6 +17545,12 @@
 						"en": 2
 					}
 				},
+				"npm-docs": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
 				"npm-doctor": {
 					"status": {
 						"en": 2,
@@ -19264,6 +19276,7 @@
 				"pdf-parser": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"ko": 2
 					}
 				},
@@ -20825,6 +20838,11 @@
 						"en": 2,
 						"it": 1,
 						"ko": 2
+					}
+				},
+				"poetry-env": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pokeget": {
@@ -25969,7 +25987,7 @@
 				"tsc": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"tslint": {
@@ -28860,6 +28878,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fa": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2
