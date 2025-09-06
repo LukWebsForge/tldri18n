@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 05-Sep-25 02:00:09 CEST",
+	"last_update": "Saturday, 06-Sep-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -451,7 +451,7 @@
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 0,
+				"es": 100,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
@@ -485,96 +485,113 @@
 				"clock": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"configure": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"crypto": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"delete": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"dir": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"enable": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"erase": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"interface": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"ip": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"line": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2
 					}
 				},
 				"login": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"question-mark": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"reload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"transport": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"username": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"write": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				}
 			}
@@ -601,10 +618,10 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 18,
+				"nl": 19,
 				"no": 1,
 				"pl": 5,
-				"pt_BR": 11,
+				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 2,
@@ -1310,7 +1327,7 @@
 						"id": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"zh": 1
@@ -2410,6 +2427,7 @@
 				"aws-s3-cp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -3703,6 +3721,7 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2
 					}
@@ -8104,6 +8123,7 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -8542,6 +8562,13 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2
+					}
+				},
+				"fpsync": {
+					"status": {
+						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -9414,6 +9441,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"ru": 2
 					}
 				},
@@ -12307,6 +12335,7 @@
 						"id": 1,
 						"ja": 1,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"ru": 1
@@ -15287,7 +15316,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -17613,7 +17642,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"npm-name": {
@@ -32503,13 +32532,6 @@
 						"ko": 2
 					}
 				},
-				"fpsync": {
-					"status": {
-						"en": 2,
-						"es": 2,
-						"ko": 2
-					}
-				},
 				"free": {
 					"status": {
 						"ca": 2,
@@ -45239,7 +45261,7 @@
 				"da": 1,
 				"de": 17,
 				"en": 100,
-				"es": 93,
+				"es": 94,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
@@ -45811,6 +45833,7 @@
 				"comp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"ta": 2,
@@ -46400,7 +46423,8 @@
 				},
 				"mimikatz-crypto": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"mimikatz-dpapi": {
