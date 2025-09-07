@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 06-Sep-25 02:00:07 CEST",
+	"last_update": "Sunday, 07-Sep-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5003,7 +5003,8 @@
 				},
 				"conda-doctor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"conda-env": {
@@ -7952,6 +7953,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"zh": 2
 					}
@@ -32493,6 +32495,16 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"fonttools": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fonttools-subset": {
+					"status": {
+						"en": 2
 					}
 				},
 				"foreman": {
