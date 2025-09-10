@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 09-Sep-25 02:00:08 CEST",
+	"last_update": "Wednesday, 10-Sep-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4748,13 +4748,13 @@
 				},
 				"cmatrix": {
 					"status": {
-						"ca": 2,
-						"cs": 2,
-						"de": 2,
+						"ca": 1,
+						"cs": 1,
+						"de": 1,
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"it": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"cmctl": {
@@ -7061,7 +7061,8 @@
 				},
 				"dropdb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"drupal": {
@@ -13247,7 +13248,8 @@
 				"initdb": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"inkmake": {
@@ -29141,7 +29143,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 1,
-				"ko": 78,
+				"ko": 77,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -38286,6 +38288,11 @@
 						"nl": 1
 					}
 				},
+				"systemctl-freeze": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-mask": {
 					"status": {
 						"en": 2
@@ -38319,6 +38326,16 @@
 					}
 				},
 				"systemctl-stop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-suspend": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-thaw": {
 					"status": {
 						"en": 2
 					}
