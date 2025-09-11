@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 10-Sep-25 02:00:08 CEST",
+	"last_update": "Thursday, 11-Sep-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -657,7 +657,7 @@
 					"status": {
 						"ar": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"hi": 1,
 						"id": 1,
 						"ko": 1,
@@ -12232,9 +12232,9 @@
 				"hexyl": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"ko": 2
+						"es": 1,
+						"fr": 1,
+						"ko": 1
 					}
 				},
 				"hg": {
@@ -18990,6 +18990,7 @@
 						"es": 1,
 						"fr": 1,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -25794,7 +25795,7 @@
 				"tqdm": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"tr": {
@@ -29150,7 +29151,7 @@
 				"nl": 15,
 				"no": 0,
 				"pl": 9,
-				"pt_BR": 11,
+				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 1,
@@ -29159,7 +29160,7 @@
 				"sv": 0,
 				"ta": 3,
 				"th": 0,
-				"tr": 3,
+				"tr": 5,
 				"uk": 1,
 				"uz": 0,
 				"zh": 9,
@@ -31693,19 +31694,21 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 2,
-						"tr": 1,
+						"tr": 2,
 						"zh": 2
 					}
 				},
 				"dnf-builddep": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"tr": 2
 					}
 				},
 				"dnf-changelog": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"tr": 2
 					}
 				},
 				"dnf-config-manager": {
@@ -31713,7 +31716,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"tr": 2
 					}
 				},
 				"dnf-deplist": {
@@ -31721,14 +31725,16 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"dnf-download": {
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ru": 2
+						"ru": 2,
+						"tr": 2
 					}
 				},
 				"dnf-group": {
@@ -31736,27 +31742,31 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"ru": 2
+						"ru": 2,
+						"tr": 2
 					}
 				},
 				"dnf-install": {
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ru": 2
+						"ru": 2,
+						"tr": 2
 					}
 				},
 				"dnf-module": {
 					"status": {
 						"en": 2,
-						"ru": 2
+						"ru": 2,
+						"tr": 2
 					}
 				},
 				"dnf-repoquery": {
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"ru": 2
+						"ru": 2,
+						"tr": 2
 					}
 				},
 				"dnf5": {
@@ -31764,14 +31774,16 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"tr": 2
 					}
 				},
 				"dnf5-group": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"tr": 2
 					}
 				},
 				"dnsdomainname": {
@@ -33146,6 +33158,11 @@
 						"ko": 2
 					}
 				},
+				"hyprshot": {
+					"status": {
+						"en": 2
+					}
+				},
 				"i2cdetect": {
 					"status": {
 						"en": 2
@@ -34293,6 +34310,31 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"lvm_import_vdo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvmconfig": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvmdevices": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvmdiskscan": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvmdump": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lvreduce": {
@@ -35454,7 +35496,7 @@
 						"pt_BR": 2,
 						"pt_PT": 1,
 						"ta": 2,
-						"tr": 1,
+						"tr": 2,
 						"uk": 2,
 						"zh": 1
 					}
@@ -35464,7 +35506,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"pacman-database": {
@@ -35477,7 +35520,8 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"pacman-deptest": {
@@ -35489,7 +35533,8 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"pacman-f": {
@@ -35497,7 +35542,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"pacman-files": {
@@ -35510,7 +35556,8 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"pacman-key": {
@@ -35520,7 +35567,8 @@
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"pacman-mirrors": {
@@ -35539,7 +35587,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"pacman-query": {
@@ -35560,7 +35609,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"pacman-remove": {
@@ -35582,7 +35632,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"pacman-sync": {
@@ -35604,7 +35655,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"pacman-u": {
@@ -35612,7 +35664,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"tr": 2
 					}
 				},
 				"pacman-upgrade": {
@@ -35624,7 +35677,8 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"pacman4console": {
@@ -35632,7 +35686,8 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"ta": 2
+						"ta": 2,
+						"tr": 2
 					}
 				},
 				"pacsift": {
@@ -38274,7 +38329,7 @@
 				"systemctl-disable": {
 					"status": {
 						"en": 2,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"systemctl-edit": {
@@ -38285,7 +38340,7 @@
 				"systemctl-enable": {
 					"status": {
 						"en": 2,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"systemctl-freeze": {
@@ -45308,7 +45363,7 @@
 				"da": 1,
 				"de": 17,
 				"en": 100,
-				"es": 94,
+				"es": 93,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
@@ -45316,7 +45371,7 @@
 				"id": 18,
 				"it": 14,
 				"ja": 15,
-				"ko": 92,
+				"ko": 91,
 				"lo": 3,
 				"ml": 2,
 				"ne": 3,
@@ -47102,6 +47157,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"runas": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sc": {
