@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 11-Sep-25 02:00:07 CEST",
+	"last_update": "Friday, 12-Sep-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -611,7 +611,7 @@
 				"fi": 0,
 				"fr": 9,
 				"hi": 2,
-				"id": 9,
+				"id": 8,
 				"it": 9,
 				"ja": 3,
 				"ko": 86,
@@ -19894,6 +19894,7 @@
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2,
 						"zh_TW": 1
 					}
@@ -20876,7 +20877,32 @@
 						"ko": 2
 					}
 				},
+				"poetry-about": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-check": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-debug": {
+					"status": {
+						"en": 2
+					}
+				},
 				"poetry-env": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-python": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-version": {
 					"status": {
 						"en": 2
 					}
@@ -22701,6 +22727,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
+					}
+				},
+				"repomix": {
+					"status": {
+						"en": 2
 					}
 				},
 				"repren": {
