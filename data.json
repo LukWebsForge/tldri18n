@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 12-Sep-25 02:00:07 CEST",
+	"last_update": "Saturday, 13-Sep-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -614,7 +614,7 @@
 				"id": 8,
 				"it": 9,
 				"ja": 3,
-				"ko": 86,
+				"ko": 85,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -20300,6 +20300,11 @@
 						"ko": 2
 					}
 				},
+				"pkl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"plantuml": {
 					"status": {
 						"de": 1,
@@ -20898,6 +20903,11 @@
 					}
 				},
 				"poetry-python": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-self": {
 					"status": {
 						"en": 2
 					}
@@ -22750,6 +22760,21 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"resticprofile": {
+					"status": {
+						"en": 2
+					}
+				},
+				"resticprofile-schedule": {
+					"status": {
+						"en": 2
+					}
+				},
+				"resticprofile-unschedule": {
+					"status": {
+						"en": 2
 					}
 				},
 				"resume": {
@@ -24737,7 +24762,8 @@
 						"en": 2,
 						"es": 2,
 						"hi": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"stress-ng": {
@@ -34937,7 +34963,8 @@
 						"de": 1,
 						"en": 2,
 						"it": 1,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"mount.cifs": {
