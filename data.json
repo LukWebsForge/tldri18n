@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 15-Sep-25 02:00:08 CEST",
+	"last_update": "Tuesday, 16-Sep-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -38484,6 +38484,11 @@
 					}
 				},
 				"systemctl-suspend-then-hibernate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-switch-root": {
 					"status": {
 						"en": 2
 					}
