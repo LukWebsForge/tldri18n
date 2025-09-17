@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 16-Sep-25 02:00:07 CEST",
+	"last_update": "Wednesday, 17-Sep-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1853,13 +1853,13 @@
 				"asciinema": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 1,
-						"id": 1,
-						"it": 1,
-						"ko": 1,
-						"nl": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 2,
+						"id": 2,
+						"it": 2,
+						"ko": 2,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"asciitopgm": {
@@ -18258,9 +18258,9 @@
 				},
 				"omz": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"on_ac_power": {
@@ -34414,6 +34414,11 @@
 						"en": 2
 					}
 				},
+				"lvmpersist": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lvreduce": {
 					"status": {
 						"en": 2,
@@ -38494,6 +38499,16 @@
 					}
 				},
 				"systemctl-thaw": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-try-reload-or-restart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-try-restart": {
 					"status": {
 						"en": 2
 					}
