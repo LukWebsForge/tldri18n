@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 17-Sep-25 02:00:08 CEST",
+	"last_update": "Thursday, 18-Sep-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4995,11 +4995,26 @@
 						"nl": 2
 					}
 				},
+				"conda-activate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"conda-clean": {
+					"status": {
+						"en": 2
+					}
+				},
+				"conda-compare": {
+					"status": {
+						"en": 2
+					}
+				},
 				"conda-create": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"conda-doctor": {
@@ -5434,6 +5449,11 @@
 						"fa": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"createuser": {
+					"status": {
+						"en": 2
 					}
 				},
 				"crictl": {
@@ -16165,6 +16185,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
+						"ru": 2,
 						"sr": 1,
 						"ta": 1,
 						"tr": 1,
@@ -26857,6 +26878,7 @@
 				"vc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -34415,6 +34437,11 @@
 					}
 				},
 				"lvmpersist": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvmpolld": {
 					"status": {
 						"en": 2
 					}
