@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 18-Sep-25 02:00:07 CEST",
+	"last_update": "Friday, 19-Sep-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3420,7 +3420,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"brew-bundle": {
@@ -3430,21 +3431,24 @@
 						"fr": 2,
 						"id": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"brew-install": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"brew-list": {
 					"status": {
 						"en": 2,
 						"id": 1,
-						"ko": 1
+						"ko": 1,
+						"zh": 2
 					}
 				},
 				"brew-outdated": {
@@ -15780,6 +15784,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"ta": 1,
 						"tr": 1,
 						"zh": 2,
@@ -24891,7 +24896,8 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 1,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"sudoedit": {
