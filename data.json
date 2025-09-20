@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 19-Sep-25 02:00:08 CEST",
+	"last_update": "Saturday, 20-Sep-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1322,7 +1322,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 1,
 						"it": 1,
@@ -1853,7 +1853,7 @@
 				"asciinema": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"it": 2,
@@ -9363,6 +9363,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gh-org": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gh-pr": {
@@ -29243,7 +29248,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 1,
-				"ko": 77,
+				"ko": 76,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -37483,6 +37488,12 @@
 						"ko": 2
 					}
 				},
+				"rpmkeys": {
+					"status": {
+						"de": 2,
+						"en": 2
+					}
+				},
 				"rpmspec": {
 					"status": {
 						"en": 2,
@@ -38491,6 +38502,11 @@
 						"en": 2
 					}
 				},
+				"systemctl-set-environment": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-show-environment": {
 					"status": {
 						"en": 2
@@ -38542,6 +38558,16 @@
 					}
 				},
 				"systemctl-try-restart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-unmask": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-unset-environment": {
 					"status": {
 						"en": 2
 					}
