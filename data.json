@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 20-Sep-25 02:00:10 CEST",
+	"last_update": "Sunday, 21-Sep-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7087,6 +7087,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"dropuser": {
+					"status": {
+						"en": 2
 					}
 				},
 				"drupal": {
@@ -38474,10 +38479,20 @@
 						"en": 2
 					}
 				},
+				"systemctl-emergency": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-enable": {
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"systemctl-exit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemctl-freeze": {
