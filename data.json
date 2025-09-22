@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 21-Sep-25 02:00:09 CEST",
+	"last_update": "Monday, 22-Sep-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2029,7 +2029,7 @@
 				"audit2allow": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 1,
 						"nl": 2
 					}
@@ -3028,7 +3028,7 @@
 				"batch": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
@@ -3140,6 +3140,7 @@
 				"bg": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"hi": 2,
 						"it": 2,
@@ -12506,6 +12507,7 @@
 				"hostname": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fa": 1,
 						"ko": 1,
 						"nl": 2,
@@ -15908,6 +15910,7 @@
 				"mcs": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"ru": 2
 					}
@@ -26181,6 +26184,7 @@
 					"status": {
 						"bs": 2,
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"ko": 2,
 						"nl": 2,
@@ -27652,6 +27656,7 @@
 				"which": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
