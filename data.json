@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 23-Sep-25 02:00:08 CEST",
+	"last_update": "Wednesday, 24-Sep-25 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -606,7 +606,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 100,
-				"es": 21,
+				"es": 22,
 				"fa": 2,
 				"fi": 0,
 				"fr": 9,
@@ -5022,6 +5022,11 @@
 						"ko": 1
 					}
 				},
+				"conda-deactivate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"conda-doctor": {
 					"status": {
 						"en": 2,
@@ -5033,10 +5038,25 @@
 						"en": 2
 					}
 				},
+				"conda-info": {
+					"status": {
+						"en": 2
+					}
+				},
 				"conda-install": {
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"conda-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"conda-rename": {
+					"status": {
+						"en": 2
 					}
 				},
 				"consul": {
@@ -7354,7 +7374,7 @@
 				"ed": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"it": 2,
 						"ko": 1,
 						"nl": 2,
@@ -21895,8 +21915,8 @@
 				"pulumi-login": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"pulumi-logout": {
@@ -28052,6 +28072,7 @@
 				"xml-pyx": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -28715,6 +28736,7 @@
 				"zed": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -29267,7 +29289,7 @@
 				"hi": 2,
 				"id": 3,
 				"it": 4,
-				"ja": 1,
+				"ja": 0,
 				"ko": 76,
 				"lo": 0,
 				"ml": 1,
@@ -29287,7 +29309,7 @@
 				"tr": 5,
 				"uk": 1,
 				"uz": 0,
-				"zh": 9,
+				"zh": 8,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -31833,6 +31855,11 @@
 					"status": {
 						"en": 2,
 						"tr": 2
+					}
+				},
+				"dnf-clean": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dnf-config-manager": {
@@ -38483,6 +38510,11 @@
 						"zh": 2
 					}
 				},
+				"systemctl-cancel": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-cat": {
 					"status": {
 						"en": 2
@@ -40789,13 +40821,13 @@
 				"id": 44,
 				"it": 42,
 				"ja": 0,
-				"ko": 97,
+				"ko": 96,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
 				"nl": 53,
 				"no": 0,
-				"pl": 43,
+				"pl": 42,
 				"pt_BR": 57,
 				"pt_PT": 42,
 				"ro": 0,
@@ -44847,6 +44879,11 @@
 						"nl": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"rev": {
+					"status": {
+						"en": 2
 					}
 				},
 				"route": {
