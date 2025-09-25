@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 24-Sep-25 02:00:07 CEST",
+	"last_update": "Thursday, 25-Sep-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -606,7 +606,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 100,
-				"es": 22,
+				"es": 21,
 				"fa": 2,
 				"fi": 0,
 				"fr": 9,
@@ -1858,7 +1858,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
-						"nl": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -4063,6 +4063,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -4688,7 +4689,8 @@
 					"status": {
 						"en": 2,
 						"it": 1,
-						"ko": 1
+						"ko": 1,
+						"nl": 2
 					}
 				},
 				"clockwork-cli": {
@@ -5054,7 +5056,22 @@
 						"en": 2
 					}
 				},
+				"conda-remove": {
+					"status": {
+						"en": 2
+					}
+				},
 				"conda-rename": {
+					"status": {
+						"en": 2
+					}
+				},
+				"conda-repoquery": {
+					"status": {
+						"en": 2
+					}
+				},
+				"conda-run": {
 					"status": {
 						"en": 2
 					}
@@ -5478,6 +5495,7 @@
 				},
 				"createuser": {
 					"status": {
+						"bs": 2,
 						"en": 2
 					}
 				},
@@ -9254,7 +9272,8 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"gh-alias": {
@@ -9301,6 +9320,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gh-copilot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gh-cs": {
@@ -27088,6 +27112,7 @@
 				},
 				"vim": {
 					"status": {
+						"bs": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -29660,6 +29685,7 @@
 						"id": 2,
 						"it": 1,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"uk": 2,
@@ -32219,6 +32245,11 @@
 						"ko": 2
 					}
 				},
+				"emaint": {
+					"status": {
+						"en": 2
+					}
+				},
 				"emerge": {
 					"status": {
 						"en": 2,
@@ -34500,6 +34531,11 @@
 					}
 				},
 				"lvmpolld": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lvmsadc": {
 					"status": {
 						"en": 2
 					}
