@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 25-Sep-25 02:00:08 CEST",
+	"last_update": "Friday, 26-Sep-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -606,7 +606,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 100,
-				"es": 21,
+				"es": 22,
 				"fa": 2,
 				"fi": 0,
 				"fr": 9,
@@ -7229,7 +7229,8 @@
 				},
 				"dunst": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"dunstctl": {
@@ -9501,6 +9502,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gh-status": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gh-workflow": {
@@ -21994,7 +22000,8 @@
 				},
 				"pulumi-stack-hist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pulumi-stack-history": {
@@ -27537,6 +27544,7 @@
 						"de": 1,
 						"en": 2,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -33565,6 +33573,7 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
