@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 27-Sep-25 02:00:09 CEST",
+	"last_update": "Sunday, 28-Sep-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -606,7 +606,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 100,
-				"es": 22,
+				"es": 21,
 				"fa": 2,
 				"fi": 0,
 				"fr": 9,
@@ -2982,6 +2982,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2,
 						"zh_TW": 1
 					}
@@ -6194,6 +6195,7 @@
 						"ja": 1,
 						"ko": 1,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 1
 					}
 				},
@@ -9429,7 +9431,8 @@
 				"gh-pr": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"gh-pr-create": {
@@ -12158,6 +12161,7 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"uk": 2,
 						"zh": 2
 					}
@@ -15718,11 +15722,11 @@
 				"magick": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ja": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"es": 1,
+						"ja": 1,
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"magick-compare": {
@@ -17124,6 +17128,7 @@
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -18332,7 +18337,8 @@
 				"okular": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"olevba": {
@@ -18359,7 +18365,8 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"ko": 1
+						"ko": 1,
+						"nl": 2
 					}
 				},
 				"on_ac_power": {
@@ -20989,6 +20996,16 @@
 						"en": 2
 					}
 				},
+				"poetry-add": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-cache": {
+					"status": {
+						"en": 2
+					}
+				},
 				"poetry-check": {
 					"status": {
 						"en": 2
@@ -21004,12 +21021,27 @@
 						"en": 2
 					}
 				},
+				"poetry-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-lock": {
+					"status": {
+						"en": 2
+					}
+				},
 				"poetry-python": {
 					"status": {
 						"en": 2
 					}
 				},
 				"poetry-self": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-show": {
 					"status": {
 						"en": 2
 					}
@@ -36353,6 +36385,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
@@ -38297,7 +38330,8 @@
 					"status": {
 						"ar": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"sshare": {
@@ -45768,6 +45802,7 @@
 				"cd": {
 					"status": {
 						"bn": 1,
+						"bs": 2,
 						"ca": 2,
 						"cs": 1,
 						"de": 1,
