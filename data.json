@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 29-Sep-25 02:00:11 CEST",
+	"last_update": "Tuesday, 30-Sep-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -619,7 +619,7 @@
 				"ml": 0,
 				"ne": 0,
 				"nl": 19,
-				"no": 1,
+				"no": 0,
 				"pl": 5,
 				"pt_BR": 10,
 				"pt_PT": 1,
@@ -7959,8 +7959,8 @@
 				"fast": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"fastapi": {
@@ -9279,6 +9279,16 @@
 						"nl": 2
 					}
 				},
+				"gh-agent": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-agent-task": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-alias": {
 					"status": {
 						"en": 2,
@@ -9759,7 +9769,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 1,
 						"it": 1,
@@ -21781,7 +21791,7 @@
 				"pueue": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"pueue-add": {
@@ -38587,6 +38597,21 @@
 						"pt_BR": 2,
 						"uk": 2,
 						"zh": 2
+					}
+				},
+				"systemctl-add-requires": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-add-wants": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-bind": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemctl-cancel": {
