@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 30-Sep-25 02:00:08 CEST",
+	"last_update": "Wednesday, 01-Oct-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6401,7 +6401,8 @@
 						"ko": 2,
 						"ne": 2,
 						"pt_BR": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"docker-container": {
@@ -6492,7 +6493,8 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"docker-image": {
@@ -6502,7 +6504,8 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"zh": 2
 					}
 				},
 				"docker-images": {
@@ -6553,7 +6556,8 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"docker-machine": {
@@ -6618,7 +6622,8 @@
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"docker-rmi": {
@@ -8090,9 +8095,9 @@
 				"feh": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"zh": 2
+						"es": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"feroxbuster": {
@@ -26911,7 +26916,7 @@
 				"vboxmanage": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"vboxmanage-clonevm": {
@@ -33532,6 +33537,11 @@
 						"ko": 2
 					}
 				},
+				"impala": {
+					"status": {
+						"en": 2
+					}
+				},
 				"importctl": {
 					"status": {
 						"en": 2
@@ -38657,6 +38667,11 @@
 					}
 				},
 				"systemctl-mask": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-poweroff": {
 					"status": {
 						"en": 2
 					}
