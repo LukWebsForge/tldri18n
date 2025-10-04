@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 03-Oct-25 02:00:09 CEST",
+	"last_update": "Saturday, 04-Oct-25 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -606,7 +606,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 100,
-				"es": 21,
+				"es": 22,
 				"fa": 2,
 				"fi": 0,
 				"fr": 9,
@@ -5331,8 +5331,8 @@
 				"crane": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"crane-append": {
@@ -6250,6 +6250,7 @@
 				"dirname": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -7449,6 +7450,7 @@
 				"egrep": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -7957,6 +7959,7 @@
 				"factor": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -8196,6 +8199,7 @@
 				"fgrep": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -8441,6 +8445,7 @@
 				"fmt": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -9044,8 +9049,8 @@
 				"gcrane": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"gcrane-copy": {
@@ -9490,6 +9495,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gh-project": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gh-reference": {
@@ -12387,7 +12397,7 @@
 				"hg": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"hg-add": {
@@ -13992,6 +14002,7 @@
 				"join": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -24713,6 +24724,11 @@
 						"ko": 2
 					}
 				},
+				"srun": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ss-local": {
 					"status": {
 						"en": 2,
@@ -31415,6 +31431,7 @@
 				"counter-strike-2": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -32773,6 +32790,7 @@
 				"flex": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -38723,12 +38741,22 @@
 						"nl": 2
 					}
 				},
+				"systemctl-reload": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-restart": {
 					"status": {
 						"en": 2
 					}
 				},
 				"systemctl-set-environment": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-show": {
 					"status": {
 						"en": 2
 					}
