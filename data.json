@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 04-Oct-25 02:00:08 CEST",
+	"last_update": "Sunday, 05-Oct-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3462,12 +3462,14 @@
 				},
 				"brew-remove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"brew-rm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"brew-search": {
@@ -3981,6 +3983,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"cargo-info": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cargo-init": {
@@ -9316,7 +9323,8 @@
 				},
 				"gh-agent": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gh-agent-task": {
@@ -18003,6 +18011,7 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1,
+						"nl": 2,
 						"tr": 1
 					}
 				},
@@ -20342,6 +20351,11 @@
 						"zh": 2
 					}
 				},
+				"pip-cache": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pip-freeze": {
 					"status": {
 						"en": 2,
@@ -20357,6 +20371,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"pip-show": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pip-uninstall": {
@@ -22098,7 +22117,8 @@
 				"pulumi-stack-hist": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"pulumi-stack-history": {
@@ -24911,11 +24931,11 @@
 				},
 				"steam": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"hi": 2,
-						"ko": 2,
-						"zh": 2
+						"hi": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"steamcmd": {
@@ -35471,6 +35491,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -35479,6 +35500,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -35487,6 +35509,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
