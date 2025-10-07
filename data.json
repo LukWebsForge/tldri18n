@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 06-Oct-25 02:00:11 CEST",
+	"last_update": "Tuesday, 07-Oct-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -606,7 +606,7 @@
 				"da": 0,
 				"de": 8,
 				"en": 100,
-				"es": 22,
+				"es": 21,
 				"fa": 2,
 				"fi": 0,
 				"fr": 9,
@@ -4768,6 +4768,11 @@
 						"ko": 2
 					}
 				},
+				"clusterdb": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cmake": {
 					"status": {
 						"de": 1,
@@ -7058,6 +7063,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"dosbox": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dot": {
@@ -9585,6 +9595,11 @@
 						"en": 2
 					}
 				},
+				"gh-variable": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-workflow": {
 					"status": {
 						"en": 2,
@@ -10365,6 +10380,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"git-fast-export": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-feature": {
@@ -14572,6 +14592,11 @@
 						"en": 2
 					}
 				},
+				"kubectl-api-versions": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-apply": {
 					"status": {
 						"en": 2,
@@ -14682,6 +14707,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"kubectl-version": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kubectl-wait": {
@@ -19670,6 +19700,11 @@
 						"ko": 2
 					}
 				},
+				"pg_archivecleanup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pg_ctl": {
 					"status": {
 						"en": 2,
@@ -19703,6 +19738,16 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"pg_test_timing": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_walsummary": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pgbench": {
@@ -20373,6 +20418,21 @@
 						"nl": 2
 					}
 				},
+				"pip-hash": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pip-index": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pip-inspect": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pip-install": {
 					"status": {
 						"de": 2,
@@ -20404,6 +20464,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
+					}
+				},
+				"pip-wheel": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pip3": {
@@ -26556,10 +26621,10 @@
 						"fa": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"pt_BR": 1,
 						"ta": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"unar": {
@@ -26926,6 +26991,11 @@
 					}
 				},
 				"v": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vacuumdb": {
 					"status": {
 						"en": 2
 					}
@@ -29505,7 +29575,7 @@
 				"ca": 4,
 				"cs": 0,
 				"da": 0,
-				"de": 6,
+				"de": 5,
 				"en": 100,
 				"es": 32,
 				"fa": 0,
@@ -29515,7 +29585,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 76,
+				"ko": 75,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -33778,6 +33848,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -35896,6 +35967,16 @@
 						"pt_BR": 2
 					}
 				},
+				"paccapability": {
+					"status": {
+						"en": 2
+					}
+				},
+				"paccheck": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pacdiff": {
 					"status": {
 						"en": 2,
@@ -35909,6 +35990,16 @@
 						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"pacinfo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pacini": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pacman": {
@@ -38838,6 +38929,21 @@
 						"en": 2
 					}
 				},
+				"systemctl-is-active": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-is-enabled": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-list-units": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-mask": {
 					"status": {
 						"en": 2
@@ -41114,11 +41220,11 @@
 				"da": 0,
 				"de": 41,
 				"en": 100,
-				"es": 78,
+				"es": 77,
 				"fa": 0,
 				"fi": 0,
 				"fr": 39,
-				"hi": 40,
+				"hi": 39,
 				"id": 44,
 				"it": 42,
 				"ja": 0,
@@ -41126,11 +41232,11 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 53,
+				"nl": 52,
 				"no": 0,
 				"pl": 42,
 				"pt_BR": 57,
-				"pt_PT": 42,
+				"pt_PT": 41,
 				"ro": 0,
 				"ru": 0,
 				"sh": 0,
@@ -41142,7 +41248,7 @@
 				"uk": 0,
 				"uz": 0,
 				"zh": 61,
-				"zh_TW": 40
+				"zh_TW": 39
 			},
 			"pages": {
 				"aa": {
@@ -41503,6 +41609,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"contactsd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"coreaudiod": {
