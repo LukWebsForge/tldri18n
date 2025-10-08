@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 07-Oct-25 02:00:11 CEST",
+	"last_update": "Wednesday, 08-Oct-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -620,7 +620,7 @@
 				"ne": 0,
 				"nl": 19,
 				"no": 0,
-				"pl": 5,
+				"pl": 6,
 				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
@@ -2623,6 +2623,11 @@
 						"ko": 2
 					}
 				},
+				"az-contanier": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-devops": {
 					"status": {
 						"en": 2,
@@ -3463,13 +3468,15 @@
 				"brew-remove": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"brew-rm": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"brew-search": {
@@ -6147,6 +6154,7 @@
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"ta": 2,
 						"zh": 2,
 						"zh_TW": 1
@@ -8263,7 +8271,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"filebrowser": {
@@ -8900,6 +8909,11 @@
 						"en": 2
 					}
 				},
+				"gc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gcal": {
 					"status": {
 						"en": 2,
@@ -9339,7 +9353,8 @@
 				"gh-agent": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"gh-agent-task": {
@@ -9650,6 +9665,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"ghq": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gibo": {
@@ -11139,6 +11159,11 @@
 						"it": 2,
 						"ko": 2,
 						"tr": 2
+					}
+				},
+				"git-sparse-checkout": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-squash": {
@@ -13332,7 +13357,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"impacket-secretsdump": {
@@ -14587,6 +14613,11 @@
 						"pt_BR": 2
 					}
 				},
+				"kubectl-annotate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-api-resources": {
 					"status": {
 						"en": 2
@@ -14961,7 +14992,8 @@
 						"es": 2,
 						"id": 1,
 						"ko": 1,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"license": {
@@ -16958,6 +16990,11 @@
 						"zh": 2
 					}
 				},
+				"mvn-site": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mycli": {
 					"status": {
 						"en": 2,
@@ -17775,6 +17812,11 @@
 						"en": 2
 					}
 				},
+				"npm-completion": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-config": {
 					"status": {
 						"en": 2,
@@ -17788,6 +17830,16 @@
 					}
 				},
 				"npm-deprecate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-diff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-dist-tag": {
 					"status": {
 						"en": 2
 					}
@@ -18052,6 +18104,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
+						"pl": 2,
 						"tr": 1
 					}
 				},
@@ -19673,7 +19726,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"perlbrew": {
@@ -20395,18 +20449,38 @@
 				},
 				"pip": {
 					"status": {
-						"ar": 2,
-						"de": 2,
+						"ar": 1,
+						"de": 1,
 						"en": 2,
-						"fr": 1,
-						"id": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"fr": 2,
+						"id": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"pip-cache": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pip-check": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pip-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pip-debug": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pip-download": {
 					"status": {
 						"en": 2
 					}
@@ -20441,6 +20515,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"pip-list": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pip-lock": {
@@ -21190,6 +21269,11 @@
 						"en": 2
 					}
 				},
+				"poetry-install": {
+					"status": {
+						"en": 2
+					}
+				},
 				"poetry-list": {
 					"status": {
 						"en": 2
@@ -21691,7 +21775,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"prettier": {
@@ -22203,7 +22288,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"pulumi-stack-history": {
@@ -22435,7 +22521,7 @@
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 1,
+						"pl": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -24815,7 +24901,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"srftopam": {
@@ -24850,6 +24937,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -24938,6 +25026,7 @@
 				},
 				"st-flash": {
 					"status": {
+						"cs": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -25185,7 +25274,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"sui": {
@@ -26081,6 +26171,7 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
+						"pl": 2,
 						"ta": 2
 					}
 				},
@@ -26623,6 +26714,7 @@
 						"ko": 1,
 						"nl": 1,
 						"pt_BR": 1,
+						"ru": 2,
 						"ta": 1,
 						"zh": 1
 					}
@@ -27172,7 +27264,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"vcluster": {
@@ -29577,7 +29670,7 @@
 				"da": 0,
 				"de": 5,
 				"en": 100,
-				"es": 32,
+				"es": 31,
 				"fa": 0,
 				"fi": 0,
 				"fr": 5,
@@ -29591,11 +29684,11 @@
 				"ne": 0,
 				"nl": 15,
 				"no": 0,
-				"pl": 8,
+				"pl": 9,
 				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
-				"ru": 1,
+				"ru": 2,
 				"sh": 0,
 				"sr": 0,
 				"sv": 0,
@@ -30411,6 +30504,7 @@
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -30548,6 +30642,11 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"ausearch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ausyscall": {
@@ -31191,6 +31290,7 @@
 						"ml": 1,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"ta": 1,
 						"zh": 1
 					}
@@ -31661,7 +31761,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"it": 2
+						"it": 2,
+						"ru": 2
 					}
 				},
 				"cryptcat": {
@@ -33033,7 +33134,8 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"fsadm": {
@@ -33394,6 +33496,11 @@
 						"ko": 2,
 						"tr": 2,
 						"zh": 2
+					}
+				},
+				"grub-mkrescue": {
+					"status": {
+						"en": 2
 					}
 				},
 				"grub-reboot": {
@@ -33875,6 +33982,11 @@
 					"status": {
 						"en": 2,
 						"es": 1
+					}
+				},
+				"ip-monitor": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ip-neighbour": {
@@ -34431,7 +34543,8 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"lid": {
@@ -35115,6 +35228,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"mhwd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"microcom": {
@@ -36002,6 +36120,11 @@
 						"en": 2
 					}
 				},
+				"paclog": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pacman": {
 					"status": {
 						"ar": 2,
@@ -36211,6 +36334,11 @@
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 2
+					}
+				},
+				"pacrepairdb": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pacsift": {
@@ -37092,7 +37220,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"qm-cleanup": {
@@ -37309,7 +37438,8 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"qm-reset": {
@@ -37420,7 +37550,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"pl": 2
 					}
 				},
 				"qm-unlock": {
@@ -37922,6 +38053,11 @@
 						"ko": 2
 					}
 				},
+				"rtmon": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rtorrent": {
 					"status": {
 						"en": 2,
@@ -38140,6 +38276,11 @@
 						"ko": 2
 					}
 				},
+				"selinuxenabled": {
+					"status": {
+						"en": 2
+					}
+				},
 				"semanage": {
 					"status": {
 						"en": 2,
@@ -38173,6 +38314,11 @@
 						"en": 2,
 						"ko": 1,
 						"nl": 2
+					}
+				},
+				"semodule": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sensible-browser": {
@@ -38939,6 +39085,11 @@
 						"en": 2
 					}
 				},
+				"systemctl-list-unit-files": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-list-units": {
 					"status": {
 						"en": 2
@@ -38950,6 +39101,11 @@
 					}
 				},
 				"systemctl-poweroff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-preset": {
 					"status": {
 						"en": 2
 					}
@@ -46035,19 +46191,19 @@
 				"da": 1,
 				"de": 17,
 				"en": 100,
-				"es": 93,
+				"es": 92,
 				"fa": 1,
 				"fi": 0,
 				"fr": 7,
 				"hi": 29,
-				"id": 18,
+				"id": 17,
 				"it": 14,
 				"ja": 15,
-				"ko": 91,
+				"ko": 90,
 				"lo": 3,
 				"ml": 2,
 				"ne": 3,
-				"nl": 35,
+				"nl": 34,
 				"no": 2,
 				"pl": 16,
 				"pt_BR": 12,
@@ -46462,6 +46618,11 @@
 						"ko": 2,
 						"ta": 2,
 						"zh": 1
+					}
+				},
+				"cl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"clear": {
@@ -47148,6 +47309,11 @@
 						"zh_TW": 2
 					}
 				},
+				"lib": {
+					"status": {
+						"en": 2
+					}
+				},
 				"logoff": {
 					"status": {
 						"en": 2,
@@ -47378,6 +47544,11 @@
 						"ko": 2
 					}
 				},
+				"netsh-wlan": {
+					"status": {
+						"en": 2
+					}
+				},
 				"netstat": {
 					"status": {
 						"en": 2,
@@ -47410,6 +47581,11 @@
 						"hi": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"nmake": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nvm": {
@@ -47614,7 +47790,8 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"zh": 2
 					}
 				},
 				"query": {
