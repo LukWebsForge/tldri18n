@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 09-Oct-25 02:00:09 CEST",
+	"last_update": "Friday, 10-Oct-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -605,7 +605,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 8,
-				"en": 100,
+				"en": 99,
 				"es": 21,
 				"fa": 2,
 				"fi": 0,
@@ -614,7 +614,7 @@
 				"id": 8,
 				"it": 9,
 				"ja": 3,
-				"ko": 84,
+				"ko": 83,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -2028,15 +2028,13 @@
 				},
 				"audit2allow": {
 					"status": {
-						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"audit2why": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"nl": 2,
 						"pl": 2
@@ -2623,9 +2621,10 @@
 						"ko": 2
 					}
 				},
-				"az-contanier": {
+				"az-container": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"az-devops": {
@@ -4510,6 +4509,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -4545,6 +4545,7 @@
 				"cksum": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"it": 2,
 						"ko": 2,
@@ -4611,6 +4612,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"clang-check": {
+					"status": {
+						"en": 2
 					}
 				},
 				"clang-cpp": {
@@ -7173,9 +7179,9 @@
 				"doxygen": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"it": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"drill": {
@@ -9525,6 +9531,11 @@
 						"nl": 2
 					}
 				},
+				"gh-pr-comment": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-pr-create": {
 					"status": {
 						"en": 2,
@@ -9535,6 +9546,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gh-pr-view": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gh-project": {
@@ -15108,6 +15124,7 @@
 				"link": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"sr": 2
@@ -16147,6 +16164,7 @@
 				"mc.cli": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -17050,6 +17068,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"mvn-install": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mvn-site": {
@@ -22414,9 +22437,9 @@
 				},
 				"puppet": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"puppet-agent": {
@@ -22551,6 +22574,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pygbag": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pygmentize": {
@@ -24875,7 +24903,8 @@
 				"speedtest-cli": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"speedtest-rs": {
@@ -30036,6 +30065,7 @@
 				"abrt-cli": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -30668,6 +30698,16 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"audit2allow": {
+					"status": {
+						"en": 2
+					}
+				},
+				"audit2why": {
+					"status": {
+						"en": 2
 					}
 				},
 				"auditctl": {
@@ -31546,6 +31586,11 @@
 						"pt_BR": 1
 					}
 				},
+				"chcat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chcon": {
 					"status": {
 						"en": 2,
@@ -31949,7 +31994,9 @@
 				"darling": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"datamash": {
@@ -35597,6 +35644,7 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -36126,6 +36174,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -36235,6 +36284,7 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 1,
+						"ru": 2,
 						"ta": 2,
 						"tr": 2,
 						"uk": 2,
@@ -36713,7 +36763,8 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"ko": 1
+						"ko": 1,
+						"ru": 2
 					}
 				},
 				"pinout": {
@@ -36727,7 +36778,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"pirut": {
@@ -36954,7 +37006,8 @@
 				"postfix": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"poweroff": {
@@ -37086,6 +37139,11 @@
 						"it": 2,
 						"ko": 2,
 						"tr": 2
+					}
+				},
+				"pulseaudio-ctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pvcreate": {
@@ -38344,6 +38402,11 @@
 						"ko": 2
 					}
 				},
+				"scrun": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sdiag": {
 					"status": {
 						"en": 2,
@@ -38465,6 +38528,11 @@
 						"es": 2,
 						"ko": 2,
 						"tr": 2
+					}
+				},
+				"sesearch": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sestatus": {
@@ -46471,20 +46539,20 @@
 				},
 				"choco": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"ta": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"es": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"ta": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"choco-apikey": {
