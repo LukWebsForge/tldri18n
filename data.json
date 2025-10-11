@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 10-Oct-25 02:00:09 CEST",
+	"last_update": "Saturday, 11-Oct-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5041,6 +5041,7 @@
 				"conan": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -5168,6 +5169,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -5567,6 +5569,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"ta": 2,
@@ -5576,6 +5579,7 @@
 				"cronic": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -5594,12 +5598,14 @@
 				"crunch": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"crush": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"cryfs": {
@@ -9549,6 +9555,11 @@
 					}
 				},
 				"gh-pr-view": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-preview": {
 					"status": {
 						"en": 2
 					}
@@ -17070,6 +17081,11 @@
 						"zh": 2
 					}
 				},
+				"mvn-compile": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mvn-install": {
 					"status": {
 						"en": 2
@@ -22407,8 +22423,8 @@
 				"pulumi-up": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"pulumi-update": {
@@ -29783,7 +29799,7 @@
 				"da": 0,
 				"de": 5,
 				"en": 100,
-				"es": 31,
+				"es": 32,
 				"fa": 0,
 				"fi": 0,
 				"fr": 5,
@@ -31680,6 +31696,7 @@
 				"chpasswd": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -31694,6 +31711,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 2,
+						"it": 2,
 						"ko": 1,
 						"nl": 2
 					}
@@ -32865,6 +32883,11 @@
 						"en": 2
 					}
 				},
+				"evince": {
+					"status": {
+						"en": 2
+					}
+				},
 				"evtest": {
 					"status": {
 						"en": 2,
@@ -33110,6 +33133,7 @@
 				"firewall-cmd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -33597,24 +33621,28 @@
 				"grub-bios-setup": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"grub-editenv": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
 				"grub-file": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"grub-install": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"tr": 2,
 						"zh": 1
@@ -33631,12 +33659,19 @@
 				},
 				"grub-mkrescue": {
 					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
+				"grub-mount": {
+					"status": {
 						"en": 2
 					}
 				},
 				"grub-reboot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -33644,18 +33679,21 @@
 				"grub-script-check": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"grub-set-default": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"grub2-mkpasswd-pbkdf2": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"tr": 2
 					}
 				},
@@ -34945,6 +34983,11 @@
 					}
 				},
 				"lslogins": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lsmem": {
 					"status": {
 						"en": 2
 					}
@@ -37146,6 +37189,11 @@
 						"en": 2
 					}
 				},
+				"pvchange": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pvcreate": {
 					"status": {
 						"en": 2,
@@ -39221,6 +39269,11 @@
 					}
 				},
 				"systemctl-daemon-reload": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-default": {
 					"status": {
 						"en": 2
 					}
