@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 11-Oct-25 02:00:09 CEST",
+	"last_update": "Sunday, 12-Oct-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5365,7 +5365,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"crane-append": {
@@ -7500,6 +7500,12 @@
 						"nl": 2
 					}
 				},
+				"eim": {
+					"status": {
+						"en": 2,
+						"zh": 2
+					}
+				},
 				"eksctl": {
 					"status": {
 						"en": 2,
@@ -9099,7 +9105,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"gcrane-copy": {
@@ -20572,7 +20578,7 @@
 						"fr": 2,
 						"id": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"zh": 1
 					}
@@ -22424,7 +22430,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"pulumi-update": {
@@ -25676,6 +25682,11 @@
 						"ko": 2
 					}
 				},
+				"talostcl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tar": {
 					"status": {
 						"ar": 2,
@@ -26841,7 +26852,7 @@
 						"fa": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ru": 2,
 						"ta": 1,
@@ -29813,7 +29824,7 @@
 				"ne": 0,
 				"nl": 15,
 				"no": 0,
-				"pl": 9,
+				"pl": 8,
 				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
@@ -36276,11 +36287,21 @@
 						"en": 2
 					}
 				},
+				"pacconf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pacdiff": {
 					"status": {
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"pacfile": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pacgraph": {
@@ -36524,6 +36545,11 @@
 					}
 				},
 				"pacrepairdb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pacrepairfile": {
 					"status": {
 						"en": 2
 					}
@@ -38541,6 +38567,11 @@
 						"nl": 2
 					}
 				},
+				"semanage-user": {
+					"status": {
+						"en": 2
+					}
+				},
 				"semodule": {
 					"status": {
 						"en": 2
@@ -39245,27 +39276,32 @@
 				},
 				"systemctl-add-requires": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-add-wants": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-bind": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-cancel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-cat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-daemon-reload": {
@@ -39356,6 +39392,11 @@
 					}
 				},
 				"systemctl-preset": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-preset-all": {
 					"status": {
 						"en": 2
 					}
@@ -46600,7 +46641,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"ta": 1,
