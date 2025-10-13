@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 12-Oct-25 02:00:09 CEST",
+	"last_update": "Monday, 13-Oct-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3422,6 +3422,11 @@
 						"zh_TW": 2
 					}
 				},
+				"brew-abv": {
+					"status": {
+						"en": 2
+					}
+				},
 				"brew-autoremove": {
 					"status": {
 						"en": 2,
@@ -3439,6 +3444,11 @@
 						"it": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"brew-info": {
+					"status": {
+						"en": 2
 					}
 				},
 				"brew-install": {
@@ -4780,6 +4790,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"cluster": {
+					"status": {
+						"en": 2
 					}
 				},
 				"clusterdb": {
@@ -6230,6 +6245,11 @@
 						"ko": 2
 					}
 				},
+				"diffimg": {
+					"status": {
+						"en": 2
+					}
+				},
 				"diffoscope": {
 					"status": {
 						"en": 2,
@@ -6260,6 +6280,11 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"tr": 1
+					}
+				},
+				"dijkstra": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dillo": {
@@ -7180,6 +7205,11 @@
 						"en": 2,
 						"ko": 2,
 						"pl": 2
+					}
+				},
+				"dotty": {
+					"status": {
+						"en": 2
 					}
 				},
 				"doxygen": {
@@ -9395,6 +9425,16 @@
 						"ko": 2
 					}
 				},
+				"gh-at": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-attestation": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-auth": {
 					"status": {
 						"en": 2,
@@ -9595,6 +9635,16 @@
 					}
 				},
 				"gh-repo-create": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-rs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-ruleset": {
 					"status": {
 						"en": 2
 					}
@@ -12283,10 +12333,25 @@
 						"zh": 2
 					}
 				},
+				"gvedit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gvgen": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gvim": {
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"gvmap": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gvpack": {
@@ -14709,6 +14774,11 @@
 						"ko": 1
 					}
 				},
+				"kubectl-attach": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-auth": {
 					"status": {
 						"en": 2
@@ -17085,6 +17155,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"mvn-archetype": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mvn-compile": {
@@ -29818,7 +29893,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 74,
+				"ko": 73,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -31474,6 +31549,7 @@
 						"ml": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"uk": 2,
 						"zh": 2
 					}
@@ -34848,7 +34924,8 @@
 				"login": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ru": 2
 					}
 				},
 				"loginctl": {
@@ -36766,7 +36843,8 @@
 				"phar": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"photorec": {
@@ -37220,6 +37298,11 @@
 						"en": 2
 					}
 				},
+				"pvck": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pvcreate": {
 					"status": {
 						"en": 2,
@@ -37328,6 +37411,11 @@
 						"en": 2,
 						"ko": 1,
 						"pt_BR": 1
+					}
+				},
+				"pw-jack": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pw-link": {
@@ -38553,6 +38641,11 @@
 						"en": 2
 					}
 				},
+				"semanage-login": {
+					"status": {
+						"en": 2
+					}
+				},
 				"semanage-permissive": {
 					"status": {
 						"en": 2,
@@ -39362,6 +39455,11 @@
 					}
 				},
 				"systemctl-is-enabled": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-list-automounts": {
 					"status": {
 						"en": 2
 					}
