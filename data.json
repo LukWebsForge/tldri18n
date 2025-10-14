@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 13-Oct-25 02:00:09 CEST",
+	"last_update": "Tuesday, 14-Oct-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1014,6 +1014,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"zh": 2
 					}
 				},
@@ -1227,6 +1228,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 1,
 						"ko": 1,
 						"nl": 2,
@@ -1237,6 +1239,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -1249,6 +1252,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"hi": 2,
 						"id": 2,
 						"ko": 2,
@@ -1276,6 +1280,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -2676,6 +2681,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh_TW": 2
 					}
@@ -2692,6 +2698,7 @@
 				"az-network": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -7484,6 +7491,7 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"sr": 1,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 1
 					}
@@ -8358,6 +8366,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"tr": 2,
 						"uk": 2,
 						"zh": 2
 					}
@@ -9399,6 +9408,16 @@
 						"nl": 2
 					}
 				},
+				"gh-a11y": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gh-accessibility": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-agent": {
 					"status": {
 						"en": 2,
@@ -9583,6 +9602,11 @@
 						"nl": 2
 					}
 				},
+				"gh-pr-checks": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-pr-comment": {
 					"status": {
 						"en": 2
@@ -9597,7 +9621,7 @@
 				"gh-pr-merge": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"gh-pr-view": {
@@ -14801,6 +14825,11 @@
 						"ko": 2
 					}
 				},
+				"kubectl-debug": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-delete": {
 					"status": {
 						"de": 2,
@@ -18133,6 +18162,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"npm-prefix": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-query": {
@@ -29251,6 +29285,21 @@
 						"zh": 2
 					}
 				},
+				"zapier-test": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zapier-validate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zapier-versions": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zbarimg": {
 					"status": {
 						"en": 2,
@@ -34482,6 +34531,7 @@
 						"es": 2,
 						"ko": 2,
 						"pl": 2,
+						"ru": 2,
 						"tr": 2,
 						"uk": 1
 					}
@@ -39399,7 +39449,8 @@
 				},
 				"systemctl-daemon-reload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-default": {
@@ -39410,33 +39461,39 @@
 				"systemctl-disable": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"systemctl-edit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-emergency": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-enable": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"systemctl-exit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-freeze": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-get-default": {
@@ -39446,15 +39503,33 @@
 				},
 				"systemctl-halt": {
 					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
+				"systemctl-hibernate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-hybrid-sleep": {
+					"status": {
 						"en": 2
 					}
 				},
 				"systemctl-is-active": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-is-enabled": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
+				"systemctl-is-system-running": {
 					"status": {
 						"en": 2
 					}
@@ -46583,7 +46658,7 @@
 				"es": 92,
 				"fa": 1,
 				"fi": 0,
-				"fr": 8,
+				"fr": 11,
 				"hi": 29,
 				"id": 17,
 				"it": 14,
@@ -47019,6 +47094,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"hi": 2,
 						"ko": 2,
 						"nl": 2
@@ -47028,6 +47104,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"hi": 2,
 						"ko": 2,
 						"nl": 2
@@ -47145,6 +47222,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"hi": 2,
 						"id": 2,
 						"it": 2,
@@ -47238,6 +47316,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"hi": 2,
 						"id": 2,
 						"it": 2,
@@ -47830,6 +47909,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"hi": 2,
 						"ja": 2,
 						"ko": 2,
@@ -48737,6 +48817,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"pl": 2,
 						"ru": 2
