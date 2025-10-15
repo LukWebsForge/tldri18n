@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 14-Oct-25 02:00:09 CEST",
+	"last_update": "Wednesday, 15-Oct-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3250,7 +3250,8 @@
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"blackfire": {
@@ -5289,7 +5290,7 @@
 						"ta": 2,
 						"tr": 1,
 						"zh": 2,
-						"zh_TW": 1
+						"zh_TW": 2
 					}
 				},
 				"cpan": {
@@ -8895,6 +8896,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"fx": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fzf": {
@@ -19946,7 +19952,8 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
-						"ko": 2
+						"ko": 1,
+						"nl": 2
 					}
 				},
 				"perl-rename": {
@@ -19982,6 +19989,21 @@
 					}
 				},
 				"pg_archivecleanup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_checksums": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_createsubscriber": {
 					"status": {
 						"en": 2
 					}
@@ -20027,6 +20049,11 @@
 					}
 				},
 				"pg_test_timing": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_upgrade": {
 					"status": {
 						"en": 2
 					}
@@ -20815,7 +20842,8 @@
 				"pipx": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"pixi": {
@@ -25791,7 +25819,7 @@
 						"ko": 2
 					}
 				},
-				"talostcl": {
+				"talosctl": {
 					"status": {
 						"en": 2
 					}
@@ -27316,7 +27344,8 @@
 				},
 				"uv-venv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"uv-version": {
@@ -29264,11 +29293,21 @@
 						"zh": 2
 					}
 				},
+				"zapier-history": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zapier-init": {
 					"status": {
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"zapier-login": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zapier-push": {
@@ -32936,6 +32975,11 @@
 						"ko": 2
 					}
 				},
+				"eog": {
+					"status": {
+						"en": 2
+					}
+				},
 				"eopkg": {
 					"status": {
 						"en": 2,
@@ -35263,6 +35307,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"lvrename": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lvresize": {
@@ -39507,6 +39556,11 @@
 						"es": 2
 					}
 				},
+				"systemctl-help": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-hibernate": {
 					"status": {
 						"en": 2
@@ -39530,6 +39584,11 @@
 					}
 				},
 				"systemctl-is-system-running": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-kill": {
 					"status": {
 						"en": 2
 					}
@@ -46658,7 +46717,7 @@
 				"es": 92,
 				"fa": 1,
 				"fi": 0,
-				"fr": 11,
+				"fr": 12,
 				"hi": 29,
 				"id": 17,
 				"it": 14,
@@ -46673,7 +46732,7 @@
 				"pt_BR": 12,
 				"pt_PT": 3,
 				"ro": 0,
-				"ru": 7,
+				"ru": 9,
 				"sh": 0,
 				"sr": 0,
 				"sv": 4,
@@ -46817,6 +46876,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
+						"ru": 2,
 						"ta": 1,
 						"zh": 1,
 						"zh_TW": 1
@@ -47042,7 +47102,8 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"cinst": {
@@ -47165,6 +47226,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 1,
+						"fr": 2,
 						"hi": 2,
 						"id": 2,
 						"it": 1,
@@ -47537,6 +47599,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -48412,6 +48475,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -48450,6 +48514,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -49038,6 +49103,7 @@
 						"es": 2,
 						"ja": 2,
 						"ko": 2,
+						"ru": 2,
 						"ta": 2,
 						"zh": 2,
 						"zh_TW": 2
