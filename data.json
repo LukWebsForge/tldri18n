@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 15-Oct-25 02:00:09 CEST",
+	"last_update": "Thursday, 16-Oct-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8545,8 +8545,8 @@
 				"fnm": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"fold": {
@@ -17202,6 +17202,11 @@
 						"en": 2
 					}
 				},
+				"mvn-dependency": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mvn-install": {
 					"status": {
 						"en": 2
@@ -18097,6 +18102,11 @@
 						"nl": 2
 					}
 				},
+				"npm-help": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-home": {
 					"status": {
 						"en": 2,
@@ -18823,6 +18833,11 @@
 						"ar": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"opencode": {
+					"status": {
+						"en": 2
 					}
 				},
 				"openconnect": {
@@ -19917,6 +19932,11 @@
 						"ko": 2
 					}
 				},
+				"pecl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"peco": {
 					"status": {
 						"en": 2,
@@ -19993,6 +20013,11 @@
 						"en": 2
 					}
 				},
+				"pg_basebackup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pg_checksums": {
 					"status": {
 						"en": 2
@@ -20054,6 +20079,11 @@
 					}
 				},
 				"pg_upgrade": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_verifybackup": {
 					"status": {
 						"en": 2
 					}
@@ -20425,6 +20455,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pie": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pigz": {
@@ -25487,7 +25522,7 @@
 						"es": 1,
 						"ko": 1,
 						"nl": 2,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -26536,7 +26571,7 @@
 						"en": 2,
 						"fr": 1,
 						"ko": 1,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"tqdm": {
@@ -27620,6 +27655,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"vet": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vf": {
@@ -29759,6 +29799,11 @@
 			},
 			"pages": {
 				"cd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"chdir": {
 					"status": {
 						"en": 2
 					}
@@ -35687,6 +35732,7 @@
 				"mkfs.fat": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
@@ -39128,6 +39174,16 @@
 						"nl": 2
 					}
 				},
+				"spa-acp-tool": {
+					"status": {
+						"en": 2
+					}
+				},
+				"spa-inspect": {
+					"status": {
+						"en": 2
+					}
+				},
 				"speaker-test": {
 					"status": {
 						"en": 2,
@@ -39496,6 +39552,11 @@
 						"es": 2
 					}
 				},
+				"systemctl-daemon-reexec": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-daemon-reload": {
 					"status": {
 						"en": 2,
@@ -39583,6 +39644,11 @@
 						"es": 2
 					}
 				},
+				"systemctl-is-failed": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-is-system-running": {
 					"status": {
 						"en": 2
@@ -39599,6 +39665,11 @@
 					}
 				},
 				"systemctl-list-jobs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-list-sockets": {
 					"status": {
 						"en": 2
 					}
@@ -40769,6 +40840,11 @@
 						"en": 2
 					}
 				},
+				"vgcfgrestore": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vgchange": {
 					"status": {
 						"en": 2,
@@ -41922,7 +41998,7 @@
 				"sr": 0,
 				"sv": 0,
 				"ta": 40,
-				"th": 45,
+				"th": 44,
 				"tr": 39,
 				"uk": 0,
 				"uz": 0,
@@ -42370,6 +42446,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2
+					}
+				},
+				"cvfsck": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dark-mode": {
@@ -46712,13 +46793,13 @@
 				"ca": 2,
 				"cs": 0,
 				"da": 1,
-				"de": 17,
+				"de": 16,
 				"en": 100,
-				"es": 92,
+				"es": 91,
 				"fa": 1,
 				"fi": 0,
 				"fr": 12,
-				"hi": 29,
+				"hi": 28,
 				"id": 17,
 				"it": 14,
 				"ja": 15,
@@ -46741,7 +46822,7 @@
 				"tr": 3,
 				"uk": 2,
 				"uz": 0,
-				"zh": 41,
+				"zh": 40,
 				"zh_TW": 15
 			},
 			"pages": {
@@ -48198,6 +48279,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"powercfg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"powershell": {
