@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 16-Oct-25 02:00:09 CEST",
+	"last_update": "Friday, 17-Oct-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -614,7 +614,7 @@
 				"id": 8,
 				"it": 9,
 				"ja": 3,
-				"ko": 83,
+				"ko": 82,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -1057,6 +1057,11 @@
 						"zh": 2
 					}
 				},
+				"adb-kill-server": {
+					"status": {
+						"en": 2
+					}
+				},
 				"adb-logcat": {
 					"status": {
 						"en": 2,
@@ -1111,6 +1116,11 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"adb-start-server": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adb-uninstall": {
@@ -3467,6 +3477,11 @@
 						"zh": 2
 					}
 				},
+				"brew-leaves": {
+					"status": {
+						"en": 2
+					}
+				},
 				"brew-list": {
 					"status": {
 						"en": 2,
@@ -3734,6 +3749,7 @@
 				"bzip2": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -3748,6 +3764,7 @@
 				"bzip3": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -8778,6 +8795,11 @@
 						"en": 2
 					}
 				},
+				"freeze": {
+					"status": {
+						"en": 2
+					}
+				},
 				"freshclam": {
 					"status": {
 						"en": 2,
@@ -10613,6 +10635,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 2
+					}
+				},
+				"git-get-tar-commit-id": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-gh-pages": {
@@ -12681,11 +12708,11 @@
 				"history": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"id": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"ru": 1
@@ -17212,6 +17239,11 @@
 						"en": 2
 					}
 				},
+				"mvn-package": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mvn-site": {
 					"status": {
 						"en": 2
@@ -21594,6 +21626,11 @@
 						"en": 2
 					}
 				},
+				"poetry-sync": {
+					"status": {
+						"en": 2
+					}
+				},
 				"poetry-version": {
 					"status": {
 						"en": 2
@@ -22907,6 +22944,11 @@
 					}
 				},
 				"qemu-system-x86_64": {
+					"status": {
+						"en": 2
+					}
+				},
+				"qmake": {
 					"status": {
 						"en": 2
 					}
@@ -29274,6 +29316,11 @@
 						"zh": 2
 					}
 				},
+				"ytmdl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"yuvsplittoppm": {
 					"status": {
 						"en": 2,
@@ -30017,7 +30064,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 5,
-				"en": 100,
+				"en": 99,
 				"es": 32,
 				"fa": 0,
 				"fi": 0,
@@ -30030,7 +30077,7 @@
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
-				"nl": 15,
+				"nl": 14,
 				"no": 0,
 				"pl": 8,
 				"pt_BR": 10,
@@ -30599,7 +30646,8 @@
 						"ta": 2,
 						"tr": 2,
 						"uk": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"apt-add-repository": {
@@ -30683,6 +30731,7 @@
 				},
 				"apt-install": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2,
 						"ru": 2
@@ -32688,6 +32737,11 @@
 						"nl": 2,
 						"ru": 2,
 						"tr": 2
+					}
+				},
+				"dnf-versionlock": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dnf5": {
@@ -37586,6 +37640,11 @@
 						"ko": 2
 					}
 				},
+				"pw-mididump": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pw-mon": {
 					"status": {
 						"en": 2,
@@ -38036,8 +38095,7 @@
 				},
 				"qmake": {
 					"status": {
-						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"qmrestore": {
@@ -39670,6 +39728,11 @@
 					}
 				},
 				"systemctl-list-sockets": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-list-timers": {
 					"status": {
 						"en": 2
 					}
