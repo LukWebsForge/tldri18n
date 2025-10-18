@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 17-Oct-25 02:00:11 CEST",
+	"last_update": "Saturday, 18-Oct-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4443,6 +4443,7 @@
 				"chgrp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -5217,6 +5218,7 @@
 				"copr-cli": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -30897,6 +30899,7 @@
 				},
 				"ark": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -32702,6 +32705,7 @@
 				"dnf-download": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"ru": 2,
 						"tr": 2
