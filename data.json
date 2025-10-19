@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 18-Oct-25 02:00:11 CEST",
+	"last_update": "Sunday, 19-Oct-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3442,7 +3442,8 @@
 				},
 				"brew-abv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"brew-autoremove": {
@@ -5107,6 +5108,11 @@
 					}
 				},
 				"conda-compare": {
+					"status": {
+						"en": 2
+					}
+				},
+				"conda-config": {
 					"status": {
 						"en": 2
 					}
@@ -9440,7 +9446,8 @@
 				},
 				"gh-a11y": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gh-accessibility": {
@@ -9476,7 +9483,8 @@
 				},
 				"gh-at": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gh-attestation": {
@@ -9695,7 +9703,8 @@
 				},
 				"gh-rs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gh-ruleset": {
@@ -12714,7 +12723,7 @@
 						"id": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"ru": 1
@@ -13214,7 +13223,8 @@
 				},
 				"ic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"ical": {
@@ -20095,11 +20105,21 @@
 						"ko": 2
 					}
 				},
+				"pg_receivewal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pg_restore": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"pg_rewind": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pg_test_fsync": {
@@ -20118,6 +20138,11 @@
 					}
 				},
 				"pg_verifybackup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_waldump": {
 					"status": {
 						"en": 2
 					}
@@ -21594,6 +21619,11 @@
 					}
 				},
 				"poetry-env": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-help": {
 					"status": {
 						"en": 2
 					}
@@ -26129,11 +26159,31 @@
 						"ko": 2
 					}
 				},
+				"tgcloud": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tginfo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tgpt": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"tgsend": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tgutil": {
+					"status": {
+						"en": 2
 					}
 				},
 				"theharvester": {
@@ -29716,6 +29766,11 @@
 						"zh": 2
 					}
 				},
+				"zrok": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zrun": {
 					"status": {
 						"en": 2,
@@ -29814,7 +29869,7 @@
 				"ca": 0,
 				"cs": 0,
 				"da": 0,
-				"de": 0,
+				"de": 25,
 				"en": 100,
 				"es": 0,
 				"fa": 0,
@@ -29828,7 +29883,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 0,
+				"nl": 25,
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 0,
@@ -29849,10 +29904,22 @@
 			"pages": {
 				"cd": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
 				"chdir": {
+					"status": {
+						"en": 2,
+						"nl": 2
+					}
+				},
+				"cls": {
+					"status": {
+						"en": 2
+					}
+				},
+				"path": {
 					"status": {
 						"en": 2
 					}
@@ -30075,7 +30142,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 73,
+				"ko": 72,
 				"lo": 0,
 				"ml": 1,
 				"ne": 0,
@@ -31993,6 +32060,11 @@
 						"en": 2
 					}
 				},
+				"cliphist": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cloud-init": {
 					"status": {
 						"en": 2,
@@ -32741,6 +32813,11 @@
 						"nl": 2,
 						"ru": 2,
 						"tr": 2
+					}
+				},
+				"dnf-reposync": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dnf-versionlock": {
@@ -35018,6 +35095,31 @@
 						"en": 2
 					}
 				},
+				"limine": {
+					"status": {
+						"en": 2
+					}
+				},
+				"limine-enroll-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"limine-entry-tool": {
+					"status": {
+						"en": 2
+					}
+				},
+				"limine-scan": {
+					"status": {
+						"en": 2
+					}
+				},
+				"limine-snapper-sync": {
+					"status": {
+						"en": 2
+					}
+				},
 				"line": {
 					"status": {
 						"ca": 2,
@@ -35695,6 +35797,11 @@
 					}
 				},
 				"mhwd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mhwd-kernel": {
 					"status": {
 						"en": 2
 					}
@@ -37601,6 +37708,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"pw-container": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pw-dot": {
@@ -39784,6 +39896,11 @@
 					}
 				},
 				"systemctl-restart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-set-default": {
 					"status": {
 						"en": 2
 					}
