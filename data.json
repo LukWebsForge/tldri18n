@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 19-Oct-25 02:00:11 CEST",
+	"last_update": "Monday, 20-Oct-25 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -613,7 +613,7 @@
 				"hi": 2,
 				"id": 8,
 				"it": 9,
-				"ja": 3,
+				"ja": 2,
 				"ko": 82,
 				"lo": 0,
 				"ml": 0,
@@ -633,7 +633,7 @@
 				"tr": 5,
 				"uk": 1,
 				"uz": 0,
-				"zh": 16,
+				"zh": 15,
 				"zh_TW": 1
 			},
 			"pages": {
@@ -2097,6 +2097,11 @@
 						"ko": 1,
 						"nl": 2,
 						"zh": 1
+					}
+				},
+				"automake": {
+					"status": {
+						"en": 2
 					}
 				},
 				"autopep8": {
@@ -14324,7 +14329,7 @@
 						"en": 2,
 						"fr": 1,
 						"ko": 2,
-						"ru": 1,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -14858,6 +14863,11 @@
 						"en": 2
 					}
 				},
+				"kubectl-cluster-info": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-config": {
 					"status": {
 						"en": 2,
@@ -14905,6 +14915,11 @@
 						"en": 2
 					}
 				},
+				"kubectl-explain": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-expose": {
 					"status": {
 						"en": 2,
@@ -14938,6 +14953,11 @@
 					}
 				},
 				"kubectl-port-forward": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kubectl-proxy": {
 					"status": {
 						"en": 2
 					}
@@ -17636,6 +17656,7 @@
 				"nice": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -20052,6 +20073,11 @@
 						"ko": 2
 					}
 				},
+				"pg_amcheck": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pg_archivecleanup": {
 					"status": {
 						"en": 2
@@ -20067,7 +20093,17 @@
 						"en": 2
 					}
 				},
+				"pg_combinebackup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pg_config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_controldata": {
 					"status": {
 						"en": 2
 					}
@@ -21609,6 +21645,11 @@
 					}
 				},
 				"poetry-check": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-config": {
 					"status": {
 						"en": 2
 					}
@@ -37239,6 +37280,11 @@
 						"ru": 2
 					}
 				},
+				"pipewire-pulse": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pirut": {
 					"status": {
 						"en": 2
@@ -39598,6 +39644,11 @@
 						"tr": 2
 					}
 				},
+				"sulogin": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sview": {
 					"status": {
 						"en": 2,
@@ -41011,6 +41062,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ventoy": {
+					"status": {
+						"en": 2
 					}
 				},
 				"veracrypt": {
@@ -46979,7 +47035,7 @@
 				"da": 1,
 				"de": 16,
 				"en": 100,
-				"es": 91,
+				"es": 90,
 				"fa": 1,
 				"fi": 0,
 				"fr": 12,
@@ -46987,7 +47043,7 @@
 				"id": 17,
 				"it": 14,
 				"ja": 15,
-				"ko": 90,
+				"ko": 89,
 				"lo": 3,
 				"ml": 2,
 				"ne": 3,
@@ -47001,7 +47057,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 4,
-				"ta": 19,
+				"ta": 18,
 				"th": 6,
 				"tr": 3,
 				"uk": 2,
@@ -49231,6 +49287,16 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"ventoy": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ventoy2disk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ver": {
