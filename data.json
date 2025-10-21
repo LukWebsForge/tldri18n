@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 20-Oct-25 02:00:09 CEST",
+	"last_update": "Tuesday, 21-Oct-25 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1116,6 +1116,11 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"adb-shell-pm-list-packages": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adb-start-server": {
@@ -2769,6 +2774,7 @@
 				"az-storage-account": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -2781,6 +2787,7 @@
 				"az-storage-container": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -3472,7 +3479,8 @@
 				},
 				"brew-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"brew-install": {
@@ -4741,6 +4749,11 @@
 						"ko": 2
 					}
 				},
+				"cli4": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cli53": {
 					"status": {
 						"en": 2,
@@ -5145,7 +5158,17 @@
 						"en": 2
 					}
 				},
+				"conda-export": {
+					"status": {
+						"en": 2
+					}
+				},
 				"conda-info": {
+					"status": {
+						"en": 2
+					}
+				},
+				"conda-init": {
 					"status": {
 						"en": 2
 					}
@@ -5157,6 +5180,11 @@
 					}
 				},
 				"conda-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"conda-notices": {
 					"status": {
 						"en": 2
 					}
@@ -7527,6 +7555,11 @@
 						"zh_TW": 1
 					}
 				},
+				"ecpg": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ect": {
 					"status": {
 						"en": 2,
@@ -9430,6 +9463,7 @@
 				"getuserspns.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -9494,7 +9528,8 @@
 				},
 				"gh-attestation": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gh-auth": {
@@ -10579,6 +10614,11 @@
 						"uk": 1
 					}
 				},
+				"git-filter-branch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-filter-repo": {
 					"status": {
 						"en": 2,
@@ -10886,6 +10926,11 @@
 						"ko": 2
 					}
 				},
+				"git-merge-tree": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-mergetool": {
 					"status": {
 						"en": 2,
@@ -11125,6 +11170,11 @@
 						"fr": 2,
 						"ko": 2,
 						"tr": 2
+					}
+				},
+				"git-rerere": {
+					"status": {
+						"en": 2
 					}
 				},
 				"git-reset": {
@@ -12138,6 +12188,7 @@
 						"ar": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
@@ -12278,6 +12329,7 @@
 				"groups": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -13177,7 +13229,8 @@
 				"ibmcloud": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"ibmcloud-api": {
@@ -14933,6 +14986,11 @@
 						"ko": 1
 					}
 				},
+				"kubectl-kustomize": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-label": {
 					"status": {
 						"en": 2,
@@ -16212,6 +16270,7 @@
 				"make": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
@@ -16385,6 +16444,7 @@
 				"md5sum": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
@@ -16964,6 +17024,7 @@
 				"mpic++": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -16999,6 +17060,7 @@
 				"mpirun": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -17028,6 +17090,7 @@
 				"mqtt_check.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -18800,6 +18863,11 @@
 						"ko": 2
 					}
 				},
+				"oh-my-posh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ohdear-cli": {
 					"status": {
 						"en": 2,
@@ -18850,6 +18918,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"oneliner": {
+					"status": {
+						"en": 2
 					}
 				},
 				"onionsearch": {
@@ -20142,6 +20215,16 @@
 					}
 				},
 				"pg_receivewal": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_recvlogical": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pg_resetwal": {
 					"status": {
 						"en": 2
 					}
@@ -21755,6 +21838,11 @@
 						"ko": 2
 					}
 				},
+				"postgres": {
+					"status": {
+						"en": 2
+					}
+				},
 				"powershell": {
 					"status": {
 						"en": 2,
@@ -22699,7 +22787,8 @@
 				},
 				"pulumi-stack-history": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"pulumi-state": {
@@ -25988,7 +26077,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"ru": 1,
+						"ru": 2,
 						"tr": 2,
 						"uk": 2,
 						"zh": 2
@@ -26136,7 +26225,8 @@
 				"tesseract": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"test": {
@@ -27553,6 +27643,11 @@
 						"es": 2
 					}
 				},
+				"vagrant-destroy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vagrant-halt": {
 					"status": {
 						"en": 2
@@ -27565,7 +27660,22 @@
 						"fr": 2
 					}
 				},
+				"vagrant-reload": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vagrant-snapshot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vagrant-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vagrant-suspend": {
 					"status": {
 						"en": 2
 					}
@@ -30168,7 +30278,7 @@
 		"linux": {
 			"progress": {
 				"ar": 1,
-				"bn": 0,
+				"bn": 1,
 				"bs": 0,
 				"ca": 4,
 				"cs": 0,
@@ -30434,6 +30544,7 @@
 				},
 				"abrt": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"nl": 2,
@@ -30762,6 +30873,7 @@
 				},
 				"apt-add-repository": {
 					"status": {
+						"bn": 2,
 						"ca": 1,
 						"de": 1,
 						"en": 2,
@@ -30779,6 +30891,7 @@
 				},
 				"apt-cache": {
 					"status": {
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -30796,6 +30909,7 @@
 				},
 				"apt-clone": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2
@@ -30803,6 +30917,7 @@
 				},
 				"apt-file": {
 					"status": {
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -30821,6 +30936,7 @@
 				"apt-get": {
 					"status": {
 						"ar": 2,
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -31844,7 +31960,8 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"uk": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cbatticon": {
@@ -33547,6 +33664,7 @@
 				},
 				"flameshot": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"fr": 1,
 						"ko": 2,
@@ -33556,6 +33674,7 @@
 				},
 				"flash": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -34069,6 +34188,11 @@
 						"en": 2
 					}
 				},
+				"grub-probe": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grub-reboot": {
 					"status": {
 						"en": 2,
@@ -34482,6 +34606,11 @@
 						"pl": 2
 					}
 				},
+				"installpkg": {
+					"status": {
+						"en": 2
+					}
+				},
 				"instaloader": {
 					"status": {
 						"en": 2,
@@ -34567,6 +34696,11 @@
 						"tr": 2
 					}
 				},
+				"ip-netconf": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ip-route": {
 					"status": {
 						"en": 2,
@@ -34637,6 +34771,11 @@
 						"es": 2,
 						"ko": 2,
 						"tr": 2
+					}
+				},
+				"ip-tuntap": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ip6tables": {
@@ -37540,6 +37679,7 @@
 				},
 				"powertop": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"ko": 2,
 						"pl": 1
@@ -38424,6 +38564,11 @@
 					}
 				},
 				"remote-viewer": {
+					"status": {
+						"en": 2
+					}
+				},
+				"removepkg": {
 					"status": {
 						"en": 2
 					}
@@ -39885,6 +40030,11 @@
 					}
 				},
 				"systemctl-list-automounts": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-list-dependencies": {
 					"status": {
 						"en": 2
 					}
@@ -47034,7 +47184,7 @@
 				"cs": 0,
 				"da": 1,
 				"de": 16,
-				"en": 100,
+				"en": 98,
 				"es": 90,
 				"fa": 1,
 				"fi": 0,
@@ -48889,7 +49039,6 @@
 				},
 				"sc-config": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
@@ -48898,7 +49047,6 @@
 				},
 				"sc-create": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
@@ -48907,7 +49055,6 @@
 				},
 				"sc-delete": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
@@ -48916,7 +49063,6 @@
 				},
 				"sc-query": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
