@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 21-Oct-25 02:00:11 CEST",
+	"last_update": "Wednesday, 22-Oct-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1116,6 +1116,16 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"adb-shell-pm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"adb-shell-pm-list": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adb-shell-pm-list-packages": {
@@ -9491,7 +9501,8 @@
 				},
 				"gh-accessibility": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gh-agent": {
@@ -9904,7 +9915,7 @@
 						"ar": 1,
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"id": 1,
 						"it": 1,
@@ -18571,6 +18582,7 @@
 				"numfmt": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -30318,6 +30330,7 @@
 			"pages": {
 				"a2disconf": {
 					"status": {
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -30335,6 +30348,7 @@
 				},
 				"a2dismod": {
 					"status": {
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -30351,6 +30365,7 @@
 				},
 				"a2dissite": {
 					"status": {
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -32693,6 +32708,7 @@
 						"ko": 2,
 						"nl": 2,
 						"ta": 1,
+						"uk": 2,
 						"zh": 2
 					}
 				},
@@ -33161,7 +33177,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"uk": 2
 					}
 				},
 				"e2freefrag": {
@@ -34771,6 +34788,11 @@
 						"es": 2,
 						"ko": 2,
 						"tr": 2
+					}
+				},
+				"ip-stats": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ip-tuntap": {
@@ -36764,6 +36786,12 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"oma": {
+					"status": {
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"oniux": {
@@ -47183,13 +47211,13 @@
 				"ca": 2,
 				"cs": 0,
 				"da": 1,
-				"de": 16,
-				"en": 98,
+				"de": 17,
+				"en": 100,
 				"es": 90,
 				"fa": 1,
 				"fi": 0,
 				"fr": 12,
-				"hi": 28,
+				"hi": 29,
 				"id": 17,
 				"it": 14,
 				"ja": 15,
@@ -47197,9 +47225,9 @@
 				"lo": 3,
 				"ml": 2,
 				"ne": 3,
-				"nl": 34,
+				"nl": 33,
 				"no": 2,
-				"pl": 16,
+				"pl": 15,
 				"pt_BR": 12,
 				"pt_PT": 3,
 				"ro": 0,
@@ -47207,12 +47235,12 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 4,
-				"ta": 18,
+				"ta": 19,
 				"th": 6,
 				"tr": 3,
 				"uk": 2,
 				"uz": 0,
-				"zh": 40,
+				"zh": 41,
 				"zh_TW": 15
 			},
 			"pages": {
@@ -49035,38 +49063,6 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
-					}
-				},
-				"sc-config": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2
-					}
-				},
-				"sc-create": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2
-					}
-				},
-				"sc-delete": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2
-					}
-				},
-				"sc-query": {
-					"status": {
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2
 					}
 				},
 				"scoop": {
