@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 23-Oct-25 02:00:10 CEST",
+	"last_update": "Friday, 24-Oct-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -633,7 +633,7 @@
 				"tr": 5,
 				"uk": 1,
 				"uz": 0,
-				"zh": 15,
+				"zh": 16,
 				"zh_TW": 1
 			},
 			"pages": {
@@ -3476,6 +3476,11 @@
 						"zh": 2
 					}
 				},
+				"brew-cleanup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"brew-info": {
 					"status": {
 						"en": 2,
@@ -5116,12 +5121,14 @@
 						"es": 2,
 						"it": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"conda-activate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"conda-clean": {
@@ -5148,7 +5155,8 @@
 				},
 				"conda-deactivate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"conda-doctor": {
@@ -5185,7 +5193,8 @@
 				},
 				"conda-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"conda-notices": {
@@ -5209,6 +5218,11 @@
 					}
 				},
 				"conda-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"conda-search": {
 					"status": {
 						"en": 2
 					}
@@ -13264,6 +13278,7 @@
 				},
 				"ibmcloud-api": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -14568,7 +14583,7 @@
 				"kaggle": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"kahlan": {
@@ -16515,6 +16530,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"melt": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mesg": {
@@ -24638,6 +24658,11 @@
 						"ko": 2
 					}
 				},
+				"sequin": {
+					"status": {
+						"en": 2
+					}
+				},
 				"serialver": {
 					"status": {
 						"en": 2,
@@ -27571,7 +27596,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"uv-build": {
@@ -27586,7 +27612,8 @@
 				},
 				"uv-export": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"uv-help": {
@@ -27607,7 +27634,8 @@
 				},
 				"uv-pip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"uv-publish": {
@@ -27642,7 +27670,8 @@
 				},
 				"uv-sync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"uv-tool": {
@@ -30093,7 +30122,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 25,
+				"nl": 50,
 				"no": 0,
 				"pl": 0,
 				"pt_BR": 0,
@@ -30115,7 +30144,8 @@
 				"cd": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"chdir": {
