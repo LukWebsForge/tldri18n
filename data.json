@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 25-Oct-25 02:00:10 CEST",
+	"last_update": "Sunday, 26-Oct-25 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5227,6 +5227,11 @@
 						"en": 2
 					}
 				},
+				"confettysh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"consul": {
 					"status": {
 						"en": 2,
@@ -6577,6 +6582,21 @@
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
+					}
+				},
+				"docker-compose-down": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-compose-logs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-compose-up": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-container": {
@@ -15005,6 +15025,11 @@
 					"status": {
 						"en": 2,
 						"ko": 1
+					}
+				},
+				"kubectl-events": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kubectl-exec": {
@@ -28766,6 +28791,11 @@
 						"ko": 2
 					}
 				},
+				"wishlist": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wkhtmltopdf": {
 					"status": {
 						"en": 2,
@@ -41327,6 +41357,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"valheim": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vcgencmd": {
