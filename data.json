@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 26-Oct-25 02:00:10 CEST",
+	"last_update": "Monday, 27-Oct-25 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -633,7 +633,7 @@
 				"tr": 5,
 				"uk": 1,
 				"uz": 0,
-				"zh": 16,
+				"zh": 15,
 				"zh_TW": 1
 			},
 			"pages": {
@@ -2680,6 +2680,7 @@
 				"az-image": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -2729,6 +2730,7 @@
 				"az-provider": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -2830,6 +2832,7 @@
 				"az-version": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -3454,6 +3457,7 @@
 				"brew-abv": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -3523,6 +3527,7 @@
 				"brew-remove": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -3530,6 +3535,7 @@
 				"brew-rm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -6022,7 +6028,7 @@
 				"dalfox": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"daps": {
@@ -7895,7 +7901,8 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2,
-						"pl": 2
+						"pl": 2,
+						"pt_BR": 2
 					}
 				},
 				"espanso": {
@@ -9539,6 +9546,7 @@
 				"gh-agent": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -9565,6 +9573,7 @@
 				"gh-at": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -9994,6 +10003,7 @@
 				"git-alias": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"pl": 2,
@@ -10019,6 +10029,7 @@
 				"git-annex": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -13346,6 +13357,7 @@
 				"ic": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -17413,6 +17425,16 @@
 						"en": 2
 					}
 				},
+				"mvn-deploy": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mvn-generate-sources": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mvn-install": {
 					"status": {
 						"en": 2
@@ -18301,6 +18323,11 @@
 						"nl": 2
 					}
 				},
+				"npm-explore": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-find-dupes": {
 					"status": {
 						"en": 2,
@@ -18319,11 +18346,21 @@
 						"en": 2
 					}
 				},
+				"npm-help-search": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-home": {
 					"status": {
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"npm-hook": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-init": {
@@ -18402,6 +18439,16 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"npm-rb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-rebuild": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-restart": {
@@ -18557,6 +18604,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
@@ -21859,6 +21907,11 @@
 					}
 				},
 				"poetry-self": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-shell": {
 					"status": {
 						"en": 2
 					}
@@ -27221,6 +27274,11 @@
 						"ko": 2
 					}
 				},
+				"tv": {
+					"status": {
+						"en": 2
+					}
+				},
 				"twine": {
 					"status": {
 						"en": 2,
@@ -30140,7 +30198,7 @@
 				"da": 0,
 				"de": 25,
 				"en": 100,
-				"es": 0,
+				"es": 25,
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
@@ -30181,6 +30239,7 @@
 				"chdir": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -30414,7 +30473,7 @@
 				"ja": 0,
 				"ko": 72,
 				"lo": 0,
-				"ml": 1,
+				"ml": 0,
 				"ne": 0,
 				"nl": 14,
 				"no": 0,
@@ -32225,6 +32284,7 @@
 				"chattr": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 1,
 						"pt_BR": 1
 					}
@@ -37290,6 +37350,11 @@
 						"ko": 2
 					}
 				},
+				"palworld": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pamac": {
 					"status": {
 						"en": 2,
@@ -37330,12 +37395,12 @@
 				},
 				"paru": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"es": 1,
+						"ko": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"pasuspender": {
