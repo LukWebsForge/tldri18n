@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 27-Oct-25 01:00:12 CET",
+	"last_update": "Tuesday, 28-Oct-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -11217,10 +11217,10 @@
 				"git-repack": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"tr": 2
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"git-repl": {
@@ -16265,7 +16265,7 @@
 						"es": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -18323,6 +18323,11 @@
 						"nl": 2
 					}
 				},
+				"npm-explain": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-explore": {
 					"status": {
 						"en": 2
@@ -18377,6 +18382,11 @@
 						"tr": 2
 					}
 				},
+				"npm-link": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-list": {
 					"status": {
 						"en": 2,
@@ -18429,7 +18439,17 @@
 						"nl": 2
 					}
 				},
+				"npm-pack": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-prefix": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-prune": {
 					"status": {
 						"en": 2
 					}
@@ -24044,6 +24064,11 @@
 						"ko": 2
 					}
 				},
+				"rpk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rr": {
 					"status": {
 						"en": 2,
@@ -26178,7 +26203,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"sh": 1,
 						"zh": 1
@@ -27831,6 +27856,11 @@
 					}
 				},
 				"vagrant-reload": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vagrant-resume": {
 					"status": {
 						"en": 2
 					}
@@ -30682,10 +30712,10 @@
 				"aa-status": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1
 					}
 				},
 				"aa-teardown": {
@@ -31406,7 +31436,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1
 					}
 				},
@@ -34519,7 +34549,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -36431,7 +36461,7 @@
 				"module": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"mokutil": {
@@ -47411,7 +47441,7 @@
 				"da": 1,
 				"de": 16,
 				"en": 100,
-				"es": 90,
+				"es": 89,
 				"fa": 1,
 				"fi": 0,
 				"fr": 12,
@@ -47419,11 +47449,11 @@
 				"id": 17,
 				"it": 14,
 				"ja": 15,
-				"ko": 88,
+				"ko": 87,
 				"lo": 3,
 				"ml": 2,
 				"ne": 3,
-				"nl": 33,
+				"nl": 32,
 				"no": 2,
 				"pl": 14,
 				"pt_BR": 12,
@@ -47433,7 +47463,7 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 4,
-				"ta": 19,
+				"ta": 18,
 				"th": 6,
 				"tr": 3,
 				"uk": 2,
@@ -48327,6 +48357,11 @@
 						"nl": 2
 					}
 				},
+				"gcb": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gcrane-completion": {
 					"status": {
 						"en": 2,
@@ -48355,6 +48390,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"get-clipboard": {
+					"status": {
+						"en": 2
 					}
 				},
 				"get-command": {
@@ -49270,7 +49310,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"scoop": {
