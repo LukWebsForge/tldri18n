@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 29-Oct-25 01:00:09 CET",
+	"last_update": "Thursday, 30-Oct-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -607,7 +607,7 @@
 				"de": 8,
 				"en": 100,
 				"es": 21,
-				"fa": 2,
+				"fa": 1,
 				"fi": 0,
 				"fr": 9,
 				"hi": 2,
@@ -650,6 +650,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1248,13 +1249,15 @@
 				},
 				"agg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"aider": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"id": 2
 					}
 				},
 				"aircrack-ng": {
@@ -1263,7 +1266,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"id": 1,
+						"id": 2,
 						"ko": 1,
 						"nl": 2,
 						"zh": 2
@@ -1363,7 +1366,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
@@ -1412,7 +1415,8 @@
 				"alr": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"id": 2
 					}
 				},
 				"amass": {
@@ -1465,7 +1469,7 @@
 						"es": 2,
 						"fa": 1,
 						"fr": 1,
-						"id": 1,
+						"id": 2,
 						"ko": 1,
 						"ml": 1,
 						"nl": 2,
@@ -1476,6 +1480,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -5241,6 +5246,11 @@
 						"en": 2
 					}
 				},
+				"conda-update": {
+					"status": {
+						"en": 2
+					}
+				},
 				"confettysh": {
 					"status": {
 						"en": 2
@@ -7336,6 +7346,7 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -9542,6 +9553,7 @@
 				"gh-a11y": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -9974,7 +9986,7 @@
 						"pl": 1,
 						"pt_BR": 1,
 						"sr": 1,
-						"ta": 1,
+						"ta": 2,
 						"tr": 1,
 						"uk": 1,
 						"zh": 1
@@ -11989,6 +12001,7 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"ru": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -12006,6 +12019,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"ru": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -12095,6 +12109,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -12673,6 +12688,7 @@
 						"de": 1,
 						"en": 2,
 						"fa": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -17807,6 +17823,7 @@
 						"es": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"tr": 2
 					}
 				},
@@ -18457,12 +18474,32 @@
 						"en": 2
 					}
 				},
+				"npm-ping": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-pkg": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-prefix": {
 					"status": {
 						"en": 2
 					}
 				},
+				"npm-profile": {
+					"status": {
+						"en": 2
+					}
+				},
 				"npm-prune": {
+					"status": {
+						"en": 2
+					}
+				},
+				"npm-publish": {
 					"status": {
 						"en": 2
 					}
@@ -23457,6 +23494,11 @@
 						"ko": 1
 					}
 				},
+				"rabbitmq-upgrade": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rabbitmqctl": {
 					"status": {
 						"en": 2,
@@ -27046,6 +27088,13 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"trafilatura": {
+					"status": {
+						"de": 2,
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"trans": {
@@ -30670,6 +30719,7 @@
 				},
 				"a2ensite": {
 					"status": {
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -30686,6 +30736,7 @@
 				},
 				"a2query": {
 					"status": {
+						"bn": 2,
 						"ca": 2,
 						"de": 2,
 						"en": 2,
@@ -31402,6 +31453,11 @@
 						"ko": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"ark-survival-evolved": {
+					"status": {
+						"en": 2
 					}
 				},
 				"arpaname": {
@@ -34694,6 +34750,11 @@
 						"ko": 2
 					}
 				},
+				"hyprpicker": {
+					"status": {
+						"en": 2
+					}
+				},
 				"hyprpm": {
 					"status": {
 						"en": 2,
@@ -35580,7 +35641,8 @@
 				},
 				"limine-scan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"limine-snapper-sync": {
@@ -39595,7 +39657,8 @@
 				"sfdisk": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"sfill": {
@@ -46317,6 +46380,7 @@
 				"head": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 1
@@ -47512,35 +47576,35 @@
 				"da": 1,
 				"de": 16,
 				"en": 100,
-				"es": 88,
+				"es": 86,
 				"fa": 1,
 				"fi": 0,
-				"fr": 12,
-				"hi": 28,
-				"id": 19,
-				"it": 14,
-				"ja": 15,
-				"ko": 86,
+				"fr": 11,
+				"hi": 27,
+				"id": 18,
+				"it": 13,
+				"ja": 14,
+				"ko": 85,
 				"lo": 3,
 				"ml": 2,
 				"ne": 3,
-				"nl": 32,
+				"nl": 31,
 				"no": 2,
 				"pl": 14,
-				"pt_BR": 12,
+				"pt_BR": 11,
 				"pt_PT": 3,
 				"ro": 0,
 				"ru": 8,
 				"sh": 0,
 				"sr": 0,
-				"sv": 4,
+				"sv": 3,
 				"ta": 18,
-				"th": 6,
+				"th": 5,
 				"tr": 3,
 				"uk": 2,
 				"uz": 0,
-				"zh": 40,
-				"zh_TW": 15
+				"zh": 39,
+				"zh_TW": 14
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -48556,6 +48620,11 @@
 						"zh": 2
 					}
 				},
+				"ghy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gl": {
 					"status": {
 						"en": 2,
@@ -48571,6 +48640,16 @@
 						"es": 2,
 						"ko": 2,
 						"sv": 2
+					}
+				},
+				"h": {
+					"status": {
+						"en": 2
+					}
+				},
+				"history": {
+					"status": {
+						"en": 2
 					}
 				},
 				"if": {
@@ -49376,6 +49455,11 @@
 						"en": 2
 					}
 				},
+				"sal": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sc": {
 					"status": {
 						"en": 2,
@@ -49455,6 +49539,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"set-alias": {
+					"status": {
+						"en": 2
 					}
 				},
 				"set-clipboard": {
