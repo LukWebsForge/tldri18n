@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 30-Oct-25 01:00:10 CET",
+	"last_update": "Friday, 31-Oct-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -614,7 +614,7 @@
 				"id": 9,
 				"it": 9,
 				"ja": 2,
-				"ko": 81,
+				"ko": 80,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -3808,6 +3808,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"c++": {
+					"status": {
+						"en": 2
 					}
 				},
 				"c99": {
@@ -17705,8 +17710,8 @@
 				"nest": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"netcat": {
@@ -18568,6 +18573,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"npm-shrinkwrap": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-star": {
@@ -23492,6 +23502,26 @@
 					"status": {
 						"en": 2,
 						"ko": 1
+					}
+				},
+				"rabbitmq-diagnostics": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rabbitmq-plugins": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rabbitmq-queues": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rabbitmq-streams": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rabbitmq-upgrade": {
@@ -33492,6 +33522,11 @@
 						"ko": 2
 					}
 				},
+				"dutree": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dysk": {
 					"status": {
 						"en": 2,
@@ -35864,6 +35899,7 @@
 				"lscpu": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"pt_BR": 1,
 						"ru": 1,
 						"zh": 1
@@ -35928,6 +35964,7 @@
 				"lspci": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"hi": 1,
 						"ru": 1,
 						"zh": 1
@@ -42271,6 +42308,7 @@
 				"xterm": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"ko": 2,
 						"tr": 2
@@ -47569,14 +47607,14 @@
 		"windows": {
 			"progress": {
 				"ar": 1,
-				"bn": 9,
+				"bn": 8,
 				"bs": 2,
 				"ca": 2,
 				"cs": 0,
 				"da": 1,
-				"de": 16,
+				"de": 15,
 				"en": 100,
-				"es": 86,
+				"es": 85,
 				"fa": 1,
 				"fi": 0,
 				"fr": 11,
@@ -47584,7 +47622,7 @@
 				"id": 18,
 				"it": 13,
 				"ja": 14,
-				"ko": 85,
+				"ko": 83,
 				"lo": 3,
 				"ml": 2,
 				"ne": 3,
@@ -47598,12 +47636,12 @@
 				"sh": 0,
 				"sr": 0,
 				"sv": 3,
-				"ta": 18,
+				"ta": 17,
 				"th": 5,
 				"tr": 3,
 				"uk": 2,
 				"uz": 0,
-				"zh": 39,
+				"zh": 38,
 				"zh_TW": 14
 			},
 			"pages": {
@@ -48023,6 +48061,11 @@
 						"nl": 2
 					}
 				},
+				"clear-history": {
+					"status": {
+						"en": 2
+					}
+				},
 				"clear-host": {
 					"status": {
 						"en": 2,
@@ -48038,6 +48081,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"clhy": {
+					"status": {
+						"en": 2
 					}
 				},
 				"clip": {
@@ -48644,12 +48692,14 @@
 				},
 				"h": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"history": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"if": {
@@ -48967,6 +49017,11 @@
 						"es": 2,
 						"ja": 2,
 						"ko": 2
+					}
+				},
+				"netsh": {
+					"status": {
+						"en": 2
 					}
 				},
 				"netsh-interface-portproxy": {
@@ -49382,6 +49437,17 @@
 						"nl": 2
 					}
 				},
+				"ren": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
+				"rename-item": {
+					"status": {
+						"en": 2
+					}
+				},
 				"repair-bde": {
 					"status": {
 						"en": 2,
@@ -49430,6 +49496,11 @@
 						"ta": 2,
 						"zh": 2,
 						"zh_TW": 1
+					}
+				},
+				"rni": {
+					"status": {
+						"en": 2
 					}
 				},
 				"robocopy": {
