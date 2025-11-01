@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 31-Oct-25 01:00:09 CET",
+	"last_update": "Saturday, 01-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3676,6 +3676,26 @@
 						"zh": 2
 					}
 				},
+				"bun-i": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-install": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-test": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bundle": {
 					"status": {
 						"en": 2,
@@ -6027,6 +6047,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"cython": {
+					"status": {
+						"en": 2
 					}
 				},
 				"czkawka-cli": {
@@ -14277,6 +14302,11 @@
 						"en": 2
 					}
 				},
+				"jj-duplicate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-edit": {
 					"status": {
 						"en": 2
@@ -15017,6 +15047,11 @@
 					}
 				},
 				"kubectl-autoscale": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kubectl-certificate": {
 					"status": {
 						"en": 2
 					}
@@ -18415,6 +18450,11 @@
 						"en": 2,
 						"ko": 2,
 						"tr": 2
+					}
+				},
+				"npm-install-ci-test": {
+					"status": {
+						"en": 2
 					}
 				},
 				"npm-link": {
@@ -23866,7 +23906,8 @@
 				"redshift": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"reflac": {
@@ -33959,6 +34000,7 @@
 				"fdisk": {
 					"status": {
 						"en": 2,
+						"fa": 2,
 						"hi": 2,
 						"ko": 2,
 						"nl": 2,
@@ -41223,7 +41265,7 @@
 				"tune2fs": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"tuned-adm": {
