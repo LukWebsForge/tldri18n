@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 01-Nov-25 01:00:10 CET",
+	"last_update": "Sunday, 02-Nov-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -35815,10 +35815,10 @@
 				},
 				"locate": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"nl": 2,
-						"pt_BR": 2
+						"nl": 1,
+						"pt_BR": 1
 					}
 				},
 				"logger": {
@@ -46594,9 +46594,9 @@
 				"locate": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"log": {
@@ -47656,7 +47656,7 @@
 				"da": 1,
 				"de": 15,
 				"en": 100,
-				"es": 85,
+				"es": 86,
 				"fa": 1,
 				"fi": 0,
 				"fr": 11,
@@ -49583,7 +49583,8 @@
 				},
 				"scb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"scoop": {
@@ -49964,7 +49965,8 @@
 				},
 				"ventoy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ventoy2disk": {
