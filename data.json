@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 03-Nov-25 01:00:09 CET",
+	"last_update": "Tuesday, 04-Nov-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -47656,7 +47656,7 @@
 				"da": 1,
 				"de": 15,
 				"en": 100,
-				"es": 86,
+				"es": 87,
 				"fa": 1,
 				"fi": 0,
 				"fr": 11,
@@ -48127,7 +48127,8 @@
 				},
 				"clhy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"clip": {
@@ -49542,7 +49543,8 @@
 				},
 				"rni": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"robocopy": {
@@ -49570,7 +49572,8 @@
 				},
 				"sal": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"sc": {
