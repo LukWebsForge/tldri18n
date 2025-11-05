@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 04-Nov-25 01:00:11 CET",
+	"last_update": "Wednesday, 05-Nov-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -618,7 +618,7 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 18,
+				"nl": 19,
 				"no": 0,
 				"pl": 5,
 				"pt_BR": 10,
@@ -795,6 +795,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"sv": 1,
 						"zh": 2
 					}
@@ -819,7 +820,8 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"]]": {
@@ -2794,6 +2796,7 @@
 				"az-storage-blob": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -3678,7 +3681,9 @@
 				},
 				"bun-i": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"bun-install": {
@@ -3832,7 +3837,8 @@
 				},
 				"c++": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"c99": {
@@ -10709,7 +10715,7 @@
 						"ar": 1,
 						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
@@ -13965,6 +13971,11 @@
 					}
 				},
 				"ipfs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ipinfo": {
 					"status": {
 						"en": 2
 					}
@@ -18558,7 +18569,8 @@
 				},
 				"npm-rb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"npm-rebuild": {
@@ -26104,7 +26116,8 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"sudoedit": {
@@ -30679,7 +30692,7 @@
 				"id": 3,
 				"it": 4,
 				"ja": 0,
-				"ko": 72,
+				"ko": 71,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -30862,6 +30875,7 @@
 				},
 				"aa-enforce": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -35719,7 +35733,8 @@
 				"limine-scan": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"limine-snapper-sync": {
@@ -36273,6 +36288,31 @@
 						"pl": 1,
 						"pt_BR": 1,
 						"zh": 1
+					}
+				},
+				"mako": {
+					"status": {
+						"en": 2
+					}
+				},
+				"makoctl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"makoctl-dismiss": {
+					"status": {
+						"en": 2
+					}
+				},
+				"makoctl-invoke": {
+					"status": {
+						"en": 2
+					}
+				},
+				"makoctl-mode": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mandb": {
@@ -47664,13 +47704,13 @@
 				"id": 18,
 				"it": 13,
 				"ja": 14,
-				"ko": 83,
+				"ko": 82,
 				"lo": 3,
 				"ml": 2,
 				"ne": 3,
-				"nl": 31,
+				"nl": 34,
 				"no": 2,
-				"pl": 14,
+				"pl": 13,
 				"pt_BR": 11,
 				"pt_PT": 3,
 				"ro": 0,
@@ -48128,7 +48168,8 @@
 				"clhy": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"clip": {
@@ -48585,7 +48626,8 @@
 				},
 				"gcb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gcrane-completion": {
@@ -48713,7 +48755,8 @@
 				},
 				"ghy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gl": {
@@ -48736,13 +48779,15 @@
 				"h": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"history": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"if": {
@@ -49185,6 +49230,11 @@
 						"ko": 2
 					}
 				},
+				"pnputil": {
+					"status": {
+						"en": 2
+					}
+				},
 				"popd": {
 					"status": {
 						"en": 2,
@@ -49483,7 +49533,8 @@
 				"ren": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"rename-item": {
@@ -49544,7 +49595,8 @@
 				"rni": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"robocopy": {
@@ -49573,7 +49625,8 @@
 				"sal": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"sc": {
@@ -49587,7 +49640,8 @@
 				"scb": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"scoop": {
@@ -49969,7 +50023,8 @@
 				"ventoy": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"ventoy2disk": {
