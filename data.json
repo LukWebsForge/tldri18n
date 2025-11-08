@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 07-Nov-25 01:00:09 CET",
+	"last_update": "Saturday, 08-Nov-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3706,6 +3706,21 @@
 					}
 				},
 				"bun-install": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-link": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-remove": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-rm": {
 					"status": {
 						"en": 2
 					}
@@ -14718,6 +14733,16 @@
 						"ko": 1
 					}
 				},
+				"kaggle-competitions": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kaggle-datasets": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kahlan": {
 					"status": {
 						"en": 2,
@@ -22070,6 +22095,11 @@
 					}
 				},
 				"poetry-env": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-export": {
 					"status": {
 						"en": 2
 					}
@@ -32033,6 +32063,11 @@
 						"zh": 2
 					}
 				},
+				"bluetui": {
+					"status": {
+						"en": 2
+					}
+				},
 				"blurlock": {
 					"status": {
 						"en": 2,
@@ -35543,6 +35578,11 @@
 					}
 				},
 				"koji": {
+					"status": {
+						"en": 2
+					}
+				},
+				"koji-build": {
 					"status": {
 						"en": 2
 					}
@@ -40657,6 +40697,11 @@
 					}
 				},
 				"systemctl-set-environment": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-set-property": {
 					"status": {
 						"en": 2
 					}
@@ -47767,7 +47812,7 @@
 				"lo": 3,
 				"ml": 2,
 				"ne": 3,
-				"nl": 34,
+				"nl": 35,
 				"no": 2,
 				"pl": 13,
 				"pt_BR": 11,
@@ -48209,7 +48254,8 @@
 				},
 				"clear-history": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"clear-host": {
