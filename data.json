@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 08-Nov-25 01:00:09 CET",
+	"last_update": "Sunday, 09-Nov-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -695,7 +695,8 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"2to3": {
@@ -811,6 +812,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -830,7 +832,8 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"^": {
@@ -2883,7 +2886,8 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"azurite": {
@@ -3688,6 +3692,11 @@
 						"zh": 2
 					}
 				},
+				"bun-build": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bun-c": {
 					"status": {
 						"en": 2
@@ -3872,7 +3881,8 @@
 				"c++": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"c99": {
@@ -5124,7 +5134,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"command": {
@@ -8535,7 +8546,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"filebrowser": {
@@ -30758,7 +30770,7 @@
 		"linux": {
 			"progress": {
 				"ar": 1,
-				"bn": 1,
+				"bn": 2,
 				"bs": 0,
 				"ca": 4,
 				"cs": 0,
@@ -30968,6 +30980,7 @@
 				},
 				"aa-genprof": {
 					"status": {
+						"bn": 2,
 						"en": 2
 					}
 				},
@@ -30979,6 +30992,7 @@
 				},
 				"aa-mergeprof": {
 					"status": {
+						"bn": 2,
 						"en": 2
 					}
 				},
@@ -31622,6 +31636,11 @@
 						"ko": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"ark-survival-ascended": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ark-survival-evolved": {
