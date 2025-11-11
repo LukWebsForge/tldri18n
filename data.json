@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 10-Nov-25 01:00:09 CET",
+	"last_update": "Tuesday, 11-Nov-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3699,7 +3699,8 @@
 				},
 				"bun-c": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bun-create": {
@@ -12417,8 +12418,8 @@
 				"gpgv": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"gprbuild": {
@@ -12439,6 +12440,11 @@
 						"es": 2,
 						"ja": 2,
 						"ko": 2
+					}
+				},
+				"gradle-build": {
+					"status": {
+						"en": 2
 					}
 				},
 				"grafana-cli": {
@@ -14477,6 +14483,11 @@
 					}
 				},
 				"jj-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-undo": {
 					"status": {
 						"en": 2
 					}
@@ -34942,6 +34953,11 @@
 						"ko": 2
 					}
 				},
+				"hwloc-ls": {
+					"status": {
+						"en": 2
+					}
+				},
 				"hyprctl": {
 					"status": {
 						"de": 2,
@@ -40712,6 +40728,16 @@
 					}
 				},
 				"systemctl-reload": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-rescue": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-reset-failed": {
 					"status": {
 						"en": 2
 					}
