@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 11-Nov-25 01:00:09 CET",
+	"last_update": "Wednesday, 12-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -2663,6 +2663,11 @@
 						"ko": 2
 					}
 				},
+				"az-cognitiveservices": {
+					"status": {
+						"en": 2
+					}
+				},
 				"az-config": {
 					"status": {
 						"de": 2,
@@ -4525,6 +4530,11 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"chdman": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cheat": {
@@ -30789,7 +30799,7 @@
 				"da": 0,
 				"de": 5,
 				"en": 99,
-				"es": 32,
+				"es": 31,
 				"fa": 0,
 				"fi": 0,
 				"fr": 5,
@@ -31429,7 +31439,8 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"apt-file": {
@@ -31477,7 +31488,8 @@
 						"bn": 2,
 						"en": 2,
 						"nl": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"apt-key": {
@@ -32810,6 +32822,11 @@
 						"ko": 2
 					}
 				},
+				"col": {
+					"status": {
+						"en": 2
+					}
+				},
 				"collectd": {
 					"status": {
 						"en": 2,
@@ -33111,7 +33128,8 @@
 						"fa": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"ddcutil": {
@@ -33214,14 +33232,16 @@
 						"en": 2,
 						"fr": 2,
 						"it": 1,
-						"ko": 1
+						"ko": 1,
+						"zh": 2
 					}
 				},
 				"dex": {
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"df": {
@@ -34448,6 +34468,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gdisk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gedit": {
@@ -36178,6 +36203,11 @@
 					}
 				},
 				"lsscsi": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lstopo-no-graphics": {
 					"status": {
 						"en": 2
 					}
@@ -40728,6 +40758,11 @@
 					}
 				},
 				"systemctl-reload": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-reload-or-restart": {
 					"status": {
 						"en": 2
 					}
