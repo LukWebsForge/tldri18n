@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 12-Nov-25 01:00:10 CET",
+	"last_update": "Thursday, 13-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3465,7 +3465,8 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"break": {
@@ -3492,7 +3493,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"brew-autoremove": {
@@ -3563,7 +3565,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"brew-rm": {
@@ -3571,7 +3574,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"brew-search": {
@@ -3668,7 +3672,7 @@
 				"btop": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fr": 1,
 						"ko": 1,
 						"zh": 2
@@ -3697,6 +3701,11 @@
 						"zh": 2
 					}
 				},
+				"bun-add": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bun-build": {
 					"status": {
 						"en": 2
@@ -3705,7 +3714,8 @@
 				"bun-c": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ru": 2
 					}
 				},
 				"bun-create": {
@@ -7689,6 +7699,11 @@
 						"ko": 2
 					}
 				},
+				"dzdo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ebook-convert": {
 					"status": {
 						"de": 2,
@@ -10213,15 +10228,15 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
-						"id": 2,
+						"id": 1,
 						"it": 1,
-						"ko": 2,
-						"nl": 2,
-						"ta": 2,
+						"ko": 1,
+						"nl": 1,
+						"ta": 1,
 						"tr": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"git-blame": {
@@ -17514,11 +17529,11 @@
 				},
 				"musescore": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"musl-gcc": {
@@ -23414,7 +23429,7 @@
 				"pytest": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"python": {
@@ -34980,7 +34995,8 @@
 				},
 				"hwloc-ls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"hyprctl": {
@@ -35649,6 +35665,11 @@
 					}
 				},
 				"koji-buildinfo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"koji-call": {
 					"status": {
 						"en": 2
 					}
@@ -47988,9 +48009,9 @@
 				"bleachbit_console": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"cd": {
