@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 14-Nov-25 01:00:11 CET",
+	"last_update": "Saturday, 15-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -675,7 +675,8 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				",": {
@@ -696,7 +697,8 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"2to3": {
@@ -1140,19 +1142,22 @@
 				"adb-shell-pm": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"adb-shell-pm-list": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"adb-shell-pm-list-packages": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"zh": 2
 					}
 				},
 				"adb-start-server": {
@@ -1918,6 +1923,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 1
+					}
+				},
+				"asciiquarium": {
+					"status": {
+						"en": 2
 					}
 				},
 				"asciitopgm": {
@@ -3723,6 +3733,11 @@
 						"en": 2
 					}
 				},
+				"bun-feedback": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bun-i": {
 					"status": {
 						"en": 2,
@@ -3757,6 +3772,11 @@
 					}
 				},
 				"bun-test": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-x": {
 					"status": {
 						"en": 2
 					}
@@ -3799,6 +3819,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"bunx": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bunzip2": {
@@ -11650,11 +11675,11 @@
 				"git-submodule": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"tr": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"git-subtree": {
@@ -15577,8 +15602,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 1,
-						"ko": 1,
+						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -18869,14 +18894,14 @@
 				},
 				"npx": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 2,
-						"it": 1,
-						"ko": 1,
+						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"tr": 1
+						"tr": 2
 					}
 				},
 				"nrm": {
@@ -25262,6 +25287,11 @@
 						"en": 2
 					}
 				},
+				"sgdisk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sgitopnm": {
 					"status": {
 						"en": 2,
@@ -31427,19 +31457,19 @@
 				"apt-add-repository": {
 					"status": {
 						"bn": 2,
-						"ca": 1,
-						"de": 1,
+						"ca": 2,
+						"de": 2,
 						"en": 2,
-						"es": 1,
-						"fr": 1,
-						"it": 1,
-						"ko": 1,
+						"es": 2,
+						"fr": 2,
+						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2,
-						"th": 1,
-						"uk": 1,
-						"zh": 1
+						"th": 2,
+						"uk": 2,
+						"zh": 2
 					}
 				},
 				"apt-cache": {
@@ -31829,6 +31859,11 @@
 						"zh": 2
 					}
 				},
+				"aureport": {
+					"status": {
+						"en": 2
+					}
+				},
 				"aurman": {
 					"status": {
 						"en": 2,
@@ -32198,7 +32233,8 @@
 				"bpftool": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"bpftrace": {
@@ -33326,7 +33362,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"dirb": {
@@ -35920,7 +35957,7 @@
 				"libuser-lid": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -38974,8 +39011,8 @@
 				"qm-rescan": {
 					"status": {
 						"en": 2,
-						"es": 1,
-						"ko": 1,
+						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2
 					}
@@ -40102,6 +40139,11 @@
 						"ko": 2
 					}
 				},
+				"slabtop": {
+					"status": {
+						"en": 2
+					}
+				},
 				"slapt-get": {
 					"status": {
 						"en": 2,
@@ -40837,6 +40879,11 @@
 					}
 				},
 				"systemctl-revert": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-service-log-level": {
 					"status": {
 						"en": 2
 					}
