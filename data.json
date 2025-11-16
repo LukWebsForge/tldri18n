@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 15-Nov-25 01:00:10 CET",
+	"last_update": "Sunday, 16-Nov-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3778,7 +3778,8 @@
 				},
 				"bun-x": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bundle": {
@@ -3923,6 +3924,7 @@
 				"c++": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -30284,6 +30286,16 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"zerotier-cli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zerotier-one": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zfgrep": {
