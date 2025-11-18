@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 17-Nov-25 01:00:10 CET",
+	"last_update": "Tuesday, 18-Nov-25 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3600,6 +3600,11 @@
 						"en": 2
 					}
 				},
+				"brew-tap": {
+					"status": {
+						"en": 2
+					}
+				},
 				"brew-uninstall": {
 					"status": {
 						"en": 2,
@@ -5074,6 +5079,11 @@
 						"pt_BR": 2,
 						"zh": 2,
 						"zh_TW": 1
+					}
+				},
+				"code2prompt": {
+					"status": {
+						"en": 2
 					}
 				},
 				"codecrafters": {
@@ -7360,10 +7370,10 @@
 				},
 				"doppler": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"doppler-projects": {
@@ -8452,10 +8462,10 @@
 				"fd": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"uk": 2,
-						"zh": 2
+						"ko": 1,
+						"pt_BR": 1,
+						"uk": 1,
+						"zh": 1
 					}
 				},
 				"fdp": {
@@ -14438,6 +14448,11 @@
 						"en": 2
 					}
 				},
+				"jj-diffedit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-duplicate": {
 					"status": {
 						"en": 2
@@ -16105,9 +16120,9 @@
 				},
 				"lolcat": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"look": {
@@ -27629,6 +27644,11 @@
 						"sv": 2
 					}
 				},
+				"ttyd": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tuc": {
 					"status": {
 						"en": 2,
@@ -29988,6 +30008,11 @@
 						"zh": 2
 					}
 				},
+				"yek": {
+					"status": {
+						"en": 2
+					}
+				},
 				"yes": {
 					"status": {
 						"en": 2,
@@ -30621,7 +30646,7 @@
 				"fa": 0,
 				"fi": 0,
 				"fr": 0,
-				"hi": 0,
+				"hi": 25,
 				"id": 0,
 				"it": 0,
 				"ja": 0,
@@ -30652,6 +30677,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"hi": 2,
 						"nl": 2
 					}
 				},
@@ -33102,9 +33128,9 @@
 				"csplit": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1
 					}
 				},
 				"ctop": {
@@ -35762,6 +35788,11 @@
 					}
 				},
 				"koji-download-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"koji-help": {
 					"status": {
 						"en": 2
 					}
@@ -40881,6 +40912,11 @@
 						"nl": 2
 					}
 				},
+				"systemctl-reenable": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-reload": {
 					"status": {
 						"en": 2
@@ -40912,6 +40948,11 @@
 					}
 				},
 				"systemctl-service-log-level": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-service-log-target": {
 					"status": {
 						"en": 2
 					}
@@ -41410,8 +41451,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2,
-						"ta": 2
+						"ko": 1,
+						"ta": 1
 					}
 				},
 				"toolbox-create": {
@@ -41509,6 +41550,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"toybox": {
+					"status": {
+						"en": 2
 					}
 				},
 				"trace-cmd": {
