@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 18-Nov-25 01:00:12 CET",
+	"last_update": "Wednesday, 19-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -614,7 +614,7 @@
 				"id": 9,
 				"it": 9,
 				"ja": 2,
-				"ko": 80,
+				"ko": 79,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -624,7 +624,7 @@
 				"pt_BR": 10,
 				"pt_PT": 1,
 				"ro": 0,
-				"ru": 2,
+				"ru": 3,
 				"sh": 0,
 				"sr": 0,
 				"sv": 1,
@@ -1014,6 +1014,7 @@
 						"id": 2,
 						"it": 1,
 						"ko": 1,
+						"ml": 2,
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
@@ -3721,6 +3722,11 @@
 						"en": 2
 					}
 				},
+				"bun-audit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bun-build": {
 					"status": {
 						"en": 2
@@ -3739,6 +3745,11 @@
 						"en": 2
 					}
 				},
+				"bun-exec": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bun-feedback": {
 					"status": {
 						"en": 2
@@ -3750,6 +3761,11 @@
 						"es": 2,
 						"nl": 2,
 						"ru": 2
+					}
+				},
+				"bun-info": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bun-install": {
@@ -5222,7 +5238,8 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"compgen": {
@@ -5364,6 +5381,11 @@
 						"en": 2
 					}
 				},
+				"conda-package": {
+					"status": {
+						"en": 2
+					}
+				},
 				"conda-remove": {
 					"status": {
 						"en": 2
@@ -5441,7 +5463,8 @@
 						"es": 2,
 						"it": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"copr-cli": {
@@ -5688,7 +5711,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"crane-delete": {
@@ -6172,10 +6196,9 @@
 						"en": 2
 					}
 				},
-				"czkawka-cli": {
+				"czkawka_cli": {
 					"status": {
-						"en": 2,
-						"ko": 2
+						"en": 2
 					}
 				},
 				"d2": {
@@ -6338,6 +6361,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"deepseek": {
+					"status": {
+						"en": 2
 					}
 				},
 				"delta": {
@@ -8255,6 +8283,11 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"expo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"export": {
@@ -11499,7 +11532,8 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"git-root": {
@@ -11625,7 +11659,8 @@
 				},
 				"git-sparse-checkout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"git-squash": {
@@ -12846,7 +12881,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"head": {
@@ -13313,7 +13349,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"httpx": {
@@ -23601,7 +23638,8 @@
 				},
 				"qmake": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"qmmp": {
@@ -28309,6 +28347,11 @@
 						"ko": 2
 					}
 				},
+				"valkey-cli": {
+					"status": {
+						"en": 2
+					}
+				},
 				"var-dump-server": {
 					"status": {
 						"en": 2,
@@ -30907,7 +30950,7 @@
 				"cs": 0,
 				"da": 0,
 				"de": 5,
-				"en": 99,
+				"en": 100,
 				"es": 31,
 				"fa": 0,
 				"fi": 0,
@@ -31849,7 +31892,8 @@
 				},
 				"at": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"atop": {
@@ -32684,6 +32728,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"cephadm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"certbot": {
@@ -39209,11 +39258,6 @@
 						"ko": 2
 					}
 				},
-				"qmake": {
-					"status": {
-						"es": 2
-					}
-				},
 				"qmrestore": {
 					"status": {
 						"de": 2,
@@ -40885,6 +40929,16 @@
 						"en": 2
 					}
 				},
+				"systemctl-log-level": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-log-target": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-mask": {
 					"status": {
 						"en": 2
@@ -40953,6 +41007,11 @@
 					}
 				},
 				"systemctl-service-log-target": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-service-watchdogs": {
 					"status": {
 						"en": 2
 					}
@@ -41770,6 +41829,26 @@
 					}
 				},
 				"udevmon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"udiskie": {
+					"status": {
+						"en": 2
+					}
+				},
+				"udiskie-dmenu": {
+					"status": {
+						"en": 2
+					}
+				},
+				"udiskie-mount": {
+					"status": {
+						"en": 2
+					}
+				},
+				"udiskie-umount": {
 					"status": {
 						"en": 2
 					}
@@ -48188,6 +48267,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 2,
+						"ml": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 1,
