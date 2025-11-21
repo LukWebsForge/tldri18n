@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 20-Nov-25 01:00:10 CET",
+	"last_update": "Friday, 21-Nov-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3812,6 +3812,11 @@
 					}
 				},
 				"bun-test": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-upgrade": {
 					"status": {
 						"en": 2
 					}
@@ -9610,7 +9615,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"gdm-restart": {
@@ -9772,7 +9778,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"gh-accessibility": {
@@ -9786,7 +9793,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"gh-agent-task": {
@@ -9812,7 +9820,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"gh-attestation": {
@@ -10034,7 +10043,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"gh-ruleset": {
@@ -10560,15 +10570,15 @@
 				"git-clean": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"ta": 2,
-						"tr": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"ta": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"git-clear": {
@@ -11704,6 +11714,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -12433,6 +12444,7 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"ru": 2,
 						"ta": 2,
 						"th": 2,
 						"tr": 2,
@@ -12537,7 +12549,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"gpgconf": {
@@ -13249,7 +13262,8 @@
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"hping3": {
@@ -13498,6 +13512,7 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"pt_PT": 2,
+						"ru": 2,
 						"ta": 2,
 						"th": 2,
 						"tr": 2,
@@ -13610,7 +13625,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"ical": {
@@ -13664,7 +13680,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"idevice_id": {
@@ -13857,7 +13874,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"impacket-getarch": {
@@ -13865,7 +13883,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"impacket-getnpusers": {
@@ -13873,7 +13892,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"impacket-getuserspns": {
@@ -13881,7 +13901,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"impacket-mqtt_check": {
@@ -13889,7 +13910,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"impacket-mssqlclient": {
@@ -13897,7 +13919,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"impacket-ntfs-read": {
@@ -13905,7 +13928,8 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"impacket-ping": {
@@ -34531,6 +34555,11 @@
 						"en": 2
 					}
 				},
+				"foot": {
+					"status": {
+						"en": 2
+					}
+				},
 				"foreman": {
 					"status": {
 						"en": 2,
@@ -37778,6 +37807,11 @@
 						"en": 2
 					}
 				},
+				"pacinstall": {
+					"status": {
+						"en": 2
+					}
+				},
 				"paclock": {
 					"status": {
 						"en": 2
@@ -37998,6 +38032,11 @@
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 2
+					}
+				},
+				"pacremove": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pacrepairdb": {
@@ -49124,6 +49163,7 @@
 				"gcb": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
