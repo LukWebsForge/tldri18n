@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 21-Nov-25 01:00:09 CET",
+	"last_update": "Saturday, 22-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -15722,7 +15722,8 @@
 				},
 				"librewolf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"license": {
@@ -40979,6 +40980,16 @@
 						"en": 2
 					}
 				},
+				"systemctl-list-machines": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-list-paths": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-list-sockets": {
 					"status": {
 						"en": 2
@@ -43869,11 +43880,11 @@
 				"cut": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ru": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ru": 1
 					}
 				},
 				"cvfsck": {
