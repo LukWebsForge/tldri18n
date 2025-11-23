@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 22-Nov-25 01:00:10 CET",
+	"last_update": "Sunday, 23-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -18876,10 +18876,10 @@
 				"npm-run": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"tr": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1,
+						"tr": 1
 					}
 				},
 				"npm-run-script": {
@@ -31013,7 +31013,7 @@
 				"fr": 5,
 				"hi": 2,
 				"id": 3,
-				"it": 4,
+				"it": 3,
 				"ja": 0,
 				"ko": 70,
 				"lo": 0,
@@ -31022,7 +31022,7 @@
 				"nl": 14,
 				"no": 0,
 				"pl": 8,
-				"pt_BR": 10,
+				"pt_BR": 9,
 				"pt_PT": 1,
 				"ro": 0,
 				"ru": 2,
@@ -35907,6 +35907,11 @@
 						"en": 2
 					}
 				},
+				"koji-resubmit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"koji-tag-build": {
 					"status": {
 						"en": 2
@@ -37810,7 +37815,8 @@
 				},
 				"pacinstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"paclock": {
@@ -38037,7 +38043,8 @@
 				},
 				"pacremove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pacrepairdb": {
