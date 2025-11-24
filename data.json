@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 23-Nov-25 01:00:10 CET",
+	"last_update": "Monday, 24-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7327,7 +7327,7 @@
 				"dolt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"dolt-add": {
@@ -21583,9 +21583,9 @@
 						"en": 2,
 						"fr": 1,
 						"id": 1,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1
 					}
 				},
 				"pipenv": {
