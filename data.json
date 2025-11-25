@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 24-Nov-25 01:00:10 CET",
+	"last_update": "Tuesday, 25-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -14584,6 +14584,11 @@
 						"en": 2
 					}
 				},
+				"jj-interdiff": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-log": {
 					"status": {
 						"en": 2
@@ -16148,7 +16153,8 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"loadtest": {
@@ -21581,6 +21587,7 @@
 				"pip3": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"id": 1,
 						"ko": 1,
@@ -31812,16 +31819,16 @@
 				},
 				"archinstall": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ta": 2,
-						"zh": 2
+						"es": 1,
+						"hi": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ta": 1,
+						"zh": 1
 					}
 				},
 				"archivemount": {
