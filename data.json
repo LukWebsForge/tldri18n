@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 25-Nov-25 01:00:10 CET",
+	"last_update": "Wednesday, 26-Nov-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -8531,6 +8531,11 @@
 						"zh": 1
 					}
 				},
+				"fdfind": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fdp": {
 					"status": {
 						"en": 2,
@@ -8940,9 +8945,9 @@
 				"fossil": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1
 					}
 				},
 				"fossil-add": {
