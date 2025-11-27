@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 26-Nov-25 01:00:09 CET",
+	"last_update": "Thursday, 27-Nov-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -825,7 +825,8 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"]]": {
@@ -8533,7 +8534,8 @@
 				},
 				"fdfind": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"fdp": {
@@ -12008,8 +12010,8 @@
 				"gitstats": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2
+						"id": 1,
+						"ko": 1
 					}
 				},
 				"gitui": {
@@ -31829,7 +31831,7 @@
 						"es": 1,
 						"hi": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"ta": 1,
@@ -35580,7 +35582,7 @@
 						"tr": 1,
 						"uk": 1,
 						"zh": 1,
-						"zh_TW": 1
+						"zh_TW": 2
 					}
 				},
 				"ip-route-show": {
@@ -37423,6 +37425,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"nft-monitor": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nitch": {
@@ -40975,6 +40982,11 @@
 					}
 				},
 				"systemctl-is-system-running": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-kexec": {
 					"status": {
 						"en": 2
 					}
@@ -48255,7 +48267,7 @@
 				"da": 1,
 				"de": 15,
 				"en": 100,
-				"es": 87,
+				"es": 88,
 				"fa": 1,
 				"fi": 0,
 				"fr": 11,
@@ -49323,6 +49335,7 @@
 				"ghy": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
