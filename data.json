@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 27-Nov-25 01:00:11 CET",
+	"last_update": "Friday, 28-Nov-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -15341,6 +15341,11 @@
 						"ko": 1
 					}
 				},
+				"kubectl-cordon": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-create": {
 					"status": {
 						"en": 2,
@@ -15472,6 +15477,11 @@
 					}
 				},
 				"kubectl-top": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kubectl-uncordon": {
 					"status": {
 						"en": 2
 					}
@@ -19571,10 +19581,10 @@
 				},
 				"openssl": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"ko": 2,
-						"uk": 2
+						"ko": 1,
+						"uk": 1
 					}
 				},
 				"openssl-dgst": {
@@ -23454,6 +23464,11 @@
 						"zh": 2
 					}
 				},
+				"putty": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pv": {
 					"status": {
 						"en": 2,
@@ -25071,6 +25086,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"scdoc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"scheme": {
