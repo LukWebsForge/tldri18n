@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 28-Nov-25 01:00:09 CET",
+	"last_update": "Saturday, 29-Nov-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -294,7 +294,7 @@
 				},
 				"logcat": {
 					"status": {
-						"bn": 1,
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -3817,6 +3817,11 @@
 						"en": 2
 					}
 				},
+				"bun-update": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bun-upgrade": {
 					"status": {
 						"en": 2
@@ -5481,6 +5486,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"copilot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"copr": {
@@ -8153,8 +8163,13 @@
 				"espeak": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2
+						"it": 1,
+						"ko": 1
+					}
+				},
+				"espeak-ng": {
+					"status": {
+						"en": 2
 					}
 				},
 				"esptool.py": {
@@ -15376,6 +15391,11 @@
 						"en": 2
 					}
 				},
+				"kubectl-drain": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-edit": {
 					"status": {
 						"en": 2,
@@ -22363,7 +22383,27 @@
 						"en": 2
 					}
 				},
+				"poetry-new": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-publish": {
+					"status": {
+						"en": 2
+					}
+				},
 				"poetry-python": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-remove": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-run": {
 					"status": {
 						"en": 2
 					}
@@ -22389,6 +22429,11 @@
 					}
 				},
 				"poetry-sync": {
+					"status": {
+						"en": 2
+					}
+				},
+				"poetry-update": {
 					"status": {
 						"en": 2
 					}
@@ -25932,6 +25977,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"speak-ng": {
+					"status": {
+						"en": 2
 					}
 				},
 				"spectacle": {
@@ -29946,9 +29996,9 @@
 				"ya": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"zh": 2
+						"es": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"yacas": {
@@ -31049,7 +31099,7 @@
 				"id": 3,
 				"it": 3,
 				"ja": 0,
-				"ko": 70,
+				"ko": 69,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -32033,9 +32083,9 @@
 				"aura": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"zh": 2
+						"es": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"auracle": {
@@ -38096,6 +38146,11 @@
 						"en": 2
 					}
 				},
+				"pacreport": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pacsift": {
 					"status": {
 						"en": 2
@@ -38225,6 +38280,11 @@
 						"en": 2
 					}
 				},
+				"pct-mount": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pct-resize": {
 					"status": {
 						"en": 2
@@ -38241,6 +38301,11 @@
 					}
 				},
 				"pct-template": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-unmount": {
 					"status": {
 						"en": 2
 					}
@@ -38704,6 +38769,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"project-zomboid": {
+					"status": {
+						"en": 2
 					}
 				},
 				"protontricks": {
@@ -41012,6 +41082,11 @@
 					}
 				},
 				"systemctl-kill": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-link": {
 					"status": {
 						"en": 2
 					}
