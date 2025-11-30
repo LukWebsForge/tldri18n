@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 29-Nov-25 01:00:11 CET",
+	"last_update": "Sunday, 30-Nov-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -12139,6 +12139,11 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"glxgears": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gml2gv": {
@@ -27880,6 +27885,11 @@
 						"ko": 2
 					}
 				},
+				"twurl-accounts": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tye": {
 					"status": {
 						"en": 2,
@@ -29002,6 +29012,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"vkcube": {
+					"status": {
+						"en": 2
 					}
 				},
 				"vladimyr": {
@@ -32236,6 +32251,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"barotrauma": {
+					"status": {
+						"en": 2
 					}
 				},
 				"batcat": {
@@ -38168,6 +38188,16 @@
 						"ko": 2
 					}
 				},
+				"pacsync": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pactrans": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pactree": {
 					"status": {
 						"en": 2,
@@ -38281,6 +38311,16 @@
 					}
 				},
 				"pct-mount": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-move-volume": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-move_volume": {
 					"status": {
 						"en": 2
 					}
@@ -42175,6 +42215,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"update-grub": {
+					"status": {
+						"en": 2
 					}
 				},
 				"update-initramfs": {
