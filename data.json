@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 30-Nov-25 01:00:10 CET",
+	"last_update": "Monday, 01-Dec-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7815,6 +7815,7 @@
 				},
 				"dzdo": {
 					"status": {
+						"ar": 2,
 						"en": 2
 					}
 				},
@@ -19220,7 +19221,7 @@
 				"nvme": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"nx": {
@@ -21217,6 +21218,14 @@
 						"es": 1,
 						"ko": 1,
 						"zh": 2
+					}
+				},
+				"picom": {
+					"status": {
+						"en": 2,
+						"es": 2,
+						"ko": 2,
+						"tr": 2
 					}
 				},
 				"picom-trans": {
@@ -38322,7 +38331,8 @@
 				},
 				"pct-move_volume": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pct-resize": {
@@ -38458,14 +38468,6 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
-					}
-				},
-				"picom": {
-					"status": {
-						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"tr": 2
 					}
 				},
 				"pidof": {
@@ -41116,6 +41118,11 @@
 						"en": 2
 					}
 				},
+				"systemctl-isolate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-kexec": {
 					"status": {
 						"en": 2
@@ -42219,7 +42226,8 @@
 				},
 				"update-grub": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"update-initramfs": {
