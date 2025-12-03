@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 02-Dec-25 01:00:10 CET",
+	"last_update": "Wednesday, 03-Dec-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -144,7 +144,7 @@
 						"es": 2,
 						"fa": 1,
 						"fr": 1,
-						"hi": 1,
+						"hi": 2,
 						"id": 2,
 						"it": 2,
 						"ja": 2,
@@ -643,7 +643,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
-						"hi": 1,
+						"hi": 2,
 						"id": 2,
 						"it": 1,
 						"ko": 2,
@@ -659,7 +659,7 @@
 						"ar": 1,
 						"en": 2,
 						"es": 2,
-						"hi": 1,
+						"hi": 2,
 						"id": 2,
 						"ko": 1,
 						"nl": 2,
@@ -1175,6 +1175,11 @@
 						"es": 2,
 						"fr": 2,
 						"zh": 2
+					}
+				},
+				"add-computer.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"adguardhome": {
@@ -3791,6 +3796,11 @@
 					}
 				},
 				"bun-patch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-pm": {
 					"status": {
 						"en": 2
 					}
@@ -7123,6 +7133,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"ko": 1,
 						"pt_BR": 1
@@ -9414,16 +9425,9 @@
 						"uk": 2
 					}
 				},
-				"gcloud-components-install": {
+				"gcloud-components": {
 					"status": {
-						"en": 2,
-						"ko": 2
-					}
-				},
-				"gcloud-components-update": {
-					"status": {
-						"en": 2,
-						"ko": 2
+						"en": 2
 					}
 				},
 				"gcloud-compute": {
@@ -13896,6 +13900,12 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"impacket-addcomputer": {
+					"status": {
+						"en": 2,
+						"es": 2
 					}
 				},
 				"impacket-getadusers": {
@@ -22423,6 +22433,11 @@
 						"en": 2
 					}
 				},
+				"poetry-search": {
+					"status": {
+						"en": 2
+					}
+				},
 				"poetry-self": {
 					"status": {
 						"en": 2
@@ -25346,6 +25361,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"setopt": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sf": {
@@ -35353,6 +35373,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"hyprpaper": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hyprpicker": {
