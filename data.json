@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 03-Dec-25 01:00:11 CET",
+	"last_update": "Thursday, 04-Dec-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3327,6 +3327,11 @@
 						"ko": 2
 					}
 				},
+				"bk": {
+					"status": {
+						"en": 2
+					}
+				},
 				"black": {
 					"status": {
 						"en": 2,
@@ -3801,6 +3806,11 @@
 					}
 				},
 				"bun-pm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-pm-pkg": {
 					"status": {
 						"en": 2
 					}
@@ -15378,6 +15388,11 @@
 						"en": 2
 					}
 				},
+				"kubectl-cp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-create": {
 					"status": {
 						"en": 2,
@@ -17126,6 +17141,11 @@
 						"en": 2
 					}
 				},
+				"minipro": {
+					"status": {
+						"en": 2
+					}
+				},
 				"miniserve": {
 					"status": {
 						"en": 2,
@@ -18217,6 +18237,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"nh": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nhentai": {
@@ -26643,6 +26668,11 @@
 						"zh": 2
 					}
 				},
+				"svg2png": {
+					"status": {
+						"en": 2
+					}
+				},
 				"svgcleaner": {
 					"status": {
 						"en": 2,
@@ -27164,6 +27194,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 1
+					}
+				},
+				"timg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"timidity": {
