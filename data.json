@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 04-Dec-25 01:00:10 CET",
+	"last_update": "Friday, 05-Dec-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6222,7 +6222,7 @@
 						"es": 1,
 						"it": 2,
 						"ko": 2,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ru": 1,
 						"zh": 1
@@ -8986,7 +8986,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -10613,7 +10613,7 @@
 						"id": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"ta": 1,
 						"tr": 1,
 						"zh": 1
@@ -17436,13 +17436,6 @@
 						"zh": 2
 					}
 				},
-				"moreutils": {
-					"status": {
-						"en": 2,
-						"ko": 2,
-						"nl": 2
-					}
-				},
 				"moro": {
 					"status": {
 						"en": 2,
@@ -18963,7 +18956,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"tr": 1
 					}
 				},
@@ -21678,7 +21671,7 @@
 						"fr": 1,
 						"id": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -28210,6 +28203,11 @@
 						"zh": 2
 					}
 				},
+				"unsetopt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"until": {
 					"status": {
 						"en": 2
@@ -31192,7 +31190,7 @@
 				"fi": 0,
 				"fr": 5,
 				"hi": 2,
-				"id": 3,
+				"id": 2,
 				"it": 3,
 				"ja": 0,
 				"ko": 69,
@@ -33419,7 +33417,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -41093,6 +41091,21 @@
 						"es": 2
 					}
 				},
+				"systemctl-condreload": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-condrestart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-condstop": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-daemon-reexec": {
 					"status": {
 						"en": 2
@@ -41139,6 +41152,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"systemctl-force-reload": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemctl-freeze": {
@@ -41313,6 +41331,11 @@
 					}
 				},
 				"systemctl-reload-or-restart": {
+					"status": {
+						"en": 2
+					}
+				},
+				"systemctl-reload-or-try-restart": {
 					"status": {
 						"en": 2
 					}
@@ -44145,7 +44168,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ru": 1
 					}
