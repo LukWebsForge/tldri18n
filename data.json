@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 05-Dec-25 01:00:09 CET",
+	"last_update": "Saturday, 06-Dec-25 01:00:09 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -14989,6 +14989,11 @@
 					}
 				},
 				"kaggle-datasets": {
+					"status": {
+						"en": 2
+					}
+				},
+				"kaggle-models": {
 					"status": {
 						"en": 2
 					}
@@ -41093,12 +41098,14 @@
 				},
 				"systemctl-condreload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-condrestart": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-condstop": {
