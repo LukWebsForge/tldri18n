@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 06-Dec-25 01:00:09 CET",
+	"last_update": "Sunday, 07-Dec-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3811,6 +3811,11 @@
 					}
 				},
 				"bun-pm-pkg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-pm-version": {
 					"status": {
 						"en": 2
 					}
@@ -11996,6 +12001,11 @@
 						"tr": 2
 					}
 				},
+				"gitlab-backup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gitlab-ctl": {
 					"status": {
 						"en": 2,
@@ -19370,7 +19380,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"obs": {
@@ -28455,6 +28465,11 @@
 						"zh": 2
 					}
 				},
+				"uvx": {
+					"status": {
+						"en": 2
+					}
+				},
 				"v": {
 					"status": {
 						"en": 2
@@ -32211,7 +32226,7 @@
 				"aurpublish": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"aurvote": {
@@ -32629,7 +32644,8 @@
 					"status": {
 						"en": 2,
 						"hi": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"bspc": {
@@ -41110,7 +41126,8 @@
 				},
 				"systemctl-condstop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-daemon-reexec": {
@@ -41163,7 +41180,8 @@
 				},
 				"systemctl-force-reload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-freeze": {
@@ -41305,6 +41323,11 @@
 						"en": 2
 					}
 				},
+				"systemctl-mount-image": {
+					"status": {
+						"en": 2
+					}
+				},
 				"systemctl-poweroff": {
 					"status": {
 						"en": 2
@@ -41344,7 +41367,8 @@
 				},
 				"systemctl-reload-or-try-restart": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-rescue": {
