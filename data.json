@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 07-Dec-25 01:00:11 CET",
+	"last_update": "Monday, 08-Dec-25 01:00:10 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -614,7 +614,7 @@
 				"id": 9,
 				"it": 9,
 				"ja": 2,
-				"ko": 79,
+				"ko": 78,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -3795,6 +3795,11 @@
 						"en": 2
 					}
 				},
+				"bun-list": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bun-outdated": {
 					"status": {
 						"en": 2
@@ -3806,6 +3811,16 @@
 					}
 				},
 				"bun-pm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-pm-bin": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-pm-ls": {
 					"status": {
 						"en": 2
 					}
@@ -16230,15 +16245,15 @@
 				"ln": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"hi": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"hi": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"loadtest": {
@@ -28467,7 +28482,8 @@
 				},
 				"uvx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"v": {
@@ -28508,6 +28524,11 @@
 						"en": 2
 					}
 				},
+				"vagrant-init": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vagrant-plugin": {
 					"status": {
 						"en": 2,
@@ -28536,6 +28557,11 @@
 					}
 				},
 				"vagrant-ssh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"vagrant-ssh-config": {
 					"status": {
 						"en": 2
 					}
@@ -37496,6 +37522,11 @@
 						"ko": 2
 					}
 				},
+				"natural-selection-2": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nautilus": {
 					"status": {
 						"ca": 2,
@@ -40587,10 +40618,10 @@
 				"sleep": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"uk": 2,
-						"zh": 2
+						"ko": 1,
+						"nl": 1,
+						"uk": 1,
+						"zh": 1
 					}
 				},
 				"slop": {
