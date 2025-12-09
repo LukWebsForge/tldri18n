@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 08-Dec-25 01:00:10 CET",
+	"last_update": "Tuesday, 09-Dec-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3797,7 +3797,8 @@
 				},
 				"bun-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"bun-outdated": {
@@ -4765,16 +4766,16 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fa": 1,
-						"fr": 2,
+						"fr": 1,
 						"it": 1,
-						"ja": 2,
-						"ko": 2,
-						"nl": 2,
+						"ja": 1,
+						"ko": 1,
+						"nl": 1,
 						"pl": 1,
-						"pt_BR": 2,
-						"zh": 2
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"chroma": {
@@ -4810,15 +4811,15 @@
 				},
 				"chroot": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"tr": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"cidr": {
@@ -18355,10 +18356,10 @@
 				},
 				"nix-collect-garbage": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"nix-develop": {
@@ -25357,9 +25358,9 @@
 				"seq": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"sequelize": {
@@ -32630,6 +32631,7 @@
 				"br": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -38639,6 +38641,11 @@
 					}
 				},
 				"pirut": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pivot_root": {
 					"status": {
 						"en": 2
 					}
