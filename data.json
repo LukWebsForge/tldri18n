@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 16-Dec-25 01:00:13 CET",
+	"last_update": "Wednesday, 17-Dec-25 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -610,7 +610,7 @@
 				"en": 100,
 				"es": 22,
 				"fa": 5,
-				"fi": 3,
+				"fi": 4,
 				"fr": 12,
 				"hi": 5,
 				"id": 12,
@@ -665,6 +665,7 @@
 						"id": 2,
 						"ko": 1,
 						"nl": 2,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -685,6 +686,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -816,21 +818,21 @@
 				},
 				"[": {
 					"status": {
-						"bn": 2,
-						"de": 2,
+						"bn": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"id": 2,
-						"it": 2,
+						"es": 1,
+						"fa": 1,
+						"id": 1,
+						"it": 1,
 						"ja": 1,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"ru": 2,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"ru": 1,
 						"sv": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"[[": {
@@ -9030,7 +9032,7 @@
 				"enable": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"enca": {
@@ -9426,15 +9428,15 @@
 				},
 				"false": {
 					"status": {
-						"bs": 2,
+						"bs": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"hi": 2,
-						"ko": 2,
-						"nl": 2,
-						"no": 2,
-						"sv": 2
+						"es": 1,
+						"fa": 1,
+						"hi": 1,
+						"ko": 1,
+						"nl": 1,
+						"no": 1,
+						"sv": 1
 					}
 				},
 				"fast": {
@@ -10344,10 +10346,12 @@
 						"ar": 2,
 						"en": 2,
 						"es": 2,
+						"fi": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"fuck": {
@@ -21545,6 +21549,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -21553,6 +21558,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -21560,6 +21566,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -21567,6 +21574,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -21594,6 +21602,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -26113,6 +26122,11 @@
 						"pt_BR": 2
 					}
 				},
+				"podman-export": {
+					"status": {
+						"en": 2
+					}
+				},
 				"podman-image": {
 					"status": {
 						"en": 2,
@@ -26121,12 +26135,28 @@
 						"pt_BR": 2
 					}
 				},
+				"podman-image-load": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
 				"podman-images": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"podman-import": {
+					"status": {
+						"en": 2
+					}
+				},
+				"podman-load": {
+					"status": {
+						"en": 2
 					}
 				},
 				"podman-login": {
@@ -26165,6 +26195,11 @@
 						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"podman-save": {
+					"status": {
+						"en": 2
 					}
 				},
 				"poetry": {
@@ -32064,9 +32099,9 @@
 				"true": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"sv": 2
+						"ko": 1,
+						"nl": 1,
+						"sv": 1
 					}
 				},
 				"truffle": {
@@ -36208,7 +36243,7 @@
 				"bn": 5,
 				"bs": 3,
 				"ca": 7,
-				"cs": 4,
+				"cs": 3,
 				"da": 3,
 				"de": 8,
 				"en": 100,
@@ -39791,6 +39826,11 @@
 						"pl": 2
 					}
 				},
+				"explodepkg": {
+					"status": {
+						"en": 2
+					}
+				},
 				"export": {
 					"status": {
 						"en": 2,
@@ -39900,8 +39940,8 @@
 				"fatrace": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"fbi": {
@@ -40986,6 +41026,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"imhex": {
+					"status": {
+						"en": 2
 					}
 				},
 				"impala": {
@@ -44864,6 +44909,11 @@
 						"nl": 2
 					}
 				},
+				"pkgdiff": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pkgfile": {
 					"status": {
 						"en": 2,
@@ -44892,6 +44942,11 @@
 					}
 				},
 				"pkgstats": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pkgtool": {
 					"status": {
 						"en": 2
 					}
@@ -49231,6 +49286,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"upgradepkg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"upnpc": {
