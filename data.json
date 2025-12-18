@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 17-Dec-25 01:00:13 CET",
+	"last_update": "Thursday, 18-Dec-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -607,25 +607,25 @@
 				"cs": 4,
 				"da": 4,
 				"de": 11,
-				"en": 100,
-				"es": 22,
+				"en": 99,
+				"es": 21,
 				"fa": 5,
-				"fi": 4,
+				"fi": 3,
 				"fr": 12,
 				"hi": 5,
-				"id": 12,
+				"id": 11,
 				"it": 12,
 				"ja": 6,
-				"ko": 80,
+				"ko": 79,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
-				"nl": 19,
+				"nl": 18,
 				"no": 4,
 				"pl": 6,
 				"pt_BR": 13,
 				"pt_PT": 4,
-				"ro": 4,
+				"ro": 3,
 				"ru": 6,
 				"sr": 4,
 				"sv": 4,
@@ -634,7 +634,7 @@
 				"tr": 8,
 				"uk": 5,
 				"uz": 3,
-				"zh": 19,
+				"zh": 18,
 				"zh_TW": 5
 			},
 			"pages": {
@@ -679,6 +679,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -690,6 +691,7 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -5343,6 +5345,11 @@
 						"zh": 1
 					}
 				},
+				"ci": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cidr": {
 					"status": {
 						"en": 2
@@ -5697,6 +5704,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"co": {
+					"status": {
+						"en": 2
 					}
 				},
 				"code": {
@@ -7514,7 +7526,6 @@
 				},
 				"docker-commit": {
 					"status": {
-						"en": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -7561,44 +7572,69 @@
 						"pt_BR": 2
 					}
 				},
+				"docker-container-commit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-container-cp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-container-diff": {
 					"status": {
-						"ar": 2,
-						"bn": 2,
-						"bs": 2,
-						"ca": 2,
-						"cs": 2,
-						"da": 2,
-						"de": 2,
+						"ar": 1,
+						"bn": 1,
+						"bs": 1,
+						"ca": 1,
+						"cs": 1,
+						"da": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fi": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"lo": 2,
-						"ml": 2,
-						"ne": 2,
-						"nl": 2,
-						"no": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ro": 2,
-						"ru": 2,
-						"sr": 2,
-						"sv": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"uk": 2,
-						"uz": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fa": 1,
+						"fi": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"lo": 1,
+						"ml": 1,
+						"ne": 1,
+						"nl": 1,
+						"no": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ro": 1,
+						"ru": 1,
+						"sr": 1,
+						"sv": 1,
+						"ta": 1,
+						"th": 1,
+						"tr": 1,
+						"uk": 1,
+						"uz": 1,
+						"zh": 1,
+						"zh_TW": 1
+					}
+				},
+				"docker-container-exec": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-container-logs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-container-ls": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-container-remove": {
@@ -7643,122 +7679,142 @@
 				},
 				"docker-container-rename": {
 					"status": {
-						"ar": 2,
-						"bn": 2,
-						"bs": 2,
-						"ca": 2,
-						"cs": 2,
-						"da": 2,
-						"de": 2,
+						"ar": 1,
+						"bn": 1,
+						"bs": 1,
+						"ca": 1,
+						"cs": 1,
+						"da": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fi": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"lo": 2,
-						"ml": 2,
-						"ne": 2,
-						"nl": 2,
-						"no": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ro": 2,
-						"ru": 2,
-						"sr": 2,
-						"sv": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"uk": 2,
-						"uz": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fa": 1,
+						"fi": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"lo": 1,
+						"ml": 1,
+						"ne": 1,
+						"nl": 1,
+						"no": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ro": 1,
+						"ru": 1,
+						"sr": 1,
+						"sv": 1,
+						"ta": 1,
+						"th": 1,
+						"tr": 1,
+						"uk": 1,
+						"uz": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"docker-container-rm": {
 					"status": {
-						"ar": 2,
-						"bn": 2,
-						"bs": 2,
-						"ca": 2,
-						"cs": 2,
-						"da": 2,
-						"de": 2,
+						"ar": 1,
+						"bn": 1,
+						"bs": 1,
+						"ca": 1,
+						"cs": 1,
+						"da": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fi": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"lo": 2,
-						"ml": 2,
-						"ne": 2,
-						"nl": 2,
-						"no": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ro": 2,
-						"ru": 2,
-						"sr": 2,
-						"sv": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"uk": 2,
-						"uz": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fa": 1,
+						"fi": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"lo": 1,
+						"ml": 1,
+						"ne": 1,
+						"nl": 1,
+						"no": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ro": 1,
+						"ru": 1,
+						"sr": 1,
+						"sv": 1,
+						"ta": 1,
+						"th": 1,
+						"tr": 1,
+						"uk": 1,
+						"uz": 1,
+						"zh": 1,
+						"zh_TW": 1
+					}
+				},
+				"docker-container-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-container-start": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-container-stats": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-container-top": {
 					"status": {
-						"ar": 2,
-						"bn": 2,
-						"bs": 2,
-						"ca": 2,
-						"cs": 2,
-						"da": 2,
-						"de": 2,
+						"ar": 1,
+						"bn": 1,
+						"bs": 1,
+						"ca": 1,
+						"cs": 1,
+						"da": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fi": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"lo": 2,
-						"ml": 2,
-						"ne": 2,
-						"nl": 2,
-						"no": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ro": 2,
-						"ru": 2,
-						"sr": 2,
-						"sv": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"uk": 2,
-						"uz": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fa": 1,
+						"fi": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"lo": 1,
+						"ml": 1,
+						"ne": 1,
+						"nl": 1,
+						"no": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ro": 1,
+						"ru": 1,
+						"sr": 1,
+						"sv": 1,
+						"ta": 1,
+						"th": 1,
+						"tr": 1,
+						"uk": 1,
+						"uz": 1,
+						"zh": 1,
+						"zh_TW": 1
+					}
+				},
+				"docker-container-update": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-context": {
@@ -7769,7 +7825,6 @@
 				"docker-cp": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"fr": 2,
 						"it": 2,
 						"ja": 2,
@@ -7779,7 +7834,6 @@
 				},
 				"docker-diff": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
@@ -7789,7 +7843,6 @@
 				"docker-exec": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -7809,12 +7862,32 @@
 						"zh": 1
 					}
 				},
+				"docker-image-load": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-image-ls": {
 					"status": {
 						"en": 2
 					}
 				},
+				"docker-image-pull": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-image-rm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-image-save": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-image-tag": {
 					"status": {
 						"en": 2
 					}
@@ -7872,7 +7945,6 @@
 				},
 				"docker-load": {
 					"status": {
-						"en": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -7890,7 +7962,6 @@
 				"docker-logs": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -7929,7 +8000,6 @@
 				"docker-ps": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"fr": 2,
 						"id": 2,
 						"ja": 2,
@@ -7940,7 +8010,6 @@
 				},
 				"docker-pull": {
 					"status": {
-						"en": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -7948,7 +8017,6 @@
 				},
 				"docker-rename": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
@@ -7957,7 +8025,6 @@
 				},
 				"docker-rm": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
@@ -8008,19 +8075,17 @@
 				"docker-run": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"fr": 2,
 						"ja": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"tr": 1,
+						"tr": 2,
 						"zh": 2
 					}
 				},
 				"docker-save": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -8095,7 +8160,6 @@
 				"docker-start": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"fr": 2,
 						"ja": 2,
 						"ko": 2,
@@ -8106,7 +8170,6 @@
 				"docker-stats": {
 					"status": {
 						"de": 2,
-						"en": 2,
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -8136,14 +8199,12 @@
 				},
 				"docker-tag": {
 					"status": {
-						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"docker-top": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2
@@ -8151,7 +8212,6 @@
 				},
 				"docker-update": {
 					"status": {
-						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -9430,7 +9490,7 @@
 					"status": {
 						"bs": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"hi": 1,
 						"ko": 1,
@@ -15214,6 +15274,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ident": {
+					"status": {
+						"en": 2
 					}
 				},
 				"identify": {
@@ -21460,6 +21525,11 @@
 						"tr": 2
 					}
 				},
+				"ng-analytics": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ng-version": {
 					"status": {
 						"en": 2
@@ -21621,11 +21691,31 @@
 						"ko": 2
 					}
 				},
+				"nix-eval": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nix-flake": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"nix-flake-info": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-flake-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"nix-flake-show": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nix-profile": {
@@ -28290,6 +28380,21 @@
 						"ko": 2
 					}
 				},
+				"rcs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rcsdiff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rcsmerge": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rdfind": {
 					"status": {
 						"en": 2,
@@ -28615,6 +28720,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"rlog": {
+					"status": {
+						"en": 2
 					}
 				},
 				"rlwrap": {
@@ -55519,40 +55629,40 @@
 		"sunos": {
 			"progress": {
 				"ar": 0,
-				"bn": 10,
+				"bn": 9,
 				"bs": 0,
 				"ca": 0,
 				"cs": 0,
 				"da": 0,
 				"de": 0,
 				"en": 100,
-				"es": 10,
+				"es": 9,
 				"fa": 0,
 				"fi": 0,
-				"fr": 80,
-				"hi": 90,
-				"id": 100,
+				"fr": 72,
+				"hi": 81,
+				"id": 90,
 				"it": 0,
 				"ja": 0,
-				"ko": 90,
+				"ko": 81,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 100,
+				"nl": 90,
 				"no": 0,
-				"pl": 90,
+				"pl": 81,
 				"pt_BR": 0,
 				"pt_PT": 0,
 				"ro": 0,
-				"ru": 10,
+				"ru": 9,
 				"sr": 0,
 				"sv": 0,
-				"ta": 90,
+				"ta": 81,
 				"th": 0,
-				"tr": 90,
+				"tr": 81,
 				"uk": 0,
 				"uz": 0,
-				"zh": 10,
+				"zh": 9,
 				"zh_TW": 0
 			},
 			"pages": {
@@ -55681,6 +55791,11 @@
 						"pl": 2,
 						"ta": 2,
 						"tr": 2
+					}
+				},
+				"zoneadm": {
+					"status": {
+						"en": 2
 					}
 				}
 			}
