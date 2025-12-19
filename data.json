@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 18-Dec-25 01:00:11 CET",
+	"last_update": "Friday, 19-Dec-25 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -33303,8 +33303,8 @@
 				"vdir": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"vectorize-pixelart": {
@@ -39165,9 +39165,9 @@
 				"dir": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"dirb": {
