@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 19-Dec-25 01:00:11 CET",
+	"last_update": "Saturday, 20-Dec-25 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -631,7 +631,7 @@
 				"sv": 4,
 				"ta": 5,
 				"th": 4,
-				"tr": 8,
+				"tr": 7,
 				"uk": 5,
 				"uz": 3,
 				"zh": 18,
@@ -7526,9 +7526,7 @@
 				},
 				"docker-commit": {
 					"status": {
-						"fr": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"en": 2
 					}
 				},
 				"docker-compose": {
@@ -7574,12 +7572,21 @@
 				},
 				"docker-container-commit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2,
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-container-cp": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fr": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-container-diff": {
@@ -7592,19 +7599,19 @@
 						"da": 1,
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"fi": 1,
-						"fr": 1,
+						"fr": 2,
 						"hi": 1,
 						"id": 1,
 						"it": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"lo": 1,
 						"ml": 1,
 						"ne": 1,
-						"nl": 1,
+						"nl": 2,
 						"no": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -7624,17 +7631,38 @@
 				},
 				"docker-container-exec": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fr": 2,
+						"it": 2,
+						"ko": 2,
+						"pt_BR": 2,
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"docker-container-logs": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fr": 2,
+						"it": 2,
+						"ko": 2,
+						"pt_BR": 2,
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"docker-container-ls": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fr": 2,
+						"id": 2,
+						"ja": 2,
+						"ko": 2,
+						"pt_BR": 2,
+						"tr": 2
 					}
 				},
 				"docker-container-remove": {
@@ -7687,19 +7715,19 @@
 						"da": 1,
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"fi": 1,
-						"fr": 1,
+						"fr": 2,
 						"hi": 1,
 						"id": 1,
 						"it": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"lo": 1,
 						"ml": 1,
 						"ne": 1,
-						"nl": 1,
+						"nl": 2,
 						"no": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -7727,19 +7755,19 @@
 						"da": 1,
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"fi": 1,
-						"fr": 1,
+						"fr": 2,
 						"hi": 1,
 						"id": 1,
 						"it": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"lo": 1,
 						"ml": 1,
 						"ne": 1,
-						"nl": 1,
+						"nl": 2,
 						"no": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -7753,23 +7781,81 @@
 						"tr": 1,
 						"uk": 1,
 						"uz": 1,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
+					}
+				},
+				"docker-container-rmi": {
+					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"en": 2,
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"docker-container-run": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fr": 2,
+						"ja": 2,
+						"ko": 2,
+						"pt_BR": 2,
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"docker-container-start": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fr": 2,
+						"ja": 2,
+						"ko": 2,
+						"pt_BR": 2,
+						"tr": 2
 					}
 				},
 				"docker-container-stats": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fr": 2,
+						"ko": 2,
+						"pt_BR": 2,
+						"tr": 2
 					}
 				},
 				"docker-container-top": {
@@ -7782,7 +7868,7 @@
 						"da": 1,
 						"de": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"fi": 1,
 						"fr": 1,
@@ -7790,11 +7876,11 @@
 						"id": 1,
 						"it": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"lo": 1,
 						"ml": 1,
 						"ne": 1,
-						"nl": 1,
+						"nl": 2,
 						"no": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -7814,7 +7900,9 @@
 				},
 				"docker-container-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-context": {
@@ -7824,31 +7912,17 @@
 				},
 				"docker-cp": {
 					"status": {
-						"de": 2,
-						"fr": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"en": 2
 					}
 				},
 				"docker-diff": {
 					"status": {
-						"es": 2,
-						"fr": 2,
-						"ko": 2,
-						"nl": 2
+						"en": 2
 					}
 				},
 				"docker-exec": {
 					"status": {
-						"de": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh": 2
+						"en": 2
 					}
 				},
 				"docker-image": {
@@ -7864,32 +7938,49 @@
 				},
 				"docker-image-load": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2,
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-image-ls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 1,
+						"it": 1,
+						"pl": 1
 					}
 				},
 				"docker-image-pull": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2,
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-image-rm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"docker-image-save": {
 					"status": {
-						"en": 2
+						"de": 2,
+						"en": 2,
+						"fr": 2,
+						"ko": 2,
+						"pt_BR": 2,
+						"tr": 2
 					}
 				},
 				"docker-image-tag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-images": {
@@ -7945,9 +8036,7 @@
 				},
 				"docker-load": {
 					"status": {
-						"fr": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"en": 2
 					}
 				},
 				"docker-login": {
@@ -7961,13 +8050,7 @@
 				},
 				"docker-logs": {
 					"status": {
-						"de": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh": 2
+						"en": 2
 					}
 				},
 				"docker-machine": {
@@ -7999,97 +8082,32 @@
 				},
 				"docker-ps": {
 					"status": {
-						"de": 2,
-						"fr": 2,
-						"id": 2,
-						"ja": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"en": 2
 					}
 				},
 				"docker-pull": {
 					"status": {
-						"fr": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"en": 2
 					}
 				},
 				"docker-rename": {
 					"status": {
-						"es": 2,
-						"fr": 2,
-						"ko": 2,
-						"nl": 2
+						"en": 2
 					}
 				},
 				"docker-rm": {
 					"status": {
-						"es": 2,
-						"fr": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
-					}
-				},
-				"docker-rmi": {
-					"status": {
-						"ar": 2,
-						"bn": 2,
-						"bs": 2,
-						"ca": 2,
-						"cs": 2,
-						"da": 2,
-						"de": 2,
-						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fi": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"lo": 2,
-						"ml": 2,
-						"ne": 2,
-						"nl": 2,
-						"no": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ro": 2,
-						"ru": 2,
-						"sr": 2,
-						"sv": 2,
-						"ta": 2,
-						"th": 2,
-						"tr": 2,
-						"uk": 2,
-						"uz": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"en": 2
 					}
 				},
 				"docker-run": {
 					"status": {
-						"de": 2,
-						"fr": 2,
-						"ja": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh": 2
+						"en": 2
 					}
 				},
 				"docker-save": {
 					"status": {
-						"de": 2,
-						"fr": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"en": 2
 					}
 				},
 				"docker-search": {
@@ -8159,21 +8177,12 @@
 				},
 				"docker-start": {
 					"status": {
-						"de": 2,
-						"fr": 2,
-						"ja": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"en": 2
 					}
 				},
 				"docker-stats": {
 					"status": {
-						"de": 2,
-						"fr": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"tr": 2
+						"en": 2
 					}
 				},
 				"docker-swarm": {
@@ -8199,21 +8208,17 @@
 				},
 				"docker-tag": {
 					"status": {
-						"ko": 2,
-						"pt_BR": 2
+						"en": 2
 					}
 				},
 				"docker-top": {
 					"status": {
-						"es": 2,
-						"ko": 2,
-						"nl": 2
+						"en": 2
 					}
 				},
 				"docker-update": {
 					"status": {
-						"ko": 2,
-						"pt_BR": 2
+						"en": 2
 					}
 				},
 				"docker-volume": {
@@ -18088,7 +18093,7 @@
 				"kubectl-config": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"kubectl-cordon": {
@@ -23139,44 +23144,72 @@
 				},
 				"odps": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"odps-auth": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"odps-func": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"odps-inst": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"odps-resource": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"odps-table": {
 					"status": {
-						"en": 2,
 						"ko": 2
 					}
 				},
 				"odps-tunnel": {
 					"status": {
-						"en": 2,
 						"ko": 2
+					}
+				},
+				"odpscmd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"odpscmd-auth": {
+					"status": {
+						"en": 2
+					}
+				},
+				"odpscmd-func": {
+					"status": {
+						"en": 2
+					}
+				},
+				"odpscmd-inst": {
+					"status": {
+						"en": 2
+					}
+				},
+				"odpscmd-resource": {
+					"status": {
+						"en": 2
+					}
+				},
+				"odpscmd-table": {
+					"status": {
+						"en": 2
+					}
+				},
+				"odpscmd-tunnel": {
+					"status": {
+						"en": 2
 					}
 				},
 				"offlineimap": {
@@ -28904,7 +28937,7 @@
 				"rtv": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"rubocop": {
@@ -56306,6 +56339,7 @@
 				"clear-history": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -56942,6 +56976,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"ko": 2
 					}
 				},
