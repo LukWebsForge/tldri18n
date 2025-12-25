@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 24-Dec-25 01:00:13 CET",
+	"last_update": "Thursday, 25-Dec-25 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -330,7 +330,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"pt_PT": 1,
@@ -844,7 +844,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
 						"ru": 1,
@@ -3697,6 +3697,7 @@
 				"brew-info": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -10156,7 +10157,7 @@
 						"fa": 1,
 						"hi": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"no": 1,
 						"sv": 1
 					}
@@ -15874,6 +15875,16 @@
 					}
 				},
 				"ibmcloud-target": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ibmcloud-update": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ibmcloud-version": {
 					"status": {
 						"en": 2
 					}
@@ -26192,7 +26203,7 @@
 						"de": 1,
 						"en": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"zh": 1
 					}
@@ -29298,7 +29309,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"readlink": {
@@ -33107,7 +33118,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"sv": 1
 					}
 				},
@@ -33522,7 +33533,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -33738,7 +33749,7 @@
 						"ar": 1,
 						"en": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -36783,7 +36794,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
@@ -38164,6 +38175,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"fr": 2,
 						"nl": 2,
 						"ru": 2,
 						"zh": 2
@@ -48047,7 +48059,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"semanage-interface": {
@@ -58758,7 +58770,8 @@
 				},
 				"rename-item": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"repair-bde": {
