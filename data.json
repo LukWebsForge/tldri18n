@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 27-Dec-25 01:00:13 CET",
+	"last_update": "Sunday, 28-Dec-25 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -644,7 +644,7 @@
 			"pages": {
 				"!": {
 					"status": {
-						"bn": 1,
+						"bn": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -835,7 +835,7 @@
 				},
 				"[": {
 					"status": {
-						"bn": 1,
+						"bn": 2,
 						"de": 1,
 						"en": 2,
 						"es": 1,
@@ -3191,6 +3191,7 @@
 				"bashmarks": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 1,
 						"zh": 1
@@ -3422,6 +3423,7 @@
 				"bison": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -5573,6 +5575,7 @@
 				"clementine": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -39072,6 +39075,7 @@
 				"broot": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -39080,6 +39084,7 @@
 				"bspc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
