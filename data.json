@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 28-Dec-25 01:00:14 CET",
+	"last_update": "Tuesday, 30-Dec-25 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -616,7 +616,7 @@
 				"fa": 6,
 				"fi": 4,
 				"fr": 12,
-				"hi": 5,
+				"hi": 6,
 				"id": 12,
 				"it": 12,
 				"ja": 6,
@@ -1069,7 +1069,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"uk": 2,
 						"zh": 2
 					}
@@ -4006,7 +4006,8 @@
 				},
 				"bun-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"bun-exec": {
@@ -4072,7 +4073,8 @@
 				},
 				"bun-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"bun-link": {
@@ -4143,7 +4145,8 @@
 				},
 				"bun-pm-ls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"bun-pm-migrate": {
@@ -4163,7 +4166,8 @@
 				},
 				"bun-remove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"bun-rm": {
@@ -4213,6 +4217,11 @@
 					}
 				},
 				"bun-test": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-unlink": {
 					"status": {
 						"en": 2
 					}
@@ -4315,7 +4324,8 @@
 				},
 				"bunx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"bunzip2": {
@@ -4523,7 +4533,9 @@
 				"bzgrep": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"es": 2,
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"bzip2": {
@@ -7627,23 +7639,27 @@
 						"ko": 2,
 						"ne": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2,
 						"zh": 2
 					}
 				},
 				"docker-compose-down": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"docker-compose-logs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"docker-compose-up": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"docker-container": {
@@ -7763,6 +7779,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
+						"fi": 2,
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
@@ -9560,7 +9577,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"edgepaint": {
@@ -18930,6 +18947,11 @@
 						"en": 2
 					}
 				},
+				"kubectl-plugin": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kubectl-port-forward": {
 					"status": {
 						"en": 2
@@ -19207,6 +19229,7 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -20038,6 +20061,52 @@
 						"ko": 2
 					}
 				},
+				"luanti": {
+					"status": {
+						"en": 2
+					}
+				},
+				"luantiserver": {
+					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
+						"en": 2,
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
+					}
+				},
 				"ludusavi": {
 					"status": {
 						"en": 2
@@ -20158,7 +20227,43 @@
 				},
 				"lzdiff": {
 					"status": {
-						"en": 2
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
+						"en": 2,
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"lzegrep": {
@@ -27075,6 +27180,47 @@
 						"zh_TW": 2
 					}
 				},
+				"podman-image-pull": {
+					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
+						"en": 2,
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
+					}
+				},
 				"podman-images": {
 					"status": {
 						"en": 2,
@@ -27113,6 +27259,11 @@
 						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"podman-pull": {
+					"status": {
+						"en": 2
 					}
 				},
 				"podman-rmi": {
@@ -31871,6 +32022,11 @@
 						"ko": 2
 					}
 				},
+				"supabase": {
+					"status": {
+						"en": 2
+					}
+				},
 				"supervisorctl": {
 					"status": {
 						"en": 2,
@@ -34788,8 +34944,8 @@
 				"vulkaninfo": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"w": {
@@ -36270,6 +36426,21 @@
 						"zh": 2
 					}
 				},
+				"zabbix_agent2": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zabbix_agentd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zabbix_server": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zapier": {
 					"status": {
 						"en": 2,
@@ -36539,6 +36710,11 @@
 						"en": 2
 					}
 				},
+				"zerotier-idtool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zerotier-one": {
 					"status": {
 						"en": 2
@@ -36596,6 +36772,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -43100,6 +43277,11 @@
 						"nl": 2
 					}
 				},
+				"lid.idutils": {
+					"status": {
+						"en": 2
+					}
+				},
 				"lid.libuser": {
 					"status": {
 						"en": 2,
@@ -44249,6 +44431,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"mkid": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mkinitcpio": {
@@ -46847,45 +47034,38 @@
 				},
 				"qm-disk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"qm-disk-import": {
 					"status": {
 						"es": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 2
 					}
 				},
 				"qm-disk-move": {
 					"status": {
 						"es": 2,
-						"ko": 2,
-						"nl": 2
-					}
-				},
-				"qm-disk-rescan": {
-					"status": {
-						"nl": 2
+						"ko": 2
 					}
 				},
 				"qm-disk-resize": {
 					"status": {
 						"es": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 2
 					}
 				},
 				"qm-guest": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"qm-guest-cmd": {
 					"status": {
 						"es": 2,
-						"ko": 2,
-						"nl": 2
+						"ko": 2
 					}
 				},
 				"qm-guest-exec": {
@@ -56628,7 +56808,7 @@
 		"windows": {
 			"progress": {
 				"ar": 7,
-				"bn": 15,
+				"bn": 16,
 				"bs": 7,
 				"ca": 8,
 				"cs": 7,
@@ -59574,6 +59754,7 @@
 				},
 				"winget": {
 					"status": {
+						"bn": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
