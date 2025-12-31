@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 30-Dec-25 01:00:15 CET",
+	"last_update": "Wednesday, 31-Dec-25 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -607,7 +607,7 @@
 				"bn": 4,
 				"bs": 5,
 				"ca": 4,
-				"cs": 4,
+				"cs": 5,
 				"da": 4,
 				"de": 11,
 				"el": 4,
@@ -624,7 +624,7 @@
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
-				"nl": 19,
+				"nl": 20,
 				"no": 4,
 				"pl": 6,
 				"pt_BR": 13,
@@ -1042,7 +1042,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"ru": 1,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -6983,11 +6983,11 @@
 						"de": 1,
 						"en": 2,
 						"es": 1,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
 						"pt_BR": 1,
-						"ru": 2,
+						"ru": 1,
 						"zh": 1
 					}
 				},
@@ -7677,6 +7677,7 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -7688,6 +7689,7 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -7737,6 +7739,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
@@ -7749,6 +7752,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
@@ -7762,6 +7766,7 @@
 						"id": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -7892,6 +7897,7 @@
 						"fr": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 1,
 						"zh": 2
@@ -7904,6 +7910,7 @@
 						"fr": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -7914,6 +7921,7 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -7961,6 +7969,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -8108,6 +8117,7 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -8116,6 +8126,7 @@
 						"en": 2,
 						"fr": 1,
 						"it": 1,
+						"nl": 2,
 						"pl": 1
 					}
 				},
@@ -8124,13 +8135,15 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
 				"docker-image-rm": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"nl": 2
 					}
 				},
 				"docker-image-save": {
@@ -8139,6 +8152,7 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2
 					}
@@ -8147,6 +8161,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -11731,6 +11746,7 @@
 				"gh-accessibility": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -12241,7 +12257,7 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"gist": {
@@ -12278,6 +12294,7 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
+						"nl": 2,
 						"pl": 2,
 						"uk": 2
 					}
@@ -12575,6 +12592,7 @@
 						"id": 2,
 						"it": 1,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"tr": 2,
@@ -12761,6 +12779,47 @@
 						"tr": 1,
 						"uk": 1,
 						"zh": 2
+					}
+				},
+				"git-continue": {
+					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
+						"en": 2,
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"git-contrib": {
@@ -15009,7 +15068,7 @@
 						"id": 1,
 						"ko": 1,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"uk": 1,
 						"zh": 1
 					}
@@ -17651,7 +17710,8 @@
 				},
 				"jira-issue": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"jira-issues": {
@@ -17697,7 +17757,8 @@
 				},
 				"jira-me": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"jira-navigate": {
@@ -17743,12 +17804,14 @@
 				},
 				"jira-open": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"jira-project": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"jira-projects": {
@@ -17794,7 +17857,8 @@
 				},
 				"jira-sprint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"jira-sprints": {
@@ -20063,7 +20127,9 @@
 				},
 				"luanti": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"luantiserver": {
@@ -22169,6 +22235,7 @@
 				"ncmpcpp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -25275,6 +25342,7 @@
 				"pdfinfo": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -27128,7 +27196,8 @@
 				},
 				"podman-export": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"podman-image": {
@@ -27231,12 +27300,14 @@
 				},
 				"podman-import": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"podman-load": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"podman-login": {
@@ -27263,7 +27334,8 @@
 				},
 				"podman-pull": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"podman-rmi": {
@@ -27284,7 +27356,8 @@
 				},
 				"podman-save": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"poetry": {
@@ -34238,6 +34311,11 @@
 						"en": 2
 					}
 				},
+				"vainfo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"vala": {
 					"status": {
 						"en": 2,
@@ -35116,6 +35194,7 @@
 				"wcurl": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"pl": 2
 					}
 				},
@@ -36976,7 +37055,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"ru": 1,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -43736,7 +43815,7 @@
 						"en": 2,
 						"fa": 2,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -43801,7 +43880,7 @@
 						"en": 2,
 						"fa": 2,
 						"hi": 1,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -49617,7 +49696,8 @@
 				},
 				"systemctl-stop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"systemctl-suspend": {
@@ -49642,12 +49722,14 @@
 				},
 				"systemctl-try-reload-or-restart": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"systemctl-try-restart": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"systemctl-unmask": {
