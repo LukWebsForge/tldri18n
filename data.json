@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 31-Dec-25 01:00:15 CET",
+	"last_update": "Thursday, 01-Jan-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -755,6 +755,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -6985,7 +6986,7 @@
 						"es": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ru": 1,
 						"zh": 1
@@ -22481,6 +22482,16 @@
 					}
 				},
 				"ng-analytics": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ng-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ng-cache": {
 					"status": {
 						"en": 2
 					}
@@ -57027,7 +57038,7 @@
 				},
 				"cd": {
 					"status": {
-						"bn": 1,
+						"bn": 2,
 						"bs": 2,
 						"ca": 2,
 						"cs": 1,
