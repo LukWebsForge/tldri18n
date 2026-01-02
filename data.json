@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 01-Jan-26 01:00:15 CET",
+	"last_update": "Friday, 02-Jan-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -762,6 +762,7 @@
 				"3d-ascii-viewer": {
 					"status": {
 						"en": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -5613,6 +5614,7 @@
 				"clifm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -6988,7 +6990,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -12283,6 +12285,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
+						"ro": 2,
 						"sr": 1,
 						"ta": 2,
 						"tr": 1,
@@ -12313,6 +12316,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ro": 2,
 						"ta": 1,
 						"tr": 1,
 						"uk": 1,
@@ -12340,6 +12344,7 @@
 						"it": 1,
 						"ko": 2,
 						"pl": 2,
+						"ro": 2,
 						"ta": 2,
 						"tr": 1,
 						"zh": 2
@@ -12458,6 +12463,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ro": 2,
 						"ta": 2,
 						"tr": 1,
 						"zh": 2
@@ -12687,6 +12693,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ro": 2,
 						"ta": 2,
 						"tr": 1,
 						"uk": 1,
@@ -37671,7 +37678,7 @@
 				"id": 6,
 				"it": 9,
 				"ja": 4,
-				"ko": 71,
+				"ko": 70,
 				"lo": 3,
 				"ml": 4,
 				"ne": 3,
@@ -38315,6 +38322,26 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"apptainer": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apptainer-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apptainer-pull": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apptainer-push": {
+					"status": {
+						"en": 2
 					}
 				},
 				"apt": {
@@ -47125,6 +47152,7 @@
 				"qm-disk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -48428,6 +48456,7 @@
 				"setarch": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
