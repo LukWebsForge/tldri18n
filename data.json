@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 03-Jan-26 01:00:15 CET",
+	"last_update": "Sunday, 04-Jan-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -638,7 +638,7 @@
 				"tr": 8,
 				"uk": 5,
 				"uz": 4,
-				"zh": 19,
+				"zh": 20,
 				"zh_TW": 5
 			},
 			"pages": {
@@ -820,7 +820,7 @@
 				},
 				"7zr": {
 					"status": {
-						"bn": 1,
+						"bn": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -937,7 +937,7 @@
 				},
 				"ab": {
 					"status": {
-						"bn": 1,
+						"bn": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -2297,7 +2297,7 @@
 						"es": 2,
 						"fr": 2,
 						"id": 2,
-						"it": 1,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
@@ -3234,7 +3234,7 @@
 						"es": 2,
 						"fr": 1,
 						"id": 2,
-						"it": 1,
+						"it": 2,
 						"ja": 1,
 						"ko": 2,
 						"nl": 2,
@@ -5218,6 +5218,7 @@
 				"certutil": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -12327,6 +12328,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
+						"ro": 2,
 						"uk": 2
 					}
 				},
@@ -12358,6 +12360,7 @@
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ro": 2,
 						"zh": 2
 					}
 				},
@@ -12384,6 +12387,7 @@
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
+						"ro": 2,
 						"ta": 2,
 						"tr": 2,
 						"zh": 2
@@ -12394,6 +12398,7 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
+						"ro": 2,
 						"tr": 1,
 						"uk": 2,
 						"zh": 2
@@ -12406,6 +12411,7 @@
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
+						"ro": 2,
 						"ta": 2,
 						"tr": 2,
 						"zh": 2
@@ -12419,6 +12425,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"ro": 2,
 						"ta": 2,
 						"tr": 2,
 						"zh": 2
@@ -12450,6 +12457,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
+						"ro": 2,
 						"ta": 1,
 						"tr": 1,
 						"zh": 1
@@ -12465,6 +12473,7 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2,
+						"ro": 2,
 						"ta": 1,
 						"tr": 1,
 						"uk": 1,
@@ -12553,6 +12562,7 @@
 						"id": 2,
 						"it": 1,
 						"ko": 2,
+						"ro": 2,
 						"ta": 1,
 						"tr": 1,
 						"zh": 2
@@ -13969,6 +13979,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"ro": 2,
 						"tr": 2
 					}
 				},
@@ -14201,6 +14212,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gixy-next": {
+					"status": {
+						"en": 2
 					}
 				},
 				"glab": {
@@ -16797,6 +16813,11 @@
 						"zh_TW": 2
 					}
 				},
+				"impacket-rdp_check": {
+					"status": {
+						"en": 2
+					}
+				},
 				"impacket-rpcdump": {
 					"status": {
 						"ar": 2,
@@ -19294,7 +19315,8 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"ldapsearch": {
@@ -22651,7 +22673,8 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-build": {
@@ -22660,7 +22683,8 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-build.2": {
@@ -22668,7 +22692,8 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-build.3": {
@@ -22676,19 +22701,22 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-channel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"nix-classic": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-collect-garbage": {
@@ -22696,7 +22724,8 @@
 						"de": 1,
 						"en": 2,
 						"es": 1,
-						"ko": 1
+						"ko": 1,
+						"zh": 2
 					}
 				},
 				"nix-develop": {
@@ -22704,14 +22733,16 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-edit": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-env": {
@@ -22719,69 +22750,80 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-eval": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"nix-flake": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-flake-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"nix-flake-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"nix-flake-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"nix-profile": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-registry": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-repl": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-run": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-search": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-shell": {
@@ -22789,56 +22831,64 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-shell.2": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-shell.3": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-store": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-store.2": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-store.3": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nix-why-depends": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nixpkgs-review": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"nkf": {
@@ -23044,19 +23094,22 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
 				"npm-access": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-adduser": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-audit": {
@@ -29589,6 +29642,11 @@
 					}
 				},
 				"rdiff-backup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rdp_check.py": {
 					"status": {
 						"en": 2
 					}
@@ -38866,7 +38924,8 @@
 				},
 				"ausearch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"ausyscall": {
