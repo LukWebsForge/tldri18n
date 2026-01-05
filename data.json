@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 04-Jan-26 01:00:15 CET",
+	"last_update": "Monday, 05-Jan-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -629,7 +629,7 @@
 				"pl": 6,
 				"pt_BR": 13,
 				"pt_PT": 4,
-				"ro": 4,
+				"ro": 5,
 				"ru": 6,
 				"sr": 4,
 				"sv": 5,
@@ -12436,6 +12436,7 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
+						"ro": 2,
 						"zh": 2
 					}
 				},
@@ -12444,6 +12445,7 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
+						"ro": 2,
 						"zh": 2
 					}
 				},
@@ -12485,6 +12487,7 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
+						"ro": 2,
 						"zh": 2
 					}
 				},
@@ -12510,6 +12513,7 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
+						"ro": 2,
 						"zh": 2
 					}
 				},
@@ -12518,6 +12522,7 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
+						"ro": 2,
 						"zh": 2
 					}
 				},
@@ -16523,7 +16528,8 @@
 				},
 				"impacket-gettgt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"impacket-getuserspns": {
@@ -16815,7 +16821,8 @@
 				},
 				"impacket-rdp_check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"impacket-rpcdump": {
@@ -23115,7 +23122,8 @@
 				"npm-audit": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-author": {
@@ -23161,13 +23169,15 @@
 				},
 				"npm-bugs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-cache": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-check": {
@@ -37334,7 +37344,7 @@
 				"tr": 25,
 				"uk": 25,
 				"uz": 25,
-				"zh": 25,
+				"zh": 100,
 				"zh_TW": 25
 			},
 			"pages": {
@@ -37343,7 +37353,8 @@
 						"de": 2,
 						"en": 2,
 						"hi": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"chdir": {
@@ -37389,12 +37400,14 @@
 				},
 				"cls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"path": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				}
 			}
@@ -38416,6 +38429,11 @@
 					}
 				},
 				"apptainer-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apptainer-delete": {
 					"status": {
 						"en": 2
 					}
