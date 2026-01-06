@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 05-Jan-26 01:00:14 CET",
+	"last_update": "Tuesday, 06-Jan-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1250,7 +1250,8 @@
 				"addcomputer.py": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"adguardhome": {
@@ -4184,6 +4185,11 @@
 					}
 				},
 				"bun-pm-version": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-publish": {
 					"status": {
 						"en": 2
 					}
@@ -7722,7 +7728,7 @@
 				"docker-container-diff": {
 					"status": {
 						"ar": 1,
-						"bn": 1,
+						"bn": 2,
 						"bs": 1,
 						"ca": 1,
 						"cs": 1,
@@ -7841,7 +7847,7 @@
 				"docker-container-rename": {
 					"status": {
 						"ar": 1,
-						"bn": 1,
+						"bn": 2,
 						"bs": 1,
 						"ca": 1,
 						"cs": 1,
@@ -7880,7 +7886,7 @@
 				"docker-container-rm": {
 					"status": {
 						"ar": 1,
-						"bn": 1,
+						"bn": 2,
 						"bs": 1,
 						"ca": 1,
 						"cs": 1,
@@ -11707,7 +11713,8 @@
 				},
 				"gettgt.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"getuserspns.py": {
@@ -16529,7 +16536,8 @@
 				"impacket-gettgt": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"impacket-getuserspns": {
@@ -16822,7 +16830,8 @@
 				"impacket-rdp_check": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"impacket-rpcdump": {
@@ -28326,7 +28335,8 @@
 				},
 				"psexec.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"psgrep": {
@@ -29658,7 +29668,8 @@
 				},
 				"rdp_check.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"react-native": {
@@ -30551,7 +30562,8 @@
 				},
 				"sambapipe.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"samtools": {
@@ -43153,6 +43165,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"kmscon": {
+					"status": {
+						"en": 2
 					}
 				},
 				"knock": {
