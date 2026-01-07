@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 06-Jan-26 01:00:13 CET",
+	"last_update": "Wednesday, 07-Jan-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -690,6 +690,11 @@
 						"pl": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"((": {
+					"status": {
+						"en": 2
 					}
 				},
 				",": {
@@ -36633,17 +36638,20 @@
 				},
 				"zabbix_agent2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zabbix_agentd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zabbix_server": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zapier": {
@@ -36676,7 +36684,8 @@
 				},
 				"zapier-history": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zapier-init": {
@@ -36688,7 +36697,8 @@
 				},
 				"zapier-login": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zapier-push": {
@@ -36707,17 +36717,20 @@
 				},
 				"zapier-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zapier-validate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zapier-versions": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zbarimg": {
@@ -36795,7 +36808,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"zeditor": {
@@ -36912,17 +36926,20 @@
 				},
 				"zerotier-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zerotier-idtool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zerotier-one": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zfgrep": {
@@ -36991,7 +37008,8 @@
 				},
 				"zinit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zint": {
@@ -37090,7 +37108,8 @@
 				},
 				"zmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zmore": {
@@ -37149,7 +37168,8 @@
 				},
 				"zpaq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zpool": {
@@ -37161,7 +37181,8 @@
 				},
 				"zrok": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"zrun": {
@@ -38446,6 +38467,11 @@
 					}
 				},
 				"apptainer-delete": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apptainer-inspect": {
 					"status": {
 						"en": 2
 					}
