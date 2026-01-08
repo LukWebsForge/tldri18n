@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 07-Jan-26 01:00:15 CET",
+	"last_update": "Thursday, 08-Jan-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -607,7 +607,7 @@
 				"bn": 4,
 				"bs": 5,
 				"ca": 4,
-				"cs": 5,
+				"cs": 4,
 				"da": 4,
 				"de": 11,
 				"el": 4,
@@ -629,7 +629,7 @@
 				"pl": 6,
 				"pt_BR": 13,
 				"pt_PT": 4,
-				"ro": 5,
+				"ro": 4,
 				"ru": 6,
 				"sr": 4,
 				"sv": 5,
@@ -694,7 +694,8 @@
 				},
 				"((": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				",": {
@@ -3940,6 +3941,7 @@
 				"btm": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -14868,6 +14870,51 @@
 					}
 				},
 				"gradle-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gradle-clean": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gradle-dependencies": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gradle-dependencyinsight": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gradle-init": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gradle-projects": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gradle-properties": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gradle-tasks": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gradle-test": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gradle-wrapper": {
 					"status": {
 						"en": 2
 					}
@@ -32834,7 +32881,8 @@
 				},
 				"timg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"timidity": {
@@ -34745,6 +34793,7 @@
 				"vercel": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -36481,7 +36530,8 @@
 				},
 				"yek": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"yes": {
@@ -36602,7 +36652,8 @@
 				},
 				"ytmdl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"zh": 2
 					}
 				},
 				"yuvsplittoppm": {
@@ -37801,7 +37852,7 @@
 				"da": 3,
 				"de": 8,
 				"el": 3,
-				"en": 99,
+				"en": 100,
 				"es": 31,
 				"fa": 4,
 				"fi": 3,
@@ -47264,11 +47315,7 @@
 				},
 				"qm-cloudinit": {
 					"status": {
-						"en": 2
-					}
-				},
-				"qm-cloudinit-dump": {
-					"status": {
+						"en": 2,
 						"es": 2,
 						"ko": 2
 					}
@@ -47306,56 +47353,21 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
-					}
-				},
-				"qm-disk-import": {
-					"status": {
-						"es": 2,
-						"ko": 2
-					}
-				},
-				"qm-disk-move": {
-					"status": {
-						"es": 2,
-						"ko": 2
-					}
-				},
-				"qm-disk-resize": {
-					"status": {
-						"es": 2,
-						"ko": 2
 					}
 				},
 				"qm-guest": {
 					"status": {
 						"en": 2,
-						"nl": 2
-					}
-				},
-				"qm-guest-cmd": {
-					"status": {
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"qm-guest-exec": {
 					"status": {
-						"en": 2,
-						"es": 2,
-						"ko": 2
-					}
-				},
-				"qm-guest-exec-status": {
-					"status": {
-						"es": 2,
-						"ko": 2
-					}
-				},
-				"qm-guest-passwd": {
-					"status": {
-						"es": 2,
-						"ko": 2
+						"en": 2
 					}
 				},
 				"qm-help": {
@@ -59272,6 +59284,7 @@
 				},
 				"rename-item": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2
 					}
