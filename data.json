@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 09-Jan-26 01:00:14 CET",
+	"last_update": "Saturday, 10-Jan-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -696,6 +696,7 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -3418,7 +3419,7 @@
 				"bindkey": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"bing-rewards": {
@@ -7974,7 +7975,7 @@
 				"docker-container-top": {
 					"status": {
 						"ar": 1,
-						"bn": 1,
+						"bn": 2,
 						"bs": 1,
 						"ca": 1,
 						"cs": 1,
@@ -15176,7 +15177,8 @@
 				"gvim": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"gvmap": {
@@ -16596,7 +16598,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"tr": 2
 					}
 				},
 				"impacket-getuserspns": {
@@ -16890,7 +16893,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"tr": 2
 					}
 				},
 				"impacket-rpcdump": {
@@ -23254,12 +23258,14 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"npm-ci": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-completion": {
@@ -29842,7 +29848,8 @@
 				},
 				"regex": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"reindexdb": {
@@ -34137,6 +34144,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
 						"uk": 2,
@@ -36986,6 +36994,7 @@
 				"zerotier-cli": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -36998,6 +37007,7 @@
 				"zerotier-one": {
 					"status": {
 						"en": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
@@ -39868,7 +39878,7 @@
 				},
 				"cat": {
 					"status": {
-						"bn": 1,
+						"bn": 2,
 						"en": 2,
 						"es": 1,
 						"hi": 1,
@@ -46908,13 +46918,13 @@
 				"protonvpn": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"protonvpn-connect": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"prt-get": {
