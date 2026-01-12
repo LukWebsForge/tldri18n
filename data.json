@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 11-Jan-26 01:00:16 CET",
+	"last_update": "Monday, 12-Jan-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -41118,13 +41118,18 @@
 						"en": 2
 					}
 				},
+				"dnf4": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dnf5": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"ko": 2,
-						"tr": 2
+						"es": 1,
+						"id": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"dnf5-group": {
@@ -42161,7 +42166,8 @@
 				},
 				"gio": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"gio-trash": {
@@ -42258,6 +42264,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gpm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gpu-screen-recorder": {
