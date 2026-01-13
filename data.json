@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 12-Jan-26 01:00:11 CET",
+	"last_update": "Tuesday, 13-Jan-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -458,7 +458,7 @@
 				"fr": 0,
 				"hi": 0,
 				"id": 58,
-				"it": 70,
+				"it": 100,
 				"ja": 0,
 				"ko": 0,
 				"lo": 0,
@@ -502,7 +502,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"it": 2
 					}
 				},
 				"delete": {
@@ -525,28 +526,32 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"it": 2
 					}
 				},
 				"erase": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"it": 2
 					}
 				},
 				"interface": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"it": 2
 					}
 				},
 				"ip": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"it": 2
 					}
 				},
 				"line": {
@@ -702,6 +707,7 @@
 				"((": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"nl": 2,
 						"ru": 2,
@@ -20323,7 +20329,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"luantiserver": {
@@ -23320,17 +23327,20 @@
 				"npm-dedupe": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-deprecate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-diff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-dist-tag": {
@@ -31669,6 +31679,7 @@
 				"sort": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -38619,6 +38630,11 @@
 						"en": 2
 					}
 				},
+				"apptainer-verify": {
+					"status": {
+						"en": 2
+					}
+				},
 				"apt": {
 					"status": {
 						"ar": 2,
@@ -39901,6 +39917,7 @@
 				"caja": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"ko": 2
 					}
@@ -57225,7 +57242,7 @@
 		"windows": {
 			"progress": {
 				"ar": 7,
-				"bn": 16,
+				"bn": 17,
 				"bs": 7,
 				"ca": 8,
 				"cs": 7,
@@ -57251,7 +57268,7 @@
 				"pt_BR": 16,
 				"pt_PT": 8,
 				"ro": 6,
-				"ru": 13,
+				"ru": 15,
 				"sr": 6,
 				"sv": 8,
 				"ta": 22,
@@ -57734,7 +57751,8 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"clear-host": {
@@ -58361,7 +58379,8 @@
 				},
 				"get-clipboard": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"get-command": {
@@ -58410,10 +58429,12 @@
 				},
 				"get-history": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"get-location": {
@@ -59393,7 +59414,8 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"repair-bde": {
@@ -60154,7 +60176,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"whoami": {
