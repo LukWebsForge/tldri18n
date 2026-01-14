@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 13-Jan-26 01:00:14 CET",
+	"last_update": "Wednesday, 14-Jan-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -628,11 +628,11 @@
 				"fa": 6,
 				"fi": 4,
 				"fr": 12,
-				"hi": 6,
+				"hi": 5,
 				"id": 12,
 				"it": 13,
 				"ja": 6,
-				"ko": 79,
+				"ko": 78,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -2282,6 +2282,7 @@
 						"it": 2,
 						"ko": 1,
 						"nl": 2,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -11720,6 +11721,7 @@
 				},
 				"getadusers.py": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"nl": 2
@@ -18123,6 +18125,41 @@
 						"en": 2
 					}
 				},
+				"jj-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-config-edit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-config-get": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-config-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-config-path": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-config-set": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-config-unset": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-describe": {
 					"status": {
 						"en": 2
@@ -22701,6 +22738,11 @@
 						"en": 2
 					}
 				},
+				"ng-completion": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ng-update": {
 					"status": {
 						"en": 2
@@ -23345,19 +23387,22 @@
 				},
 				"npm-dist-tag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-docs": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ru": 2
 					}
 				},
 				"npm-doctor": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-edit": {
@@ -35848,7 +35893,12 @@
 				"xdelta": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
+					}
+				},
+				"xdelta3": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xe": {
@@ -36559,6 +36609,16 @@
 						"ko": 1,
 						"nl": 2,
 						"zh": 1
+					}
+				},
+				"yara": {
+					"status": {
+						"en": 2
+					}
+				},
+				"yarac": {
+					"status": {
+						"en": 2
 					}
 				},
 				"yard": {
@@ -38610,6 +38670,11 @@
 						"en": 2
 					}
 				},
+				"apptainer-overlay": {
+					"status": {
+						"en": 2
+					}
+				},
 				"apptainer-pull": {
 					"status": {
 						"en": 2
@@ -40383,7 +40448,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"cpufreq-aperf": {
