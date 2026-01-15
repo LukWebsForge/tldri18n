@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 14-Jan-26 01:00:12 CET",
+	"last_update": "Thursday, 15-Jan-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -11741,6 +11741,7 @@
 				},
 				"getnpusers.py": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"nl": 2
@@ -12823,20 +12824,20 @@
 				},
 				"git-commit": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
-						"id": 2,
+						"id": 1,
 						"it": 1,
 						"ja": 1,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ta": 2,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ta": 1,
 						"tr": 1,
 						"uk": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"git-commit-graph": {
@@ -19524,6 +19525,7 @@
 						"cs": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
@@ -41212,6 +41214,7 @@
 						"es": 1,
 						"id": 1,
 						"ko": 1,
+						"nl": 2,
 						"tr": 1
 					}
 				},
@@ -41737,7 +41740,8 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
-						"ko": 1
+						"ko": 1,
+						"ru": 2
 					}
 				},
 				"fadvise": {
