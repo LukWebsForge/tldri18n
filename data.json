@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 15-Jan-26 01:00:13 CET",
+	"last_update": "Friday, 16-Jan-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1705,11 +1705,11 @@
 				},
 				"ansible-vault": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"id": 2,
-						"ko": 2
+						"fr": 1,
+						"id": 1,
+						"ko": 1
 					}
 				},
 				"ansiweather": {
@@ -20145,6 +20145,7 @@
 					"status": {
 						"bs": 2,
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"ko": 2,
 						"nl": 2,
@@ -20987,6 +20988,7 @@
 				"mamba": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -33465,6 +33467,7 @@
 					"status": {
 						"ar": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2
@@ -40815,10 +40818,10 @@
 				"deluser": {
 					"status": {
 						"en": 2,
-						"fr": 2,
-						"it": 2,
+						"fr": 1,
+						"it": 1,
 						"ko": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"dex": {
@@ -51465,7 +51468,7 @@
 				"virt-sparsify": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"virt-sysprep": {
@@ -51625,7 +51628,7 @@
 				"waypipe": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 1
 					}
 				},
