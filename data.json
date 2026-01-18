@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 17-Jan-26 01:00:12 CET",
+	"last_update": "Sunday, 18-Jan-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -18124,6 +18124,11 @@
 						"en": 2
 					}
 				},
+				"jj-bisect": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-bookmark": {
 					"status": {
 						"en": 2
@@ -18305,6 +18310,26 @@
 					}
 				},
 				"jj-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-tag": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-tag-delete": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-tag-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-tag-set": {
 					"status": {
 						"en": 2
 					}
@@ -24241,6 +24266,7 @@
 				"nvim": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -30984,6 +31010,7 @@
 				"screen": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -38262,6 +38289,7 @@
 				},
 				"aa-status": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 1,
 						"ko": 1,
@@ -43598,7 +43626,7 @@
 				"kscreen-doctor": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"ksvgtopng5": {
