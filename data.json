@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 18-Jan-26 01:00:12 CET",
+	"last_update": "Monday, 19-Jan-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -12839,7 +12839,7 @@
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"ta": 1,
 						"tr": 1,
@@ -23475,12 +23475,14 @@
 				"npm-exec": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"npm-explain": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-explore": {
@@ -33540,7 +33542,8 @@
 						"en": 2,
 						"ja": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"traefik": {
