@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 19-Jan-26 01:00:11 CET",
+	"last_update": "Tuesday, 20-Jan-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -708,6 +708,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"nl": 2,
 						"ru": 2,
@@ -790,6 +791,7 @@
 				"3d-ascii-viewer": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"ru": 2,
 						"zh": 2
@@ -1142,6 +1144,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"zh": 1
 					}
@@ -1269,6 +1272,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"zh": 2
 					}
@@ -1499,6 +1503,12 @@
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"zh": 1
+					}
+				},
+				"alembic": {
+					"status": {
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"alex": {
@@ -1772,7 +1782,8 @@
 				"apkeep": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"id": 2
 					}
 				},
 				"apkleaks": {
@@ -11143,7 +11154,8 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2
 					}
 				},
 				"frpc": {
@@ -11152,7 +11164,8 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"frps": {
@@ -11161,7 +11174,8 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"fselect": {
@@ -28425,6 +28439,7 @@
 				"printf": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -31443,7 +31458,7 @@
 				"shfmt": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"shift": {
@@ -42324,14 +42339,14 @@
 				"gio": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"gio-trash": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"gksu": {
@@ -43323,6 +43338,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"iscsiadm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"isoinfo": {
@@ -44919,10 +44939,10 @@
 				"mkfs.ext4": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"id": 1,
+						"ko": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"mkfs.f2fs": {
