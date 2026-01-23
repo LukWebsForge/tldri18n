@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 22-Jan-26 01:00:13 CET",
+	"last_update": "Friday, 23-Jan-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1075,6 +1075,7 @@
 						"es": 2,
 						"fr": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -1088,6 +1089,7 @@
 						"es": 2,
 						"fr": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -1283,6 +1285,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"nl": 2
 					}
 				},
@@ -1306,6 +1309,7 @@
 						"es": 2,
 						"fr": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -1555,6 +1559,11 @@
 						"en": 2,
 						"es": 2,
 						"id": 2
+					}
+				},
+				"alr-version": {
+					"status": {
+						"en": 2
 					}
 				},
 				"amass": {
@@ -22815,6 +22824,11 @@
 						"en": 2
 					}
 				},
+				"ng-lint": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ng-update": {
 					"status": {
 						"en": 2
@@ -31980,6 +31994,11 @@
 						"ko": 2
 					}
 				},
+				"sq": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sqlite-utils": {
 					"status": {
 						"en": 2,
@@ -40654,7 +40673,7 @@
 				"cryptsetup": {
 					"status": {
 						"en": 2,
-						"ko": 2,
+						"ko": 1,
 						"zh": 1
 					}
 				},
@@ -40843,7 +40862,7 @@
 				"ddcutil": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"ddrescue": {
