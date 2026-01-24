@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 23-Jan-26 01:00:12 CET",
+	"last_update": "Saturday, 24-Jan-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4627,6 +4627,7 @@
 				},
 				"bzgrep": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -33391,6 +33392,11 @@
 						"ko": 2
 					}
 				},
+				"tlsx": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tmpmail": {
 					"status": {
 						"en": 2,
@@ -33885,7 +33891,7 @@
 				"tspin": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"tsv-filter": {
@@ -50176,7 +50182,8 @@
 				},
 				"systemctl-revert": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"systemctl-service-log-level": {
@@ -50237,6 +50244,7 @@
 				"systemctl-stop": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -50263,12 +50271,14 @@
 				"systemctl-try-reload-or-restart": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
 				"systemctl-try-restart": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -50365,6 +50375,7 @@
 				"systemd-dissect": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
