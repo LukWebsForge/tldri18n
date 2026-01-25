@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 24-Jan-26 01:00:12 CET",
+	"last_update": "Sunday, 25-Jan-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1559,6 +1559,11 @@
 						"en": 2,
 						"es": 2,
 						"id": 2
+					}
+				},
+				"alr-help": {
+					"status": {
+						"en": 2
 					}
 				},
 				"alr-version": {
@@ -21302,6 +21307,11 @@
 						"en": 2
 					}
 				},
+				"memray": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mesg": {
 					"status": {
 						"en": 2,
@@ -38140,7 +38150,7 @@
 				"bn": 5,
 				"bs": 3,
 				"ca": 7,
-				"cs": 4,
+				"cs": 3,
 				"da": 3,
 				"de": 8,
 				"el": 3,
@@ -38815,6 +38825,11 @@
 						"en": 2
 					}
 				},
+				"apptainer-exec": {
+					"status": {
+						"en": 2
+					}
+				},
 				"apptainer-inspect": {
 					"status": {
 						"en": 2
@@ -38835,12 +38850,32 @@
 						"en": 2
 					}
 				},
+				"apptainer-run": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apptainer-run-help": {
+					"status": {
+						"en": 2
+					}
+				},
 				"apptainer-search": {
 					"status": {
 						"en": 2
 					}
 				},
+				"apptainer-shell": {
+					"status": {
+						"en": 2
+					}
+				},
 				"apptainer-sign": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apptainer-test": {
 					"status": {
 						"en": 2
 					}
@@ -47692,6 +47727,7 @@
 				},
 				"qm-disk": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
