@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 25-Jan-26 01:00:13 CET",
+	"last_update": "Monday, 26-Jan-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -21309,7 +21309,8 @@
 				},
 				"memray": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"mesg": {
@@ -22831,6 +22832,11 @@
 					}
 				},
 				"ng-completion": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ng-generate": {
 					"status": {
 						"en": 2
 					}
@@ -40198,7 +40204,8 @@
 				},
 				"caligula": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"cam": {
@@ -42438,7 +42445,7 @@
 				"gio": {
 					"status": {
 						"en": 2,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"gio-trash": {
