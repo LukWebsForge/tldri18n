@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 26-Jan-26 01:00:13 CET",
+	"last_update": "Tuesday, 27-Jan-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7220,6 +7220,7 @@
 				"dc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 2
 					}
@@ -23074,6 +23075,11 @@
 						"zh": 2
 					}
 				},
+				"nix-instantiate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nix-profile": {
 					"status": {
 						"en": 2,
@@ -28677,6 +28683,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ptghci": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ptpython": {
@@ -49004,6 +49015,7 @@
 				},
 				"setarch": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"nl": 2
