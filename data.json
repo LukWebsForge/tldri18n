@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 27-Jan-26 01:00:13 CET",
+	"last_update": "Wednesday, 28-Jan-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -320,7 +320,7 @@
 				"pkg": {
 					"status": {
 						"bn": 2,
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 1,
 						"fa": 1,
@@ -21015,6 +21015,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"maigret": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mail": {
