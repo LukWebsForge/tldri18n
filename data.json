@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 29-Jan-26 01:00:13 CET",
+	"last_update": "Friday, 30-Jan-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7347,6 +7347,11 @@
 						"ko": 1
 					}
 				},
+				"depotdownloader": {
+					"status": {
+						"en": 2
+					}
+				},
 				"detox": {
 					"status": {
 						"en": 2,
@@ -12573,13 +12578,13 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
 						"id": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 2,
-						"ro": 2,
+						"nl": 1,
+						"ro": 1,
 						"ta": 1,
 						"tr": 1,
 						"uk": 1,
@@ -22842,6 +22847,11 @@
 						"en": 2
 					}
 				},
+				"ng-extract-i18n": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ng-generate": {
 					"status": {
 						"en": 2
@@ -23567,7 +23577,8 @@
 				"npm-find-dupes": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-fund": {
