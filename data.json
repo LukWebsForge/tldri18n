@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 31-Jan-26 01:00:13 CET",
+	"last_update": "Sunday, 01-Feb-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -37731,45 +37731,50 @@
 		},
 		"dos": {
 			"progress": {
-				"ar": 11,
-				"bn": 11,
-				"bs": 11,
-				"ca": 11,
-				"cs": 11,
-				"da": 11,
-				"de": 22,
-				"el": 11,
+				"ar": 4,
+				"bn": 4,
+				"bs": 4,
+				"ca": 4,
+				"cs": 4,
+				"da": 4,
+				"de": 9,
+				"el": 4,
 				"en": 100,
-				"es": 11,
-				"fa": 11,
-				"fi": 11,
-				"fr": 11,
-				"hi": 22,
-				"id": 11,
-				"it": 11,
-				"ja": 11,
-				"ko": 11,
-				"lo": 11,
-				"ml": 11,
-				"ne": 11,
-				"nl": 22,
-				"no": 11,
-				"pl": 11,
-				"pt_BR": 11,
-				"pt_PT": 11,
-				"ro": 11,
-				"ru": 11,
-				"sr": 11,
-				"sv": 11,
-				"ta": 11,
-				"th": 11,
-				"tr": 11,
-				"uk": 11,
-				"uz": 11,
-				"zh": 44,
-				"zh_TW": 11
+				"es": 4,
+				"fa": 4,
+				"fi": 4,
+				"fr": 4,
+				"hi": 9,
+				"id": 4,
+				"it": 4,
+				"ja": 4,
+				"ko": 4,
+				"lo": 4,
+				"ml": 4,
+				"ne": 4,
+				"nl": 9,
+				"no": 4,
+				"pl": 4,
+				"pt_BR": 4,
+				"pt_PT": 4,
+				"ro": 4,
+				"ru": 4,
+				"sr": 4,
+				"sv": 4,
+				"ta": 4,
+				"th": 4,
+				"tr": 4,
+				"uk": 4,
+				"uz": 4,
+				"zh": 19,
+				"zh_TW": 4
 			},
 			"pages": {
+				"boot": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cd": {
 					"status": {
 						"de": 2,
@@ -37820,10 +37825,30 @@
 						"zh_TW": 2
 					}
 				},
+				"choice": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cls": {
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"copy": {
+					"status": {
+						"en": 2
+					}
+				},
+				"del": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dir": {
@@ -37851,10 +37876,45 @@
 						"en": 2
 					}
 				},
+				"loadfix": {
+					"status": {
+						"en": 2
+					}
+				},
+				"loadhigh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"md": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mem": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mixer": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mount": {
+					"status": {
+						"en": 2
+					}
+				},
 				"path": {
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"rd": {
+					"status": {
+						"en": 2
 					}
 				}
 			}
