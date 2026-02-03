@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 02-Feb-26 01:00:13 CET",
+	"last_update": "Tuesday, 03-Feb-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -15438,6 +15438,7 @@
 				},
 				"helix": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 1,
 						"ko": 1,
@@ -16060,7 +16061,7 @@
 				"hx": {
 					"status": {
 						"ar": 1,
-						"bn": 1,
+						"bn": 2,
 						"bs": 1,
 						"ca": 1,
 						"cs": 1,
@@ -16068,7 +16069,7 @@
 						"de": 1,
 						"el": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"fi": 1,
 						"fr": 1,
@@ -22862,6 +22863,11 @@
 						"en": 2
 					}
 				},
+				"ng-run": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ng-update": {
 					"status": {
 						"en": 2
@@ -23908,6 +23914,7 @@
 				},
 				"npm-run": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 1,
 						"ko": 1,
@@ -38813,6 +38820,11 @@
 						"zh_TW": 2
 					}
 				},
+				"amdgpu_top": {
+					"status": {
+						"en": 2
+					}
+				},
 				"amixer": {
 					"status": {
 						"de": 2,
@@ -46011,6 +46023,11 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"nvtop": {
+					"status": {
+						"en": 2
 					}
 				},
 				"obabel": {
