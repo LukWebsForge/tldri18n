@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 05-Feb-26 01:00:12 CET",
+	"last_update": "Friday, 06-Feb-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6844,6 +6844,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -7817,7 +7818,8 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"docker-container-commit": {
@@ -10962,11 +10964,11 @@
 				},
 				"fortune": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"ko": 2
+						"es": 1,
+						"fa": 1,
+						"ko": 1
 					}
 				},
 				"fossa": {
@@ -15083,6 +15085,7 @@
 				"grep": {
 					"status": {
 						"ar": 2,
+						"bn": 2,
 						"da": 2,
 						"de": 1,
 						"en": 2,
@@ -16152,7 +16155,7 @@
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"ro": 1,
-						"ru": 1,
+						"ru": 2,
 						"sr": 1,
 						"sv": 1,
 						"ta": 1,
@@ -22994,6 +22997,11 @@
 						"en": 2
 					}
 				},
+				"ng-new": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ng-run": {
 					"status": {
 						"en": 2
@@ -23420,6 +23428,7 @@
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -23738,12 +23747,14 @@
 				},
 				"npm-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-help-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-home": {
@@ -30247,6 +30258,7 @@
 				},
 				"regex": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2
 					}
@@ -30627,6 +30639,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -30690,6 +30703,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"run-help": {
+					"status": {
+						"en": 2
 					}
 				},
 				"runit": {
@@ -42906,6 +42924,7 @@
 				"groupadd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -46017,6 +46036,7 @@
 				},
 				"nmtui": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"it": 2,
