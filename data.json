@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 06-Feb-26 01:00:13 CET",
+	"last_update": "Saturday, 07-Feb-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -326,7 +326,7 @@
 						"fa": 1,
 						"fr": 1,
 						"hi": 1,
-						"id": 1,
+						"id": 2,
 						"it": 2,
 						"ja": 1,
 						"ko": 1,
@@ -685,6 +685,7 @@
 						"ko": 1,
 						"nl": 2,
 						"ru": 2,
+						"tr": 2,
 						"zh": 1
 					}
 				},
@@ -902,7 +903,7 @@
 						"en": 2,
 						"es": 1,
 						"fa": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
@@ -984,6 +985,7 @@
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -1047,6 +1049,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -1243,7 +1246,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
-						"id": 1,
+						"id": 2,
 						"it": 2,
 						"ko": 1,
 						"nl": 2,
@@ -1764,7 +1767,7 @@
 						"de": 1,
 						"en": 2,
 						"fr": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 1
 					}
@@ -2035,7 +2038,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 1,
@@ -5824,8 +5827,8 @@
 				"cloudflared": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2
+						"it": 1,
+						"ko": 1
 					}
 				},
 				"cluster": {
@@ -23761,36 +23764,42 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"npm-hook": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-init": {
 					"status": {
 						"en": 2,
 						"hi": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-install": {
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
 				"npm-install-ci-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-install-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-it": {
@@ -25461,6 +25470,7 @@
 				},
 				"pamtopnm": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -29507,6 +29517,7 @@
 				},
 				"python": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"id": 2,
@@ -30260,6 +30271,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -37770,6 +37782,7 @@
 				},
 				"zstd": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 1,
 						"ko": 1,
@@ -41360,7 +41373,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"dialog": {
@@ -45839,6 +45852,11 @@
 						"ml": 1
 					}
 				},
+				"neo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"nerdctl": {
 					"status": {
 						"en": 2
@@ -49387,6 +49405,7 @@
 				"setenforce": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -51287,6 +51306,7 @@
 				},
 				"trash": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
