@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 07-Feb-26 01:00:13 CET",
+	"last_update": "Sunday, 08-Feb-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -619,7 +619,7 @@
 				"bn": 5,
 				"bs": 5,
 				"ca": 4,
-				"cs": 5,
+				"cs": 4,
 				"da": 4,
 				"de": 11,
 				"el": 4,
@@ -2348,6 +2348,11 @@
 						"zh": 1
 					}
 				},
+				"autoload": {
+					"status": {
+						"en": 2
+					}
+				},
 				"automake": {
 					"status": {
 						"en": 2
@@ -3965,6 +3970,7 @@
 				"brew-uninstall": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2
@@ -4531,6 +4537,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"bye": {
+					"status": {
+						"en": 2
 					}
 				},
 				"byobu": {
@@ -5378,6 +5389,11 @@
 						"ko": 2
 					}
 				},
+				"chdir": {
+					"status": {
+						"en": 2
+					}
+				},
 				"chdman": {
 					"status": {
 						"en": 2
@@ -6156,6 +6172,7 @@
 				"compopt": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -11833,6 +11850,11 @@
 						"ko": 2
 					}
 				},
+				"getln": {
+					"status": {
+						"en": 2
+					}
+				},
 				"getnpusers.py": {
 					"status": {
 						"bn": 2,
@@ -16117,6 +16139,11 @@
 						"ru": 2
 					}
 				},
+				"hurl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"husky": {
 					"status": {
 						"en": 2,
@@ -16131,43 +16158,14 @@
 				},
 				"hx": {
 					"status": {
-						"ar": 1,
 						"bn": 2,
-						"bs": 1,
-						"ca": 1,
-						"cs": 1,
-						"da": 1,
-						"de": 1,
-						"el": 1,
 						"en": 2,
 						"es": 2,
-						"fa": 1,
-						"fi": 1,
-						"fr": 1,
-						"hi": 1,
-						"id": 1,
-						"it": 1,
-						"ja": 1,
 						"ko": 1,
-						"lo": 1,
-						"ml": 1,
-						"ne": 1,
 						"nl": 2,
-						"no": 1,
-						"pl": 1,
-						"pt_BR": 1,
 						"pt_PT": 1,
-						"ro": 1,
 						"ru": 2,
-						"sr": 1,
-						"sv": 1,
-						"ta": 1,
-						"th": 1,
-						"tr": 1,
-						"uk": 1,
-						"uz": 1,
-						"zh": 1,
-						"zh_TW": 1
+						"zh": 2
 					}
 				},
 				"hydra": {
@@ -17457,6 +17455,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"impacket-ticketconverter": {
+					"status": {
+						"en": 2
 					}
 				},
 				"import": {
@@ -22714,7 +22717,8 @@
 						"da": 2,
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"ncmpcpp": {
@@ -22981,6 +22985,11 @@
 					}
 				},
 				"ng-completion": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ng-e2e": {
 					"status": {
 						"en": 2
 					}
@@ -23845,7 +23854,8 @@
 				},
 				"npm-link": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-list": {
@@ -29357,6 +29367,11 @@
 						"zh": 2
 					}
 				},
+				"pushln": {
+					"status": {
+						"en": 2
+					}
+				},
 				"putty": {
 					"status": {
 						"en": 2
@@ -29757,8 +29772,18 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
-						"ko": 2,
+						"ko": 1,
 						"pl": 1
+					}
+				},
+				"r.1": {
+					"status": {
+						"en": 2
+					}
+				},
+				"r.zsh": {
+					"status": {
+						"en": 2
 					}
 				},
 				"r2": {
@@ -30273,6 +30298,11 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2
+					}
+				},
+				"rehash": {
+					"status": {
+						"en": 2
 					}
 				},
 				"reindexdb": {
@@ -31647,6 +31677,7 @@
 					"status": {
 						"bs": 1,
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2,
 						"ta": 1
@@ -33291,6 +33322,11 @@
 						"zh": 2
 					}
 				},
+				"ticketconverter.py": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tidy": {
 					"status": {
 						"en": 2,
@@ -34450,6 +34486,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"unfunction": {
+					"status": {
+						"en": 2
 					}
 				},
 				"unimatrix": {
@@ -36120,6 +36161,11 @@
 					}
 				},
 				"wlsunset": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wn": {
 					"status": {
 						"en": 2
 					}
@@ -38496,7 +38542,7 @@
 				"id": 6,
 				"it": 9,
 				"ja": 4,
-				"ko": 70,
+				"ko": 69,
 				"lo": 3,
 				"ml": 4,
 				"ne": 3,
@@ -39154,6 +39200,11 @@
 					}
 				},
 				"apptainer-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apptainer-cache": {
 					"status": {
 						"en": 2
 					}
@@ -58676,6 +58727,11 @@
 					}
 				},
 				"compress-archive": {
+					"status": {
+						"en": 2
+					}
+				},
+				"copy": {
 					"status": {
 						"en": 2
 					}
