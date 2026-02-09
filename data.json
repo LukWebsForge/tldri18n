@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 08-Feb-26 01:00:15 CET",
+	"last_update": "Monday, 09-Feb-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -628,7 +628,7 @@
 				"fa": 6,
 				"fi": 4,
 				"fr": 12,
-				"hi": 6,
+				"hi": 5,
 				"id": 12,
 				"it": 14,
 				"ja": 6,
@@ -23020,6 +23020,11 @@
 					}
 				},
 				"ng-serve": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ng-test": {
 					"status": {
 						"en": 2
 					}
