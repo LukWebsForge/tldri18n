@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 09-Feb-26 01:00:14 CET",
+	"last_update": "Tuesday, 10-Feb-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4541,7 +4541,9 @@
 				},
 				"bye": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"nl": 2
 					}
 				},
 				"byobu": {
@@ -5391,7 +5393,8 @@
 				},
 				"chdir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"chdman": {
@@ -11852,7 +11855,8 @@
 				},
 				"getln": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"getnpusers.py": {
@@ -17459,7 +17463,8 @@
 				},
 				"impacket-ticketconverter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"import": {
@@ -29374,7 +29379,8 @@
 				},
 				"pushln": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"putty": {
@@ -29788,7 +29794,8 @@
 				},
 				"r.zsh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"r2": {
@@ -30307,7 +30314,8 @@
 				},
 				"rehash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"reindexdb": {
@@ -34495,7 +34503,8 @@
 				},
 				"unfunction": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"unimatrix": {
