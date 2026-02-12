@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 11-Feb-26 01:00:15 CET",
+	"last_update": "Thursday, 12-Feb-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5487,6 +5487,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh_TW": 1
 					}
 				},
@@ -6429,7 +6430,8 @@
 				},
 				"copilot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"nl": 2
 					}
 				},
 				"copr": {
@@ -17526,6 +17528,7 @@
 				"impacket-ticketconverter": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -29452,6 +29455,7 @@
 				"pushln": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -29867,6 +29871,7 @@
 				"r.zsh": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -34576,6 +34581,7 @@
 				"unfunction": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -37698,6 +37704,7 @@
 				},
 				"zgrep": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
