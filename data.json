@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 12-Feb-26 01:00:13 CET",
+	"last_update": "Friday, 13-Feb-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -13972,6 +13972,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"tr": 2,
 						"zh": 2
@@ -15476,7 +15477,8 @@
 				"hash": {
 					"status": {
 						"en": 2,
-						"fa": 1
+						"fa": 1,
+						"nl": 2
 					}
 				},
 				"hashcat": {
@@ -18178,6 +18180,7 @@
 				},
 				"jira-issue": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2
 					}
@@ -18272,12 +18275,14 @@
 				},
 				"jira-open": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2
 					}
 				},
 				"jira-project": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2
 					}
@@ -18325,6 +18330,7 @@
 				},
 				"jira-sprint": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2
 					}
@@ -23986,12 +23992,14 @@
 				},
 				"npm-login": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-logout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-ls": {
@@ -26108,9 +26116,9 @@
 				"pdftk": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pl": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pl": 1,
+						"pt_BR": 1
 					}
 				},
 				"pdftocairo": {
@@ -30392,6 +30400,7 @@
 				"rehash": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
