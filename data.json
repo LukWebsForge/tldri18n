@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 13-Feb-26 01:00:15 CET",
+	"last_update": "Saturday, 14-Feb-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -624,7 +624,7 @@
 				"de": 11,
 				"el": 4,
 				"en": 100,
-				"es": 22,
+				"es": 23,
 				"fa": 6,
 				"fi": 4,
 				"fr": 12,
@@ -22196,12 +22196,14 @@
 				"mpc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
 				"mpd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -22336,6 +22338,7 @@
 				"mpv": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -24006,14 +24009,16 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"npm-name": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"npm-org": {
@@ -24829,6 +24834,7 @@
 				"od": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -39843,7 +39849,8 @@
 				},
 				"aureport": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"aurman": {
