@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 15-Feb-26 01:00:14 CET",
+	"last_update": "Monday, 16-Feb-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -11425,6 +11425,7 @@
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -11819,7 +11820,8 @@
 				},
 				"gdmsetup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gdown": {
@@ -20670,6 +20672,7 @@
 				},
 				"luanti": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"nl": 2,
@@ -34888,6 +34891,7 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -34896,50 +34900,59 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
 				"uv-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"uv-cache": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"uv-export": {
 					"status": {
 						"en": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
 				"uv-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"uv-init": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"uv-lock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"uv-pip": {
 					"status": {
 						"en": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
 				"uv-publish": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"uv-python": {
@@ -34948,28 +34961,33 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
 				"uv-remove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"uv-run": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"uv-self": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"uv-sync": {
 					"status": {
 						"en": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -34978,6 +34996,7 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -34985,18 +35004,21 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"uv-venv": {
 					"status": {
 						"en": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
 				"uv-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"uvicorn": {
