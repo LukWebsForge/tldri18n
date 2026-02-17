@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 16-Feb-26 01:00:14 CET",
+	"last_update": "Tuesday, 17-Feb-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4332,6 +4332,11 @@
 						"en": 2
 					}
 				},
+				"bun-pm-hash": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bun-pm-ls": {
 					"status": {
 						"en": 2,
@@ -7912,6 +7917,7 @@
 				"docker-container-commit": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
@@ -7923,6 +7929,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ja": 2,
@@ -24029,7 +24036,8 @@
 				"npm-org": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-outdated": {
@@ -43142,6 +43150,7 @@
 				"groupmod": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
