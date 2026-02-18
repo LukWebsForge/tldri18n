@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 17-Feb-26 01:00:15 CET",
+	"last_update": "Wednesday, 18-Feb-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -24043,7 +24043,8 @@
 				"npm-outdated": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-owner": {
@@ -33294,11 +33295,21 @@
 						"ko": 2
 					}
 				},
+				"terraform-apply": {
+					"status": {
+						"en": 2
+					}
+				},
 				"terraform-fmt": {
 					"status": {
 						"de": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"terraform-init": {
+					"status": {
+						"en": 2
 					}
 				},
 				"terraform-output": {
