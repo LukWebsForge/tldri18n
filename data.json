@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 19-Feb-26 01:00:14 CET",
+	"last_update": "Friday, 20-Feb-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -23841,6 +23841,7 @@
 				},
 				"npm-exec": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2,
 						"ru": 2
@@ -23923,6 +23924,7 @@
 				},
 				"npm-install-test": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"ru": 2
 					}
@@ -24029,6 +24031,7 @@
 				},
 				"npm-ls": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 1,
 						"nl": 2,
@@ -24059,6 +24062,7 @@
 				},
 				"npm-owner": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -24151,6 +24155,7 @@
 				},
 				"npm-rebuild": {
 					"status": {
+						"bn": 2,
 						"en": 2
 					}
 				},
@@ -34884,6 +34889,7 @@
 				"users": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"ko": 2,
 						"nl": 2,
@@ -35116,6 +35122,7 @@
 				"vagrant": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2
 					}
@@ -35601,6 +35608,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
