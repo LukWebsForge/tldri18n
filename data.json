@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 21-Feb-26 01:00:15 CET",
+	"last_update": "Sunday, 22-Feb-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3892,6 +3892,7 @@
 				},
 				"brew-info": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"nl": 2
@@ -4031,6 +4032,7 @@
 				},
 				"brew-uninstall": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"id": 2,
@@ -11325,6 +11327,21 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"th": 2
+					}
+				},
+				"frida": {
+					"status": {
+						"en": 2
+					}
+				},
+				"frida-ps": {
+					"status": {
+						"en": 2
+					}
+				},
+				"frida-trace": {
+					"status": {
+						"en": 2
 					}
 				},
 				"from": {
@@ -22232,6 +22249,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"mp4decrypt": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mpc": {
@@ -34258,6 +34280,7 @@
 				"true": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2,
 						"sv": 1
@@ -38743,7 +38766,7 @@
 				"fi": 3,
 				"fr": 8,
 				"hi": 5,
-				"id": 6,
+				"id": 7,
 				"it": 9,
 				"ja": 4,
 				"ko": 69,
@@ -38892,14 +38915,16 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"id": 2
 					}
 				},
 				"aa-cleanprof": {
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"id": 2
 					}
 				},
 				"aa-complain": {
@@ -38908,6 +38933,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -38915,7 +38941,8 @@
 				"aa-decode": {
 					"status": {
 						"bn": 2,
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"aa-disable": {
@@ -38923,6 +38950,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -38933,6 +38961,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -38941,24 +38970,28 @@
 				"aa-genprof": {
 					"status": {
 						"bn": 2,
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"aa-logprof": {
 					"status": {
 						"bn": 2,
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"aa-mergeprof": {
 					"status": {
 						"bn": 2,
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"aa-remove-unknown": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"aa-status": {
@@ -38966,6 +38999,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 1,
+						"id": 2,
 						"ko": 1,
 						"nl": 2,
 						"pl": 1
@@ -38973,17 +39007,20 @@
 				},
 				"aa-teardown": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"aa-unconfined": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"aa-update-browser": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"abbr": {
@@ -40520,6 +40557,7 @@
 				},
 				"broot": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"hi": 2,
