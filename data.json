@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 22-Feb-26 01:00:14 CET",
+	"last_update": "Monday, 23-Feb-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -632,7 +632,7 @@
 				"id": 12,
 				"it": 15,
 				"ja": 6,
-				"ko": 78,
+				"ko": 77,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -1671,7 +1671,8 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"anki": {
@@ -2033,7 +2034,8 @@
 				},
 				"arjun": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"arp": {
@@ -10975,7 +10977,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"flite": {
@@ -11315,7 +11318,8 @@
 				},
 				"fresh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"freshclam": {
@@ -16265,7 +16269,8 @@
 				},
 				"hurl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"husky": {
@@ -24119,12 +24124,14 @@
 				},
 				"npm-ping": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-pkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-prefix": {
@@ -25087,6 +25094,51 @@
 						"ko": 2
 					}
 				},
+				"openclaw": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openclaw-agent": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openclaw-channels": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openclaw-doctor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openclaw-gateway": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openclaw-message": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openclaw-nodes": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openclaw-onboard": {
+					"status": {
+						"en": 2
+					}
+				},
+				"openclaw-update": {
+					"status": {
+						"en": 2
+					}
+				},
 				"opencode": {
 					"status": {
 						"en": 2
@@ -25276,6 +25328,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"ots": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ouch": {
@@ -31969,7 +32026,8 @@
 				},
 				"showmount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"shred": {
@@ -33363,6 +33421,11 @@
 					}
 				},
 				"terraform-apply": {
+					"status": {
+						"en": 2
+					}
+				},
+				"terraform-destroy": {
 					"status": {
 						"en": 2
 					}
@@ -36393,7 +36456,8 @@
 				},
 				"wn": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"wondershaper": {
@@ -37956,6 +38020,7 @@
 				"zmap": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
