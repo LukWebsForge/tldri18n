@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 24-Feb-26 01:00:16 CET",
+	"last_update": "Wednesday, 25-Feb-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -619,7 +619,7 @@
 				"bn": 5,
 				"bs": 5,
 				"ca": 4,
-				"cs": 4,
+				"cs": 5,
 				"da": 4,
 				"de": 11,
 				"el": 4,
@@ -628,7 +628,7 @@
 				"fa": 6,
 				"fi": 4,
 				"fr": 12,
-				"hi": 5,
+				"hi": 6,
 				"id": 12,
 				"it": 15,
 				"ja": 6,
@@ -637,12 +637,12 @@
 				"ml": 4,
 				"ne": 4,
 				"nl": 20,
-				"no": 4,
-				"pl": 6,
+				"no": 5,
+				"pl": 7,
 				"pt_BR": 13,
-				"pt_PT": 4,
+				"pt_PT": 5,
 				"ro": 5,
-				"ru": 8,
+				"ru": 9,
 				"sr": 4,
 				"sv": 5,
 				"ta": 6,
@@ -1072,6 +1072,7 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -3019,6 +3020,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh_TW": 2
 					}
 				},
@@ -3028,6 +3030,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh_TW": 2
 					}
 				},
@@ -4206,6 +4209,7 @@
 				},
 				"bun-create": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2
 					}
@@ -4273,6 +4277,7 @@
 				},
 				"bun-install": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2
 					}
@@ -4355,6 +4360,7 @@
 				},
 				"bun-pm-ls": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2
 					}
@@ -4391,6 +4397,7 @@
 				},
 				"bun-remove": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2
 					}
@@ -4628,13 +4635,43 @@
 				},
 				"bye": {
 					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
 						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
 						"ru": 2,
-						"ta": 2
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"byobu": {
@@ -5484,13 +5521,43 @@
 				},
 				"chdir": {
 					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
 						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
 						"ru": 2,
-						"ta": 2
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"chdman": {
@@ -8030,6 +8097,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -8177,6 +8245,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ja": 2,
 						"ko": 2,
@@ -11984,13 +12053,43 @@
 				},
 				"getln": {
 					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
 						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
 						"ru": 2,
-						"ta": 2
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"getnpusers.py": {
@@ -12612,7 +12711,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"id": 1,
 						"it": 1,
 						"ja": 1,
@@ -12632,6 +12731,7 @@
 				"git-abort": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -13352,6 +13452,7 @@
 				"git-extras": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -15549,6 +15650,7 @@
 				"hash": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fa": 1,
 						"nl": 2
 					}
@@ -15748,6 +15850,13 @@
 						"es": 1,
 						"fr": 1,
 						"ko": 1
+					}
+				},
+				"hf": {
+					"status": {
+						"en": 2,
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"hg": {
@@ -16255,9 +16364,43 @@
 				},
 				"huggingface-cli": {
 					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"hugo": {
@@ -16361,6 +16504,7 @@
 				"ibmcloud": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -17602,13 +17746,43 @@
 				},
 				"impacket-ticketconverter": {
 					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
 						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
 						"ru": 2,
-						"ta": 2
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"import": {
@@ -17972,6 +18146,7 @@
 				"java": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ja": 2,
 						"ko": 2,
@@ -19921,9 +20096,15 @@
 						"en": 2
 					}
 				},
+				"lesskey": {
+					"status": {
+						"en": 2
+					}
+				},
 				"let": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -26268,7 +26449,8 @@
 						"en": 2,
 						"ko": 1,
 						"pl": 1,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"ru": 2
 					}
 				},
 				"pdftocairo": {
@@ -29612,13 +29794,43 @@
 				},
 				"pushln": {
 					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
 						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
 						"ru": 2,
-						"ta": 2
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"putty": {
@@ -30032,13 +30244,43 @@
 				},
 				"r.zsh": {
 					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
 						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
 						"ru": 2,
-						"ta": 2
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"r2": {
@@ -30557,13 +30799,43 @@
 				},
 				"rehash": {
 					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
 						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
 						"ru": 2,
-						"ta": 2
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"reindexdb": {
@@ -33679,7 +33951,8 @@
 				},
 				"tio": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"tldr": {
@@ -34771,13 +35044,43 @@
 				},
 				"unfunction": {
 					"status": {
+						"ar": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
 						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
 						"ru": 2,
-						"ta": 2
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"unimatrix": {
@@ -37850,6 +38153,81 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"zeroclaw": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-agent": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-channel": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-cron": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-daemon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-doctor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-gateway": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-hardware": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-integrations": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-migrate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-models": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-onboard": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-service": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-skills": {
+					"status": {
+						"en": 2
+					}
+				},
+				"zeroclaw-status": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zerotier-cli": {
@@ -44245,6 +44623,7 @@
 				"iw": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ja": 2,
 						"ko": 2
 					}
