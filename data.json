@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 25-Feb-26 01:00:15 CET",
+	"last_update": "Thursday, 26-Feb-26 01:00:16 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -642,7 +642,7 @@
 				"pt_BR": 13,
 				"pt_PT": 5,
 				"ro": 5,
-				"ru": 9,
+				"ru": 8,
 				"sr": 4,
 				"sv": 5,
 				"ta": 6,
@@ -4376,6 +4376,11 @@
 					}
 				},
 				"bun-pm-pkg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"bun-pm-scan": {
 					"status": {
 						"en": 2
 					}
@@ -19488,6 +19493,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"koboldcpp": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kodi-send": {
@@ -35488,8 +35498,8 @@
 				"uv-venv": {
 					"status": {
 						"en": 2,
-						"ru": 2,
-						"zh": 2
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"uv-version": {
