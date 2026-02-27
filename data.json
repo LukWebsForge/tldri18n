@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 26-Feb-26 01:00:16 CET",
+	"last_update": "Friday, 27-Feb-26 01:00:17 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -642,7 +642,7 @@
 				"pt_BR": 13,
 				"pt_PT": 5,
 				"ro": 5,
-				"ru": 8,
+				"ru": 9,
 				"sr": 4,
 				"sv": 5,
 				"ta": 6,
@@ -7585,7 +7585,7 @@
 				"devcontainer": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"devenv": {
@@ -9962,6 +9962,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"edit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"eget": {
@@ -22689,6 +22694,11 @@
 						"nl": 2
 					}
 				},
+				"msedit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"msfconsole": {
 					"status": {
 						"en": 2,
@@ -24342,7 +24352,8 @@
 				},
 				"npm-prefix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-profile": {
@@ -26402,6 +26413,7 @@
 				"pdfimages": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pl": 2
 					}
@@ -33089,6 +33101,7 @@
 						"en": 2,
 						"hi": 1,
 						"ko": 1,
+						"pt_BR": 2,
 						"zh": 1
 					}
 				},
@@ -37701,6 +37714,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
