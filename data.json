@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 28-Feb-26 01:00:15 CET",
+	"last_update": "Sunday, 01-Mar-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -4562,6 +4562,7 @@
 				"bunx": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -24372,7 +24373,8 @@
 				},
 				"npm-prune": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-publish": {
@@ -25366,6 +25368,66 @@
 					}
 				},
 				"opencode": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-agent": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-auth": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-debug": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-export": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-import": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-mcp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-models": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-session": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-stats": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-uninstall": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-upgrade": {
+					"status": {
+						"en": 2
+					}
+				},
+				"opencode-web": {
 					"status": {
 						"en": 2
 					}
@@ -33776,6 +33838,16 @@
 						"en": 2
 					}
 				},
+				"terraform-login": {
+					"status": {
+						"en": 2
+					}
+				},
+				"terraform-logout": {
+					"status": {
+						"en": 2
+					}
+				},
 				"terraform-output": {
 					"status": {
 						"en": 2,
@@ -38433,6 +38505,11 @@
 						"en": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"zle": {
+					"status": {
+						"en": 2
 					}
 				},
 				"zless": {
