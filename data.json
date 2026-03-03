@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 02-Mar-26 01:00:16 CET",
+	"last_update": "Tuesday, 03-Mar-26 01:00:16 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -871,6 +871,7 @@
 						"pt_BR": 2,
 						"pt_PT": 1,
 						"ru": 2,
+						"tr": 2,
 						"uk": 2,
 						"zh": 2
 					}
@@ -1010,6 +1011,7 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -1114,6 +1116,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -3578,7 +3581,7 @@
 				"bindkey": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"bing-rewards": {
@@ -4153,17 +4156,20 @@
 				},
 				"bun-add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-audit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-c": {
@@ -4211,17 +4217,20 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"bun-exec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-feedback": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-i": {
@@ -24423,7 +24432,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"npm-rb": {
@@ -38447,6 +38457,11 @@
 						"zh_TW": 2
 					}
 				},
+				"zformat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"zfs": {
 					"status": {
 						"en": 2,
@@ -42810,7 +42825,7 @@
 						"en": 2,
 						"es": 2,
 						"hi": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -46344,7 +46359,7 @@
 				"mkfs.btrfs": {
 					"status": {
 						"en": 2,
-						"id": 1,
+						"id": 2,
 						"ko": 1,
 						"pt_BR": 1,
 						"zh": 1
@@ -58155,7 +58170,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
-						"id": 1,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -60447,10 +60462,10 @@
 				"invoke-webrequest": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"ko": 2,
-						"nl": 2
+						"es": 1,
+						"id": 1,
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"ipconfig": {
