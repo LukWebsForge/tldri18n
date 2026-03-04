@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 03-Mar-26 01:00:16 CET",
+	"last_update": "Wednesday, 04-Mar-26 01:00:16 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -618,7 +618,7 @@
 				"ar": 6,
 				"bn": 5,
 				"bs": 5,
-				"ca": 4,
+				"ca": 5,
 				"cs": 5,
 				"da": 4,
 				"de": 11,
@@ -1139,7 +1139,7 @@
 						"fr": 1,
 						"id": 2,
 						"it": 2,
-						"ko": 1,
+						"ko": 2,
 						"ml": 2,
 						"nl": 2,
 						"pl": 1,
@@ -1322,6 +1322,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"nl": 2
 					}
@@ -1551,7 +1552,8 @@
 				"alembic": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"id": 2
 					}
 				},
 				"alex": {
@@ -1600,12 +1602,14 @@
 				},
 				"alr-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"alr-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"amass": {
@@ -2040,6 +2044,7 @@
 				"arjun": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ru": 2
 					}
 				},
@@ -2114,7 +2119,8 @@
 				},
 				"ascii-image-converter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"asciidoctor": {
@@ -2142,7 +2148,8 @@
 				},
 				"asciiquarium": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"asciitopgm": {
@@ -2169,7 +2176,8 @@
 				},
 				"asnmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"aspell": {
@@ -2208,7 +2216,8 @@
 				},
 				"astroterm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"astyle": {
@@ -2261,7 +2270,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"tr": 1
 					}
 				},
@@ -6086,6 +6095,28 @@
 						"it": 1,
 						"ko": 1,
 						"nl": 2
+					}
+				},
+				"cmus": {
+					"status": {
+						"ca": 1,
+						"en": 2,
+						"es": 2,
+						"fr": 1,
+						"ko": 1,
+						"ml": 1,
+						"nl": 2,
+						"pt_BR": 1
+					}
+				},
+				"cmus-remote": {
+					"status": {
+						"en": 2
+					}
+				},
+				"cmusfm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"cmuwmtopbm": {
@@ -24480,7 +24511,8 @@
 				"npm-rebuild": {
 					"status": {
 						"bn": 2,
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-repo": {
@@ -35651,7 +35683,7 @@
 				"uv-venv": {
 					"status": {
 						"en": 2,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -37231,6 +37263,7 @@
 				},
 				"xml-canonic": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"ko": 2,
 						"nl": 2
@@ -37238,6 +37271,7 @@
 				},
 				"xml-depyx": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"ko": 2,
 						"nl": 2
@@ -37316,6 +37350,7 @@
 				},
 				"xml-pyx": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -39403,7 +39438,7 @@
 				"es": 31,
 				"fa": 4,
 				"fi": 3,
-				"fr": 8,
+				"fr": 7,
 				"hi": 5,
 				"id": 7,
 				"it": 9,
@@ -41785,6 +41820,7 @@
 				"chpasswd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -41819,18 +41855,6 @@
 					"status": {
 						"en": 2,
 						"ko": 2
-					}
-				},
-				"cmus": {
-					"status": {
-						"ca": 1,
-						"en": 2,
-						"es": 2,
-						"fr": 1,
-						"ko": 1,
-						"ml": 1,
-						"nl": 2,
-						"pt_BR": 1
 					}
 				},
 				"cockpit-bridge": {
@@ -45873,6 +45897,11 @@
 					}
 				},
 				"ltrace": {
+					"status": {
+						"en": 2
+					}
+				},
+				"lure": {
 					"status": {
 						"en": 2
 					}
@@ -54321,7 +54350,7 @@
 				"fr": 31,
 				"hi": 32,
 				"id": 36,
-				"it": 35,
+				"it": 34,
 				"ja": 0,
 				"ko": 88,
 				"lo": 0,
@@ -54333,7 +54362,7 @@
 				"pt_BR": 49,
 				"pt_PT": 34,
 				"ro": 1,
-				"ru": 40,
+				"ru": 39,
 				"sr": 0,
 				"sv": 0,
 				"ta": 32,
@@ -58552,6 +58581,11 @@
 						"ko": 2
 					}
 				},
+				"tccutil": {
+					"status": {
+						"en": 2
+					}
+				},
 				"terminal-notifier": {
 					"status": {
 						"en": 2,
@@ -60463,7 +60497,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"id": 1,
+						"id": 2,
 						"ko": 1,
 						"nl": 1
 					}
