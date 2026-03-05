@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 04-Mar-26 01:00:16 CET",
+	"last_update": "Thursday, 05-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7566,6 +7566,7 @@
 				"delta": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -7848,6 +7849,7 @@
 				"disown": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"ko": 2
 					}
@@ -24517,7 +24519,8 @@
 				},
 				"npm-repo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-restart": {
@@ -41619,6 +41622,11 @@
 						"es": 2
 					}
 				},
+				"cdrecord": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cec-client": {
 					"status": {
 						"en": 2
@@ -53345,7 +53353,7 @@
 				"wodim": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"woeusb": {
