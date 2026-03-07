@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 06-Mar-26 01:00:15 CET",
+	"last_update": "Saturday, 07-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7392,7 +7392,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"cypher-shell": {
@@ -12759,6 +12759,7 @@
 				"gifsicle": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -15498,6 +15499,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"grype": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gst-device-monitor-1.0": {
@@ -24647,7 +24653,8 @@
 				},
 				"npm-sbom": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-search": {
@@ -25323,10 +25330,15 @@
 						"en": 2
 					}
 				},
+				"ohdear": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ohdear-cli": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"okular": {
@@ -60536,7 +60548,7 @@
 						"es": 1,
 						"id": 2,
 						"ko": 1,
-						"nl": 1
+						"nl": 2
 					}
 				},
 				"ipconfig": {
