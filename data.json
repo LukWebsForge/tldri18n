@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 07-Mar-26 01:00:15 CET",
+	"last_update": "Sunday, 08-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1423,14 +1423,16 @@
 				"agg": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aider": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aircrack-ng": {
@@ -1553,7 +1555,8 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"alex": {
@@ -2439,6 +2442,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2,
 						"uk": 2,
 						"zh": 2
@@ -3195,6 +3199,7 @@
 				"azcopy": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -11147,6 +11152,11 @@
 						"ko": 2
 					}
 				},
+				"float": {
+					"status": {
+						"en": 2
+					}
+				},
 				"flow": {
 					"status": {
 						"en": 2,
@@ -11695,7 +11705,8 @@
 				},
 				"gawk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"gc": {
@@ -19862,7 +19873,8 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"ko": 1
+						"ko": 1,
+						"ru": 2
 					}
 				},
 				"kubectl-kustomize": {
@@ -24660,7 +24672,8 @@
 				"npm-search": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-shrinkwrap": {
@@ -26183,7 +26196,8 @@
 				"pandoc": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 1,
+						"ru": 2
 					}
 				},
 				"pangolin": {
@@ -36827,13 +36841,15 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
 				"wget2": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"whatwaf": {
@@ -43785,6 +43801,7 @@
 				"genisoimage": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"pt_BR": 1
 					}
@@ -53394,6 +53411,7 @@
 				"wodim": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -59160,7 +59178,7 @@
 				"id": 22,
 				"it": 20,
 				"ja": 19,
-				"ko": 86,
+				"ko": 85,
 				"lo": 8,
 				"ml": 7,
 				"ne": 8,
@@ -60957,6 +60975,11 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"ping": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pipwin": {
