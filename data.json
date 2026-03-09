@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 08-Mar-26 01:00:15 CET",
+	"last_update": "Monday, 09-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -618,7 +618,7 @@
 				"ar": 6,
 				"bn": 5,
 				"bs": 5,
-				"ca": 5,
+				"ca": 4,
 				"cs": 5,
 				"da": 4,
 				"de": 11,
@@ -19742,7 +19742,8 @@
 				},
 				"kubectl-annotate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-api-resources": {
@@ -24678,7 +24679,8 @@
 				},
 				"npm-shrinkwrap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"npm-star": {
@@ -27334,6 +27336,7 @@
 				"ping.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -27349,6 +27352,7 @@
 				"ping6.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -35015,6 +35019,11 @@
 						"ko": 2
 					}
 				},
+				"tuitube": {
+					"status": {
+						"en": 2
+					}
+				},
 				"turbo": {
 					"status": {
 						"en": 2,
@@ -40205,6 +40214,11 @@
 					}
 				},
 				"apptainer-cache": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apptainer-config": {
 					"status": {
 						"en": 2
 					}
