@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 09-Mar-26 01:00:15 CET",
+	"last_update": "Tuesday, 10-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5663,12 +5663,14 @@
 				},
 				"chkfont": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"chkrootkit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"chmod": {
@@ -5707,7 +5709,7 @@
 						"fr": 1,
 						"it": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
@@ -5752,7 +5754,7 @@
 						"es": 1,
 						"fr": 1,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"tr": 1,
 						"zh": 1
@@ -5760,7 +5762,8 @@
 				},
 				"ci": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cidr": {
@@ -6741,6 +6744,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 2,
+						"ru": 2,
 						"ta": 2,
 						"tr": 1,
 						"zh": 2,
@@ -19748,12 +19752,14 @@
 				},
 				"kubectl-api-resources": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-api-versions": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-apply": {
@@ -22988,6 +22994,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
+						"ru": 2,
 						"ta": 1,
 						"zh": 2,
 						"zh_TW": 1
@@ -24686,7 +24693,8 @@
 				"npm-star": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-stars": {
@@ -25347,13 +25355,14 @@
 				},
 				"ohdear": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ohdear-cli": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"okular": {
@@ -33378,6 +33387,7 @@
 						"en": 2,
 						"es": 2,
 						"hi": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -34596,6 +34606,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"tookie-osint": {
+					"status": {
+						"en": 2
 					}
 				},
 				"topgrade": {
@@ -59249,7 +59264,6 @@
 				"azcopy": {
 					"status": {
 						"es": 2,
-						"ko": 2,
 						"ta": 2
 					}
 				},
