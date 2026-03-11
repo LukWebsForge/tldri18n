@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 10-Mar-26 01:00:15 CET",
+	"last_update": "Wednesday, 11-Mar-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3794,7 +3794,8 @@
 				},
 				"boxxy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bpkg": {
@@ -3808,7 +3809,8 @@
 				"bpython": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"bpytop": {
@@ -3842,7 +3844,8 @@
 				},
 				"break": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brew": {
@@ -4110,7 +4113,8 @@
 				"browsh": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"bru": {
@@ -4153,7 +4157,7 @@
 						"es": 2,
 						"fr": 1,
 						"it": 2,
-						"ko": 1,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -8159,6 +8163,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
@@ -8336,6 +8341,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ja": 2,
 						"ko": 2,
@@ -8349,6 +8355,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
@@ -14620,11 +14627,11 @@
 				"git-worktree": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"it": 2,
-						"ko": 2,
-						"tr": 2
+						"es": 1,
+						"fr": 1,
+						"it": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"git-write-tree": {
@@ -19765,7 +19772,8 @@
 				"kubectl-apply": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 1,
+						"ru": 2
 					}
 				},
 				"kubectl-attach": {
@@ -24787,7 +24795,8 @@
 				"npm-team": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-test": {
@@ -31251,6 +31260,11 @@
 						"ko": 2
 					}
 				},
+				"ri": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rich": {
 					"status": {
 						"en": 2,
@@ -32513,6 +32527,12 @@
 					}
 				},
 				"shellcheck": {
+					"status": {
+						"en": 2,
+						"ko": 2
+					}
+				},
+				"sherlock": {
 					"status": {
 						"en": 2,
 						"ko": 2
@@ -47448,6 +47468,11 @@
 						"ko": 2
 					}
 				},
+				"owut": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pacaur": {
 					"status": {
 						"en": 2,
@@ -50579,12 +50604,6 @@
 						"ko": 2
 					}
 				},
-				"sherlock": {
-					"status": {
-						"en": 2,
-						"ko": 2
-					}
-				},
 				"shiny-mirrors": {
 					"status": {
 						"en": 2,
@@ -52812,6 +52831,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"update-ca-certificates": {
+					"status": {
+						"en": 2
 					}
 				},
 				"update-grub": {
