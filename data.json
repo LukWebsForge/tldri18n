@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 11-Mar-26 01:00:14 CET",
+	"last_update": "Thursday, 12-Mar-26 01:00:16 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -823,6 +823,7 @@
 						"en": 2,
 						"id": 2,
 						"it": 2,
+						"ko": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -1600,19 +1601,22 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"alr-help": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"alr-version": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"amass": {
@@ -1849,7 +1853,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apkleaks": {
@@ -2057,6 +2062,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -2103,18 +2109,21 @@
 				"arthas": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"arthas-trace": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"arthas-watch": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -2161,7 +2170,8 @@
 				"asciiquarium": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"asciitopgm": {
@@ -3346,6 +3356,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -3362,6 +3373,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -19819,7 +19831,8 @@
 				},
 				"kubectl-cp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-create": {
@@ -20312,6 +20325,7 @@
 				"lilypond": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -24849,7 +24863,8 @@
 				"npm-uninstall": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-unpublish": {
@@ -40288,6 +40303,11 @@
 						"en": 2
 					}
 				},
+				"apptainer-registry": {
+					"status": {
+						"en": 2
+					}
+				},
 				"apptainer-run": {
 					"status": {
 						"en": 2
@@ -40890,6 +40910,7 @@
 				},
 				"avahi-resolve": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
