@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 12-Mar-26 01:00:16 CET",
+	"last_update": "Friday, 13-Mar-26 01:00:16 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -630,9 +630,9 @@
 				"fr": 12,
 				"hi": 6,
 				"id": 12,
-				"it": 15,
+				"it": 16,
 				"ja": 6,
-				"ko": 77,
+				"ko": 78,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -642,7 +642,7 @@
 				"pt_BR": 13,
 				"pt_PT": 5,
 				"ro": 5,
-				"ru": 9,
+				"ru": 10,
 				"sr": 4,
 				"sv": 5,
 				"ta": 6,
@@ -2912,6 +2912,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -2920,7 +2921,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
-						"it": 1,
+						"it": 2,
 						"ko": 1,
 						"pt_BR": 1,
 						"zh": 1
@@ -2942,24 +2943,28 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-acr": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-advisor": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-aks": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -2967,6 +2972,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3007,12 +3013,14 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-disk": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3020,6 +3028,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3027,6 +3036,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3034,18 +3044,21 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-lock": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-logicapp": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3054,6 +3067,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh_TW": 2
@@ -3064,6 +3078,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh_TW": 2
@@ -3073,12 +3088,14 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-pipelines": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3086,29 +3103,34 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-quantum": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"az-redis": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-repos": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-serial-console": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3116,6 +3138,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3123,6 +3146,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3130,6 +3154,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3137,6 +3162,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3144,24 +3170,28 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-storage-entity": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-storage-queue": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-storage-table": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3169,12 +3199,14 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-term": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3182,6 +3214,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3189,6 +3222,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3196,6 +3230,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3203,6 +3238,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -3723,7 +3759,8 @@
 				"bloodhound-python": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"bmaptool": {
@@ -3937,7 +3974,8 @@
 				},
 				"brew-cleanup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brew-info": {
@@ -3945,6 +3983,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -3958,7 +3997,8 @@
 				},
 				"brew-leaves": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"brew-list": {
@@ -5526,6 +5566,7 @@
 				},
 				"cdparanoia": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -5785,7 +5826,8 @@
 				"cidr": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"circo": {
@@ -5951,7 +5993,8 @@
 				"claude": {
 					"status": {
 						"en": 2,
-						"ja": 1
+						"ja": 1,
+						"ko": 2
 					}
 				},
 				"clear": {
@@ -5979,7 +6022,8 @@
 				},
 				"cli4": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cli53": {
@@ -19790,7 +19834,8 @@
 				},
 				"kubectl-attach": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-auth": {
@@ -24870,7 +24915,8 @@
 				"npm-unpublish": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-unstar": {
@@ -44601,6 +44647,11 @@
 					}
 				},
 				"imhex": {
+					"status": {
+						"en": 2
+					}
+				},
+				"imp": {
 					"status": {
 						"en": 2
 					}
