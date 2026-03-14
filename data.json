@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 13-Mar-26 01:00:16 CET",
+	"last_update": "Saturday, 14-Mar-26 01:00:16 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1090,6 +1090,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1103,6 +1104,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1700,6 +1702,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -4300,7 +4303,8 @@
 						"bn": 2,
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"bun-exec": {
@@ -4370,7 +4374,8 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"bun-link": {
@@ -4495,7 +4500,8 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"bun-rm": {
@@ -4911,6 +4917,7 @@
 				},
 				"bzip2": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"it": 1,
@@ -5898,6 +5905,7 @@
 				},
 				"clang": {
 					"status": {
+						"bn": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -5911,6 +5919,7 @@
 				},
 				"clang++": {
 					"status": {
+						"bn": 2,
 						"de": 1,
 						"en": 2,
 						"es": 2,
@@ -7491,7 +7500,8 @@
 				"d8": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"dalfox": {
@@ -15581,7 +15591,8 @@
 				},
 				"grype": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"gst-device-monitor-1.0": {
@@ -19840,7 +19851,8 @@
 				},
 				"kubectl-auth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-autoscale": {
@@ -21049,6 +21061,7 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -24928,7 +24941,8 @@
 				"npm-update": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-version": {
@@ -30424,6 +30438,11 @@
 						"zh": 2
 					}
 				},
+				"qgis": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qmake": {
 					"status": {
 						"en": 2,
@@ -32640,6 +32659,7 @@
 				"showmount": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -32691,7 +32711,8 @@
 				},
 				"sipcalc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sirtopnm": {
@@ -32765,7 +32786,8 @@
 				},
 				"slim": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"slimrb": {
@@ -32776,7 +32798,8 @@
 				},
 				"slocate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"smalltalkci": {
@@ -32794,6 +32817,7 @@
 				"smbclient.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -32806,6 +32830,7 @@
 				"smbserver.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -32831,23 +32856,27 @@
 				"sniff.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"sniffer.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"snmpbulkget": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snmpdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snmpget": {
@@ -37242,7 +37271,8 @@
 				},
 				"x8": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"x_x": {
@@ -39600,7 +39630,7 @@
 				"fi": 3,
 				"fr": 7,
 				"hi": 5,
-				"id": 7,
+				"id": 8,
 				"it": 9,
 				"ja": 4,
 				"ko": 69,
@@ -40311,7 +40341,8 @@
 				},
 				"apptainer-cache": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"apptainer-config": {
@@ -40321,22 +40352,26 @@
 				},
 				"apptainer-delete": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"apptainer-exec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"apptainer-inspect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"apptainer-overlay": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"apptainer-pull": {
@@ -45543,7 +45578,8 @@
 				},
 				"light": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"limine": {
@@ -48508,7 +48544,8 @@
 				},
 				"pipetron": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"pipewire": {
@@ -50987,6 +51024,11 @@
 						"ko": 2
 					}
 				},
+				"sprof": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sqfscat": {
 					"status": {
 						"en": 2,
@@ -51148,7 +51190,7 @@
 				"steamos-readonly": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"steamos-select-branch": {
@@ -51166,6 +51208,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"steamosctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"steghide": {
