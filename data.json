@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 16-Mar-26 01:00:15 CET",
+	"last_update": "Tuesday, 17-Mar-26 01:00:14 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5074,7 +5074,8 @@
 				"caller": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"calligraflow": {
@@ -5123,7 +5124,8 @@
 				"carbonyl": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"cargo": {
@@ -6234,7 +6236,8 @@
 				},
 				"co": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"code": {
@@ -6253,7 +6256,8 @@
 				},
 				"code2prompt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"codecrafters": {
@@ -6271,7 +6275,8 @@
 				},
 				"codex": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"coffee": {
@@ -6425,7 +6430,7 @@
 					"status": {
 						"en": 2,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"pt_BR": 1,
 						"tr": 1,
 						"zh": 1
@@ -6476,7 +6481,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"pt_BR": 1,
 						"zh": 2
 					}
@@ -6486,14 +6491,14 @@
 						"en": 2,
 						"es": 2,
 						"it": 1,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"compopt": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"composer": {
@@ -6502,13 +6507,14 @@
 						"fa": 2,
 						"id": 2,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"pl": 2
 					}
 				},
 				"composer-audit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"composer-require-checker": {
@@ -7495,12 +7501,14 @@
 				},
 				"cython": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"czkawka_cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"d2": {
@@ -7520,7 +7528,7 @@
 				"dalfox": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"daps": {
@@ -7577,18 +7585,21 @@
 				"dbeaver": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"dbt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dbx": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"dc": {
@@ -7613,7 +7624,8 @@
 				},
 				"dcgmi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dcode": {
@@ -7657,7 +7669,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -7669,7 +7681,8 @@
 				},
 				"deepseek": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"delta": {
@@ -20510,7 +20523,7 @@
 				"liquidctl": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"lispmtopgm": {
@@ -32196,8 +32209,8 @@
 				"scrcpy": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2
+						"id": 1,
+						"ko": 1
 					}
 				},
 				"screen": {
@@ -37892,7 +37905,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"xzless": {
@@ -44779,6 +44793,7 @@
 				"inxi": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"uk": 2
 					}
@@ -49378,7 +49393,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"qm-guest": {
