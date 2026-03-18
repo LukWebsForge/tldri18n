@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 17-Mar-26 01:00:14 CET",
+	"last_update": "Wednesday, 18-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7724,7 +7724,7 @@
 						"fa": 1,
 						"fr": 1,
 						"id": 1,
-						"ko": 1,
+						"ko": 2,
 						"zh": 1
 					}
 				},
@@ -7732,12 +7732,13 @@
 					"status": {
 						"en": 2,
 						"it": 1,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"depotdownloader": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"detox": {
@@ -7750,7 +7751,7 @@
 				"devcontainer": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"devenv": {
@@ -7768,7 +7769,8 @@
 				},
 				"devspace": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dexdump": {
@@ -15646,6 +15648,11 @@
 					}
 				},
 				"gst-play-1.0": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-typefind-1.0": {
 					"status": {
 						"en": 2
 					}
@@ -33574,7 +33581,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2,
 						"zh": 1
@@ -34805,7 +34812,7 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
-						"ko": 1,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -35074,17 +35081,20 @@
 				},
 				"trunk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trunk.io": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trunk.rs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ts": {
@@ -35153,6 +35163,11 @@
 						"no": 2,
 						"ru": 2,
 						"sv": 2
+					}
+				},
+				"tty-clock": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ttyd": {
@@ -37740,6 +37755,7 @@
 				"xxd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -38733,6 +38749,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -38765,6 +38782,7 @@
 						"ar": 2,
 						"cs": 2,
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"fr": 1,
 						"ja": 2,
@@ -39675,7 +39693,7 @@
 				"ne": 3,
 				"nl": 14,
 				"no": 3,
-				"pl": 9,
+				"pl": 8,
 				"pt_BR": 12,
 				"pt_PT": 4,
 				"ro": 3,
@@ -44309,6 +44327,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"gst-launch-1.0-pipewiresrc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gtk-launch": {
