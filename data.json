@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 18-Mar-26 01:00:15 CET",
+	"last_update": "Thursday, 19-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7151,7 +7151,8 @@
 				"createuser": {
 					"status": {
 						"bs": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"crictl": {
@@ -7189,7 +7190,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
@@ -7207,7 +7208,8 @@
 				"crush": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"cryfs": {
@@ -7221,7 +7223,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 1,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"cs": {
@@ -7472,7 +7474,7 @@
 						"en": 2,
 						"es": 1,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
 						"ru": 2,
@@ -7488,7 +7490,7 @@
 				"cwebp": {
 					"status": {
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -7864,12 +7866,14 @@
 				},
 				"diff-so-fancy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"diffimg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"diffoscope": {
@@ -7899,7 +7903,7 @@
 						"es": 2,
 						"it": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"pt_BR": 2,
 						"ru": 2,
 						"tr": 1
@@ -7907,7 +7911,8 @@
 				},
 				"dijkstra": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dillo": {
@@ -15652,6 +15657,11 @@
 						"en": 2
 					}
 				},
+				"gst-transcoder-1.0": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gst-typefind-1.0": {
 					"status": {
 						"en": 2
@@ -16360,7 +16370,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"hr": {
@@ -19897,7 +19908,8 @@
 				},
 				"kubectl-autoscale": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-certificate": {
@@ -21886,7 +21898,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 1,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"massdns": {
@@ -23257,7 +23270,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nagios": {
@@ -24955,7 +24969,8 @@
 				"npm-token": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-uninstall": {
@@ -31720,7 +31735,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rustup": {
@@ -38873,6 +38889,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -38977,6 +38994,7 @@
 						"es": 1,
 						"ko": 1,
 						"nl": 2,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -44330,6 +44348,11 @@
 					}
 				},
 				"gst-launch-1.0-pipewiresrc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-v4l2src": {
 					"status": {
 						"en": 2
 					}
