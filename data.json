@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 19-Mar-26 01:00:15 CET",
+	"last_update": "Friday, 20-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -638,7 +638,7 @@
 				"ne": 4,
 				"nl": 20,
 				"no": 5,
-				"pl": 7,
+				"pl": 6,
 				"pt_BR": 13,
 				"pt_PT": 5,
 				"ro": 5,
@@ -2984,6 +2984,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -2991,12 +2992,14 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-cognitiveservices": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"az-config": {
@@ -3004,13 +3007,15 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"az-container": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"it": 2
 					}
 				},
 				"az-devops": {
@@ -3542,6 +3547,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"bcftools": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bcomps": {
@@ -6544,113 +6554,134 @@
 				"conda-activate": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"zh": 2
 					}
 				},
 				"conda-clean": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-compare": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-create": {
 					"status": {
 						"de": 1,
 						"en": 2,
+						"it": 2,
 						"ko": 1
 					}
 				},
 				"conda-deactivate": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"zh": 2
 					}
 				},
 				"conda-doctor": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"it": 2
 					}
 				},
 				"conda-env": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-export": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-install": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"conda-list": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"zh": 2
 					}
 				},
 				"conda-notices": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-package": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-remove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-rename": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-repoquery": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"conda-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"confettysh": {
@@ -6811,7 +6842,7 @@
 						"es": 2,
 						"id": 2,
 						"it": 1,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"cp": {
@@ -6827,7 +6858,7 @@
 						"id": 2,
 						"it": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"ne": 1,
 						"nl": 2,
 						"pl": 1,
@@ -6887,7 +6918,7 @@
 						"en": 2,
 						"fa": 1,
 						"it": 1,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"cradle-deploy": {
@@ -6933,7 +6964,7 @@
 				"crane": {
 					"status": {
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -7926,7 +7957,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -7953,7 +7984,7 @@
 						"de": 1,
 						"en": 2,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"tr": 1
 					}
 				},
@@ -7966,7 +7997,8 @@
 				},
 				"disable": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"diskonaut": {
@@ -8033,18 +8065,21 @@
 				"dmypy": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"dnsmasq": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"dnswalk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dnsx": {
@@ -8056,7 +8091,8 @@
 				},
 				"do": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"doas": {
@@ -8070,7 +8106,8 @@
 				"dockdiver": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"docker": {
@@ -9945,6 +9982,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"dumpntlminfo.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dune": {
@@ -12301,6 +12343,11 @@
 					}
 				},
 				"getopts": {
+					"status": {
+						"en": 2
+					}
+				},
+				"getst.py": {
 					"status": {
 						"en": 2
 					}
@@ -15865,6 +15912,11 @@
 						"ko": 2
 					}
 				},
+				"haproxy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"hardhat": {
 					"status": {
 						"en": 2,
@@ -16265,6 +16317,12 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"hlsq": {
+					"status": {
+						"de": 2,
+						"en": 2
 					}
 				},
 				"hn": {
@@ -17150,6 +17208,11 @@
 						"zh_TW": 2
 					}
 				},
+				"impacket-dumpntlminfo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"impacket-getadusers": {
 					"status": {
 						"ar": 2,
@@ -17271,6 +17334,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"impacket-getst": {
+					"status": {
+						"en": 2
 					}
 				},
 				"impacket-gettgt": {
@@ -19914,7 +19982,8 @@
 				},
 				"kubectl-certificate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-cluster-info": {
@@ -25009,7 +25078,8 @@
 				"npm-view": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-whoami": {
@@ -30867,6 +30937,11 @@
 						"ko": 2
 					}
 				},
+				"raku": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ranger": {
 					"status": {
 						"en": 2,
@@ -32869,6 +32944,11 @@
 					"status": {
 						"en": 2,
 						"ko": 1
+					}
+				},
+				"smbclient": {
+					"status": {
+						"en": 2
 					}
 				},
 				"smbclient.py": {
@@ -35395,6 +35475,7 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -37110,6 +37191,7 @@
 					"status": {
 						"ar": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -38768,6 +38850,7 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -39696,7 +39779,7 @@
 				"da": 3,
 				"de": 8,
 				"el": 3,
-				"en": 100,
+				"en": 99,
 				"es": 31,
 				"fa": 4,
 				"fi": 3,
@@ -50977,7 +51060,6 @@
 				},
 				"smbclient": {
 					"status": {
-						"en": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -51061,6 +51143,11 @@
 					}
 				},
 				"spa-inspect": {
+					"status": {
+						"en": 2
+					}
+				},
+				"spa-json-dump": {
 					"status": {
 						"en": 2
 					}
@@ -54181,13 +54268,13 @@
 				},
 				"zathura": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2
+						"es": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1
 					}
 				},
 				"zbarcam": {
