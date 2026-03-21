@@ -1,8 +1,9 @@
 {
-	"last_update": "Friday, 20-Mar-26 01:00:15 CET",
+	"last_update": "Saturday, 21-Mar-26 01:00:16 CET",
 	"languages": [
 		"en",
 		"ar",
+		"bg",
 		"bn",
 		"bs",
 		"ca",
@@ -43,6 +44,7 @@
 		"android": {
 			"progress": {
 				"ar": 7,
+				"bg": 35,
 				"bn": 100,
 				"bs": 0,
 				"ca": 0,
@@ -84,6 +86,7 @@
 				"am": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"de": 2,
 						"en": 2,
@@ -111,6 +114,7 @@
 				},
 				"bugreport": {
 					"status": {
+						"bg": 2,
 						"bn": 2,
 						"de": 2,
 						"en": 2,
@@ -138,6 +142,7 @@
 				},
 				"bugreportz": {
 					"status": {
+						"bg": 2,
 						"bn": 2,
 						"de": 2,
 						"en": 2,
@@ -165,6 +170,7 @@
 				},
 				"cmd": {
 					"status": {
+						"bg": 2,
 						"bn": 2,
 						"de": 2,
 						"en": 2,
@@ -192,6 +198,7 @@
 				},
 				"dalvikvm": {
 					"status": {
+						"bg": 2,
 						"bn": 2,
 						"de": 2,
 						"en": 2,
@@ -444,6 +451,7 @@
 		"cisco-ios": {
 			"progress": {
 				"ar": 0,
+				"bg": 0,
 				"bn": 0,
 				"bs": 0,
 				"ca": 0,
@@ -616,6 +624,7 @@
 		"common": {
 			"progress": {
 				"ar": 6,
+				"bg": 0,
 				"bn": 5,
 				"bs": 5,
 				"ca": 4,
@@ -632,7 +641,7 @@
 				"id": 12,
 				"it": 16,
 				"ja": 6,
-				"ko": 78,
+				"ko": 79,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -8205,18 +8214,21 @@
 				"docker-compose-down": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"docker-compose-logs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"docker-compose-up": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -8550,7 +8562,8 @@
 				},
 				"docker-context": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"docker-cp": {
@@ -8701,6 +8714,7 @@
 						"en": 2,
 						"fr": 1,
 						"it": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1
 					}
@@ -8718,6 +8732,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -8907,7 +8922,8 @@
 				},
 				"docker-node": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"docker-ps": {
@@ -9199,7 +9215,8 @@
 				},
 				"docker-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"docker-secret": {
@@ -12252,6 +12269,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"ges-launch-1.0": {
+					"status": {
+						"en": 2
 					}
 				},
 				"get-nodeinstalllocation": {
@@ -16138,7 +16160,7 @@
 				"hg": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"hg-add": {
@@ -16237,7 +16259,7 @@
 						"es": 1,
 						"id": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
@@ -16260,7 +16282,7 @@
 				"hledger-accounts": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"hledger-add": {
@@ -16322,7 +16344,8 @@
 				"hlsq": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hn": {
@@ -16340,7 +16363,7 @@
 				"home-manager": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"host": {
@@ -16376,7 +16399,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2,
 						"zh": 2
@@ -16462,7 +16485,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"htop": {
@@ -16472,7 +16496,7 @@
 						"es": 2,
 						"id": 2,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
 						"zh": 2
@@ -16698,7 +16722,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"hunspell": {
@@ -16711,6 +16735,7 @@
 				"hurl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -16731,7 +16756,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_PT": 1,
 						"ru": 2,
@@ -17708,6 +17733,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"impacket-reg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"impacket-rpcdump": {
@@ -19988,7 +20018,8 @@
 				},
 				"kubectl-cluster-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-completion": {
@@ -21713,7 +21744,7 @@
 				"m4b-tool": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"macchina": {
@@ -25085,7 +25116,8 @@
 				"npm-whoami": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-why": {
@@ -27305,10 +27337,10 @@
 				},
 				"pgrep": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"phan": {
@@ -31244,6 +31276,11 @@
 						"ko": 2
 					}
 				},
+				"reg.py": {
+					"status": {
+						"en": 2
+					}
+				},
 				"regedit": {
 					"status": {
 						"en": 2
@@ -34276,6 +34313,11 @@
 						"ko": 1,
 						"nl": 2,
 						"pl": 1
+					}
+				},
+				"testparm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"testssl": {
@@ -37928,6 +37970,7 @@
 				"xzdiff": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -38580,6 +38623,7 @@
 						"en": 2,
 						"es": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -39209,6 +39253,7 @@
 		"dos": {
 			"progress": {
 				"ar": 3,
+				"bg": 0,
 				"bn": 3,
 				"bs": 3,
 				"ca": 3,
@@ -39424,6 +39469,7 @@
 		"freebsd": {
 			"progress": {
 				"ar": 33,
+				"bg": 0,
 				"bn": 40,
 				"bs": 33,
 				"ca": 33,
@@ -39772,10 +39818,11 @@
 		"linux": {
 			"progress": {
 				"ar": 4,
+				"bg": 0,
 				"bn": 5,
 				"bs": 3,
 				"ca": 7,
-				"cs": 4,
+				"cs": 3,
 				"da": 3,
 				"de": 8,
 				"el": 3,
@@ -48072,6 +48119,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
@@ -48569,7 +48617,7 @@
 				"pdbedit": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"pdfattach": {
@@ -53362,6 +53410,11 @@
 						"ko": 2
 					}
 				},
+				"v4l2loopback-ctl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"valheim": {
 					"status": {
 						"en": 2
@@ -54364,6 +54417,7 @@
 		"netbsd": {
 			"progress": {
 				"ar": 25,
+				"bg": 0,
 				"bn": 25,
 				"bs": 25,
 				"ca": 25,
@@ -54549,6 +54603,7 @@
 		"openbsd": {
 			"progress": {
 				"ar": 20,
+				"bg": 0,
 				"bn": 20,
 				"bs": 20,
 				"ca": 20,
@@ -54751,6 +54806,7 @@
 		"osx": {
 			"progress": {
 				"ar": 0,
+				"bg": 0,
 				"bn": 1,
 				"bs": 0,
 				"ca": 0,
@@ -59330,6 +59386,7 @@
 		"sunos": {
 			"progress": {
 				"ar": 0,
+				"bg": 0,
 				"bn": 9,
 				"bs": 0,
 				"ca": 0,
@@ -59510,6 +59567,7 @@
 		"windows": {
 			"progress": {
 				"ar": 7,
+				"bg": 0,
 				"bn": 17,
 				"bs": 7,
 				"ca": 8,
