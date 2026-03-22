@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 21-Mar-26 01:00:16 CET",
+	"last_update": "Sunday, 22-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6296,6 +6296,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"codium": {
+					"status": {
+						"en": 2
 					}
 				},
 				"coffee": {
@@ -16789,12 +16794,14 @@
 				},
 				"i3-msg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"i3-nagbar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"i3lock": {
@@ -16963,7 +16970,8 @@
 				},
 				"ident": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"identify": {
@@ -17161,7 +17169,8 @@
 				"img2sixel": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"imgcat": {
@@ -17235,7 +17244,8 @@
 				},
 				"impacket-dumpntlminfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"impacket-getadusers": {
@@ -18179,7 +18189,8 @@
 				"incus": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"indent": {
@@ -20215,6 +20226,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"ru": 2,
 						"th": 1
 					}
 				},
@@ -38306,6 +38318,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 1,
+						"ru": 2,
 						"tr": 1,
 						"zh": 2
 					}
