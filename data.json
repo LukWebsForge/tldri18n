@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 22-Mar-26 01:00:15 CET",
+	"last_update": "Monday, 23-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -20035,7 +20035,8 @@
 				},
 				"kubectl-completion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-config": {
@@ -25115,7 +25116,8 @@
 				"npm-version": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-view": {
@@ -38083,7 +38085,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"xzmore": {
@@ -38091,7 +38094,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"ya": {
@@ -54846,7 +54850,7 @@
 				"pt_BR": 49,
 				"pt_PT": 34,
 				"ro": 1,
-				"ru": 39,
+				"ru": 40,
 				"sr": 0,
 				"sv": 0,
 				"ta": 32,
@@ -59383,7 +59387,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"yabai": {
