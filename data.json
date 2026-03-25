@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 24-Mar-26 01:00:15 CET",
+	"last_update": "Wednesday, 25-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -641,7 +641,7 @@
 				"id": 12,
 				"it": 16,
 				"ja": 6,
-				"ko": 79,
+				"ko": 80,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -4395,25 +4395,29 @@
 				},
 				"bun-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-install": {
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
 				},
 				"bun-link": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-list": {
@@ -4459,80 +4463,95 @@
 				},
 				"bun-outdated": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-patch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm-bin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm-cache": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm-hash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm-ls": {
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"bun-pm-migrate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm-pack": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm-pkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm-scan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm-trust": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-pm-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-publish": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-remove": {
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -4580,32 +4599,38 @@
 				},
 				"bun-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-unlink": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-why": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bun-x": {
@@ -4693,6 +4718,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -7521,6 +7547,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -12794,8 +12821,8 @@
 				"gh-repo": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"gh-repo-create": {
@@ -17390,7 +17417,8 @@
 				},
 				"impacket-getst": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"impacket-gettgt": {
@@ -17764,7 +17792,8 @@
 				},
 				"impacket-reg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"impacket-rpcdump": {
@@ -19557,6 +19586,7 @@
 				"kaggle": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 1
 					}
 				},
@@ -19577,12 +19607,14 @@
 				},
 				"kaggle-kernels": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"kaggle-models": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"kahlan": {
@@ -20064,7 +20096,8 @@
 				},
 				"kubectl-cordon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-cp": {
@@ -20226,7 +20259,8 @@
 				},
 				"kubectl-uncordon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"kubectl-version": {
@@ -25157,6 +25191,7 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"sv": 2
 					}
 				},
@@ -25899,6 +25934,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"openssl-rand": {
+					"status": {
+						"en": 2
 					}
 				},
 				"openssl-req": {
@@ -30379,8 +30419,8 @@
 				"pwgen": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"pwqgen": {
@@ -33457,6 +33497,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -37195,6 +37236,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -37946,6 +37988,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -40326,6 +40369,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2
@@ -40335,6 +40379,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -40342,13 +40387,15 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"pl": 2
 					}
 				},
 				"aide": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"alien": {
@@ -40359,6 +40406,7 @@
 						"es": 2,
 						"fr": 2,
 						"hi": 2,
+						"id": 2,
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -40510,7 +40558,8 @@
 				},
 				"apparmor_parser": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"apparmor_status": {
@@ -40556,7 +40605,8 @@
 				},
 				"appman": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"apport-bug": {
@@ -40564,6 +40614,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -40572,12 +40623,14 @@
 				},
 				"apptainer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"apptainer-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"apptainer-cache": {
@@ -45415,6 +45468,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"kernelstub": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kexec": {
@@ -52594,10 +52652,10 @@
 				"timedatectl": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pl": 2,
-						"tr": 2,
-						"zh": 2
+						"ko": 1,
+						"pl": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"timeshift": {
