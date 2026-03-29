@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 28-Mar-26 01:00:15 CET",
+	"last_update": "Sunday, 29-Mar-26 01:00:15 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -15807,6 +15807,11 @@
 						"ko": 1
 					}
 				},
+				"gst-launch-1.0-queue": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gst-play-1.0": {
 					"status": {
 						"en": 2
@@ -22274,7 +22279,7 @@
 				"meson": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"meteor": {
@@ -24345,6 +24350,11 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"noglob": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nohup": {
@@ -37201,7 +37211,8 @@
 					"status": {
 						"en": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"wdiff": {
@@ -41173,6 +41184,11 @@
 					"status": {
 						"en": 2,
 						"zh": 2
+					}
+				},
+				"atomupd-manager": {
+					"status": {
+						"en": 2
 					}
 				},
 				"atop": {
