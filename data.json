@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 29-Mar-26 01:00:15 CET",
+	"last_update": "Monday, 30-Mar-26 02:00:14 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1715,6 +1715,7 @@
 						"ko": 2,
 						"ml": 1,
 						"nl": 2,
+						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -1726,6 +1727,7 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"ru": 2
 					}
 				},
@@ -15335,6 +15337,7 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ja": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -15801,13 +15804,28 @@
 						"ko": 1
 					}
 				},
+				"gst-inspect-1.0-filesrc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gst-launch-1.0": {
 					"status": {
 						"en": 2,
 						"ko": 1
 					}
 				},
+				"gst-launch-1.0-audiotestsrc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gst-launch-1.0-queue": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-videoconvert": {
 					"status": {
 						"en": 2
 					}
@@ -33035,6 +33053,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"skills": {
+					"status": {
+						"en": 2
 					}
 				},
 				"skopeo": {
