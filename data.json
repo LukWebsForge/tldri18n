@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 30-Mar-26 02:00:14 CEST",
+	"last_update": "Tuesday, 31-Mar-26 02:00:16 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -37101,6 +37101,21 @@
 						"ko": 1
 					}
 				},
+				"wait4x": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wait4x-http": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wait4x-tcp": {
+					"status": {
+						"en": 2
+					}
+				},
 				"waitress-serve": {
 					"status": {
 						"en": 2,
@@ -41472,6 +41487,13 @@
 				"away": {
 					"status": {
 						"en": 2
+					}
+				},
+				"awww": {
+					"status": {
+						"en": 2,
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"backlight_control": {
@@ -51720,9 +51742,7 @@
 				},
 				"swww": {
 					"status": {
-						"en": 2,
-						"es": 2,
-						"ko": 2
+						"en": 2
 					}
 				},
 				"sxiv": {
