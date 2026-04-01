@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 31-Mar-26 02:00:16 CEST",
+	"last_update": "Wednesday, 01-Apr-26 02:00:14 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -658,17 +658,17 @@
 				"id": 12,
 				"it": 16,
 				"ja": 6,
-				"ko": 80,
+				"ko": 79,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
 				"nl": 20,
-				"no": 5,
+				"no": 4,
 				"pl": 6,
 				"pt_BR": 13,
 				"pt_PT": 5,
 				"ro": 5,
-				"ru": 11,
+				"ru": 10,
 				"sr": 4,
 				"sv": 5,
 				"ta": 6,
@@ -913,7 +913,7 @@
 						"fr": 2,
 						"hi": 2,
 						"id": 2,
-						"it": 1,
+						"it": 2,
 						"ja": 1,
 						"ko": 2,
 						"nl": 2,
@@ -11210,12 +11210,12 @@
 				},
 				"file": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"file-rename": {
@@ -15815,7 +15815,27 @@
 						"ko": 1
 					}
 				},
+				"gst-launch-1.0-audiomixer": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gst-launch-1.0-audiotestsrc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-capsfilter": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-libcamerasrc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-pulsesrc": {
 					"status": {
 						"en": 2
 					}
@@ -15826,6 +15846,16 @@
 					}
 				},
 				"gst-launch-1.0-videoconvert": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-videorate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-videotestsrc": {
 					"status": {
 						"en": 2
 					}
@@ -26024,6 +26054,11 @@
 						"ko": 2
 					}
 				},
+				"openssl-speed": {
+					"status": {
+						"en": 2
+					}
+				},
 				"openssl-ts": {
 					"status": {
 						"en": 2,
@@ -34441,6 +34476,11 @@
 						"ko": 2
 					}
 				},
+				"terraform-show": {
+					"status": {
+						"en": 2
+					}
+				},
 				"terragrunt": {
 					"status": {
 						"en": 2,
@@ -41861,12 +41901,12 @@
 				},
 				"broot": {
 					"status": {
-						"bn": 2,
+						"bn": 1,
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"es": 1,
+						"hi": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"bspc": {
@@ -43197,6 +43237,7 @@
 				},
 				"dnf": {
 					"status": {
+						"bn": 2,
 						"ca": 1,
 						"de": 1,
 						"en": 2,
@@ -43233,6 +43274,7 @@
 				},
 				"dnf-config-manager": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -43316,6 +43358,7 @@
 				},
 				"dnf-repoquery": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"nl": 2,
 						"ru": 2,
