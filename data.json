@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 01-Apr-26 02:00:14 CEST",
+	"last_update": "Thursday, 02-Apr-26 02:00:18 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -641,10 +641,10 @@
 		"common": {
 			"progress": {
 				"ar": 6,
-				"bg": 0,
+				"bg": 4,
 				"bn": 5,
 				"bs": 5,
-				"ca": 4,
+				"ca": 5,
 				"cs": 5,
 				"da": 4,
 				"de": 11,
@@ -655,7 +655,7 @@
 				"fi": 4,
 				"fr": 12,
 				"hi": 6,
-				"id": 12,
+				"id": 13,
 				"it": 16,
 				"ja": 6,
 				"ko": 79,
@@ -663,16 +663,16 @@
 				"ml": 4,
 				"ne": 4,
 				"nl": 20,
-				"no": 4,
-				"pl": 6,
+				"no": 5,
+				"pl": 7,
 				"pt_BR": 13,
 				"pt_PT": 5,
 				"ro": 5,
-				"ru": 10,
+				"ru": 11,
 				"sr": 4,
 				"sv": 5,
 				"ta": 6,
-				"th": 4,
+				"th": 5,
 				"tr": 8,
 				"uk": 5,
 				"uz": 4,
@@ -734,6 +734,7 @@
 				"((": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -790,6 +791,7 @@
 				".": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -1970,6 +1972,7 @@
 				"arch": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -2071,10 +2074,44 @@
 				},
 				"argospm": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
 						"id": 2,
-						"ko": 2
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"aria2": {
@@ -3306,6 +3343,7 @@
 				"azure-cli": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -3976,6 +4014,7 @@
 				"brew-abv": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4085,6 +4124,7 @@
 				"brew-remove": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4126,6 +4166,7 @@
 				"brew-rm": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4324,6 +4365,7 @@
 				"bun-c": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4386,6 +4428,7 @@
 				"bun-i": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4454,6 +4497,7 @@
 				"bun-list": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4590,6 +4634,7 @@
 				"bun-rm": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4667,6 +4712,7 @@
 				"bun-x": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4756,6 +4802,7 @@
 				"bunzip2": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4830,6 +4877,7 @@
 				"bye": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4878,6 +4926,7 @@
 				"bzcat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4919,6 +4968,7 @@
 				"bzegrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -4960,6 +5010,7 @@
 				"bzfgrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -5034,6 +5085,7 @@
 				"c++": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -5700,6 +5752,12 @@
 						"ko": 2
 					}
 				},
+				"cfv": {
+					"status": {
+						"de": 2,
+						"en": 2
+					}
+				},
 				"chafa": {
 					"status": {
 						"en": 2,
@@ -5735,6 +5793,7 @@
 				"chdir": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -6015,7 +6074,7 @@
 						"es": 2,
 						"id": 2,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -6028,7 +6087,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -6036,12 +6095,14 @@
 				},
 				"clang-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"clang-cpp": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -6191,6 +6252,7 @@
 				"clojure": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -6375,9 +6437,44 @@
 				},
 				"codium": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"coffee": {
@@ -6391,6 +6488,7 @@
 				"cola": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -6489,6 +6587,7 @@
 				"comma": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -6540,6 +6639,7 @@
 				"compare": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -6825,6 +6925,7 @@
 				"copr": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -7105,6 +7206,7 @@
 				"crane-cp": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -8236,9 +8338,35 @@
 						"zh_TW": 2
 					}
 				},
+				"docker-buildx-du": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-buildx-ls": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-buildx-prune": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-buildx-rm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-buildx-version": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-commit": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -8437,6 +8565,7 @@
 				"docker-container-remove": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -8652,6 +8781,7 @@
 				"docker-cp": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -8693,6 +8823,7 @@
 				"docker-diff": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -8734,6 +8865,7 @@
 				"docker-exec": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -8841,6 +8973,7 @@
 				"docker-images": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -8893,6 +9026,7 @@
 				"docker-load": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -8943,6 +9077,7 @@
 				"docker-logs": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9012,6 +9147,7 @@
 				"docker-ps": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9053,6 +9189,7 @@
 				"docker-pull": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9094,6 +9231,7 @@
 				"docker-rename": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9135,6 +9273,7 @@
 				"docker-rm": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9176,6 +9315,7 @@
 				"docker-rmi": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9217,6 +9357,7 @@
 				"docker-run": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9258,6 +9399,7 @@
 				"docker-save": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9325,6 +9467,7 @@
 				"docker-slim": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9366,6 +9509,7 @@
 				"docker-start": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9407,6 +9551,7 @@
 				"docker-stats": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9469,6 +9614,7 @@
 				"docker-tag": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9510,6 +9656,7 @@
 				"docker-top": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -9551,6 +9698,7 @@
 				"docker-update": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -10086,7 +10234,8 @@
 				},
 				"dumpntlminfo.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"dune": {
@@ -10290,7 +10439,8 @@
 				},
 				"edit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"eget": {
@@ -10302,6 +10452,7 @@
 				"egrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -11001,6 +11152,7 @@
 				"fdfind": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -11147,6 +11299,7 @@
 				"fgrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -11214,13 +11367,14 @@
 						"en": 2,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"zh": 1
 					}
 				},
 				"file-rename": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -11539,6 +11693,7 @@
 				"fossil-ci": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -11640,6 +11795,7 @@
 				"fossil-new": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -11681,6 +11837,7 @@
 				"fossil-rm": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -12242,6 +12399,7 @@
 				"gdm-binary": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -12388,7 +12546,8 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"getarch.py": {
@@ -12406,6 +12565,7 @@
 				"getln": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -12449,7 +12609,8 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"getopts": {
@@ -12478,7 +12639,8 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"gfortran": {
@@ -12500,6 +12662,7 @@
 				"gh-a11y": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -12548,6 +12711,7 @@
 				"gh-agent": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -12608,6 +12772,7 @@
 				"gh-at": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -12698,6 +12863,7 @@
 				"gh-cs": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -12872,6 +13038,7 @@
 				"gh-rs": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -13602,6 +13769,7 @@
 				"git-continue": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -14139,7 +14307,7 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"ro": 1,
 						"tr": 1,
 						"uk": 1,
@@ -14646,6 +14814,7 @@
 				"git-stage": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -15093,6 +15262,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -15146,6 +15316,7 @@
 				"gnmic-sub": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -15564,6 +15735,7 @@
 				"gpg2": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -15804,11 +15976,6 @@
 						"ko": 1
 					}
 				},
-				"gst-inspect-1.0-filesrc": {
-					"status": {
-						"en": 2
-					}
-				},
 				"gst-launch-1.0": {
 					"status": {
 						"en": 2,
@@ -15826,6 +15993,11 @@
 					}
 				},
 				"gst-launch-1.0-capsfilter": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-filesrc": {
 					"status": {
 						"en": 2
 					}
@@ -15937,6 +16109,7 @@
 				"gunzip": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -16127,6 +16300,7 @@
 				"hd": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -16182,6 +16356,7 @@
 				"helix": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -16548,6 +16723,7 @@
 				"hping": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -16706,6 +16882,7 @@
 				"https": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -16813,6 +16990,7 @@
 				"huggingface-cli": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17020,6 +17198,7 @@
 				"ic": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17112,6 +17291,7 @@
 				"identify": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17339,6 +17519,7 @@
 				"impacket-addcomputer": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17379,13 +17560,50 @@
 				},
 				"impacket-dumpntlminfo": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"impacket-getadusers": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17427,6 +17645,7 @@
 				"impacket-getarch": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17468,6 +17687,7 @@
 				"impacket-getnpusers": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17508,13 +17728,50 @@
 				},
 				"impacket-getst": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"impacket-gettgt": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17556,6 +17813,7 @@
 				"impacket-getuserspns": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17597,6 +17855,7 @@
 				"impacket-mqtt_check": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17638,6 +17897,7 @@
 				"impacket-mssqlclient": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17679,6 +17939,7 @@
 				"impacket-ntfs-read": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17720,6 +17981,7 @@
 				"impacket-ping": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17761,6 +18023,7 @@
 				"impacket-ping6": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17802,6 +18065,7 @@
 				"impacket-psexec": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17843,6 +18107,7 @@
 				"impacket-rdp_check": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17883,13 +18148,50 @@
 				},
 				"impacket-reg": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"impacket-rpcdump": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17931,6 +18233,7 @@
 				"impacket-rpcmap": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -17972,6 +18275,7 @@
 				"impacket-sambapipe": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18013,6 +18317,7 @@
 				"impacket-secretsdump": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18054,6 +18359,7 @@
 				"impacket-smbclient": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18095,6 +18401,7 @@
 				"impacket-smbserver": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18136,6 +18443,7 @@
 				"impacket-sniff": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18177,6 +18485,7 @@
 				"impacket-sniffer": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18218,6 +18527,7 @@
 				"impacket-ticketconverter": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18259,6 +18569,7 @@
 				"import": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18555,6 +18866,7 @@
 				"j": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18681,6 +18993,7 @@
 				"jco": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18789,6 +19102,7 @@
 				"jfrog": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18864,6 +19178,7 @@
 				"jira-browse": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18912,6 +19227,7 @@
 				"jira-issues": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -18959,6 +19275,7 @@
 				"jira-navigate": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -19014,6 +19331,7 @@
 				"jira-projects": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -19062,6 +19380,7 @@
 				"jira-sprints": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -19354,6 +19673,7 @@
 				"jo": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -19527,6 +19847,7 @@
 				"jupyterlab": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -19636,6 +19957,7 @@
 				"kafkacat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -19862,6 +20184,7 @@
 				"kite": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -20029,6 +20352,7 @@
 				"kr": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -20619,6 +20943,7 @@
 				"libreoffice": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -20860,6 +21185,7 @@
 				"llvm-ar": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -20936,6 +21262,7 @@
 				"llvm-g++": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -20977,6 +21304,7 @@
 				"llvm-gcc": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21024,6 +21352,7 @@
 				"llvm-nm": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21065,6 +21394,7 @@
 				"llvm-objdump": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21106,6 +21436,7 @@
 				"llvm-strings": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21438,6 +21769,7 @@
 				"luantiserver": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21515,6 +21847,7 @@
 				"lzcat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21556,6 +21889,7 @@
 				"lzcmp": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21597,6 +21931,7 @@
 				"lzdiff": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21638,6 +21973,7 @@
 				"lzegrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21679,6 +22015,7 @@
 				"lzfgrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21720,6 +22057,7 @@
 				"lzgrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21767,6 +22105,7 @@
 				"lzless": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21808,6 +22147,7 @@
 				"lzma": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -21849,6 +22189,7 @@
 				"lzmore": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -22091,6 +22432,7 @@
 				"mapfile": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -22409,6 +22751,7 @@
 				"minetest": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -22450,6 +22793,7 @@
 				"minetestserver": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -22726,6 +23070,7 @@
 				"mogrify": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -22844,6 +23189,7 @@
 				"montage": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -22999,6 +23345,7 @@
 				"mpicxx": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -23040,6 +23387,7 @@
 				"mpiexec": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -23137,6 +23485,7 @@
 				"mscore": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -23186,6 +23535,7 @@
 				"msedit": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -23341,6 +23691,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 1,
+						"id": 2,
 						"ko": 1,
 						"nl": 2
 					}
@@ -23686,6 +24037,7 @@
 				"netcat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -23733,6 +24085,7 @@
 				"netexec": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -24004,13 +24357,15 @@
 					"status": {
 						"en": 2,
 						"es": 1,
+						"id": 2,
 						"ko": 1,
 						"nl": 2
 					}
 				},
 				"nicotine": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"nikto": {
@@ -24298,6 +24653,7 @@
 				"nm-classic": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -24509,6 +24865,7 @@
 				"npm-author": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -24726,6 +25083,7 @@
 				"npm-it": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -24773,6 +25131,7 @@
 				"npm-list": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -24917,6 +25276,7 @@
 				"npm-rb": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -24971,6 +25331,7 @@
 				"npm-restart": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -25030,6 +25391,7 @@
 				"npm-run-script": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -25102,6 +25464,7 @@
 				"npm-start": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -25143,6 +25506,7 @@
 				"npm-stop": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -25191,6 +25555,7 @@
 				"npm-test": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -25305,6 +25670,7 @@
 				"npx": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -25385,6 +25751,7 @@
 				"ntl": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -26413,6 +26780,7 @@
 				"pamnoraw": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -27176,6 +27544,7 @@
 				"perl-rename": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -27870,6 +28239,7 @@
 				"pio-init": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -28003,6 +28373,7 @@
 				"piodebuggdb": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -28147,6 +28518,7 @@
 				"pip3": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -28299,6 +28671,7 @@
 				"platformio": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -28460,6 +28833,7 @@
 				"pnmdepth": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -28717,6 +29091,7 @@
 				"pnmtoplainpnm": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -28764,6 +29139,7 @@
 				"pnmtopnm": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -28927,6 +29303,7 @@
 				"podman-image-load": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -28968,6 +29345,7 @@
 				"podman-image-pull": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -29695,6 +30073,7 @@
 				"prename": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -29980,6 +30359,7 @@
 				"ptpython3": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -30188,6 +30568,7 @@
 				"pulumi-down": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -30306,6 +30687,7 @@
 				"pulumi-stack-hist": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -30366,6 +30748,7 @@
 				"pulumi-update": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -30453,6 +30836,7 @@
 				"pushln": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -30672,6 +31056,7 @@
 				"python3": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -30908,6 +31293,7 @@
 				"r.zsh": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -30949,6 +31335,7 @@
 				"r2": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -31204,6 +31591,7 @@
 				"rbash": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -31273,6 +31661,7 @@
 				"rcat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -31473,6 +31862,7 @@
 				"rehash": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -31553,6 +31943,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"resend": {
+					"status": {
+						"en": 2
 					}
 				},
 				"resolvconf": {
@@ -31640,6 +32035,7 @@
 				"rgrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -32089,6 +32485,7 @@
 				"rustup-install": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -32187,6 +32584,7 @@
 				"rustup-uninstall": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -33537,6 +33935,7 @@
 				"sr": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -33958,6 +34357,7 @@
 				"sudoedit": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -34772,6 +35172,7 @@
 				"tlmgr-arch": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -35011,6 +35412,7 @@
 				"todoman": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -35274,6 +35676,7 @@
 				"trash-cli": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -35595,6 +35998,7 @@
 				"typeset": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -35662,6 +36066,7 @@
 				"ug": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -35804,6 +36209,7 @@
 				"unfunction": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -35884,6 +36290,7 @@
 				"unlzma": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -35958,6 +36365,7 @@
 				"unxz": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -36012,6 +36420,7 @@
 				"unzstd": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -36267,6 +36676,7 @@
 				"uvx": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -36557,6 +36967,7 @@
 				"vc": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -36616,6 +37027,7 @@
 				"vdir": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -36738,6 +37150,7 @@
 				"vi": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -37448,6 +37861,7 @@
 				"whoami": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -37808,6 +38222,7 @@
 				"xml-c14n": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -37895,6 +38310,7 @@
 				"xml-p2x": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -37969,6 +38385,7 @@
 				"xml-xmln": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -38128,6 +38545,7 @@
 				"xzcat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -38184,6 +38602,7 @@
 				"xzegrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -38225,6 +38644,7 @@
 				"xzfgrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -38774,6 +39194,7 @@
 				"zcat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -38845,6 +39266,7 @@
 				"zeditor": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -38893,6 +39315,7 @@
 				"zegrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -39052,6 +39475,7 @@
 				"zfgrep": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -39348,6 +39772,7 @@
 				"zstdcat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -39396,6 +39821,7 @@
 				"zstdmt": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -39473,7 +39899,7 @@
 		"dos": {
 			"progress": {
 				"ar": 3,
-				"bg": 0,
+				"bg": 3,
 				"bn": 3,
 				"bs": 3,
 				"ca": 3,
@@ -39529,6 +39955,7 @@
 				"chdir": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -39689,7 +40116,7 @@
 		"freebsd": {
 			"progress": {
 				"ar": 33,
-				"bg": 0,
+				"bg": 33,
 				"bn": 40,
 				"bs": 33,
 				"ca": 33,
@@ -39753,6 +40180,7 @@
 				"chfn": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -39806,6 +40234,7 @@
 				"chsh": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -39913,6 +40342,7 @@
 				"ypchfn": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -39954,6 +40384,7 @@
 				"ypchpass": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -39995,6 +40426,7 @@
 				"ypchsh": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -40038,11 +40470,11 @@
 		"linux": {
 			"progress": {
 				"ar": 4,
-				"bg": 0,
+				"bg": 3,
 				"bn": 5,
 				"bs": 3,
 				"ca": 7,
-				"cs": 3,
+				"cs": 4,
 				"da": 3,
 				"de": 8,
 				"el": 3,
@@ -40050,18 +40482,18 @@
 				"es": 31,
 				"fa": 4,
 				"fi": 3,
-				"fr": 7,
+				"fr": 8,
 				"hi": 5,
 				"id": 8,
 				"it": 9,
 				"ja": 4,
-				"ko": 69,
+				"ko": 68,
 				"lo": 3,
 				"ml": 4,
 				"ne": 3,
 				"nl": 14,
 				"no": 3,
-				"pl": 8,
+				"pl": 9,
 				"pt_BR": 12,
 				"pt_PT": 4,
 				"ro": 3,
@@ -40071,7 +40503,7 @@
 				"ta": 6,
 				"th": 3,
 				"tr": 7,
-				"uk": 4,
+				"uk": 5,
 				"uz": 3,
 				"zh": 11,
 				"zh_TW": 3
@@ -40336,6 +40768,7 @@
 				"abrt": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -40577,6 +41010,7 @@
 				"alternatives": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -40703,6 +41137,7 @@
 				"apparmor_status": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -40775,6 +41210,11 @@
 					"status": {
 						"en": 2,
 						"id": 2
+					}
+				},
+				"apptainer-capability": {
+					"status": {
+						"en": 2
 					}
 				},
 				"apptainer-config": {
@@ -40886,6 +41326,7 @@
 				"apt-add-repository": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -41438,6 +41879,7 @@
 				"avahi-resolve-address": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -41479,6 +41921,7 @@
 				"avahi-resolve-host-name": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -41558,6 +42001,7 @@
 				"batcat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -41830,6 +42274,7 @@
 				"br": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -42225,6 +42670,7 @@
 				"cc": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -42720,6 +43166,7 @@
 				"cs2": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -43047,6 +43494,7 @@
 				"dir": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -43285,6 +43733,7 @@
 				"dnf-deplist": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -43383,6 +43832,7 @@
 				"dnf5": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -44398,10 +44848,44 @@
 				},
 				"genisoimage": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 1,
-						"pt_BR": 1
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"genkernel": {
@@ -44899,6 +45383,7 @@
 				"hwloc-ls": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -45001,6 +45486,7 @@
 				"i386": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -45348,6 +45834,7 @@
 				"ip-route-show": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -45917,6 +46404,7 @@
 				"lex": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -45983,6 +46471,7 @@
 				"libuser-lid": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -46063,6 +46552,7 @@
 				"limine-scan": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -46135,6 +46625,7 @@
 				"linux32": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -46176,6 +46667,7 @@
 				"linux64": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -46319,6 +46811,7 @@
 				"lookandfeeltool": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -46365,6 +46858,7 @@
 				"lrunzip": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -46418,6 +46912,7 @@
 				"lrzuntar": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -46956,6 +47451,7 @@
 				"megadl": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -47140,6 +47636,7 @@
 				"mkfs.vfat": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -47468,6 +47965,7 @@
 				"ncal": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -47746,6 +48244,7 @@
 				"nmtui-connect": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -47787,6 +48286,7 @@
 				"nmtui-edit": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -47828,6 +48328,7 @@
 				"nmtui-hostname": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48108,6 +48609,7 @@
 				"pacinstall": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48182,6 +48684,7 @@
 				"pacman-d": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48250,6 +48753,7 @@
 				"pacman-f": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48327,6 +48831,7 @@
 				"pacman-q": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48382,6 +48887,7 @@
 				"pacman-r": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48437,6 +48943,7 @@
 				"pacman-s": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48492,6 +48999,7 @@
 				"pacman-t": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48533,6 +49041,7 @@
 				"pacman-u": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48596,6 +49105,7 @@
 				"pacremove": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -48801,6 +49311,7 @@
 				"pct-move_volume": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -49584,6 +50095,7 @@
 				"pw-play": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -49631,6 +50143,7 @@
 				"pw-record": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -49726,6 +50239,7 @@
 				"qm-agent": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -49847,6 +50361,7 @@
 				"qm-importdisk": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -49916,6 +50431,7 @@
 				"qm-move-disk": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -49957,6 +50473,7 @@
 				"qm-move_disk": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -50026,6 +50543,7 @@
 				"qm-rescan": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -50074,6 +50592,7 @@
 				"qm-resize": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -50203,6 +50722,7 @@
 				"qm-unlink": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -51197,6 +51717,7 @@
 				"shntool-split": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -51586,6 +52107,7 @@
 				"steamos-boot-install": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -51870,6 +52392,7 @@
 				"systemctl-condreload": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -51911,6 +52434,7 @@
 				"systemctl-condrestart": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -51952,6 +52476,7 @@
 				"systemctl-condstop": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -52041,6 +52566,7 @@
 				"systemctl-force-reload": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -52263,6 +52789,7 @@
 				"systemctl-reload-or-try-restart": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -52639,6 +53166,7 @@
 				"systemd-umount": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -53033,6 +53561,7 @@
 				"trash-put": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -53174,6 +53703,7 @@
 				"ubuntu-bug": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -53307,6 +53837,7 @@
 				"uname26": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -53429,6 +53960,7 @@
 				"update-grub": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -54056,9 +54588,44 @@
 				},
 				"wodim": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 1
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"woeusb": {
@@ -54140,6 +54707,7 @@
 				"x86_64": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -54517,6 +55085,7 @@
 				"yum-config-manager": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -54571,7 +55140,7 @@
 						"es": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"pt_BR": 1
 					}
 				},
@@ -54662,7 +55231,7 @@
 		"netbsd": {
 			"progress": {
 				"ar": 25,
-				"bg": 0,
+				"bg": 25,
 				"bn": 25,
 				"bs": 25,
 				"ca": 25,
@@ -54713,6 +55282,7 @@
 				"chfn": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -54764,6 +55334,7 @@
 				"chsh": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -54848,7 +55419,7 @@
 		"openbsd": {
 			"progress": {
 				"ar": 20,
-				"bg": 0,
+				"bg": 20,
 				"bn": 20,
 				"bs": 20,
 				"ca": 20,
@@ -54899,6 +55470,7 @@
 				"chfn": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -54950,6 +55522,7 @@
 				"chsh": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -55065,7 +55638,7 @@
 				"fi": 0,
 				"fr": 31,
 				"hi": 32,
-				"id": 36,
+				"id": 38,
 				"it": 34,
 				"ja": 0,
 				"ko": 88,
@@ -55093,6 +55666,7 @@
 				"aa": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -55136,6 +55710,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -55147,6 +55722,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -55167,6 +55743,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -55178,6 +55755,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"th": 2,
@@ -55199,6 +55777,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"th": 2,
@@ -58647,6 +59226,7 @@
 				"llvm-lipo": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -58806,6 +59386,7 @@
 				"mo": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -59813,7 +60394,7 @@
 		"windows": {
 			"progress": {
 				"ar": 7,
-				"bg": 0,
+				"bg": 6,
 				"bn": 18,
 				"bs": 7,
 				"ca": 8,
@@ -59895,6 +60476,7 @@
 				"bleachbit": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -60248,6 +60830,7 @@
 				"cinst": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -60347,6 +60930,7 @@
 				"clhy": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -60401,6 +60985,7 @@
 				"clist": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -60537,6 +61122,7 @@
 				"cpush": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -60578,6 +61164,7 @@
 				"cuninst": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -60886,6 +61473,7 @@
 				"gcb": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -61057,6 +61645,7 @@
 				"ghy": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -61115,6 +61704,7 @@
 				"h": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -61156,6 +61746,7 @@
 				"history": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -61756,6 +62347,7 @@
 				"pwsh-where": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -61956,6 +62548,7 @@
 				"ren": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -62056,6 +62649,7 @@
 				"rni": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -62120,6 +62714,7 @@
 				"sal": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -62169,6 +62764,7 @@
 				"scb": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -62366,6 +62962,7 @@
 				"slmgr": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -62415,6 +63012,7 @@
 				"sls": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
@@ -62627,6 +63225,7 @@
 				"ventoy": {
 					"status": {
 						"ar": 2,
+						"bg": 2,
 						"bn": 2,
 						"bs": 2,
 						"ca": 2,
