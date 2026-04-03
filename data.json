@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 02-Apr-26 02:00:18 CEST",
+	"last_update": "Friday, 03-Apr-26 02:00:15 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1366,6 +1366,7 @@
 						"es": 2,
 						"id": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -33406,6 +33407,11 @@
 						"ru": 2
 					}
 				},
+				"shpool": {
+					"status": {
+						"en": 2
+					}
+				},
 				"shred": {
 					"status": {
 						"ar": 2,
@@ -43902,6 +43908,7 @@
 				"dnstracer": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -50013,9 +50020,9 @@
 				"pw-cat": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
 						"tr": 1
 					}
 				},
@@ -50045,11 +50052,21 @@
 						"ko": 2
 					}
 				},
+				"pw-dsdplay": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pw-dump": {
 					"status": {
 						"en": 2,
 						"ko": 1,
 						"pt_BR": 1
+					}
+				},
+				"pw-encplay": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pw-jack": {
@@ -50081,6 +50098,16 @@
 					}
 				},
 				"pw-mididump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pw-midiplay": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pw-midirecord": {
 					"status": {
 						"en": 2
 					}
