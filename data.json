@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 06-Apr-26 02:00:17 CEST",
+	"last_update": "Tuesday, 07-Apr-26 02:00:17 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -659,7 +659,7 @@
 				"id": 13,
 				"it": 16,
 				"ja": 6,
-				"ko": 79,
+				"ko": 80,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -2487,12 +2487,14 @@
 				},
 				"autoload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"automake": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"autopep8": {
@@ -5778,7 +5780,8 @@
 				"cfv": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"chafa": {
@@ -7030,7 +7033,8 @@
 				},
 				"coreutils": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cosign": {
