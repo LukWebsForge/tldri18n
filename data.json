@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 07-Apr-26 02:00:17 CEST",
+	"last_update": "Wednesday, 08-Apr-26 02:00:15 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15100,6 +15100,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gita": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gitea": {
@@ -31228,6 +31233,11 @@
 						"en": 2
 					}
 				},
+				"qgis_process": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qmake": {
 					"status": {
 						"en": 2,
@@ -35182,7 +35192,7 @@
 						"ko": 1,
 						"lo": 1,
 						"nl": 2,
-						"pl": 1,
+						"pl": 2,
 						"pt_BR": 1,
 						"ru": 2,
 						"ta": 1,
