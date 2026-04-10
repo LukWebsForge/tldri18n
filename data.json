@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 09-Apr-26 02:00:15 CEST",
+	"last_update": "Friday, 10-Apr-26 02:00:16 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2824,6 +2824,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"aws-logs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-pricing": {
@@ -14700,17 +14705,17 @@
 				},
 				"git-rm": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"tr": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"git-root": {
@@ -24829,6 +24834,7 @@
 				},
 				"noglob": {
 					"status": {
+						"de": 2,
 						"en": 2
 					}
 				},
@@ -39831,7 +39837,7 @@
 				},
 				"zsh": {
 					"status": {
-						"de": 1,
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 1,
@@ -43011,7 +43017,8 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"chrt": {
@@ -47633,6 +47640,7 @@
 				"minicom": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"zh": 1
 					}
@@ -49445,6 +49453,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"pct-reboot": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pct-resize": {
@@ -55825,7 +55838,7 @@
 				"de": 41,
 				"el": 0,
 				"en": 100,
-				"es": 77,
+				"es": 76,
 				"fa": 0,
 				"fi": 0,
 				"fr": 31,
@@ -55841,7 +55854,7 @@
 				"no": 0,
 				"pl": 42,
 				"pt_BR": 49,
-				"pt_PT": 34,
+				"pt_PT": 33,
 				"ro": 1,
 				"ru": 40,
 				"sr": 0,
@@ -55851,7 +55864,7 @@
 				"tr": 31,
 				"uk": 0,
 				"uz": 0,
-				"zh": 56,
+				"zh": 55,
 				"zh_TW": 32
 			},
 			"pages": {
@@ -59336,6 +59349,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
+					}
+				},
+				"installer": {
+					"status": {
+						"en": 2
 					}
 				},
 				"internetsharing": {
