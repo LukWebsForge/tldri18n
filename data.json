@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 11-Apr-26 02:00:20 CEST",
+	"last_update": "Sunday, 12-Apr-26 02:00:26 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6216,7 +6216,8 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"clementine": {
@@ -27964,14 +27965,6 @@
 						"ko": 2
 					}
 				},
-				"pgrep": {
-					"status": {
-						"ar": 1,
-						"en": 2,
-						"es": 1,
-						"ko": 1
-					}
-				},
 				"phan": {
 					"status": {
 						"en": 2,
@@ -49566,6 +49559,14 @@
 					"status": {
 						"bn": 2,
 						"en": 2
+					}
+				},
+				"pgrep": {
+					"status": {
+						"ar": 1,
+						"en": 2,
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"phar": {
