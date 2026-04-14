@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 13-Apr-26 02:00:07 CEST",
+	"last_update": "Tuesday, 14-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1319,6 +1319,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"zh": 2
@@ -1328,6 +1329,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"zh": 2
@@ -1337,6 +1339,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"zh": 2
@@ -2312,7 +2315,8 @@
 				},
 				"ast-grep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"id": 2
 					}
 				},
 				"astronomer": {
@@ -3033,6 +3037,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"id": 2,
 						"it": 2,
 						"ko": 1,
 						"pt_BR": 1,
@@ -5327,7 +5332,8 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-add": {
@@ -5337,7 +5343,8 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-bench": {
@@ -5345,7 +5352,8 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-binstall": {
@@ -5456,7 +5464,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 1
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-locate-project": {
@@ -7925,6 +7934,7 @@
 						"de": 1,
 						"en": 2,
 						"fa": 1,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -8209,6 +8219,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2
@@ -8226,6 +8237,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -10187,12 +10199,14 @@
 				},
 				"dotty": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"doxx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"doxygen": {
@@ -10215,12 +10229,14 @@
 				"dropdb": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"dropuser": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"drupal": {
@@ -10251,7 +10267,8 @@
 				"dtrx": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"du": {
@@ -10314,7 +10331,8 @@
 				"dumpntlminfo.py": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"dune": {
@@ -10326,6 +10344,7 @@
 				"dunst": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -10453,7 +10472,8 @@
 				"dzdo": {
 					"status": {
 						"ar": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ebook-convert": {
@@ -10487,7 +10507,8 @@
 				},
 				"ecpg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ect": {
@@ -10519,7 +10540,8 @@
 				"edit": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"eget": {
@@ -10585,47 +10607,56 @@
 				},
 				"elasticsearch-certutil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"elasticsearch-create-enrollment-token": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"elasticsearch-croneval": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"elasticsearch-keystore": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"elasticsearch-node": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"elasticsearch-reset-password": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"elasticsearch-saml-metadata": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"elasticsearch-syskeygen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"elasticsearch-users": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"electron-packager": {
@@ -10965,42 +10996,50 @@
 				},
 				"exo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exo-compute": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exo-compute-block-storage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exo-compute-instance": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exo-compute-sks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exo-dbaas": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exo-iam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exo-storage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"expand": {
@@ -31820,7 +31859,9 @@
 				"rclone": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"rcs": {
@@ -43462,6 +43503,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -55903,30 +55945,30 @@
 				"fa": 0,
 				"fi": 0,
 				"fr": 31,
-				"hi": 32,
-				"id": 40,
+				"hi": 31,
+				"id": 42,
 				"it": 34,
 				"ja": 0,
-				"ko": 88,
+				"ko": 87,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
 				"nl": 52,
 				"no": 0,
 				"pl": 42,
-				"pt_BR": 49,
+				"pt_BR": 48,
 				"pt_PT": 33,
 				"ro": 1,
 				"ru": 40,
 				"sr": 0,
 				"sv": 0,
 				"ta": 32,
-				"th": 37,
+				"th": 36,
 				"tr": 31,
 				"uk": 0,
 				"uz": 0,
 				"zh": 55,
-				"zh_TW": 32
+				"zh_TW": 31
 			},
 			"pages": {
 				"aa": {
@@ -56448,6 +56490,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -56483,6 +56526,11 @@
 						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"dirs_cleaner": {
+					"status": {
+						"en": 2
 					}
 				},
 				"diskutil": {
@@ -57033,6 +57081,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -57087,6 +57136,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -57348,6 +57398,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -57424,6 +57475,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -57588,6 +57640,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
