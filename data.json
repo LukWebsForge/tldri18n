@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 17-Apr-26 02:00:07 CEST",
+	"last_update": "Saturday, 18-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -38293,6 +38293,7 @@
 				"xargs": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 1,
 						"nl": 2,
 						"ru": 2
@@ -40704,7 +40705,7 @@
 				"ta": 6,
 				"th": 3,
 				"tr": 7,
-				"uk": 5,
+				"uk": 4,
 				"uz": 3,
 				"zh": 11,
 				"zh_TW": 3
@@ -53676,6 +53677,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"tload": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tlp": {
