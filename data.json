@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 19-Apr-26 02:00:07 CEST",
+	"last_update": "Monday, 20-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8803,6 +8803,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
@@ -8817,6 +8818,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -8838,7 +8840,7 @@
 						"fa": 1,
 						"fr": 1,
 						"hi": 1,
-						"id": 1,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 2,
@@ -8866,6 +8868,7 @@
 				"docker-container-update": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -9009,6 +9012,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -13686,10 +13690,10 @@
 				"git-check-mailmap": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2,
-						"tr": 2,
-						"zh": 2
+						"id": 1,
+						"ko": 1,
+						"tr": 1,
+						"zh": 1
 					}
 				},
 				"git-check-ref-format": {
@@ -15013,16 +15017,16 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
 						"hi": 1,
-						"id": 2,
+						"id": 1,
 						"it": 1,
-						"ko": 2,
-						"pt_BR": 2,
+						"ko": 1,
+						"pt_BR": 1,
 						"tr": 1,
 						"uk": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"git-stripspace": {
@@ -15076,7 +15080,7 @@
 						"fr": 1,
 						"it": 1,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"tr": 1,
 						"zh": 1
 					}
@@ -55196,6 +55200,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"xdg-terminal-exec": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xdg-user-dir": {
