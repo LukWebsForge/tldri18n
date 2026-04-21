@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 20-Apr-26 02:00:07 CEST",
+	"last_update": "Tuesday, 21-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -679,7 +679,7 @@
 				"uk": 5,
 				"uz": 4,
 				"zh": 20,
-				"zh_TW": 5
+				"zh_TW": 6
 			},
 			"pages": {
 				"!": {
@@ -3623,6 +3623,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 1,
 						"uk": 2,
 						"zh": 2
@@ -5428,21 +5429,24 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-fix": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-fmt": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-generate-lockfile": {
@@ -23090,6 +23094,7 @@
 				"mitmdump": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -23405,6 +23410,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"moon-buggy": {
+					"status": {
+						"en": 2
 					}
 				},
 				"more": {
@@ -28309,6 +28319,7 @@
 				"ping.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2
@@ -28740,6 +28751,7 @@
 				"pipenv": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2
 					}
@@ -34832,6 +34844,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 1,
+						"fr": 2,
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
@@ -35726,6 +35739,26 @@
 						"ar": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"tpm2": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tpm2-pcrextend": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tpm2-pcrread": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tpm2-pcrreset": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tpp": {
@@ -40693,7 +40726,7 @@
 				"id": 8,
 				"it": 9,
 				"ja": 4,
-				"ko": 72,
+				"ko": 73,
 				"lo": 3,
 				"ml": 4,
 				"ne": 3,
@@ -40840,7 +40873,8 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aa-cleanprof": {
@@ -40848,7 +40882,8 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aa-complain": {
@@ -40866,7 +40901,8 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aa-disable": {
@@ -40895,27 +40931,31 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aa-logprof": {
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aa-mergeprof": {
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aa-remove-unknown": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aa-status": {
@@ -40924,7 +40964,7 @@
 						"en": 2,
 						"es": 1,
 						"id": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1
 					}
@@ -40932,19 +40972,22 @@
 				"aa-teardown": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aa-unconfined": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"aa-update-browser": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"abbr": {
@@ -41913,7 +41956,8 @@
 				},
 				"atomupd-manager": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"atop": {
@@ -41929,7 +41973,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -41937,6 +41981,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1
 					}
@@ -41953,12 +41998,13 @@
 						"en": 2,
 						"es": 1,
 						"it": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"aur-sync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aura": {
@@ -41966,7 +42012,7 @@
 						"en": 2,
 						"es": 1,
 						"it": 2,
-						"ko": 1,
+						"ko": 2,
 						"zh": 1
 					}
 				},
@@ -41981,7 +42027,8 @@
 				"aureport": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aurman": {
@@ -41995,7 +42042,8 @@
 				"aurpublish": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"aurvote": {
@@ -42010,6 +42058,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -47292,7 +47341,8 @@
 				},
 				"lstopo-no-graphics": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lsusb": {
@@ -60262,6 +60312,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2
 					}
