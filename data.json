@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 21-Apr-26 02:00:07 CEST",
+	"last_update": "Wednesday, 22-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20987,6 +20987,12 @@
 						"es": 2
 					}
 				},
+				"lavat": {
+					"status": {
+						"en": 2,
+						"ru": 2
+					}
+				},
 				"laydown": {
 					"status": {
 						"en": 2,
@@ -22756,6 +22762,11 @@
 						"pl": 2
 					}
 				},
+				"mcopy": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mcs": {
 					"status": {
 						"en": 2,
@@ -24119,7 +24130,8 @@
 				},
 				"nb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nbtscan": {
@@ -24160,7 +24172,8 @@
 				},
 				"ncspot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ncu": {
@@ -24171,7 +24184,8 @@
 				},
 				"ndc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"neato": {
@@ -24540,6 +24554,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"ni": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nice": {
@@ -24983,7 +25002,8 @@
 				},
 				"noseyparker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"noti": {
@@ -24996,7 +25016,7 @@
 				"notify-send": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"notmuch": {
@@ -25916,6 +25936,7 @@
 				"ntfs-read.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -34774,6 +34795,11 @@
 						"en": 2
 					}
 				},
+				"swaynag": {
+					"status": {
+						"en": 2
+					}
+				},
 				"swc": {
 					"status": {
 						"en": 2,
@@ -37829,8 +37855,8 @@
 				"warp-cli": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2
+						"id": 1,
+						"ko": 1
 					}
 				},
 				"warp-diag": {
@@ -52290,6 +52316,11 @@
 					}
 				},
 				"spa-json-dump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"spa-monitor": {
 					"status": {
 						"en": 2
 					}
