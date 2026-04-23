@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 22-Apr-26 02:00:07 CEST",
+	"last_update": "Thursday, 23-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2173,14 +2173,14 @@
 				},
 				"arp-scan": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"arping": {
@@ -18909,29 +18909,33 @@
 				},
 				"iotop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipaggcreate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipaggmanip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipcalc": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"ipcs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -40747,7 +40751,7 @@
 				"es": 32,
 				"fa": 4,
 				"fi": 3,
-				"fr": 7,
+				"fr": 8,
 				"hi": 5,
 				"id": 8,
 				"it": 9,
@@ -45600,6 +45604,7 @@
 						"ar": 1,
 						"en": 2,
 						"es": 1,
+						"fr": 2,
 						"ko": 1,
 						"nl": 2,
 						"zh": 1
