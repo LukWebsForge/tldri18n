@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 26-Apr-26 02:00:07 CEST",
+	"last_update": "Monday, 27-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7691,8 +7691,8 @@
 				"ctest": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2
+						"it": 1,
+						"ko": 1
 					}
 				},
 				"cups": {
@@ -11282,7 +11282,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"pt_BR": 1,
 						"uk": 1,
 						"zh": 2,
@@ -26581,12 +26581,14 @@
 				},
 				"openocd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openrgb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openscad": {
@@ -26599,7 +26601,7 @@
 					"status": {
 						"ar": 1,
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"ru": 2,
 						"uk": 1
 					}
@@ -26630,7 +26632,8 @@
 				},
 				"openssl-rand": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openssl-req": {
@@ -26648,7 +26651,8 @@
 				},
 				"openssl-speed": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openssl-ts": {
