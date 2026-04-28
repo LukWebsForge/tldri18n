@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 27-Apr-26 02:00:07 CEST",
+	"last_update": "Tuesday, 28-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -657,10 +657,10 @@
 				"fi": 4,
 				"fr": 12,
 				"hi": 6,
-				"id": 13,
+				"id": 14,
 				"it": 16,
 				"ja": 6,
-				"ko": 80,
+				"ko": 83,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -2794,6 +2794,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -2820,6 +2821,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -2865,6 +2867,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -2874,6 +2877,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -2901,6 +2905,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
@@ -3055,6 +3060,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -3127,6 +3133,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -3197,6 +3204,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -3208,6 +3216,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -3269,6 +3278,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -5453,20 +5463,24 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-help": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-info": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-init": {
@@ -5489,7 +5503,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-login": {
@@ -8655,6 +8670,7 @@
 						"bn": 2,
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ja": 2,
@@ -8872,6 +8888,7 @@
 				"docker-container-update": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -9045,6 +9062,7 @@
 				"docker-image-pull": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
@@ -9073,6 +9091,7 @@
 				"docker-image-tag": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -10958,7 +10977,9 @@
 						"id": 2,
 						"it": 1,
 						"ko": 2,
-						"pl": 2
+						"pl": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"exec": {
@@ -11073,7 +11094,8 @@
 				},
 				"expo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"export": {
@@ -11117,7 +11139,9 @@
 						"en": 2,
 						"ko": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"f3fix": {
@@ -11147,7 +11171,8 @@
 				"fabric": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"factor": {
@@ -11167,7 +11192,8 @@
 				"faker": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"false": {
@@ -11480,7 +11506,8 @@
 				},
 				"fi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fiascotopnm": {
@@ -11498,7 +11525,8 @@
 				},
 				"figlist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"file": {
@@ -13422,6 +13450,7 @@
 						"pl": 2,
 						"pt_BR": 2,
 						"ro": 2,
+						"ru": 2,
 						"ta": 1,
 						"tr": 1,
 						"uk": 1,
@@ -13451,6 +13480,7 @@
 						"ko": 2,
 						"pl": 2,
 						"ro": 2,
+						"ru": 2,
 						"ta": 2,
 						"tr": 1,
 						"zh": 2
@@ -13536,6 +13566,7 @@
 						"ko": 1,
 						"nl": 2,
 						"ro": 2,
+						"ru": 2,
 						"ta": 1,
 						"tr": 1,
 						"zh": 1
@@ -13552,6 +13583,7 @@
 						"ko": 1,
 						"nl": 2,
 						"ro": 1,
+						"ru": 2,
 						"ta": 1,
 						"tr": 1,
 						"uk": 1,
@@ -13579,6 +13611,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ro": 2,
+						"ru": 2,
 						"ta": 2,
 						"tr": 1,
 						"zh": 2
@@ -13719,6 +13752,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"ta": 2,
 						"tr": 2,
 						"uk": 2,
@@ -13812,6 +13846,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ro": 2,
+						"ru": 2,
 						"ta": 2,
 						"tr": 1,
 						"uk": 1,
@@ -13857,6 +13892,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
+						"ru": 2,
 						"ta": 1,
 						"tr": 1,
 						"uk": 1,
@@ -14077,6 +14113,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -14149,6 +14186,7 @@
 						"en": 2,
 						"es": 1,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 1,
 						"tr": 1,
@@ -14228,6 +14266,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -14256,6 +14295,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"tr": 2
@@ -14285,6 +14325,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"tr": 2,
@@ -14336,6 +14377,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 1,
 						"zh": 2
 					}
@@ -14599,6 +14641,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2,
 						"uk": 2,
 						"zh": 2
@@ -14622,6 +14665,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 1,
 						"uk": 2,
 						"zh": 2
@@ -15028,6 +15072,7 @@
 						"it": 1,
 						"ko": 1,
 						"pt_BR": 1,
+						"ru": 2,
 						"tr": 1,
 						"uk": 1,
 						"zh": 1
@@ -15189,6 +15234,7 @@
 				"git-whatchanged": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -16333,6 +16379,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"gup": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gv2gml": {
@@ -18800,22 +18851,26 @@
 				},
 				"in": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"in-toto-record": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"in-toto-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"in-toto-sign": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"in2csv": {
@@ -18878,7 +18933,8 @@
 				},
 				"inkview": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"install": {
@@ -18899,22 +18955,26 @@
 				},
 				"install-tl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"interdiff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ionic": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ioping": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iotop": {
@@ -18983,78 +19043,92 @@
 				},
 				"ippfind": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipptool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iproxy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipscan": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ipsumdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipython": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"irb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"irssi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"is-up": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"sv": 2
 					}
 				},
 				"isisdl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ispell": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"isutf8": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iverilog": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ta": 2
 					}
 				},
 				"ivpn": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"j": {
@@ -23967,47 +24041,56 @@
 				},
 				"mvn-archetype": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mvn-compile": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mvn-dependency": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mvn-deploy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mvn-generate-sources": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mvn-idea": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mvn-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mvn-package": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mvn-site": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mycli": {
@@ -24099,22 +24182,26 @@
 				},
 				"nagios": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nagios2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nagios3": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nagios4": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nano": {
@@ -24126,6 +24213,11 @@
 						"nl": 2,
 						"pt_BR": 1,
 						"zh": 2
+					}
+				},
+				"nano-ffmpeg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nasm": {
@@ -25131,6 +25223,7 @@
 				"npm-bugs": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25153,12 +25246,14 @@
 				"npm-ci": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-completion": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25166,6 +25261,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25179,18 +25275,21 @@
 				"npm-deprecate": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-diff": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-dist-tag": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25198,6 +25297,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25211,6 +25311,7 @@
 				"npm-edit": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25218,6 +25319,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -25225,12 +25327,14 @@
 				"npm-explain": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-explore": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25252,12 +25356,14 @@
 				"npm-help": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-help-search": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25272,6 +25378,7 @@
 				"npm-hook": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25294,6 +25401,7 @@
 				"npm-install-ci-test": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25301,6 +25409,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25349,6 +25458,7 @@
 				"npm-link": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25397,12 +25507,14 @@
 				"npm-login": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-logout": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25411,6 +25523,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 1,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -25450,42 +25563,49 @@
 				"npm-pack": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-ping": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-pkg": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-prefix": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-profile": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-prune": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-publish": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25543,12 +25663,14 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"npm-repo": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25657,6 +25779,7 @@
 				"npm-sbom": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25670,6 +25793,7 @@
 				"npm-shrinkwrap": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -25682,7 +25806,8 @@
 				},
 				"npm-stars": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"npm-start": {
@@ -26078,6 +26203,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -26465,112 +26591,134 @@
 				},
 				"openclaw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openclaw-agent": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openclaw-channels": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openclaw-doctor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openclaw-gateway": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openclaw-message": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openclaw-nodes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openclaw-onboard": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openclaw-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-agent": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-auth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-debug": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-export": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-import": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-mcp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-models": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-session": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-stats": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-uninstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"opencode-web": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openconnect": {
@@ -26670,42 +26818,50 @@
 				},
 				"openstack-flavor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openstack-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openstack-image": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openstack-network": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openstack-port": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openstack-server": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openstack-subnet": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openstack-volume": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"openttd": {
@@ -26776,7 +26932,8 @@
 				},
 				"ots": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ouch": {
@@ -27168,7 +27325,8 @@
 				},
 				"pamtosrf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pamtotga": {
@@ -27228,7 +27386,8 @@
 				"pangolin": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pants": {
@@ -27246,7 +27405,8 @@
 				},
 				"papermc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"par2": {
@@ -27322,7 +27482,8 @@
 				},
 				"patator": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"patch": {
@@ -39799,7 +39960,8 @@
 				},
 				"zformat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zfs": {
@@ -39831,6 +39993,7 @@
 				"zinit": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -39904,12 +40067,14 @@
 				},
 				"zizmor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zle": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zless": {
@@ -39943,6 +40108,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -40004,6 +40170,7 @@
 				"zpaq": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -40017,6 +40184,7 @@
 				"zrok": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -40150,11 +40318,17 @@
 						"zh": 2
 					}
 				},
+				"zstyle": {
+					"status": {
+						"en": 2
+					}
+				},
 				"{": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -40162,6 +40336,7 @@
 				"}": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -40199,7 +40374,7 @@
 				"id": 3,
 				"it": 3,
 				"ja": 3,
-				"ko": 3,
+				"ko": 100,
 				"lo": 3,
 				"ml": 3,
 				"ne": 3,
@@ -40223,7 +40398,8 @@
 			"pages": {
 				"boot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cd": {
@@ -40231,6 +40407,7 @@
 						"de": 2,
 						"en": 2,
 						"hi": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -40279,119 +40456,142 @@
 				},
 				"choice": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cls": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"copy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"del": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"imgmount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ipxnet": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"keyb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"loadfix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"loadhigh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"md": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mem": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mixer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"path": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"rd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ren": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rescan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"set": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"type": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ver": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				}
 			}
@@ -40772,7 +40972,7 @@
 				"id": 8,
 				"it": 9,
 				"ja": 4,
-				"ko": 73,
+				"ko": 75,
 				"lo": 3,
 				"ml": 4,
 				"ne": 3,
@@ -41123,6 +41323,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -41170,7 +41371,8 @@
 				"acpi_listen": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"add-apt-repository": {
@@ -41261,7 +41463,8 @@
 				"aide": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"alien": {
@@ -41282,7 +41485,8 @@
 				"alpaca": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"alpine": {
@@ -41299,7 +41503,8 @@
 				"alsamixer": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"alternatives": {
@@ -41347,7 +41552,8 @@
 				"amdgpu_top": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"amixer": {
@@ -41390,7 +41596,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apk": {
@@ -41426,7 +41633,8 @@
 				"apparmor_parser": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apparmor_status": {
@@ -41474,7 +41682,8 @@
 				"appman": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apport-bug": {
@@ -41492,103 +41701,122 @@
 				"apptainer": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-build": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-cache": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-capability": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-delete": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-exec": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-inspect": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-overlay": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-pull": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-push": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-registry": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-run-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-shell": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-sign": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apptainer-verify": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"apt": {
@@ -41732,6 +41960,7 @@
 						"bn": 2,
 						"en": 2,
 						"fr": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2,
 						"zh": 2
@@ -41915,12 +42144,14 @@
 				},
 				"ark-survival-ascended": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ark-survival-evolved": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"arpaname": {
@@ -41940,7 +42171,8 @@
 				"arptables": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"as": {
@@ -41970,7 +42202,8 @@
 				},
 				"ascii-xfr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"asciiart": {
@@ -41997,6 +42230,7 @@
 				"at": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -42133,7 +42367,8 @@
 				},
 				"autoexpect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"autopkgtest": {
@@ -42270,7 +42505,8 @@
 				},
 				"away": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"awww": {
@@ -42528,13 +42764,15 @@
 				"bootc": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 1
 					}
 				},
 				"bootc-switch": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"bootctl": {
@@ -42631,7 +42869,8 @@
 				"bridge": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"ko": 2
 					}
 				},
 				"brightnessctl": {
@@ -42676,7 +42915,8 @@
 				},
 				"bsub": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"btrbk": {
@@ -42837,7 +43077,8 @@
 				"bwrap": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"byzanz-record": {
@@ -43019,7 +43260,8 @@
 				"cdrecord": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ru": 2
 					}
 				},
 				"cec-client": {
@@ -46326,6 +46568,7 @@
 				"iw-dev": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -51874,6 +52117,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -51934,7 +52178,8 @@
 				},
 				"semodule": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"sensible-browser": {
@@ -56104,9 +56349,9 @@
 				"fi": 0,
 				"fr": 31,
 				"hi": 31,
-				"id": 43,
+				"id": 45,
 				"it": 34,
-				"ja": 0,
+				"ja": 1,
 				"ko": 87,
 				"lo": 0,
 				"ml": 0,
@@ -58042,6 +58287,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -58096,6 +58342,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -58377,6 +58624,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -58409,6 +58657,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -58463,6 +58712,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -60026,6 +60276,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ja": 2,
 						"ko": 2,
 						"th": 2,
 						"zh": 2
@@ -60037,6 +60288,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ja": 2,
 						"ko": 2,
 						"th": 2,
 						"zh": 2
@@ -60728,7 +60980,7 @@
 				"id": 90,
 				"it": 0,
 				"ja": 0,
-				"ko": 81,
+				"ko": 100,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -60813,6 +61065,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"nl": 2,
 						"ro": 2
 					}
@@ -60884,7 +61137,8 @@
 				},
 				"zoneadm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				}
 			}
@@ -60919,7 +61173,7 @@
 				"pt_BR": 15,
 				"pt_PT": 7,
 				"ro": 6,
-				"ru": 16,
+				"ru": 18,
 				"sr": 6,
 				"sv": 8,
 				"ta": 21,
@@ -61541,6 +61795,7 @@
 						"lo": 1,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"ta": 2,
 						"th": 1,
 						"zh": 1,
@@ -61559,6 +61814,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"ta": 2,
 						"th": 2,
 						"zh": 1,
@@ -61833,6 +62089,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -63863,6 +64120,7 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"ta": 2,
 						"zh": 2
 					}
@@ -63902,6 +64160,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2,
 						"zh_TW": 1
 					}
