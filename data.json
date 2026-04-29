@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 28-Apr-26 02:00:07 CEST",
+	"last_update": "Wednesday, 29-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3636,7 +3636,8 @@
 						"ru": 2,
 						"tr": 1,
 						"uk": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"batch": {
@@ -32499,13 +32500,6 @@
 						"ko": 2
 					}
 				},
-				"ripgrep": {
-					"status": {
-						"en": 2,
-						"ko": 2,
-						"nl": 2
-					}
-				},
 				"rkdeveloptool": {
 					"status": {
 						"en": 2,
@@ -39488,6 +39482,7 @@
 						"ar": 2,
 						"en": 2,
 						"ko": 1,
+						"pt_BR": 2,
 						"pt_PT": 1,
 						"zh": 2
 					}
@@ -40978,7 +40973,7 @@
 				"ne": 3,
 				"nl": 14,
 				"no": 3,
-				"pl": 9,
+				"pl": 8,
 				"pt_BR": 12,
 				"pt_PT": 4,
 				"ro": 3,
@@ -44516,6 +44511,13 @@
 						"pt_BR": 1
 					}
 				},
+				"dpkg-buildpackage": {
+					"status": {
+						"en": 2,
+						"es": 2,
+						"pt_BR": 2
+					}
+				},
 				"dpkg-deb": {
 					"status": {
 						"en": 2,
@@ -46621,6 +46623,7 @@
 						"es": 2,
 						"ko": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"ru": 2,
 						"tr": 2,
 						"uk": 1
@@ -53903,7 +53906,8 @@
 				},
 				"systemsettings": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"systool": {
@@ -53983,7 +53987,8 @@
 				},
 				"termshark": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"termusic": {
@@ -54037,7 +54042,8 @@
 				},
 				"tload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tlp": {
@@ -54055,18 +54061,21 @@
 				"tmt": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"tmt-run": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"tmt-try": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -55562,7 +55571,7 @@
 				"xdg-user-dirs-update": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"xdotool": {
@@ -55778,7 +55787,8 @@
 				"ytfzf": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"yum": {
