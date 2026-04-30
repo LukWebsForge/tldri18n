@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 29-Apr-26 02:00:07 CEST",
+	"last_update": "Thursday, 30-Apr-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8019,7 +8019,9 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"deluge": {
@@ -30464,6 +30466,11 @@
 						"ko": 1
 					}
 				},
+				"prek": {
+					"status": {
+						"en": 2
+					}
+				},
 				"prename": {
 					"status": {
 						"ar": 2,
@@ -47026,7 +47033,7 @@
 				"libinput": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 1
 					}
 				},
 				"libtool": {
@@ -56362,7 +56369,7 @@
 				"id": 45,
 				"it": 34,
 				"ja": 1,
-				"ko": 87,
+				"ko": 88,
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
@@ -56787,7 +56794,8 @@
 				},
 				"contactsd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"coreaudiod": {
@@ -56861,7 +56869,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
 						"ru": 2
@@ -56869,7 +56877,8 @@
 				},
 				"cvfsck": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dark-mode": {
@@ -56885,7 +56894,8 @@
 				},
 				"darwin-rebuild": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"date": {
