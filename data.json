@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 30-Apr-26 02:00:07 CEST",
+	"last_update": "Friday, 01-May-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5489,7 +5489,8 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-install": {
@@ -5512,21 +5513,24 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-logout": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-metadata": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-msrv": {
@@ -35534,7 +35538,7 @@
 						"tr": 1,
 						"uk": 1,
 						"zh": 2,
-						"zh_TW": 1
+						"zh_TW": 2
 					}
 				},
 				"tldr-lint": {
