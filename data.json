@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 02-May-26 02:00:07 CEST",
+	"last_update": "Sunday, 03-May-26 02:00:07 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -32835,15 +32835,19 @@
 				"rustc": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2,
-						"ta": 2
+						"ko": 1,
+						"pt_BR": 1,
+						"ta": 1,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"rustdoc": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"rustfmt": {
@@ -32851,7 +32855,8 @@
 						"en": 2,
 						"ko": 1,
 						"ta": 1,
-						"zh": 1
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"rustic": {
@@ -56667,7 +56672,7 @@
 				"pt_BR": 48,
 				"pt_PT": 33,
 				"ro": 1,
-				"ru": 40,
+				"ru": 39,
 				"sr": 0,
 				"sv": 0,
 				"ta": 32,
@@ -60138,6 +60143,11 @@
 						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"hdid": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hdiutil": {
