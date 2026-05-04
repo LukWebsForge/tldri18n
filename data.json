@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 03-May-26 02:00:07 CEST",
+	"last_update": "Monday, 04-May-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3832,6 +3832,11 @@
 						"zh": 2
 					}
 				},
+				"biome": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bioradtopgm": {
 					"status": {
 						"en": 2,
@@ -7232,7 +7237,8 @@
 				},
 				"cpuctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"crackle": {
@@ -10962,7 +10968,8 @@
 				},
 				"espeak-ng": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"esptool.py": {
@@ -12831,7 +12838,8 @@
 				},
 				"getst.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"gettext": {
@@ -12842,6 +12850,7 @@
 				"gettgt.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -15275,6 +15284,7 @@
 				},
 				"git-whatchanged": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 1,
@@ -15865,6 +15875,7 @@
 				},
 				"google-chrome": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -19284,14 +19295,14 @@
 				},
 				"jc": {
 					"status": {
-						"en": 2,
-						"ko": 1,
-						"zh": 1
+						"en": 2
 					}
 				},
 				"jc.json": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"jcal": {
@@ -21301,6 +21312,7 @@
 				},
 				"librewolf": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"id": 2,
@@ -21341,6 +21353,7 @@
 				},
 				"lima": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -22854,10 +22867,7 @@
 				},
 				"mc": {
 					"status": {
-						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"ko": 2
+						"en": 2
 					}
 				},
 				"mc.cli": {
@@ -22869,7 +22879,10 @@
 				},
 				"mc.fm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"mcat": {
@@ -24762,7 +24775,6 @@
 				},
 				"nix-build": {
 					"status": {
-						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -24772,6 +24784,7 @@
 				},
 				"nix-build.2": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 2,
@@ -24916,7 +24929,6 @@
 				},
 				"nix-shell": {
 					"status": {
-						"de": 1,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -24925,6 +24937,7 @@
 				},
 				"nix-shell.2": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
