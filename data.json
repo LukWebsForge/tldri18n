@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 07-May-26 02:00:08 CEST",
+	"last_update": "Friday, 08-May-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -10834,6 +10834,11 @@
 						"ko": 2
 					}
 				},
+				"emulate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"emulator": {
 					"status": {
 						"en": 2,
@@ -16133,7 +16138,7 @@
 				"grafana-cli": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"grap": {
@@ -22891,6 +22896,7 @@
 				},
 				"mc": {
 					"status": {
+						"el": 2,
 						"en": 2
 					}
 				},
