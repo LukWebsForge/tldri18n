@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 08-May-26 02:00:08 CEST",
+	"last_update": "Saturday, 09-May-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5591,28 +5591,32 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-owner": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-package": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-pkgid": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-publish": {
@@ -23815,6 +23819,7 @@
 				"mplayer": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -26810,7 +26815,7 @@
 				"openconnect": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"openocd": {
@@ -38715,6 +38720,11 @@
 						"ko": 2
 					}
 				},
+				"xkbcli": {
+					"status": {
+						"en": 2
+					}
+				},
 				"xkcdpass": {
 					"status": {
 						"en": 2,
@@ -41071,10 +41081,10 @@
 				"lo": 3,
 				"ml": 4,
 				"ne": 3,
-				"nl": 15,
+				"nl": 14,
 				"no": 4,
 				"pl": 9,
-				"pt_BR": 13,
+				"pt_BR": 12,
 				"pt_PT": 4,
 				"ro": 3,
 				"ru": 6,
@@ -50587,6 +50597,11 @@
 						"pl": 1
 					}
 				},
+				"powertop2tuned": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pridecat": {
 					"status": {
 						"en": 2,
@@ -52645,6 +52660,11 @@
 						"ko": 2
 					}
 				},
+				"setup-alpine": {
+					"status": {
+						"en": 2
+					}
+				},
 				"setxkbmap": {
 					"status": {
 						"en": 2,
@@ -53120,6 +53140,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"steamos-bootdebug": {
+					"status": {
+						"en": 2
 					}
 				},
 				"steamos-chroot": {
