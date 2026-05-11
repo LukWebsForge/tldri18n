@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 10-May-26 02:00:08 CEST",
+	"last_update": "Monday, 11-May-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1459,7 +1459,8 @@
 				},
 				"age-inspect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"age-keygen": {
@@ -2322,7 +2323,8 @@
 				"ast-grep": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"astronomer": {
@@ -2961,7 +2963,8 @@
 				"aws-s3-sync": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"aws-s3-website": {
@@ -3011,7 +3014,8 @@
 				},
 				"aws-ssm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-sso": {
@@ -19730,6 +19734,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -41090,16 +41095,16 @@
 				"ml": 4,
 				"ne": 3,
 				"nl": 14,
-				"no": 4,
+				"no": 3,
 				"pl": 9,
 				"pt_BR": 12,
 				"pt_PT": 4,
 				"ro": 3,
 				"ru": 6,
 				"sr": 3,
-				"sv": 4,
+				"sv": 3,
 				"ta": 6,
-				"th": 4,
+				"th": 3,
 				"tr": 8,
 				"uk": 5,
 				"uz": 3,
@@ -48571,7 +48576,8 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"module": {
@@ -50317,6 +50323,16 @@
 						"ru": 2
 					}
 				},
+				"pipewire-aes67": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pipewire-avb": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pipewire-pulse": {
 					"status": {
 						"en": 2
@@ -50952,6 +50968,16 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"pw-midi2play": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pw-midi2record": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pw-mididump": {
