@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 11-May-26 02:00:08 CEST",
+	"last_update": "Tuesday, 12-May-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -35662,6 +35662,7 @@
 				},
 				"tldrl": {
 					"status": {
+						"bn": 2,
 						"bs": 2,
 						"de": 2,
 						"en": 2,
@@ -37975,6 +37976,7 @@
 				},
 				"vivaldi": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"id": 2,
@@ -46660,6 +46662,7 @@
 				},
 				"ip6tables": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -46669,6 +46672,7 @@
 				},
 				"ip6tables-restore": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -46678,6 +46682,7 @@
 				},
 				"ip6tables-save": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -48648,6 +48653,7 @@
 				},
 				"mount.smb3": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -49290,6 +49296,7 @@
 				},
 				"opera-stable": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"id": 2,
@@ -50325,6 +50332,7 @@
 				},
 				"pipewire-aes67": {
 					"status": {
+						"bn": 2,
 						"en": 2
 					}
 				},
@@ -54106,6 +54114,7 @@
 				},
 				"systemd-confext": {
 					"status": {
+						"bn": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
