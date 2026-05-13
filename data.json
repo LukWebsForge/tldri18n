@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 12-May-26 02:00:09 CEST",
+	"last_update": "Wednesday, 13-May-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -660,7 +660,7 @@
 				"id": 14,
 				"it": 16,
 				"ja": 6,
-				"ko": 83,
+				"ko": 84,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -2853,12 +2853,14 @@
 				},
 				"aws-logs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-mq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-pricing": {
@@ -3829,7 +3831,8 @@
 				"bing-rewards": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"binwalk": {
@@ -3843,7 +3846,8 @@
 				},
 				"biome": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bioradtopgm": {
@@ -3891,7 +3895,8 @@
 				},
 				"bk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"black": {
@@ -5627,21 +5632,24 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-remove": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-report": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-run": {
@@ -6896,25 +6904,29 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"conda-clean": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-compare": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-config": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-create": {
@@ -6922,13 +6934,14 @@
 						"de": 1,
 						"en": 2,
 						"it": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"conda-deactivate": {
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -6936,31 +6949,36 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-env": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-export": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-info": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-init": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-install": {
@@ -6974,55 +6992,64 @@
 					"status": {
 						"en": 2,
 						"it": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"conda-notices": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-package": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-remove": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-rename": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-repoquery": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-run": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-search": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"conda-update": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"confettysh": {
@@ -15357,6 +15384,7 @@
 				"gitk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -24241,6 +24269,7 @@
 				"mysqld": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -26315,7 +26344,9 @@
 						"en": 2,
 						"id": 1,
 						"ko": 1,
-						"nl": 2
+						"nl": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"nvm.fish": {
@@ -29064,6 +29095,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"piper-tts": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pipes.sh": {
@@ -48488,6 +48524,7 @@
 				"mkisofs": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -56783,9 +56820,9 @@
 				"lo": 0,
 				"ml": 0,
 				"ne": 0,
-				"nl": 52,
+				"nl": 51,
 				"no": 0,
-				"pl": 42,
+				"pl": 41,
 				"pt_BR": 48,
 				"pt_PT": 33,
 				"ro": 1,
@@ -60980,6 +61017,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"spindump": {
+					"status": {
+						"en": 2
 					}
 				},
 				"split": {
