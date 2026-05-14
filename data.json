@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 13-May-26 02:00:09 CEST",
+	"last_update": "Thursday, 14-May-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -42934,11 +42934,11 @@
 				"bootctl": {
 					"status": {
 						"en": 2,
-						"hi": 2,
-						"it": 2,
-						"ko": 2,
-						"pl": 2,
-						"zh": 2
+						"hi": 1,
+						"it": 1,
+						"ko": 1,
+						"pl": 1,
+						"zh": 1
 					}
 				},
 				"bore": {
@@ -43871,6 +43871,11 @@
 						"ko": 2
 					}
 				},
+				"criu": {
+					"status": {
+						"en": 2
+					}
+				},
 				"crond": {
 					"status": {
 						"en": 2,
@@ -44536,9 +44541,9 @@
 				"dnf-install": {
 					"status": {
 						"en": 2,
-						"nl": 2,
-						"ru": 2,
-						"tr": 2
+						"nl": 1,
+						"ru": 1,
+						"tr": 1
 					}
 				},
 				"dnf-module": {
