@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 17-May-26 02:00:09 CEST",
+	"last_update": "Monday, 18-May-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -660,7 +660,7 @@
 				"id": 14,
 				"it": 16,
 				"ja": 6,
-				"ko": 84,
+				"ko": 85,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -1484,7 +1484,8 @@
 				},
 				"agy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aider": {
@@ -2240,7 +2241,8 @@
 				"ascii-image-converter": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"asciidoctor": {
@@ -2346,7 +2348,8 @@
 				"astroterm": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"astyle": {
@@ -12749,19 +12752,22 @@
 				"gdm-safe-restart": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"gdm-stop": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"gdmsetup": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"gdown": {
@@ -12794,7 +12800,8 @@
 				},
 				"gemini": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gemtopbm": {
@@ -12817,12 +12824,14 @@
 				"gendesk": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"ges-launch-1.0": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"get-nodeinstalllocation": {
@@ -12841,7 +12850,8 @@
 				},
 				"get_iplayer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"getadusers.py": {
@@ -12849,6 +12859,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -12856,6 +12867,7 @@
 				"getarch.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -12912,30 +12924,35 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
 				},
 				"getopts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"getst.py": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"gettext": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gettgt.py": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -12944,6 +12961,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -13010,6 +13028,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -13058,6 +13077,7 @@
 				"gh-agent-task": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -13119,6 +13139,7 @@
 				"gh-attestation": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -13136,7 +13157,8 @@
 				},
 				"gh-cache": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-codespace": {
@@ -13162,7 +13184,8 @@
 				},
 				"gh-copilot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-cs": {
@@ -13234,7 +13257,8 @@
 				},
 				"gh-gpg-key": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-help": {
@@ -13269,7 +13293,8 @@
 				},
 				"gh-org": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-pr": {
@@ -13281,12 +13306,14 @@
 				},
 				"gh-pr-checks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-pr-comment": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-pr-create": {
@@ -13298,22 +13325,25 @@
 				"gh-pr-merge": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"gh-pr-view": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-preview": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-project": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-reference": {
@@ -13331,13 +13361,14 @@
 				"gh-repo": {
 					"status": {
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"zh": 1
 					}
 				},
 				"gh-repo-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-rs": {
@@ -13384,7 +13415,8 @@
 				},
 				"gh-ruleset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-run": {
@@ -13401,7 +13433,8 @@
 				},
 				"gh-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-secret": {
@@ -13419,7 +13452,8 @@
 				"gh-skyline": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"gh-ssh-key": {
@@ -13430,12 +13464,14 @@
 				},
 				"gh-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-variable": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-workflow": {
@@ -13460,7 +13496,8 @@
 				},
 				"ghcid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ghcup": {
@@ -13488,12 +13525,14 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"ghq": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gibo": {
@@ -19181,7 +19220,7 @@
 				"iperf3": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"ipfs": {
@@ -25499,6 +25538,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2
@@ -36682,6 +36722,11 @@
 						"zh_TW": 2
 					}
 				},
+				"typos": {
+					"status": {
+						"en": 2
+					}
+				},
 				"typst": {
 					"status": {
 						"en": 2,
@@ -41183,7 +41228,7 @@
 				"da": 3,
 				"de": 8,
 				"el": 3,
-				"en": 99,
+				"en": 100,
 				"es": 32,
 				"fa": 4,
 				"fi": 3,
@@ -41207,7 +41252,7 @@
 				"sv": 3,
 				"ta": 6,
 				"th": 3,
-				"tr": 8,
+				"tr": 7,
 				"uk": 5,
 				"uz": 3,
 				"zh": 11,
@@ -50790,12 +50835,6 @@
 						"ko": 2
 					}
 				},
-				"print.runmailcap": {
-					"status": {
-						"ko": 2,
-						"tr": 2
-					}
-				},
 				"prlimit": {
 					"status": {
 						"en": 2,
@@ -52686,6 +52725,7 @@
 				"semanage": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
