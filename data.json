@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 18-May-26 02:00:09 CEST",
+	"last_update": "Tuesday, 19-May-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20391,6 +20391,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"jxlinfo": {
+					"status": {
+						"en": 2
 					}
 				},
 				"k3d": {
