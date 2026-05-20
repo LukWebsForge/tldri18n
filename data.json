@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 19-May-26 02:00:10 CEST",
+	"last_update": "Wednesday, 20-May-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1485,7 +1485,9 @@
 				"agy": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"aider": {
@@ -5666,7 +5668,8 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-rustc": {
@@ -5675,14 +5678,16 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-rustdoc": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"zh": 2
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"cargo-search": {
@@ -6601,7 +6606,9 @@
 				"codex": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"codium": {
@@ -7953,6 +7960,11 @@
 						"en": 2,
 						"ko": 2,
 						"ru": 2
+					}
+				},
+				"dagger": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dalfox": {
@@ -13416,6 +13428,7 @@
 				"gh-ruleset": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -34547,6 +34560,11 @@
 						"en": 2
 					}
 				},
+				"sqlfluff": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sqlite-utils": {
 					"status": {
 						"en": 2,
@@ -46729,9 +46747,9 @@
 				"ip-neighbour": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"tr": 2
+						"es": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"ip-netconf": {
