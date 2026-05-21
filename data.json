@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 20-May-26 02:00:09 CEST",
+	"last_update": "Thursday, 21-May-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13089,6 +13089,7 @@
 				"gh-agent-task": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -13151,6 +13152,7 @@
 				"gh-attestation": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -44733,6 +44735,11 @@
 						"ko": 2
 					}
 				},
+				"dnf-system-upgrade": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dnf-versionlock": {
 					"status": {
 						"en": 2,
@@ -49737,6 +49744,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
@@ -49805,6 +49813,7 @@
 				"pacman-key": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pl": 2,
@@ -49816,6 +49825,7 @@
 				"pacman-mirrors": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"pl": 2,
@@ -50080,6 +50090,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"id": 2,
 						"ko": 2,
