@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 21-May-26 02:00:09 CEST",
+	"last_update": "Friday, 22-May-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -14023,6 +14023,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -14362,7 +14363,8 @@
 				},
 				"git-fast-export": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-feature": {
@@ -14387,7 +14389,8 @@
 				},
 				"git-filter-branch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-filter-repo": {
@@ -14406,7 +14409,8 @@
 				},
 				"git-for-each-ref": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-for-each-repo": {
@@ -14467,7 +14471,8 @@
 				},
 				"git-get-tar-commit-id": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-gh-pages": {
@@ -14596,7 +14601,8 @@
 				},
 				"git-lfs-transfer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-local-commits": {
@@ -36870,6 +36876,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 1,
+						"it": 2,
 						"ja": 1,
 						"ko": 1,
 						"nl": 2,
@@ -51043,6 +51050,7 @@
 				"pw-cat": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
@@ -51052,6 +51060,7 @@
 				"pw-cli": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"pt_BR": 1,
 						"tr": 1
@@ -51296,6 +51305,7 @@
 				"pw-mon": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -56980,7 +56990,7 @@
 			"progress": {
 				"ar": 0,
 				"bg": 0,
-				"bn": 1,
+				"bn": 2,
 				"bs": 0,
 				"ca": 0,
 				"cs": 0,
@@ -57763,6 +57773,7 @@
 				},
 				"gb2sum": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -57785,6 +57796,7 @@
 				},
 				"gbase32": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -57807,6 +57819,7 @@
 				},
 				"gbase64": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -57829,6 +57842,7 @@
 				},
 				"gbasename": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -57851,6 +57865,7 @@
 				},
 				"gbasenc": {
 					"status": {
+						"bn": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
