@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 22-May-26 02:00:09 CEST",
+	"last_update": "Saturday, 23-May-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -660,7 +660,7 @@
 				"id": 14,
 				"it": 16,
 				"ja": 6,
-				"ko": 85,
+				"ko": 86,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -2312,6 +2312,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"ml": 2,
 						"pt_BR": 2,
@@ -13333,7 +13334,8 @@
 				"gh-pr-create": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"gh-pr-merge": {
@@ -13474,7 +13476,8 @@
 				"gh-ssh-key": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"gh-status": {
@@ -14705,6 +14708,7 @@
 				"git-merge-index": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ro": 2
 					}
 				},
@@ -14718,6 +14722,7 @@
 				"git-merge-one-file": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ro": 2
 					}
 				},
@@ -14731,6 +14736,7 @@
 				"git-merge-tree": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ro": 2
 					}
 				},
@@ -14775,7 +14781,8 @@
 				},
 				"git-name-rev": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-notes": {
@@ -14794,7 +14801,8 @@
 				},
 				"git-p4": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-paste": {
@@ -14984,7 +14992,8 @@
 				},
 				"git-rerere": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-reset": {
@@ -15185,6 +15194,7 @@
 				"git-sparse-checkout": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -15456,13 +15466,15 @@
 				},
 				"gita": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gitea": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"github-label-sync": {
@@ -15489,7 +15501,8 @@
 				},
 				"gitlab-backup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gitlab-ctl": {
@@ -15561,7 +15574,8 @@
 				},
 				"gixy-next": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"glab": {
@@ -15662,7 +15676,8 @@
 				},
 				"glxgears": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gml2gv": {
@@ -15685,7 +15700,8 @@
 				},
 				"gnatprep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gnmic": {
@@ -15776,12 +15792,14 @@
 				},
 				"gnuchess": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gnugo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gnuplot": {
@@ -31216,6 +31234,7 @@
 				"pulumi-destroy": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
