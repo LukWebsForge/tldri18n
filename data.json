@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 23-May-26 02:00:09 CEST",
+	"last_update": "Sunday, 24-May-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7965,7 +7965,8 @@
 				},
 				"dagger": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dalfox": {
@@ -16391,119 +16392,140 @@
 				},
 				"gst-device-monitor-1.0": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-discoverer-1.0": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-inspect-1.0": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-audiomixer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-audiotestsrc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-capsfilter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-decodebin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-fakesink": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-filesrc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-identity": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-libcamerasrc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-playbin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-pulsesrc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-queue": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-uridecodebin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-videoconvert": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-videorate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-videoscale": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-launch-1.0-videotestsrc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-play-1.0": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-transcoder-1.0": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gst-typefind-1.0": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gsutil": {
@@ -17623,27 +17645,32 @@
 				"ibmcloud-api": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ibmcloud-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ibmcloud-cr": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ibmcloud-iam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ibmcloud-ks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ibmcloud-login": {
@@ -17654,27 +17681,32 @@
 				},
 				"ibmcloud-logout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ibmcloud-regions": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ibmcloud-target": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ibmcloud-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ibmcloud-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ic": {
@@ -55189,6 +55221,11 @@
 					}
 				},
 				"uinput": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ukify": {
 					"status": {
 						"en": 2
 					}
