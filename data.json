@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 24-May-26 02:00:10 CEST",
+	"last_update": "Monday, 25-May-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1168,6 +1168,7 @@
 				},
 				"adb": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"fr": 1,
@@ -8667,7 +8668,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"docker-container": {
@@ -11111,6 +11113,7 @@
 				},
 				"exec": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"it": 1,
 						"ko": 2,
@@ -16236,52 +16239,62 @@
 				},
 				"gradle-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle-clean": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle-dependencies": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle-dependencyinsight": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle-projects": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle-properties": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle-tasks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gradle-wrapper": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"grafana-cli": {
@@ -33617,6 +33630,7 @@
 				},
 				"scp": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"hi": 1,
 						"ko": 2,
@@ -44764,7 +44778,7 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 1,
-						"ru": 1,
+						"ru": 2,
 						"tr": 1
 					}
 				},
@@ -45342,6 +45356,7 @@
 				},
 				"exec": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
