@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 25-May-26 02:00:08 CEST",
+	"last_update": "Tuesday, 26-May-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -660,7 +660,7 @@
 				"id": 14,
 				"it": 16,
 				"ja": 6,
-				"ko": 86,
+				"ko": 87,
 				"lo": 4,
 				"ml": 4,
 				"ne": 4,
@@ -19651,6 +19651,7 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -28808,7 +28809,8 @@
 				},
 				"pie": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pigz": {
@@ -29125,7 +29127,7 @@
 						"es": 2,
 						"fr": 2,
 						"id": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
 						"zh": 1
@@ -29133,27 +29135,32 @@
 				},
 				"pip-cache": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-debug": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-download": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-freeze": {
@@ -29165,24 +29172,27 @@
 				},
 				"pip-hash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-index": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-inspect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-install": {
 					"status": {
 						"de": 1,
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
 						"zh": 1
@@ -29190,22 +29200,26 @@
 				},
 				"pip-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-lock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip-uninstall": {
@@ -29218,7 +29232,8 @@
 				},
 				"pip-wheel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pip3": {
