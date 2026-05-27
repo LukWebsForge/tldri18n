@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 26-May-26 02:00:08 CEST",
+	"last_update": "Wednesday, 27-May-26 02:00:54 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20740,6 +20740,11 @@
 						"ko": 2
 					}
 				},
+				"kioclient": {
+					"status": {
+						"en": 2
+					}
+				},
 				"kismet": {
 					"status": {
 						"en": 2,
@@ -20851,6 +20856,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"ko": {
+					"status": {
+						"en": 2
 					}
 				},
 				"koboldcpp": {
@@ -28205,7 +28215,8 @@
 				},
 				"pecl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"peco": {
@@ -28588,7 +28599,8 @@
 				},
 				"pgrep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"phan": {
@@ -28768,14 +28780,15 @@
 				},
 				"pico": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"picocom": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -28798,7 +28811,8 @@
 						"ar": 2,
 						"cs": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"picttoppm": {
@@ -33448,6 +33462,11 @@
 					"status": {
 						"en": 2,
 						"nl": 2
+					}
+				},
+				"samply": {
+					"status": {
+						"en": 2
 					}
 				},
 				"samtools": {
