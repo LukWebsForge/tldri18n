@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 27-May-26 02:00:54 CEST",
+	"last_update": "Thursday, 28-May-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6051,7 +6051,8 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"chisel": {
@@ -6114,6 +6115,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -7242,6 +7244,7 @@
 				},
 				"cp": {
 					"status": {
+						"ar": 2,
 						"ca": 1,
 						"cs": 2,
 						"de": 1,
@@ -8393,6 +8396,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -10649,6 +10653,7 @@
 				},
 				"echo": {
 					"status": {
+						"ar": 2,
 						"de": 1,
 						"en": 2,
 						"es": 1,
@@ -17549,7 +17554,8 @@
 				},
 				"hugo-serve": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"hugo-server": {
@@ -23520,6 +23526,7 @@
 				"mitmweb": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -24530,6 +24537,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -27370,6 +27378,7 @@
 				"pamcomp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -29309,7 +29318,9 @@
 				},
 				"piper-tts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pipes.sh": {
@@ -29375,7 +29386,8 @@
 				},
 				"pkcs11-tool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pkg-config": {
@@ -29386,7 +29398,8 @@
 				},
 				"pkgz": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pkill": {
@@ -29398,7 +29411,8 @@
 				},
 				"pkl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"plantuml": {
@@ -29471,7 +29485,8 @@
 				},
 				"plink": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"plocate": {
@@ -41360,7 +41375,7 @@
 				"de": 8,
 				"el": 3,
 				"en": 100,
-				"es": 32,
+				"es": 33,
 				"fa": 4,
 				"fi": 3,
 				"fr": 8,
@@ -46154,7 +46169,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"groupdel": {
@@ -47141,6 +47157,7 @@
 				"jobs": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -47859,7 +47876,8 @@
 						"de": 1,
 						"en": 2,
 						"nl": 2,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"ru": 2
 					}
 				},
 				"logger": {
@@ -50297,7 +50315,8 @@
 				},
 				"pactrans": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pactree": {
@@ -50662,12 +50681,14 @@
 				"pipewire-aes67": {
 					"status": {
 						"bn": 2,
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pipewire-avb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pipewire-pulse": {
@@ -60609,7 +60630,8 @@
 				},
 				"hdid": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"hdiutil": {
