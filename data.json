@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 29-May-26 02:00:08 CEST",
+	"last_update": "Saturday, 30-May-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6350,6 +6350,7 @@
 				},
 				"clear": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -20574,34 +20575,39 @@
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"kaggle-competitions": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kaggle-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kaggle-datasets": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kaggle-kernels": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"kaggle-models": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"kahlan": {
@@ -30898,6 +30904,7 @@
 				"print": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"zh": 2
 					}
 				},
@@ -41374,7 +41381,7 @@
 		},
 		"linux": {
 			"progress": {
-				"ar": 5,
+				"ar": 4,
 				"bg": 3,
 				"bn": 6,
 				"bs": 3,
@@ -41384,21 +41391,21 @@
 				"de": 8,
 				"el": 3,
 				"en": 100,
-				"es": 33,
+				"es": 31,
 				"fa": 4,
 				"fi": 3,
-				"fr": 8,
+				"fr": 7,
 				"hi": 5,
-				"id": 9,
+				"id": 8,
 				"it": 9,
 				"ja": 4,
-				"ko": 77,
+				"ko": 72,
 				"lo": 3,
 				"ml": 4,
 				"ne": 3,
 				"nl": 14,
 				"no": 3,
-				"pl": 9,
+				"pl": 8,
 				"pt_BR": 12,
 				"pt_PT": 4,
 				"ro": 3,
@@ -41411,7 +41418,7 @@
 				"uk": 5,
 				"uz": 3,
 				"zh": 11,
-				"zh_TW": 4
+				"zh_TW": 3
 			},
 			"pages": {
 				"a2disconf": {
@@ -44458,6 +44465,11 @@
 						"en": 2
 					}
 				},
+				"deepseek-r1": {
+					"status": {
+						"en": 2
+					}
+				},
 				"delpart": {
 					"status": {
 						"en": 2,
@@ -45933,6 +45945,16 @@
 						"ta": 2
 					}
 				},
+				"gemma3": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gemma4": {
+					"status": {
+						"en": 2
+					}
+				},
 				"genfstab": {
 					"status": {
 						"en": 2,
@@ -46108,6 +46130,526 @@
 						"ko": 2,
 						"ml": 2,
 						"pt_BR": 2
+					}
+				},
+				"gnu[": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuarch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnub2sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnubase32": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnubase64": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnubasename": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnubasenc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnucat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuchcon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuchgrp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuchmod": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuchown": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnucksum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnucomm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnucp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnucsplit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnucut": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnudate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnudd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnudf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnudir": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnudircolors": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnudirname": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnudu": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuecho": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuenv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuexpand": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuexpr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnufactor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnufalse": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnufmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnufold": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnugroups": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuhead": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuhostid": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuid": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuinstall": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnujoin": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnulink": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuln": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnulogname": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuls": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnumd5sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnumkdir": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnumkfifo": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnumknod": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnumktemp": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnumv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnunice": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnunl": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnunohup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnunproc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnunumfmt": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuod": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnupaste": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnupathchk": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnupinky": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnupr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuprintenv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuprintf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuptx": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnupwd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnureadlink": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnurealpath": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnurm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnurmdir": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuruncon": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuseq": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusha1sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusha224sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusha256sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusha384sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusha512sum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnushred": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnushuf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusleep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusort": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusplit": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnustat": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnustdbuf": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnustty": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusum": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnusync": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutac": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutail": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutee": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutest": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutimeout": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutouch": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutr": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutrue": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutruncate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutsort": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnutty": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuuname": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuunexpand": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuuniq": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuunlink": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuusers": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuvdir": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuwc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuwho": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuwhoami": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gnuyes": {
+					"status": {
+						"en": 2
 					}
 				},
 				"goaccess": {
@@ -46771,6 +47313,11 @@
 					"status": {
 						"en": 2,
 						"es": 2
+					}
+				},
+				"inference-snaps": {
+					"status": {
+						"en": 2
 					}
 				},
 				"informant": {
@@ -49170,6 +49717,11 @@
 						"en": 2,
 						"ko": 2,
 						"ml": 1
+					}
+				},
+				"nemotron3-nano": {
+					"status": {
+						"en": 2
 					}
 				},
 				"neo": {
@@ -52186,6 +52738,11 @@
 						"ko": 2
 					}
 				},
+				"qwen-vl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"radeontop": {
 					"status": {
 						"en": 2,
@@ -52315,6 +52872,11 @@
 					}
 				},
 				"rename": {
+					"status": {
+						"en": 2
+					}
+				},
+				"rename.ul": {
 					"status": {
 						"en": 2
 					}
