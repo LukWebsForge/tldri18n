@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 30-May-26 02:00:09 CEST",
+	"last_update": "Sunday, 31-May-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -13052,7 +13052,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"gh-agent": {
@@ -51005,7 +51006,8 @@
 				},
 				"pct-move-volume": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"pct-move_volume": {
