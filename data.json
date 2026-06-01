@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 31-May-26 02:00:09 CEST",
+	"last_update": "Monday, 01-Jun-26 02:00:08 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1449,7 +1449,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -20877,23 +20877,27 @@
 				},
 				"ko": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"koboldcpp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kodi-send": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"komac": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"kompose": {
@@ -21037,61 +21041,70 @@
 				"kubectl-annotate": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-api-resources": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-api-versions": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-apply": {
 					"status": {
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-attach": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-auth": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-autoscale": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-certificate": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-cluster-info": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-completion": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -21104,12 +21117,14 @@
 				"kubectl-cordon": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-cp": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
