@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 01-Jun-26 02:00:08 CEST",
+	"last_update": "Tuesday, 02-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -660,10 +660,10 @@
 				"id": 14,
 				"it": 16,
 				"ja": 6,
-				"ko": 87,
+				"ko": 88,
 				"lo": 4,
 				"ml": 4,
-				"ne": 4,
+				"ne": 5,
 				"nl": 20,
 				"no": 5,
 				"pl": 7,
@@ -17556,8 +17556,44 @@
 				},
 				"hugo-serve": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"hugo-server": {
@@ -21138,6 +21174,7 @@
 				"kubectl-debug": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -21158,33 +21195,38 @@
 				},
 				"kubectl-diff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-drain": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-edit": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"kubectl-events": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-exec": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-explain": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-expose": {
@@ -21197,13 +21239,14 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-kustomize": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-label": {
@@ -21222,22 +21265,26 @@
 				},
 				"kubectl-patch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-plugin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-port-forward": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-proxy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-replace": {
@@ -21268,7 +21315,8 @@
 				},
 				"kubectl-set": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-taint": {
@@ -21279,24 +21327,28 @@
 				},
 				"kubectl-top": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-uncordon": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"kubectl-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubectl-wait": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"kubectx": {
@@ -26430,6 +26482,7 @@
 				"ntfs-read.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -28903,6 +28956,7 @@
 				"ping6.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -29344,9 +29398,44 @@
 				},
 				"piper-tts": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"pipes.sh": {
@@ -44501,6 +44590,11 @@
 						"zh": 1
 					}
 				},
+				"depmod": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dex": {
 					"status": {
 						"en": 2,
@@ -52895,7 +52989,44 @@
 				},
 				"rename.ul": {
 					"status": {
-						"en": 2
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
+						"en": 2,
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"rename.util": {
@@ -57708,44 +57839,44 @@
 		},
 		"osx": {
 			"progress": {
-				"ar": 0,
-				"bg": 0,
-				"bn": 2,
-				"bs": 0,
-				"ca": 0,
-				"cs": 0,
-				"da": 0,
+				"ar": 1,
+				"bg": 1,
+				"bn": 3,
+				"bs": 1,
+				"ca": 1,
+				"cs": 1,
+				"da": 1,
 				"de": 41,
-				"el": 0,
+				"el": 1,
 				"en": 100,
 				"es": 76,
-				"fa": 0,
-				"fi": 0,
-				"fr": 31,
-				"hi": 31,
+				"fa": 1,
+				"fi": 1,
+				"fr": 32,
+				"hi": 32,
 				"id": 45,
 				"it": 34,
 				"ja": 1,
 				"ko": 90,
-				"lo": 0,
-				"ml": 0,
-				"ne": 0,
-				"nl": 51,
-				"no": 0,
-				"pl": 41,
+				"lo": 1,
+				"ml": 1,
+				"ne": 1,
+				"nl": 52,
+				"no": 1,
+				"pl": 42,
 				"pt_BR": 48,
 				"pt_PT": 33,
 				"ro": 1,
-				"ru": 39,
-				"sr": 0,
-				"sv": 0,
+				"ru": 40,
+				"sr": 1,
+				"sv": 1,
 				"ta": 32,
-				"th": 36,
+				"th": 37,
 				"tr": 31,
-				"uk": 0,
-				"uz": 0,
+				"uk": 1,
+				"uz": 1,
 				"zh": 55,
-				"zh_TW": 31
+				"zh_TW": 32
 			},
 			"pages": {
 				"aa": {
@@ -61224,8 +61355,44 @@
 				},
 				"hdid": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"hdiutil": {
