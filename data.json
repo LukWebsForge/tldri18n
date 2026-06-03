@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 02-Jun-26 02:00:09 CEST",
+	"last_update": "Wednesday, 03-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -20795,7 +20795,8 @@
 				},
 				"kioclient": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kismet": {
@@ -20850,30 +20851,35 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"kiterunner-brute": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"kiterunner-kb": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"kiterunner-scan": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"kiterunner-wordlist": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -21368,7 +21374,8 @@
 				},
 				"kubeseal": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kubetail": {
@@ -21380,7 +21387,8 @@
 				"kubie": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"kustomize": {
@@ -21507,9 +21515,9 @@
 				"ld": {
 					"status": {
 						"en": 2,
-						"id": 2,
-						"ko": 2,
-						"zh": 2
+						"id": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"ldapsearch": {
@@ -28869,6 +28877,7 @@
 				"pico": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -29776,6 +29785,7 @@
 				"pnmhisteq": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -31885,6 +31895,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"pyinstaller": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pylint": {
@@ -49960,6 +49975,7 @@
 						"ko": 2,
 						"ml": 1,
 						"nl": 2,
+						"ru": 2,
 						"tr": 1
 					}
 				},
@@ -50042,6 +50058,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -56438,7 +56455,7 @@
 				"vgcreate": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"vgdisplay": {
@@ -57848,7 +57865,7 @@
 				"da": 1,
 				"de": 41,
 				"el": 1,
-				"en": 100,
+				"en": 99,
 				"es": 76,
 				"fa": 1,
 				"fi": 1,
@@ -61525,7 +61542,6 @@
 				},
 				"lldb": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
