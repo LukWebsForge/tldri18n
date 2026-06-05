@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 04-Jun-26 02:00:09 CEST",
+	"last_update": "Friday, 05-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6611,6 +6611,7 @@
 				"codex": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -7757,6 +7758,7 @@
 				"csvformat": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -7764,6 +7766,7 @@
 				"csvgrep": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -7771,6 +7774,7 @@
 				"csvlook": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -12469,8 +12473,8 @@
 				"gcalcli": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"gcc": {
@@ -20743,7 +20747,8 @@
 				"kerl": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"keybase": {
@@ -21532,7 +21537,7 @@
 					"status": {
 						"en": 2,
 						"id": 1,
-						"ko": 1,
+						"ko": 2,
 						"zh": 1
 					}
 				},
@@ -21602,23 +21607,26 @@
 				"less-than": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"less-than-more-than": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"lesskey": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"let": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -21679,6 +21687,7 @@
 						"es": 2,
 						"id": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -21818,7 +21827,7 @@
 				"liquidctl": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"lispmtopgm": {
@@ -21830,7 +21839,8 @@
 				"lit": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"live-server": {
@@ -22039,7 +22049,8 @@
 				"llvm-mc": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"llvm-nm": {
@@ -22182,7 +22193,7 @@
 						"fr": 1,
 						"hi": 1,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"zh": 1,
 						"zh_TW": 1
@@ -22203,7 +22214,7 @@
 				"local": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"locust": {
@@ -30162,6 +30173,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ja": 2,
 						"ko": 2,
 						"pt_BR": 2,
@@ -30180,6 +30192,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
