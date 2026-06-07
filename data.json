@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 06-Jun-26 02:00:09 CEST",
+	"last_update": "Sunday, 07-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -63006,39 +63006,39 @@
 				"bg": 7,
 				"bn": 18,
 				"bs": 7,
-				"ca": 9,
+				"ca": 8,
 				"cs": 7,
 				"da": 7,
 				"de": 20,
 				"el": 7,
 				"en": 100,
-				"es": 87,
+				"es": 85,
 				"fa": 8,
 				"fi": 7,
-				"fr": 16,
-				"hi": 31,
+				"fr": 15,
+				"hi": 30,
 				"id": 24,
 				"it": 20,
-				"ja": 19,
-				"ko": 89,
+				"ja": 18,
+				"ko": 87,
 				"lo": 8,
 				"ml": 7,
 				"ne": 8,
-				"nl": 35,
+				"nl": 34,
 				"no": 7,
 				"pl": 17,
-				"pt_BR": 16,
+				"pt_BR": 15,
 				"pt_PT": 8,
 				"ro": 7,
 				"ru": 18,
 				"sr": 7,
-				"sv": 9,
+				"sv": 8,
 				"ta": 21,
 				"th": 10,
 				"tr": 8,
 				"uk": 7,
 				"uz": 7,
-				"zh": 43,
+				"zh": 42,
 				"zh_TW": 18
 			},
 			"pages": {
@@ -64256,6 +64256,21 @@
 						"ko": 2
 					}
 				},
+				"gethelpcmd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gethelpcmd-expertexperienceadmintask": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gethelpcmd-outlookcalendarchecktask": {
+					"status": {
+						"en": 2
+					}
+				},
 				"getmac": {
 					"status": {
 						"en": 2,
@@ -65427,6 +65442,21 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"saracmd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"saracmd-expertexperienceadmintask": {
+					"status": {
+						"en": 2
+					}
+				},
+				"saracmd-outlookcalendarchecktask": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sc": {
