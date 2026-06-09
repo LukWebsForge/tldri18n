@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 08-Jun-26 02:00:09 CEST",
+	"last_update": "Tuesday, 09-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1308,17 +1308,17 @@
 				"adb-shell": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"ru": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"adb-shell-pm": {
@@ -22240,13 +22240,14 @@
 				},
 				"loft": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"logger": {
 					"status": {
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -22265,7 +22266,8 @@
 				},
 				"logout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"logstash": {
@@ -22278,7 +22280,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"look": {
@@ -22413,7 +22415,8 @@
 				},
 				"lsix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"lsof": {
@@ -23192,6 +23195,11 @@
 					}
 				},
 				"mariadb": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mariadb-binlog": {
 					"status": {
 						"en": 2
 					}
@@ -47939,6 +47947,16 @@
 						"ko": 2
 					}
 				},
+				"iw-help": {
+					"status": {
+						"en": 2
+					}
+				},
+				"iw-reg": {
+					"status": {
+						"en": 2
+					}
+				},
 				"iwconfig": {
 					"status": {
 						"en": 2,
@@ -58008,8 +58026,8 @@
 				"es": 76,
 				"fa": 1,
 				"fi": 39,
-				"fr": 32,
-				"hi": 32,
+				"fr": 31,
+				"hi": 31,
 				"id": 45,
 				"it": 34,
 				"ja": 1,
@@ -58023,16 +58041,16 @@
 				"pt_BR": 48,
 				"pt_PT": 33,
 				"ro": 1,
-				"ru": 40,
+				"ru": 39,
 				"sr": 1,
 				"sv": 1,
 				"ta": 32,
-				"th": 37,
+				"th": 36,
 				"tr": 31,
 				"uk": 1,
 				"uz": 1,
 				"zh": 55,
-				"zh_TW": 32
+				"zh_TW": 31
 			},
 			"pages": {
 				"aa": {
@@ -62216,6 +62234,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"pwpolicy": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qlmanage": {
