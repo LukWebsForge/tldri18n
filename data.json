@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 09-Jun-26 02:00:09 CEST",
+	"last_update": "Wednesday, 10-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2295,6 +2295,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"id": 2,
 						"it": 2,
@@ -8443,7 +8444,8 @@
 						"en": 2,
 						"es": 2,
 						"hi": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"distcc": {
@@ -23406,6 +23408,11 @@
 					"status": {
 						"en": 2,
 						"ko": 1
+					}
+				},
+				"metaflac": {
+					"status": {
+						"en": 2
 					}
 				},
 				"meteor": {
@@ -42694,9 +42701,9 @@
 						"en": 2,
 						"es": 1,
 						"hi": 1,
-						"it": 2,
+						"it": 1,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"ta": 1,
@@ -46330,6 +46337,7 @@
 				"gnub2sum": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -47602,6 +47610,7 @@
 				"inotifywait": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
