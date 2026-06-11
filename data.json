@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 10-Jun-26 02:00:09 CEST",
+	"last_update": "Thursday, 11-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -22487,6 +22487,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -22535,7 +22536,8 @@
 				},
 				"ludusavi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"lumen": {
@@ -41576,7 +41578,7 @@
 				"en": 100,
 				"es": 31,
 				"fa": 4,
-				"fi": 8,
+				"fi": 7,
 				"fr": 7,
 				"hi": 5,
 				"id": 8,
@@ -43130,6 +43132,31 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"b4": {
+					"status": {
+						"en": 2
+					}
+				},
+				"b4-am": {
+					"status": {
+						"en": 2
+					}
+				},
+				"b4-prep": {
+					"status": {
+						"en": 2
+					}
+				},
+				"b4-send": {
+					"status": {
+						"en": 2
+					}
+				},
+				"b4-shazam": {
+					"status": {
+						"en": 2
 					}
 				},
 				"backlight_control": {
@@ -46356,6 +46383,7 @@
 				"gnubasename": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -47956,7 +47984,17 @@
 						"ko": 2
 					}
 				},
+				"iw-event": {
+					"status": {
+						"en": 2
+					}
+				},
 				"iw-help": {
+					"status": {
+						"en": 2
+					}
+				},
+				"iw-phy": {
 					"status": {
 						"en": 2
 					}
@@ -50071,6 +50109,11 @@
 					}
 				},
 				"nft-monitor": {
+					"status": {
+						"en": 2
+					}
+				},
+				"niri": {
 					"status": {
 						"en": 2
 					}
@@ -58044,7 +58087,7 @@
 				"lo": 1,
 				"ml": 1,
 				"ne": 1,
-				"nl": 52,
+				"nl": 51,
 				"no": 1,
 				"pl": 42,
 				"pt_BR": 48,
@@ -62235,6 +62278,11 @@
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
+					}
+				},
+				"powermetrics": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ps": {
