@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 11-Jun-26 02:00:09 CEST",
+	"last_update": "Friday, 12-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -44,43 +44,43 @@
 		"android": {
 			"progress": {
 				"ar": 6,
-				"bg": 33,
-				"bn": 93,
+				"bg": 31,
+				"bn": 87,
 				"bs": 0,
 				"ca": 0,
 				"cs": 0,
 				"da": 0,
-				"de": 93,
+				"de": 87,
 				"el": 0,
 				"en": 100,
-				"es": 93,
-				"fa": 93,
+				"es": 87,
+				"fa": 87,
 				"fi": 0,
-				"fr": 93,
-				"hi": 93,
-				"id": 93,
-				"it": 93,
-				"ja": 93,
-				"ko": 93,
+				"fr": 87,
+				"hi": 87,
+				"id": 87,
+				"it": 87,
+				"ja": 87,
+				"ko": 87,
 				"lo": 0,
 				"ml": 0,
-				"ne": 26,
-				"nl": 93,
+				"ne": 25,
+				"nl": 87,
 				"no": 0,
-				"pl": 93,
-				"pt_BR": 93,
-				"pt_PT": 86,
+				"pl": 87,
+				"pt_BR": 87,
+				"pt_PT": 81,
 				"ro": 0,
-				"ru": 93,
+				"ru": 87,
 				"sr": 0,
 				"sv": 0,
-				"ta": 93,
+				"ta": 87,
 				"th": 0,
-				"tr": 93,
-				"uk": 93,
-				"uz": 40,
-				"zh": 93,
-				"zh_TW": 93
+				"tr": 87,
+				"uk": 87,
+				"uz": 37,
+				"zh": 87,
+				"zh_TW": 87
 			},
 			"pages": {
 				"am": {
@@ -372,6 +372,11 @@
 						"uk": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"pm-install-existing": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pm-uninstall": {
