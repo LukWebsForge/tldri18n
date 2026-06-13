@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 12-Jun-26 02:00:09 CEST",
+	"last_update": "Saturday, 13-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -43,73 +43,73 @@
 	"entries": {
 		"android": {
 			"progress": {
-				"ar": 6,
-				"bg": 31,
-				"bn": 87,
+				"ar": 5,
+				"bg": 27,
+				"bn": 77,
 				"bs": 0,
 				"ca": 0,
 				"cs": 0,
 				"da": 0,
-				"de": 87,
+				"de": 77,
 				"el": 0,
 				"en": 100,
-				"es": 87,
-				"fa": 87,
+				"es": 77,
+				"fa": 77,
 				"fi": 0,
-				"fr": 87,
-				"hi": 87,
-				"id": 87,
-				"it": 87,
-				"ja": 87,
-				"ko": 87,
+				"fr": 77,
+				"hi": 77,
+				"id": 77,
+				"it": 77,
+				"ja": 77,
+				"ko": 77,
 				"lo": 0,
 				"ml": 0,
-				"ne": 25,
-				"nl": 87,
+				"ne": 22,
+				"nl": 77,
 				"no": 0,
-				"pl": 87,
-				"pt_BR": 87,
-				"pt_PT": 81,
+				"pl": 77,
+				"pt_BR": 77,
+				"pt_PT": 72,
 				"ro": 0,
-				"ru": 87,
+				"ru": 77,
 				"sr": 0,
 				"sv": 0,
-				"ta": 87,
+				"ta": 77,
 				"th": 0,
-				"tr": 87,
-				"uk": 87,
-				"uz": 37,
-				"zh": 87,
-				"zh_TW": 87
+				"tr": 77,
+				"uk": 77,
+				"uz": 33,
+				"zh": 77,
+				"zh_TW": 77
 			},
 			"pages": {
 				"am": {
 					"status": {
-						"ar": 2,
-						"bg": 2,
-						"bn": 2,
-						"de": 2,
+						"ar": 1,
+						"bg": 1,
+						"bn": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
-						"fr": 2,
-						"hi": 2,
-						"id": 2,
-						"it": 2,
-						"ja": 2,
-						"ko": 2,
-						"ne": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ru": 2,
-						"ta": 2,
-						"tr": 2,
-						"uk": 2,
-						"uz": 2,
-						"zh": 2,
-						"zh_TW": 2
+						"es": 1,
+						"fa": 1,
+						"fr": 1,
+						"hi": 1,
+						"id": 1,
+						"it": 1,
+						"ja": 1,
+						"ko": 1,
+						"ne": 1,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ru": 1,
+						"ta": 1,
+						"tr": 1,
+						"uk": 1,
+						"uz": 1,
+						"zh": 1,
+						"zh_TW": 1
 					}
 				},
 				"bugreport": {
@@ -351,30 +351,40 @@
 				},
 				"pm": {
 					"status": {
-						"bn": 2,
-						"de": 2,
+						"bn": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fa": 2,
+						"es": 1,
+						"fa": 1,
 						"fr": 2,
-						"hi": 2,
+						"hi": 1,
 						"id": 2,
 						"it": 2,
-						"ja": 2,
+						"ja": 1,
 						"ko": 2,
-						"nl": 2,
-						"pl": 2,
-						"pt_BR": 2,
-						"pt_PT": 2,
-						"ru": 2,
-						"ta": 2,
-						"tr": 2,
-						"uk": 2,
+						"nl": 1,
+						"pl": 1,
+						"pt_BR": 1,
+						"pt_PT": 1,
+						"ru": 1,
+						"ta": 1,
+						"tr": 1,
+						"uk": 1,
 						"zh": 2,
-						"zh_TW": 2
+						"zh_TW": 1
 					}
 				},
 				"pm-install-existing": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pm-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pm-list-packages": {
 					"status": {
 						"en": 2
 					}
@@ -661,14 +671,14 @@
 				"da": 4,
 				"de": 11,
 				"el": 4,
-				"en": 100,
+				"en": 99,
 				"es": 24,
 				"fa": 6,
 				"fi": 4,
 				"fr": 12,
 				"hi": 6,
 				"id": 14,
-				"it": 16,
+				"it": 17,
 				"ja": 6,
 				"ko": 88,
 				"lo": 4,
@@ -1324,36 +1334,6 @@
 						"pt_BR": 1,
 						"ru": 1,
 						"zh": 1
-					}
-				},
-				"adb-shell-pm": {
-					"status": {
-						"en": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"zh": 2
-					}
-				},
-				"adb-shell-pm-list": {
-					"status": {
-						"en": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"zh": 2
-					}
-				},
-				"adb-shell-pm-list-packages": {
-					"status": {
-						"en": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"zh": 2
 					}
 				},
 				"adb-start-server": {
@@ -4162,6 +4142,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -4180,6 +4161,7 @@
 				"brew-cleanup": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -4188,6 +4170,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -4196,6 +4179,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -4203,6 +4187,7 @@
 				"brew-leaves": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -4210,6 +4195,7 @@
 					"status": {
 						"en": 2,
 						"id": 1,
+						"it": 2,
 						"ko": 1,
 						"zh": 2
 					}
@@ -4218,12 +4204,14 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"brew-reinstall": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -4315,18 +4303,21 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"brew-services": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"brew-tap": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -4336,6 +4327,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2
@@ -4344,12 +4336,14 @@
 				"brew-update": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"brew-upgrade": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -4531,6 +4525,7 @@
 				"bun-feedback": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -4579,12 +4574,14 @@
 				"bun-info": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"bun-init": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -4593,6 +4590,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2
@@ -4601,6 +4599,7 @@
 				"bun-link": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -4649,12 +4648,14 @@
 				"bun-outdated": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"bun-patch": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -4667,18 +4668,21 @@
 				"bun-pm-bin": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"bun-pm-cache": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"bun-pm-hash": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -5439,6 +5443,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -5450,6 +5455,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5458,6 +5464,7 @@
 				"cargo-binstall": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5468,6 +5475,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -5478,6 +5486,7 @@
 				"cargo-check": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5486,6 +5495,7 @@
 				"cargo-clean": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5494,6 +5504,7 @@
 				"cargo-clippy": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 1,
@@ -5504,12 +5515,14 @@
 				"cargo-deb": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"cargo-doc": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -5520,6 +5533,7 @@
 				"cargo-fetch": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5528,6 +5542,7 @@
 				"cargo-fix": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5536,6 +5551,7 @@
 				"cargo-fmt": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5544,6 +5560,7 @@
 				"cargo-generate-lockfile": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5552,6 +5569,7 @@
 				"cargo-help": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5560,6 +5578,7 @@
 				"cargo-info": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5569,6 +5588,7 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5577,6 +5597,7 @@
 				"cargo-install": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5585,6 +5606,7 @@
 				"cargo-locate-project": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5593,6 +5615,7 @@
 				"cargo-login": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5601,6 +5624,7 @@
 				"cargo-logout": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5647,6 +5671,7 @@
 				"cargo-pkgid": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5655,6 +5680,7 @@
 				"cargo-publish": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5663,6 +5689,7 @@
 				"cargo-remove": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5671,6 +5698,7 @@
 				"cargo-report": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5679,6 +5707,7 @@
 				"cargo-run": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2,
@@ -5688,6 +5717,7 @@
 				"cargo-rustc": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -5698,6 +5728,7 @@
 				"cargo-rustdoc": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
@@ -5706,6 +5737,7 @@
 				"cargo-search": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -5713,6 +5745,7 @@
 				"cargo-test": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2,
@@ -5722,6 +5755,7 @@
 				"cargo-tree": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -5729,6 +5763,7 @@
 				"cargo-uninstall": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -5736,6 +5771,7 @@
 				"cargo-update": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -5743,6 +5779,7 @@
 				"cargo-vendor": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -5750,6 +5787,7 @@
 				"cargo-verify-project": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -5757,6 +5795,7 @@
 				"cargo-version": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -5764,6 +5803,7 @@
 				"cargo-yank": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -29684,6 +29724,24 @@
 						"ko": 2
 					}
 				},
+				"pm-list": {
+					"status": {
+						"fr": 2,
+						"id": 2,
+						"it": 2,
+						"ko": 2,
+						"zh": 2
+					}
+				},
+				"pm-list-packages": {
+					"status": {
+						"fr": 2,
+						"id": 2,
+						"it": 2,
+						"ko": 2,
+						"zh": 2
+					}
+				},
 				"pm2": {
 					"status": {
 						"en": 2,
@@ -41215,44 +41273,44 @@
 		},
 		"freebsd": {
 			"progress": {
-				"ar": 33,
-				"bg": 33,
-				"bn": 40,
-				"bs": 33,
-				"ca": 33,
-				"cs": 33,
-				"da": 33,
-				"de": 33,
-				"el": 33,
+				"ar": 31,
+				"bg": 31,
+				"bn": 37,
+				"bs": 31,
+				"ca": 31,
+				"cs": 31,
+				"da": 31,
+				"de": 31,
+				"el": 31,
 				"en": 100,
-				"es": 53,
-				"fa": 33,
-				"fi": 33,
-				"fr": 33,
-				"hi": 86,
-				"id": 53,
-				"it": 33,
-				"ja": 33,
-				"ko": 100,
-				"lo": 33,
-				"ml": 33,
-				"ne": 33,
-				"nl": 100,
-				"no": 33,
-				"pl": 86,
-				"pt_BR": 86,
-				"pt_PT": 33,
-				"ro": 33,
-				"ru": 40,
-				"sr": 33,
-				"sv": 33,
-				"ta": 33,
-				"th": 33,
-				"tr": 33,
-				"uk": 33,
-				"uz": 33,
-				"zh": 33,
-				"zh_TW": 33
+				"es": 50,
+				"fa": 31,
+				"fi": 31,
+				"fr": 31,
+				"hi": 81,
+				"id": 50,
+				"it": 31,
+				"ja": 31,
+				"ko": 93,
+				"lo": 31,
+				"ml": 31,
+				"ne": 31,
+				"nl": 93,
+				"no": 31,
+				"pl": 81,
+				"pt_BR": 81,
+				"pt_PT": 31,
+				"ro": 31,
+				"ru": 37,
+				"sr": 31,
+				"sv": 31,
+				"ta": 31,
+				"th": 31,
+				"tr": 31,
+				"uk": 31,
+				"uz": 31,
+				"zh": 31,
+				"zh_TW": 31
 			},
 			"pages": {
 				"base64": {
@@ -41399,6 +41457,11 @@
 						"nl": 2,
 						"pl": 2,
 						"pt_BR": 2
+					}
+				},
+				"pfctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pkg": {
@@ -41583,7 +41646,7 @@
 				"en": 100,
 				"es": 31,
 				"fa": 4,
-				"fi": 7,
+				"fi": 8,
 				"fr": 7,
 				"hi": 5,
 				"id": 8,
@@ -46574,67 +46637,80 @@
 				},
 				"gnuinstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnujoin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnulink": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnuln": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnulogname": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnuls": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnumd5sum": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnumkdir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnumkfifo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnumknod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnumktemp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnumv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnunice": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnunl": {
@@ -46819,12 +46895,14 @@
 				},
 				"gnustdbuf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnustty": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnusum": {
@@ -46937,27 +47015,32 @@
 				},
 				"gnuvdir": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnuwc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnuwho": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnuwhoami": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"gnuyes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fi": 2
 					}
 				},
 				"goaccess": {
