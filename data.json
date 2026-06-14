@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 13-Jun-26 02:00:09 CEST",
+	"last_update": "Sunday, 14-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -27525,7 +27525,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"pageres": {
@@ -29039,13 +29040,13 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"ja": 2,
-						"ko": 2,
-						"nl": 2,
-						"ru": 2,
-						"zh": 2,
+						"es": 1,
+						"id": 1,
+						"ja": 1,
+						"ko": 1,
+						"nl": 1,
+						"ru": 1,
+						"zh": 1,
 						"zh_TW": 1
 					}
 				},
@@ -54755,10 +54756,10 @@
 				},
 				"sysctl": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"ko": 2
+						"fr": 1,
+						"ko": 1
 					}
 				},
 				"sysdig": {
@@ -55772,6 +55773,11 @@
 						"ko": 2
 					}
 				},
+				"tegrastats": {
+					"status": {
+						"en": 2
+					}
+				},
 				"telinit": {
 					"status": {
 						"en": 2,
@@ -56467,6 +56473,11 @@
 					}
 				},
 				"update-ca-certificates": {
+					"status": {
+						"en": 2
+					}
+				},
+				"update-desktop-database": {
 					"status": {
 						"en": 2
 					}
