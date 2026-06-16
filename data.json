@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 15-Jun-26 02:00:10 CEST",
+	"last_update": "Tuesday, 16-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -56,12 +56,12 @@
 				"es": 73,
 				"fa": 73,
 				"fi": 0,
-				"fr": 73,
+				"fr": 84,
 				"hi": 73,
-				"id": 73,
-				"it": 73,
+				"id": 84,
+				"it": 84,
 				"ja": 73,
-				"ko": 73,
+				"ko": 84,
 				"lo": 0,
 				"ml": 0,
 				"ne": 21,
@@ -79,7 +79,7 @@
 				"tr": 73,
 				"uk": 73,
 				"uz": 31,
-				"zh": 73,
+				"zh": 84,
 				"zh_TW": 73
 			},
 			"pages": {
@@ -381,12 +381,22 @@
 				},
 				"pm-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"pm-list-packages": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2,
+						"id": 2,
+						"it": 2,
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"pm-uninstall": {
@@ -676,7 +686,7 @@
 				"da": 4,
 				"de": 11,
 				"el": 4,
-				"en": 99,
+				"en": 100,
 				"es": 24,
 				"fa": 6,
 				"fi": 4,
@@ -11901,6 +11911,12 @@
 						"ko": 2
 					}
 				},
+				"fj": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
 				"fkill": {
 					"status": {
 						"en": 2,
@@ -16189,6 +16205,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gosec": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gotelemetry": {
@@ -22431,11 +22452,11 @@
 				},
 				"lpstat": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1
 					}
 				},
 				"ls": {
@@ -23023,7 +23044,7 @@
 				"lzop": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"m4": {
@@ -23035,7 +23056,8 @@
 				"m4b-tool": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"ko": 2
 					}
 				},
 				"macchina": {
@@ -23067,7 +23089,7 @@
 						"en": 2,
 						"es": 1,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"zh": 1
 					}
@@ -23119,7 +23141,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -23135,19 +23157,21 @@
 				},
 				"maigret": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mail": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"mailsy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mailx": {
@@ -29746,24 +29770,6 @@
 						"ko": 2
 					}
 				},
-				"pm-list": {
-					"status": {
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"zh": 2
-					}
-				},
-				"pm-list-packages": {
-					"status": {
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"zh": 2
-					}
-				},
 				"pm2": {
 					"status": {
 						"en": 2,
@@ -32185,18 +32191,21 @@
 				"qemu-system-i386": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"qemu-system-riscv64": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"qemu-system-x86_64": {
 					"status": {
 						"en": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -42414,6 +42423,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42421,18 +42431,21 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-capability": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-config": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42440,6 +42453,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42479,48 +42493,56 @@
 				"apptainer-registry": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-run": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-run-help": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-search": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-shell": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-sign": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-test": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-verify": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -46101,6 +46123,7 @@
 					"status": {
 						"ar": 1,
 						"en": 2,
+						"it": 2,
 						"ko": 1
 					}
 				},
@@ -49120,7 +49143,8 @@
 				},
 				"lshw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"lsinitrd": {
@@ -63216,24 +63240,24 @@
 		"windows": {
 			"progress": {
 				"ar": 7,
-				"bg": 7,
+				"bg": 6,
 				"bn": 18,
 				"bs": 7,
 				"ca": 8,
 				"cs": 7,
 				"da": 7,
-				"de": 20,
-				"el": 7,
+				"de": 19,
+				"el": 6,
 				"en": 100,
-				"es": 85,
+				"es": 84,
 				"fa": 8,
-				"fi": 7,
+				"fi": 6,
 				"fr": 15,
 				"hi": 30,
-				"id": 24,
-				"it": 20,
+				"id": 23,
+				"it": 19,
 				"ja": 18,
-				"ko": 87,
+				"ko": 85,
 				"lo": 8,
 				"ml": 7,
 				"ne": 8,
@@ -63242,16 +63266,16 @@
 				"pl": 17,
 				"pt_BR": 15,
 				"pt_PT": 8,
-				"ro": 7,
-				"ru": 18,
-				"sr": 7,
+				"ro": 6,
+				"ru": 17,
+				"sr": 6,
 				"sv": 8,
 				"ta": 21,
 				"th": 10,
 				"tr": 8,
 				"uk": 7,
-				"uz": 7,
-				"zh": 42,
+				"uz": 6,
+				"zh": 41,
 				"zh_TW": 18
 			},
 			"pages": {
@@ -65081,11 +65105,31 @@
 						"ko": 2
 					}
 				},
+				"ogv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"oh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ospp.vbs": {
 					"status": {
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"out-gridview": {
+					"status": {
+						"en": 2
+					}
+				},
+				"out-host": {
+					"status": {
+						"en": 2
 					}
 				},
 				"out-string": {
