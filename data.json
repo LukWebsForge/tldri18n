@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 17-Jun-26 02:00:11 CEST",
+	"last_update": "Thursday, 18-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -23318,14 +23318,15 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1,
+						"ko": 2,
 						"pl": 2,
 						"ru": 2
 					}
 				},
 				"massdns": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mat2": {
@@ -23359,13 +23360,15 @@
 					"status": {
 						"el": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"mc.cli": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -23379,7 +23382,8 @@
 				},
 				"mcat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mcfly": {
