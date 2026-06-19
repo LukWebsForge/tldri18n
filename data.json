@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 18-Jun-26 02:00:09 CEST",
+	"last_update": "Friday, 19-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6153,6 +6153,7 @@
 				},
 				"chmod": {
 					"status": {
+						"ar": 2,
 						"de": 2,
 						"en": 2,
 						"es": 2,
@@ -46502,12 +46503,14 @@
 				"gnubase32": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
 				"gnubase64": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -46521,12 +46524,14 @@
 				"gnubasenc": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
 				"gnucat": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -48201,6 +48206,7 @@
 				},
 				"journalctl": {
 					"status": {
+						"ar": 2,
 						"en": 2,
 						"es": 2,
 						"ko": 2,
@@ -53731,6 +53737,7 @@
 				"run-mailcap": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -57360,6 +57367,11 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2
+					}
+				},
+				"xbanish": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xbps": {
