@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 19-Jun-26 02:00:09 CEST",
+	"last_update": "Saturday, 20-Jun-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11238,6 +11238,8 @@
 				"exiftool": {
 					"status": {
 						"en": 2,
+						"es": 2,
+						"fr": 2,
 						"it": 1,
 						"ko": 2
 					}
@@ -26116,7 +26118,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"npm-owner": {
@@ -26140,7 +26143,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"npm-pkg": {
@@ -26154,7 +26158,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"npm-profile": {
@@ -26289,7 +26294,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"npm-run": {
@@ -26564,7 +26570,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"npm-why": {
@@ -30678,6 +30685,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"posh": {
+					"status": {
+						"en": 2
 					}
 				},
 				"postcss": {
@@ -35685,6 +35697,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"syft": {
+					"status": {
+						"en": 2
 					}
 				},
 				"symfony": {
@@ -46538,6 +46555,7 @@
 				"gnuchcon": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -46556,12 +46574,14 @@
 				"gnuchown": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
 				"gnucksum": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -63268,7 +63288,7 @@
 			"progress": {
 				"ar": 7,
 				"bg": 6,
-				"bn": 18,
+				"bn": 17,
 				"bs": 7,
 				"ca": 8,
 				"cs": 7,
@@ -63276,34 +63296,34 @@
 				"de": 19,
 				"el": 6,
 				"en": 100,
-				"es": 83,
+				"es": 81,
 				"fa": 8,
 				"fi": 6,
 				"fr": 15,
-				"hi": 30,
+				"hi": 29,
 				"id": 23,
 				"it": 19,
 				"ja": 18,
-				"ko": 85,
+				"ko": 83,
 				"lo": 7,
 				"ml": 7,
 				"ne": 7,
-				"nl": 34,
+				"nl": 33,
 				"no": 7,
-				"pl": 17,
+				"pl": 16,
 				"pt_BR": 15,
 				"pt_PT": 7,
 				"ro": 6,
 				"ru": 17,
 				"sr": 6,
 				"sv": 8,
-				"ta": 21,
-				"th": 10,
+				"ta": 20,
+				"th": 9,
 				"tr": 7,
 				"uk": 7,
 				"uz": 6,
-				"zh": 41,
-				"zh_TW": 18
+				"zh": 40,
+				"zh_TW": 17
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -63989,6 +64009,11 @@
 						"zh": 2
 					}
 				},
+				"compact": {
+					"status": {
+						"en": 2
+					}
+				},
 				"compress-archive": {
 					"status": {
 						"en": 2
@@ -64179,6 +64204,11 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"dvdmaker": {
+					"status": {
+						"en": 2
 					}
 				},
 				"enable-pnpdevice": {
@@ -65015,6 +65045,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"moviemk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"msedge": {
@@ -66406,6 +66441,21 @@
 						"es": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"wmpconfig": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wmplayer": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wmpnscfg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wscript": {
