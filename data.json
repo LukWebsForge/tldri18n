@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 20-Jun-26 02:00:10 CEST",
+	"last_update": "Sunday, 21-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3880,14 +3880,16 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"birdc": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"bison": {
@@ -23292,29 +23294,34 @@
 				},
 				"mariadb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mariadb-binlog": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mariadb-install-db": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"marimo": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"markdown2pdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"masscan": {
@@ -31322,14 +31329,14 @@
 				},
 				"ps": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"ja": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"es": 1,
+						"id": 1,
+						"ja": 1,
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"ps-nvm": {
@@ -57168,6 +57175,16 @@
 						"es": 1,
 						"ko": 1,
 						"ta": 1
+					}
+				},
+				"wine-reg-export": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wine-reg-import": {
+					"status": {
+						"en": 2
 					}
 				},
 				"winetricks": {
