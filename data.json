@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 22-Jun-26 02:00:09 CEST",
+	"last_update": "Tuesday, 23-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -62,7 +62,7 @@
 				"id": 84,
 				"it": 84,
 				"ja": 73,
-				"ko": 84,
+				"ko": 94,
 				"lo": 0,
 				"ml": 0,
 				"nb": 0,
@@ -379,7 +379,8 @@
 				},
 				"pm-install-existing": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pm-list": {
@@ -388,7 +389,7 @@
 						"fr": 1,
 						"id": 1,
 						"it": 1,
-						"ko": 1,
+						"ko": 2,
 						"zh": 1
 					}
 				},
@@ -404,7 +405,8 @@
 				},
 				"pm-uninstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"screencap": {
@@ -12078,6 +12080,16 @@
 						"nl": 2
 					}
 				},
+				"foot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"footclient": {
+					"status": {
+						"en": 2
+					}
+				},
 				"for": {
 					"status": {
 						"en": 2,
@@ -17001,7 +17013,8 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
-						"sv": 2
+						"sv": 2,
+						"zh": 2
 					}
 				},
 				"helix": {
@@ -25702,6 +25715,7 @@
 						"nl": 2,
 						"ru": 2,
 						"sv": 1,
+						"zh": 2,
 						"zh_TW": 2
 					}
 				},
@@ -31164,6 +31178,7 @@
 				"pr": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -33088,7 +33103,8 @@
 				"restic": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"resticprofile": {
@@ -38314,7 +38330,8 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"vercel": {
@@ -41774,7 +41791,7 @@
 				"id": 8,
 				"it": 9,
 				"ja": 4,
-				"ko": 72,
+				"ko": 71,
 				"lo": 3,
 				"ml": 4,
 				"nb": 0,
@@ -46199,11 +46216,6 @@
 						"en": 2
 					}
 				},
-				"foot": {
-					"status": {
-						"en": 2
-					}
-				},
 				"foreman": {
 					"status": {
 						"en": 2,
@@ -47243,6 +47255,11 @@
 					}
 				},
 				"gpu-screen-recorder": {
+					"status": {
+						"en": 2
+					}
+				},
+				"grabc": {
 					"status": {
 						"en": 2
 					}
@@ -57237,12 +57254,37 @@
 						"ta": 1
 					}
 				},
+				"wine-reg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wine-reg-add": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wine-reg-copy": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wine-reg-delete": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wine-reg-export": {
 					"status": {
 						"en": 2
 					}
 				},
 				"wine-reg-import": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wine-reg-query": {
 					"status": {
 						"en": 2
 					}
