@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 23-Jun-26 02:00:09 CEST",
+	"last_update": "Wednesday, 24-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -17324,6 +17324,7 @@
 				"hledger-web": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -17800,6 +17801,7 @@
 				"hydra": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -19426,6 +19428,7 @@
 				"install": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"ko": 2,
 						"nl": 2,
@@ -24361,7 +24364,8 @@
 				"mpremote": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"mpv": {
@@ -24379,6 +24383,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -24496,17 +24501,20 @@
 				},
 				"msfvenom": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"msgattrib": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"msgcat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"msgfmt": {
@@ -24517,12 +24525,14 @@
 				},
 				"msginit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"msgmerge": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"msgunfmt": {
@@ -24540,12 +24550,14 @@
 				"mssqlclient.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"mtm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mtr": {
@@ -41789,7 +41801,7 @@
 				"fr": 7,
 				"hi": 5,
 				"id": 8,
-				"it": 9,
+				"it": 10,
 				"ja": 4,
 				"ko": 71,
 				"lo": 3,
@@ -44541,18 +44553,21 @@
 				"cpufreq-aperf": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"cpufreq-info": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"cpufreq-set": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -47267,8 +47282,8 @@
 				"grim": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"groupadd": {
@@ -48970,6 +48985,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"llama-cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lldpctl": {
