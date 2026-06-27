@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 26-Jun-26 02:00:10 CEST",
+	"last_update": "Saturday, 27-Jun-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -62,7 +62,7 @@
 				"id": 84,
 				"it": 94,
 				"ja": 73,
-				"ko": 94,
+				"ko": 100,
 				"lo": 0,
 				"ml": 0,
 				"nb": 0,
@@ -99,7 +99,7 @@
 						"id": 1,
 						"it": 2,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"ne": 1,
 						"nl": 1,
 						"pl": 1,
@@ -339,7 +339,7 @@
 						"id": 2,
 						"it": 2,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
@@ -423,7 +423,7 @@
 						"id": 1,
 						"it": 2,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -437,7 +437,8 @@
 				},
 				"screenrecord": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"settings": {
@@ -722,7 +723,7 @@
 				"tr": 8,
 				"uk": 5,
 				"uz": 4,
-				"zh": 20,
+				"zh": 21,
 				"zh_TW": 6
 			},
 			"pages": {
@@ -3612,6 +3613,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -3624,6 +3626,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2
@@ -3725,6 +3728,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 1,
+						"id": 2,
 						"it": 2,
 						"ja": 1,
 						"ko": 2,
@@ -13308,7 +13312,8 @@
 				"gh-auth": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"gh-browse": {
@@ -13432,13 +13437,15 @@
 				"gh-issue": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"gh-issue-create": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"gh-label": {
@@ -13591,7 +13598,8 @@
 				"gh-run": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"gh-screensaver": {
@@ -13647,7 +13655,8 @@
 				"gh-workflow": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"ghc": {
@@ -21036,6 +21045,7 @@
 				"kiterunner-scan": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -25284,27 +25294,32 @@
 				},
 				"nh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nh-clean": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nh-home": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nh-os": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nh-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nhentai": {
@@ -63463,15 +63478,15 @@
 				"de": 18,
 				"el": 6,
 				"en": 100,
-				"es": 80,
-				"fa": 8,
+				"es": 79,
+				"fa": 7,
 				"fi": 6,
 				"fr": 14,
 				"hi": 28,
 				"id": 22,
 				"it": 18,
 				"ja": 17,
-				"ko": 81,
+				"ko": 80,
 				"lo": 7,
 				"ml": 7,
 				"nb": 0,
@@ -63482,10 +63497,10 @@
 				"pt_BR": 14,
 				"pt_PT": 7,
 				"ro": 6,
-				"ru": 17,
+				"ru": 16,
 				"sr": 6,
 				"sv": 8,
-				"ta": 20,
+				"ta": 19,
 				"th": 9,
 				"tr": 7,
 				"uk": 6,
@@ -66176,6 +66191,11 @@
 						"zh": 2
 					}
 				},
+				"silverlight-installer": {
+					"status": {
+						"en": 2
+					}
+				},
 				"sl": {
 					"status": {
 						"en": 2,
@@ -66282,6 +66302,16 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"start": {
+					"status": {
+						"en": 2
+					}
+				},
+				"start-process": {
+					"status": {
+						"en": 2
 					}
 				},
 				"start-service": {
@@ -66573,15 +66603,15 @@
 				},
 				"where": {
 					"status": {
-						"bn": 2,
+						"bn": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fa": 1,
-						"id": 2,
-						"ja": 2,
-						"ko": 2,
-						"ru": 2,
-						"zh": 2
+						"id": 1,
+						"ja": 1,
+						"ko": 1,
+						"ru": 1,
+						"zh": 1
 					}
 				},
 				"where-object": {
@@ -66626,6 +66656,11 @@
 						"ta": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"winword": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wmic": {
