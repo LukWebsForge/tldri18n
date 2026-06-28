@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 27-Jun-26 02:00:10 CEST",
+	"last_update": "Sunday, 28-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -44,7 +44,7 @@
 	"entries": {
 		"android": {
 			"progress": {
-				"ar": 10,
+				"ar": 15,
 				"bg": 26,
 				"bn": 73,
 				"bs": 0,
@@ -443,6 +443,7 @@
 				},
 				"settings": {
 					"status": {
+						"ar": 2,
 						"bn": 2,
 						"de": 2,
 						"en": 2,
@@ -723,7 +724,7 @@
 				"tr": 8,
 				"uk": 5,
 				"uz": 4,
-				"zh": 21,
+				"zh": 20,
 				"zh_TW": 6
 			},
 			"pages": {
@@ -2462,6 +2463,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"attr": {
+					"status": {
+						"en": 2
 					}
 				},
 				"atuin": {
@@ -22426,6 +22432,11 @@
 						"ko": 2
 					}
 				},
+				"longbridge": {
+					"status": {
+						"en": 2
+					}
+				},
 				"look": {
 					"status": {
 						"en": 2,
@@ -23807,6 +23818,11 @@
 						"de": 2,
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"mirrord": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mise": {
@@ -37083,6 +37099,11 @@
 						"ko": 2
 					}
 				},
+				"try-rs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ts": {
 					"status": {
 						"en": 2,
@@ -38808,6 +38829,31 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"wacli": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-auth": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-send-file": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-send-text": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-sync": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wafw00f": {
@@ -46684,6 +46730,7 @@
 				"gnuchmod": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -46711,24 +46758,28 @@
 				"gnucp": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
 				"gnucsplit": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
 				"gnucut": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
 				"gnudate": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -58437,39 +58488,39 @@
 			"progress": {
 				"ar": 1,
 				"bg": 1,
-				"bn": 3,
+				"bn": 2,
 				"bs": 1,
 				"ca": 1,
 				"cs": 1,
 				"da": 1,
-				"de": 41,
+				"de": 40,
 				"el": 1,
 				"en": 99,
-				"es": 76,
+				"es": 75,
 				"fa": 1,
-				"fi": 39,
+				"fi": 38,
 				"fr": 31,
 				"hi": 31,
-				"id": 47,
+				"id": 46,
 				"it": 34,
 				"ja": 1,
-				"ko": 90,
+				"ko": 88,
 				"lo": 1,
 				"ml": 1,
 				"nb": 0,
 				"ne": 1,
 				"nl": 51,
 				"no": 1,
-				"pl": 42,
-				"pt_BR": 48,
+				"pl": 41,
+				"pt_BR": 47,
 				"pt_PT": 33,
 				"ro": 1,
 				"ru": 39,
 				"sr": 1,
 				"sv": 1,
-				"ta": 32,
+				"ta": 31,
 				"th": 36,
-				"tr": 31,
+				"tr": 30,
 				"uk": 1,
 				"uz": 1,
 				"zh": 55,
@@ -58516,6 +58567,16 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"accessorysensormgrd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"adprivacyd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"afinfo": {
@@ -58575,6 +58636,16 @@
 						"zh": 2
 					}
 				},
+				"alwaysonexclavesd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"amfid": {
+					"status": {
+						"en": 2
+					}
+				},
 				"apachectl": {
 					"status": {
 						"en": 2,
@@ -58584,6 +58655,11 @@
 						"pt_BR": 2,
 						"th": 2,
 						"zh": 2
+					}
+				},
+				"apfsd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"applecamerad": {
