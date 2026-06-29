@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 28-Jun-26 02:00:09 CEST",
+	"last_update": "Monday, 29-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -705,7 +705,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 89,
+				"ko": 90,
 				"lo": 4,
 				"ml": 4,
 				"nb": 0,
@@ -4384,8 +4384,8 @@
 				"brew-upgrade": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2
+						"it": 1,
+						"ko": 1
 					}
 				},
 				"brittany": {
@@ -7798,6 +7798,7 @@
 				},
 				"cs-java": {
 					"status": {
+						"de": 2,
 						"en": 2,
 						"ko": 2
 					}
@@ -25210,72 +25211,86 @@
 				},
 				"ng-cache": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-completion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-deploy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-e2e": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-extract-i18n": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-generate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-lint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-new": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-serve": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-test": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ng-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nginx": {
@@ -25341,12 +25356,14 @@
 				"nhentai": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ni": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nice": {
@@ -25354,14 +25371,15 @@
 						"en": 2,
 						"es": 1,
 						"id": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"nicotine": {
 					"status": {
 						"en": 2,
-						"id": 2
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"nikto": {
@@ -25430,6 +25448,7 @@
 				"nix-channel": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -25446,7 +25465,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 1,
-						"ko": 1,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -25479,6 +25498,7 @@
 				"nix-eval": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -25493,24 +25513,28 @@
 				"nix-flake-info": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"nix-flake-init": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"nix-flake-show": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"nix-instantiate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nix-profile": {
@@ -25755,7 +25779,8 @@
 				"noglob": {
 					"status": {
 						"de": 2,
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nohup": {
@@ -26834,7 +26859,8 @@
 				},
 				"ntp-ctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ntpctl": {
@@ -26883,7 +26909,8 @@
 				},
 				"nvidia-smi-mig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"nvim": {
@@ -27014,7 +27041,8 @@
 				"o": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"oathtool": {
@@ -27026,7 +27054,8 @@
 				},
 				"oauth2c": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"objdump": {
@@ -29517,6 +29546,7 @@
 						"es": 2,
 						"fr": 2,
 						"id": 1,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
@@ -29526,36 +29556,42 @@
 				"pip-cache": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-check": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-config": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-debug": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-download": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-freeze": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -29563,18 +29599,21 @@
 				"pip-hash": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-index": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-inspect": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -29582,6 +29621,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
@@ -29591,30 +29631,35 @@
 				"pip-list": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-lock": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-search": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-show": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pip-uninstall": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -29623,6 +29668,7 @@
 				"pip-wheel": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -29734,6 +29780,7 @@
 				"pipx": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 1,
 						"zh": 1
 					}
@@ -41872,7 +41919,7 @@
 				"fr": 7,
 				"hi": 5,
 				"id": 8,
-				"it": 10,
+				"it": 12,
 				"ja": 4,
 				"ko": 71,
 				"lo": 3,
@@ -42651,6 +42698,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42658,6 +42706,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42665,18 +42714,21 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-pull": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"apptainer-push": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -44476,24 +44528,28 @@
 				"cockpit-bridge": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"cockpit-desktop": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"cockpit-tls": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"cockpit-ws": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -45267,6 +45323,7 @@
 						"es": 2,
 						"fa": 2,
 						"id": 2,
+						"it": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
@@ -45281,6 +45338,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -45288,6 +45346,7 @@
 				"dnf-changelog": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -45295,6 +45354,7 @@
 				"dnf-clean": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -45303,6 +45363,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"tr": 2
@@ -45354,6 +45415,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2,
@@ -45364,6 +45426,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2,
@@ -45373,6 +45436,7 @@
 				"dnf-install": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 1,
 						"ru": 2,
@@ -45382,6 +45446,7 @@
 				"dnf-module": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"ru": 2,
 						"tr": 2
@@ -45392,6 +45457,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2,
@@ -45401,23 +45467,27 @@
 				"dnf-reposync": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"dnf-system-upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"dnf-versionlock": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"dnf4": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -45563,6 +45633,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"pt_BR": 2
 					}
 				},
@@ -45587,6 +45658,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
+						"it": 2,
 						"ko": 1,
 						"uk": 1
 					}
@@ -45869,6 +45941,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -45876,12 +45949,14 @@
 				"eselect-kernel": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"eselect-locale": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -45889,12 +45964,14 @@
 				"eselect-news": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"eselect-profile": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -45902,6 +45979,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -46244,29 +46322,34 @@
 				"flatpak-builder": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"flatpak-mask": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"flatpak-remote-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"flatpak-run": {
 					"status": {
 						"en": 2,
 						"es": 1,
+						"it": 2,
 						"ko": 1
 					}
 				},
 				"flatpak-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"flex": {
@@ -46324,24 +46407,28 @@
 				"fprintd-delete": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"fprintd-enroll": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"fprintd-list": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"fprintd-verify": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -64063,7 +64150,8 @@
 						"es": 2,
 						"id": 2,
 						"nl": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"clear-host": {
