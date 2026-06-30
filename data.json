@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 29-Jun-26 02:00:09 CEST",
+	"last_update": "Tuesday, 30-Jun-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -705,12 +705,12 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 90,
+				"ko": 89,
 				"lo": 4,
 				"ml": 4,
 				"nb": 0,
 				"ne": 4,
-				"nl": 20,
+				"nl": 19,
 				"no": 5,
 				"pl": 7,
 				"pt_BR": 13,
@@ -1937,9 +1937,9 @@
 				"apkeep": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"ko": 2
+						"es": 1,
+						"id": 1,
+						"ko": 1
 					}
 				},
 				"apkleaks": {
@@ -3644,6 +3644,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 1,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -8121,6 +8122,7 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"pt_BR": 2
@@ -11929,6 +11931,7 @@
 						"de": 1,
 						"en": 2,
 						"fr": 1,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -21228,6 +21231,7 @@
 					"status": {
 						"en": 2,
 						"fr": 1,
+						"id": 2,
 						"ko": 2
 					}
 				},
@@ -24726,7 +24730,7 @@
 				"mvn-dependency": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"mvn-deploy": {
@@ -27071,6 +27075,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"obsidian": {
+					"status": {
+						"en": 2
 					}
 				},
 				"oc": {
@@ -30830,6 +30839,11 @@
 						"ko": 2
 					}
 				},
+				"pomo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pop": {
 					"status": {
 						"en": 2,
@@ -34526,6 +34540,7 @@
 						"bs": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -34692,6 +34707,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"simple-mtpfs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"simplehttpserver": {
@@ -41143,6 +41163,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -41913,7 +41934,7 @@
 				"de": 8,
 				"el": 3,
 				"en": 100,
-				"es": 31,
+				"es": 32,
 				"fa": 4,
 				"fi": 8,
 				"fr": 7,
@@ -46891,24 +46912,28 @@
 				"gnudircolors": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
 				"gnudirname": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
 				"gnudu": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
 				"gnuecho": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -53988,6 +54013,7 @@
 				"rsh": {
 					"status": {
 						"en": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -63633,7 +63659,7 @@
 			"progress": {
 				"ar": 7,
 				"bg": 6,
-				"bn": 17,
+				"bn": 16,
 				"bs": 7,
 				"ca": 8,
 				"cs": 6,
@@ -63641,22 +63667,22 @@
 				"de": 18,
 				"el": 6,
 				"en": 100,
-				"es": 79,
+				"es": 78,
 				"fa": 7,
 				"fi": 6,
 				"fr": 14,
 				"hi": 28,
-				"id": 22,
+				"id": 21,
 				"it": 18,
 				"ja": 17,
-				"ko": 80,
+				"ko": 79,
 				"lo": 7,
 				"ml": 7,
 				"nb": 0,
 				"ne": 7,
-				"nl": 32,
+				"nl": 31,
 				"no": 7,
-				"pl": 16,
+				"pl": 15,
 				"pt_BR": 14,
 				"pt_PT": 7,
 				"ro": 6,
@@ -63668,8 +63694,8 @@
 				"tr": 7,
 				"uk": 6,
 				"uz": 6,
-				"zh": 39,
-				"zh_TW": 17
+				"zh": 38,
+				"zh_TW": 16
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -65078,6 +65104,26 @@
 						"zh_TW": 2
 					}
 				},
+				"iesetup": {
+					"status": {
+						"en": 2
+					}
+				},
+				"iewzd": {
+					"status": {
+						"en": 2
+					}
+				},
+				"iexplore": {
+					"status": {
+						"en": 2
+					}
+				},
+				"iexpress": {
+					"status": {
+						"en": 2
+					}
+				},
 				"if": {
 					"status": {
 						"en": 2,
@@ -65133,6 +65179,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"internet-explorer": {
+					"status": {
+						"en": 2
 					}
 				},
 				"invoke-item": {
