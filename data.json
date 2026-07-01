@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 30-Jun-26 02:00:09 CEST",
+	"last_update": "Wednesday, 01-Jul-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -705,7 +705,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 89,
+				"ko": 90,
 				"lo": 4,
 				"ml": 4,
 				"nb": 0,
@@ -13809,6 +13809,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 1,
+						"hi": 2,
 						"id": 2,
 						"it": 1,
 						"ko": 2,
@@ -15008,20 +15009,20 @@
 				},
 				"git-pull": {
 					"status": {
-						"ar": 2,
-						"de": 2,
+						"ar": 1,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"fr": 2,
-						"id": 2,
-						"it": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ru": 2,
-						"tr": 2,
-						"uk": 2,
-						"zh": 2
+						"es": 1,
+						"fr": 1,
+						"id": 1,
+						"it": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ru": 1,
+						"tr": 1,
+						"uk": 1,
+						"zh": 1
 					}
 				},
 				"git-pull-request": {
@@ -28737,42 +28738,50 @@
 				},
 				"pg_amcheck": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_archivecleanup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_basebackup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_checksums": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_combinebackup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_controldata": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_createsubscriber": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_ctl": {
@@ -28805,17 +28814,20 @@
 				},
 				"pg_receivewal": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_recvlogical": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_resetwal": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_restore": {
@@ -28827,37 +28839,44 @@
 				},
 				"pg_rewind": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_test_fsync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_test_timing": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_verifybackup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_waldump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pg_walsummary": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pgbench": {
@@ -46940,6 +46959,7 @@
 				"gnuenv": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
