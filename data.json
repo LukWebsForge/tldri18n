@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 02-Jul-26 02:00:10 CEST",
+	"last_update": "Friday, 03-Jul-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -39139,6 +39139,31 @@
 						"en": 2
 					}
 				},
+				"wacli-contacts-alias-set": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-contacts-refresh": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-contacts-search": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-contacts-show": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-contacts-tags-add": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wacli-send-file": {
 					"status": {
 						"en": 2
@@ -64027,38 +64052,38 @@
 		},
 		"windows": {
 			"progress": {
-				"ar": 8,
+				"ar": 7,
 				"bg": 7,
 				"bn": 17,
-				"bs": 8,
-				"ca": 9,
+				"bs": 7,
+				"ca": 8,
 				"cs": 7,
 				"da": 7,
-				"de": 19,
+				"de": 18,
 				"el": 7,
 				"en": 100,
-				"es": 79,
+				"es": 77,
 				"fa": 8,
 				"fi": 7,
 				"fr": 15,
-				"hi": 29,
+				"hi": 28,
 				"id": 22,
-				"it": 19,
-				"ja": 18,
-				"ko": 80,
+				"it": 18,
+				"ja": 17,
+				"ko": 79,
 				"lo": 8,
-				"ml": 8,
+				"ml": 7,
 				"nb": 7,
 				"ne": 8,
 				"nl": 32,
-				"no": 8,
+				"no": 7,
 				"pl": 16,
 				"pt_BR": 15,
 				"pt_PT": 8,
 				"ro": 7,
 				"ru": 17,
 				"sr": 7,
-				"sv": 9,
+				"sv": 8,
 				"ta": 20,
 				"th": 10,
 				"tr": 8,
@@ -64098,6 +64123,11 @@
 						"ko": 2,
 						"ta": 2,
 						"zh": 1
+					}
+				},
+				"autopsy": {
+					"status": {
+						"en": 2
 					}
 				},
 				"bcdboot": {
@@ -65320,7 +65350,17 @@
 						"en": 2
 					}
 				},
+				"gethelpcmd-officeactivationscenario": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gethelpcmd-outlookcalendarchecktask": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gethelpcmd-teamsaddinscenario": {
 					"status": {
 						"en": 2
 					}
@@ -66662,6 +66702,11 @@
 						"zh_TW": 2
 					}
 				},
+				"saracmd-officeactivationscenario": {
+					"status": {
+						"en": 2
+					}
+				},
 				"saracmd-outlookcalendarchecktask": {
 					"status": {
 						"ar": 2,
@@ -66703,6 +66748,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"saracmd-teamsaddinscenario": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sc": {
