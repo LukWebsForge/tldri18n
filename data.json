@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 03-Jul-26 02:00:09 CEST",
+	"last_update": "Saturday, 04-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1306,6 +1306,11 @@
 						"zh": 2
 					}
 				},
+				"adb-install-multiple": {
+					"status": {
+						"en": 2
+					}
+				},
 				"adb-kill-server": {
 					"status": {
 						"en": 2,
@@ -1495,6 +1500,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -1503,6 +1509,7 @@
 						"en": 2,
 						"es": 1,
 						"id": 1,
+						"it": 2,
 						"ko": 1,
 						"nl": 1,
 						"pt_BR": 1,
@@ -6333,8 +6340,8 @@
 				"cjxl": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"cksum": {
@@ -31140,7 +31147,8 @@
 				},
 				"ppmdraw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ppmfade": {
@@ -31163,7 +31171,8 @@
 				},
 				"ppmglobe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ppmhist": {
@@ -31262,7 +31271,8 @@
 				},
 				"ppmtoapplevol": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ppmtoarbtxt": {
@@ -31388,7 +31398,8 @@
 				},
 				"ppmtopjxl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ppmtoppm": {
@@ -31405,7 +31416,8 @@
 				},
 				"ppmtorgb3": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ppmtosixel": {
@@ -31474,7 +31486,8 @@
 				},
 				"ppmwheel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pppd": {
@@ -36553,6 +36566,11 @@
 						"ko": 2
 					}
 				},
+				"tidy-viewer": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tifftopnm": {
 					"status": {
 						"en": 2,
@@ -37505,6 +37523,11 @@
 					}
 				},
 				"tv": {
+					"status": {
+						"en": 2
+					}
+				},
+				"tv.fzf": {
 					"status": {
 						"en": 2
 					}
@@ -62850,7 +62873,6 @@
 				},
 				"lldb": {
 					"status": {
-						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
