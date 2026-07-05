@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 04-Jul-26 02:00:10 CEST",
+	"last_update": "Sunday, 05-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -32754,7 +32754,8 @@
 				},
 				"r": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"r.lang": {
@@ -32859,49 +32860,58 @@
 				},
 				"rabbitmq-diagnostics": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rabbitmq-plugins": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rabbitmq-queues": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rabbitmq-streams": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rabbitmq-upgrade": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rabbitmqctl": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"rabbitmqctl-cluster": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"rabbitmqctl-users": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rabbitmqctl-vhosts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rabin2": {
@@ -59022,7 +59032,7 @@
 				"da": 1,
 				"de": 40,
 				"el": 1,
-				"en": 99,
+				"en": 100,
 				"es": 75,
 				"fa": 1,
 				"fi": 38,
@@ -59039,7 +59049,7 @@
 				"nl": 51,
 				"no": 1,
 				"pl": 41,
-				"pt_BR": 47,
+				"pt_BR": 48,
 				"pt_PT": 33,
 				"ro": 1,
 				"ru": 39,
@@ -59050,7 +59060,7 @@
 				"tr": 30,
 				"uk": 1,
 				"uz": 1,
-				"zh": 55,
+				"zh": 54,
 				"zh_TW": 31
 			},
 			"pages": {
@@ -62869,13 +62879,6 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
-					}
-				},
-				"lldb": {
-					"status": {
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
 					}
 				},
 				"llvm-lipo": {
