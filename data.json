@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 08-Jul-26 02:00:07 CEST",
+	"last_update": "Thursday, 09-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -727,7 +727,7 @@
 				"ne": 4,
 				"nl": 19,
 				"no": 5,
-				"pl": 7,
+				"pl": 6,
 				"pt_BR": 13,
 				"pt_PT": 5,
 				"ro": 5,
@@ -735,7 +735,7 @@
 				"sr": 4,
 				"sv": 5,
 				"ta": 6,
-				"th": 5,
+				"th": 4,
 				"tr": 8,
 				"uk": 5,
 				"uz": 4,
@@ -1530,6 +1530,11 @@
 						"ko": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"aha": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aider": {
@@ -9146,6 +9151,11 @@
 						"tr": 2
 					}
 				},
+				"docker-container-stop": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-container-top": {
 					"status": {
 						"ar": 1,
@@ -10034,6 +10044,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"docker-stop": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-swarm": {
@@ -12130,6 +12145,31 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"flux": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flux-bootstrap": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flux-build": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flux-check": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flux-create": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fluxctl": {
@@ -28370,6 +28410,11 @@
 						"ko": 2
 					}
 				},
+				"passage": {
+					"status": {
+						"en": 2
+					}
+				},
 				"passwd": {
 					"status": {
 						"en": 2,
@@ -36427,6 +36472,16 @@
 						"en": 2
 					}
 				},
+				"terraform-taint": {
+					"status": {
+						"en": 2
+					}
+				},
+				"terraform-untaint": {
+					"status": {
+						"en": 2
+					}
+				},
 				"terragrunt": {
 					"status": {
 						"en": 2,
@@ -39193,6 +39248,26 @@
 					}
 				},
 				"wacli-contacts-tags-add": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-messages-context": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-messages-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-messages-search": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wacli-messages-show": {
 					"status": {
 						"en": 2
 					}
@@ -42255,7 +42330,7 @@
 				"ml": 4,
 				"nb": 3,
 				"ne": 3,
-				"nl": 14,
+				"nl": 13,
 				"no": 3,
 				"pl": 8,
 				"pt_BR": 12,
@@ -46850,6 +46925,11 @@
 						"en": 2
 					}
 				},
+				"gamemoderun": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gamescope": {
 					"status": {
 						"en": 2,
@@ -47289,6 +47369,7 @@
 				"gnufalse": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -47361,6 +47442,7 @@
 				"gnuls": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -47554,6 +47636,7 @@
 				"gnushred": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -64096,7 +64179,7 @@
 				"id": 22,
 				"it": 18,
 				"ja": 17,
-				"ko": 80,
+				"ko": 82,
 				"lo": 8,
 				"ml": 7,
 				"nb": 7,
@@ -65373,27 +65456,32 @@
 				},
 				"gethelpcmd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gethelpcmd-expertexperienceadmintask": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gethelpcmd-officeactivationscenario": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gethelpcmd-outlookcalendarchecktask": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gethelpcmd-teamsaddinscenario": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"getmac": {
