@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 11-Jul-26 02:00:09 CEST",
+	"last_update": "Sunday, 12-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7764,6 +7764,11 @@
 						"ko": 2
 					}
 				},
+				"critique": {
+					"status": {
+						"en": 2
+					}
+				},
 				"croc": {
 					"status": {
 						"en": 2,
@@ -8663,6 +8668,11 @@
 						"ko": 2
 					}
 				},
+				"dnote": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dnsmasq": {
 					"status": {
 						"en": 2,
@@ -8845,6 +8855,11 @@
 						"en": 2,
 						"ko": 2,
 						"ru": 2
+					}
+				},
+				"docker-compose-stop": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-compose-up": {
@@ -16821,7 +16836,7 @@
 				"gst-launch-1.0-videorate": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"gst-launch-1.0-videoscale": {
@@ -54013,6 +54028,11 @@
 						"ko": 2
 					}
 				},
+				"qtgrace": {
+					"status": {
+						"en": 2
+					}
+				},
 				"qtile": {
 					"status": {
 						"en": 2,
@@ -64190,7 +64210,7 @@
 				"id": 22,
 				"it": 18,
 				"ja": 17,
-				"ko": 82,
+				"ko": 84,
 				"lo": 8,
 				"ml": 7,
 				"nb": 7,
@@ -65412,10 +65432,10 @@
 				"get-filehash": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"id": 2,
-						"ko": 2,
-						"zh": 2
+						"es": 1,
+						"id": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"get-help": {
@@ -66272,7 +66292,8 @@
 				},
 				"powerpnt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"powershell": {
@@ -66286,7 +66307,8 @@
 				},
 				"pptview": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"print.win": {
@@ -66786,7 +66808,8 @@
 				},
 				"saracmd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"saracmd-expertexperienceadmintask": {
@@ -66834,7 +66857,8 @@
 				},
 				"saracmd-officeactivationscenario": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"saracmd-outlookcalendarchecktask": {
@@ -66882,7 +66906,8 @@
 				},
 				"saracmd-teamsaddinscenario": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sc": {
