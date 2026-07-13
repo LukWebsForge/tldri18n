@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 12-Jul-26 02:00:10 CEST",
+	"last_update": "Monday, 13-Jul-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -45398,7 +45398,7 @@
 				"ddrescue": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"deb-get": {
@@ -52286,12 +52286,27 @@
 						"en": 2
 					}
 				},
+				"pct-delsnapshot": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pct-destroy": {
 					"status": {
 						"en": 2
 					}
 				},
+				"pct-enter": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pct-exec": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-listsnapshot": {
 					"status": {
 						"en": 2
 					}
@@ -52356,6 +52371,11 @@
 					}
 				},
 				"pct-resize": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-rollback": {
 					"status": {
 						"en": 2
 					}
