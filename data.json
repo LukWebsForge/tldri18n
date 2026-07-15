@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 14-Jul-26 02:00:10 CEST",
+	"last_update": "Wednesday, 15-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1200,6 +1200,11 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"zh": 2
+					}
+				},
+				"aconnect": {
+					"status": {
+						"en": 2
 					}
 				},
 				"act": {
@@ -24815,6 +24820,7 @@
 				"mssqlclient.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -32257,6 +32263,7 @@
 				"pulumi-stack-history": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
