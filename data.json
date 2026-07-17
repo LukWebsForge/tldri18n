@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 16-Jul-26 02:00:09 CEST",
+	"last_update": "Friday, 17-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -4037,6 +4037,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -8757,7 +8758,8 @@
 				},
 				"docker-buildx-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"docker-buildx-du": {
@@ -9175,7 +9177,8 @@
 				},
 				"docker-container-stop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"docker-container-top": {
@@ -9380,6 +9383,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -9390,6 +9394,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 1,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -9401,6 +9406,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2
@@ -9420,6 +9426,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -10070,7 +10077,8 @@
 				},
 				"docker-stop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"docker-swarm": {
@@ -11671,7 +11679,8 @@
 				},
 				"fc-scan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fclones": {
@@ -12064,7 +12073,8 @@
 				"fj": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"fkill": {
@@ -12238,12 +12248,14 @@
 				},
 				"foot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"footclient": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"for": {
@@ -52300,6 +52312,11 @@
 						"en": 2
 					}
 				},
+				"pct-cpusets": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pct-create": {
 					"status": {
 						"en": 2
@@ -52321,6 +52338,11 @@
 					}
 				},
 				"pct-exec": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-list": {
 					"status": {
 						"en": 2
 					}
@@ -52404,7 +52426,27 @@
 						"en": 2
 					}
 				},
+				"pct-shutdown": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-snapshot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-start": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pct-status": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-stop": {
 					"status": {
 						"en": 2
 					}
@@ -53031,6 +53073,11 @@
 						"ko": 2
 					}
 				},
+				"pvenode-config": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pveperf": {
 					"status": {
 						"en": 2,
@@ -53043,6 +53090,11 @@
 					}
 				},
 				"pvesm": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pvesubscription": {
 					"status": {
 						"en": 2
 					}
@@ -64249,7 +64301,7 @@
 				"id": 22,
 				"it": 18,
 				"ja": 17,
-				"ko": 84,
+				"ko": 85,
 				"lo": 8,
 				"ml": 7,
 				"nb": 7,
@@ -65667,7 +65719,8 @@
 				},
 				"help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"history": {
@@ -65715,22 +65768,26 @@
 				},
 				"iesetup": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iewzd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iexplore": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"iexpress": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"if": {
