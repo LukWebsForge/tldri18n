@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 17-Jul-26 02:00:10 CEST",
+	"last_update": "Saturday, 18-Jul-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -44,7 +44,7 @@
 	"entries": {
 		"android": {
 			"progress": {
-				"ar": 13,
+				"ar": 22,
 				"bg": 22,
 				"bn": 63,
 				"bs": 0,
@@ -144,6 +144,7 @@
 				},
 				"bugreportz": {
 					"status": {
+						"ar": 2,
 						"bg": 2,
 						"bn": 2,
 						"de": 2,
@@ -172,6 +173,7 @@
 				},
 				"cmd": {
 					"status": {
+						"ar": 2,
 						"bg": 2,
 						"bn": 2,
 						"de": 2,
@@ -12232,6 +12234,21 @@
 						"pt_BR": 2
 					}
 				},
+				"fmtutil": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fmtutil-sys": {
+					"status": {
+						"en": 2
+					}
+				},
+				"fmtutil-user": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fnm": {
 					"status": {
 						"en": 2,
@@ -24182,6 +24199,11 @@
 						"fr": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"mktexfmt": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mktorrent": {
@@ -37671,6 +37693,11 @@
 					}
 				},
 				"twurl-accounts": {
+					"status": {
+						"en": 2
+					}
+				},
+				"twurl-authorize": {
 					"status": {
 						"en": 2
 					}
@@ -52406,6 +52433,16 @@
 						"zh_TW": 2
 					}
 				},
+				"pct-pull": {
+					"status": {
+						"en": 2
+					}
+				},
+				"pct-push": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pct-reboot": {
 					"status": {
 						"en": 2
@@ -52530,7 +52567,7 @@
 					"status": {
 						"ar": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 1,
 						"zh": 2
 					}
@@ -53586,8 +53623,8 @@
 				"qm-cleanup": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"qm-clone": {
