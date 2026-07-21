@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 20-Jul-26 02:00:10 CEST",
+	"last_update": "Tuesday, 21-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -45226,7 +45226,8 @@
 				},
 				"create-image": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"create_ap": {
@@ -45243,7 +45244,8 @@
 				},
 				"criu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"crond": {
@@ -45251,6 +45253,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -45391,6 +45394,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"ru": 2
 					}
@@ -45539,7 +45543,8 @@
 				},
 				"decode-dimms": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"deepseek-r1": {
