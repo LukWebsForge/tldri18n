@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 21-Jul-26 02:00:10 CEST",
+	"last_update": "Wednesday, 22-Jul-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -46141,6 +46141,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"ko": 2,
 						"pt_BR": 2
 					}
 				},
@@ -46184,7 +46185,8 @@
 				},
 				"drm_info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dropbearconvert": {
@@ -46208,7 +46210,8 @@
 				"dump.exfat": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"dumpe2fs": {
@@ -46225,7 +46228,8 @@
 				},
 				"dutree": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dysk": {
@@ -47387,6 +47391,7 @@
 				"gnudd": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fi": 2
 					}
 				},
@@ -48679,6 +48684,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"it": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -48687,6 +48693,7 @@
 					"status": {
 						"en": 2,
 						"es": 1,
+						"it": 2,
 						"ko": 1,
 						"tr": 1
 					}
@@ -48694,12 +48701,14 @@
 				"ip-maddress": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"it": 2
 					}
 				},
 				"ip-monitor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"ip-neighbor": {
@@ -48755,7 +48764,8 @@
 				},
 				"ip-netconf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"ip-route": {
@@ -50272,28 +50282,33 @@
 				},
 				"lxc-info": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxc-ls": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"it": 2
 					}
 				},
 				"lxc-network": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxc-profile": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxc-start": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxc-stop": {
@@ -52890,24 +52905,28 @@
 				"po4a": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"po4a-gettextize": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"po4a-translate": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"po4a-updatepo": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
