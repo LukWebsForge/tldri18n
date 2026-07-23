@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 22-Jul-26 02:00:09 CEST",
+	"last_update": "Thursday, 23-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -62,7 +62,7 @@
 				"id": 72,
 				"it": 81,
 				"ja": 63,
-				"ko": 86,
+				"ko": 100,
 				"lo": 0,
 				"ml": 0,
 				"nb": 0,
@@ -381,12 +381,14 @@
 				},
 				"pm-install-commit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pm-install-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pm-install-existing": {
@@ -398,7 +400,8 @@
 				},
 				"pm-install-write": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pm-list": {
@@ -722,7 +725,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 90,
+				"ko": 91,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -27365,7 +27368,8 @@
 				},
 				"obsidian": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"oc": {
@@ -27493,7 +27497,8 @@
 				},
 				"oh-my-posh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ohdear": {
@@ -27518,7 +27523,8 @@
 				"olevba": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ollama": {
@@ -27545,7 +27551,8 @@
 				},
 				"on_ac_power": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"onefetch": {
@@ -27556,7 +27563,8 @@
 				},
 				"oneliner": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"onionsearch": {
@@ -29181,7 +29189,8 @@
 				},
 				"pgcli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pgmbentley": {
@@ -30168,7 +30177,7 @@
 				"pkg-config": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"pkgz": {
@@ -30477,7 +30486,8 @@
 				},
 				"pnmmercator": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pnmmontage": {
@@ -30794,7 +30804,8 @@
 				"pocount": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"podman": {
@@ -31189,7 +31200,8 @@
 				},
 				"posh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"postcss": {
@@ -31200,7 +31212,8 @@
 				},
 				"postgres": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"powershell": {
@@ -31633,7 +31646,8 @@
 				},
 				"prek": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prename": {
@@ -31681,7 +31695,8 @@
 				},
 				"presenterm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prettier": {
@@ -31700,12 +31715,14 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"print.zsh": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -31758,7 +31775,8 @@
 				},
 				"propelauth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prosodyctl": {
@@ -31783,37 +31801,44 @@
 				},
 				"prowler": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prowler-aws": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prowler-azure": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prowler-gcp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prowler-github": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prowler-kubernetes": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"prowler-m365": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"proxify": {
@@ -31857,6 +31882,7 @@
 				"psexec.py": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -31913,7 +31939,8 @@
 				},
 				"ptghci": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ptpython": {
@@ -32452,7 +32479,8 @@
 				},
 				"putty": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pv": {
@@ -32490,7 +32518,8 @@
 				},
 				"pwqgen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pwsh": {
@@ -32569,7 +32598,8 @@
 				},
 				"pygbag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pygmentize": {
@@ -32586,7 +32616,8 @@
 				},
 				"pyinstaller": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pylint": {
@@ -32631,7 +32662,8 @@
 				},
 				"python-m-json.tool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"python3": {
@@ -32724,6 +32756,7 @@
 				"qemu-system-i386": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -32731,6 +32764,7 @@
 				"qemu-system-riscv64": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
@@ -32738,24 +32772,28 @@
 				"qemu-system-x86_64": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
 					}
 				},
 				"qgis": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"qgis_process": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"qmake": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -32864,6 +32902,7 @@
 				"qwen": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -33073,7 +33112,8 @@
 				"rails-console": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"rails-db": {
@@ -33101,7 +33141,8 @@
 				"rails-new": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"rails-routes": {
@@ -33114,7 +33155,8 @@
 				"rails-server": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"railway": {
@@ -33137,7 +33179,8 @@
 				},
 				"raku": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ranger": {
@@ -33250,7 +33293,8 @@
 				},
 				"rbw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rc": {
@@ -55186,6 +55230,11 @@
 						"ko": 2
 					}
 				},
+				"shelly": {
+					"status": {
+						"en": 2
+					}
+				},
 				"shiny-mirrors": {
 					"status": {
 						"en": 2,
@@ -63034,6 +63083,7 @@
 				"hdiutil": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -64365,7 +64415,7 @@
 				"de": 18,
 				"el": 7,
 				"en": 100,
-				"es": 77,
+				"es": 78,
 				"fa": 8,
 				"fi": 7,
 				"fr": 15,
@@ -64373,7 +64423,7 @@
 				"id": 22,
 				"it": 18,
 				"ja": 17,
-				"ko": 85,
+				"ko": 87,
 				"lo": 8,
 				"ml": 7,
 				"nb": 7,
@@ -65096,17 +65146,20 @@
 				},
 				"compact": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"compress-archive": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"copy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cpush": {
@@ -65154,7 +65207,8 @@
 				},
 				"cscript": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cuninst": {
@@ -65657,6 +65711,7 @@
 				"gethelpcmd-expertexperienceadmintask": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
