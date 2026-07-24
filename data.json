@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 23-Jul-26 02:00:10 CEST",
+	"last_update": "Friday, 24-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16262,9 +16262,9 @@
 				"go-get": {
 					"status": {
 						"en": 2,
-						"it": 2,
-						"ko": 2,
-						"tr": 2
+						"it": 1,
+						"ko": 1,
+						"tr": 1
 					}
 				},
 				"go-install": {
