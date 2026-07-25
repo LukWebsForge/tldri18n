@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 24-Jul-26 02:00:10 CEST",
+	"last_update": "Saturday, 25-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16026,7 +16026,8 @@
 				},
 				"glob": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"glow": {
@@ -27180,6 +27181,12 @@
 						"ko": 2
 					}
 				},
+				"numbat": {
+					"status": {
+						"en": 2,
+						"es": 2
+					}
+				},
 				"numfmt": {
 					"status": {
 						"en": 2,
@@ -36597,6 +36604,11 @@
 						"en": 2
 					}
 				},
+				"terraform-validate": {
+					"status": {
+						"en": 2
+					}
+				},
 				"terragrunt": {
 					"status": {
 						"en": 2,
@@ -42445,7 +42457,7 @@
 				"id": 8,
 				"it": 12,
 				"ja": 4,
-				"ko": 71,
+				"ko": 72,
 				"lo": 3,
 				"ml": 4,
 				"nb": 3,
@@ -46678,7 +46690,8 @@
 				"fadvise": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"fail2ban-client": {
@@ -46715,7 +46728,8 @@
 				},
 				"fancontrol": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"farge": {
@@ -46742,17 +46756,20 @@
 				},
 				"fbgrab": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fbi": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fbset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fcrackzip": {
@@ -46780,12 +46797,14 @@
 				},
 				"fftest": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fgconsole": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"filefrag": {
@@ -46804,7 +46823,8 @@
 				"fincore": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"ko": 2
 					}
 				},
 				"findfs": {
@@ -46885,13 +46905,15 @@
 				"flatpak-mask": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"flatpak-remote-info": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"flatpak-run": {
@@ -46899,19 +46921,21 @@
 						"en": 2,
 						"es": 1,
 						"it": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"flatpak-update": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"flex": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -46919,14 +46943,14 @@
 				"flock": {
 					"status": {
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"fluidsynth": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"fold": {
@@ -46938,12 +46962,14 @@
 				},
 				"fonttools": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fonttools-subset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"foreman": {
@@ -46957,7 +46983,7 @@
 						"ar": 1,
 						"en": 2,
 						"it": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"fprintd-delete": {
@@ -59373,10 +59399,10 @@
 				"ml": 1,
 				"nb": 1,
 				"ne": 1,
-				"nl": 51,
+				"nl": 50,
 				"no": 1,
 				"pl": 41,
-				"pt_BR": 48,
+				"pt_BR": 47,
 				"pt_PT": 33,
 				"ro": 1,
 				"ru": 39,
@@ -63199,6 +63225,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
+					}
+				},
+				"leaks": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lipo": {
