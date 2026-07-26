@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 25-Jul-26 02:00:10 CEST",
+	"last_update": "Sunday, 26-Jul-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -725,7 +725,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 91,
+				"ko": 90,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -20673,6 +20673,11 @@
 						"en": 2
 					}
 				},
+				"jless": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jmap": {
 					"status": {
 						"en": 2,
@@ -27247,6 +27252,11 @@
 					"status": {
 						"en": 2,
 						"ko": 1
+					}
+				},
+				"nwipe": {
+					"status": {
+						"en": 2
 					}
 				},
 				"nx": {
@@ -36631,6 +36641,11 @@
 						"nl": 2,
 						"pl": 1,
 						"zh": 2
+					}
+				},
+				"testdisk": {
+					"status": {
+						"en": 2
 					}
 				},
 				"testparm": {
