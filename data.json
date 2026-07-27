@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 26-Jul-26 02:00:09 CEST",
+	"last_update": "Monday, 27-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3745,6 +3745,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 1,
 						"nl": 2,
@@ -3873,6 +3874,7 @@
 						"es": 2,
 						"fr": 2,
 						"hi": 2,
+						"id": 2,
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
@@ -3991,6 +3993,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2
@@ -4076,6 +4079,7 @@
 						"de": 2,
 						"en": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -4971,6 +4975,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -26408,6 +26413,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"ru": 2
 					}
@@ -42470,7 +42476,7 @@
 				"fr": 7,
 				"hi": 5,
 				"id": 8,
-				"it": 12,
+				"it": 13,
 				"ja": 4,
 				"ko": 72,
 				"lo": 3,
@@ -43552,6 +43558,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
@@ -44059,27 +44066,32 @@
 				},
 				"b4": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"b4-am": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"b4-prep": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"b4-send": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"b4-shazam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"backlight_control": {
@@ -45491,6 +45503,7 @@
 				"dconf": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -45498,6 +45511,7 @@
 				"dconf-read": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -45505,6 +45519,7 @@
 				"dconf-reset": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -45512,6 +45527,7 @@
 				"dconf-write": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -51264,6 +51280,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -51273,6 +51290,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -51282,6 +51300,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -52928,29 +52947,34 @@
 				},
 				"plasma-apply-colorscheme": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"plasma-apply-cursortheme": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"plasma-apply-desktoptheme": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"plasma-apply-lookandfeel": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"nl": 2
 					}
 				},
 				"plasma-apply-wallpaperimage": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"plasmashell": {
@@ -58799,6 +58823,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 1,
+						"id": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -64469,7 +64494,7 @@
 				"id": 22,
 				"it": 18,
 				"ja": 17,
-				"ko": 87,
+				"ko": 91,
 				"lo": 8,
 				"ml": 7,
 				"nb": 7,
@@ -65770,6 +65795,7 @@
 				"gethelpcmd-outlookcalendarchecktask": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -66139,7 +66165,8 @@
 				},
 				"lib": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"logoff": {
@@ -66384,7 +66411,8 @@
 				},
 				"netsh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"netsh-interface-portproxy": {
@@ -66396,7 +66424,8 @@
 				},
 				"netsh-wlan": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"netstat": {
@@ -66460,17 +66489,20 @@
 				},
 				"ogv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"oh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"olk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ospp.vbs": {
@@ -66482,12 +66514,14 @@
 				},
 				"out-gridview": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"out-host": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"out-string": {
@@ -67865,22 +67899,26 @@
 				},
 				"wmpconfig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wmplayer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wmpnscfg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wscript": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wsl": {
