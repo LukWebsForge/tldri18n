@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 27-Jul-26 02:00:10 CEST",
+	"last_update": "Tuesday, 28-Jul-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -54,7 +54,7 @@
 				"de": 63,
 				"el": 0,
 				"en": 100,
-				"es": 63,
+				"es": 68,
 				"fa": 63,
 				"fi": 0,
 				"fr": 72,
@@ -407,6 +407,7 @@
 				"pm-list": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 1,
 						"id": 1,
 						"it": 2,
@@ -711,7 +712,7 @@
 				"bg": 4,
 				"bn": 6,
 				"bs": 5,
-				"ca": 5,
+				"ca": 4,
 				"cs": 5,
 				"da": 4,
 				"de": 11,
@@ -10088,6 +10089,7 @@
 				"docker-stop": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -13983,6 +13985,7 @@
 						"nl": 2,
 						"pl": 2,
 						"ro": 2,
+						"ru": 2,
 						"uk": 2
 					}
 				},
@@ -14420,6 +14423,7 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -14800,6 +14804,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -16697,6 +16702,11 @@
 					"status": {
 						"en": 2,
 						"ko": 1
+					}
+				},
+				"greed": {
+					"status": {
+						"en": 2
 					}
 				},
 				"grep": {
@@ -25695,8 +25705,8 @@
 				"ninja": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"nix": {
@@ -28332,6 +28342,7 @@
 				"pamstretch-gen": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -28563,6 +28574,7 @@
 				"pathchk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -30970,6 +30982,7 @@
 				"podman-import": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -32868,8 +32881,8 @@
 				"qrencode": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"qrttoppm": {
@@ -42476,9 +42489,9 @@
 				"fr": 7,
 				"hi": 5,
 				"id": 8,
-				"it": 13,
+				"it": 16,
 				"ja": 4,
-				"ko": 72,
+				"ko": 74,
 				"lo": 3,
 				"ml": 4,
 				"nb": 3,
@@ -42486,7 +42499,7 @@
 				"nl": 13,
 				"no": 3,
 				"pl": 8,
-				"pt_BR": 12,
+				"pt_BR": 11,
 				"pt_PT": 4,
 				"ro": 3,
 				"ru": 6,
@@ -42633,6 +42646,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42642,6 +42656,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42652,6 +42667,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -42661,6 +42677,7 @@
 						"bn": 2,
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42670,6 +42687,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -42681,6 +42699,7 @@
 						"en": 2,
 						"es": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -42691,6 +42710,7 @@
 						"bn": 2,
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42699,6 +42719,7 @@
 						"bn": 2,
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42707,6 +42728,7 @@
 						"bn": 2,
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42714,6 +42736,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42723,6 +42746,7 @@
 						"en": 2,
 						"es": 1,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 1
@@ -42732,6 +42756,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42739,6 +42764,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -42746,6 +42772,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -43447,6 +43474,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -43497,6 +43525,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2,
@@ -43522,6 +43551,7 @@
 				"apt-list": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -45089,12 +45119,14 @@
 				},
 				"chvt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cliphist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cloud-init": {
@@ -45139,7 +45171,8 @@
 				},
 				"col": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"collectd": {
@@ -45226,7 +45259,8 @@
 				},
 				"con2fbmap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"conky": {
@@ -45257,6 +45291,7 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -45636,7 +45671,8 @@
 				},
 				"deepseek-r1": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"delpart": {
@@ -45656,7 +45692,8 @@
 				},
 				"depmod": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dex": {
@@ -45696,7 +45733,8 @@
 					"status": {
 						"ar": 1,
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"ko": 2
 					}
 				},
 				"diff3": {
@@ -46067,7 +46105,8 @@
 				"dnf-system-upgrade": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"dnf-versionlock": {
@@ -46125,6 +46164,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"dnf5-copr": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dnf5-group": {
@@ -46371,12 +46415,14 @@
 				},
 				"eclean": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"eclean-kernel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"edit": {
@@ -46430,7 +46476,8 @@
 				},
 				"efibootdump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"efibootmgr": {
@@ -46441,13 +46488,15 @@
 				},
 				"efivar": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"eglinfo": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"ego": {
@@ -46484,7 +46533,8 @@
 				},
 				"emaint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"emerge": {
@@ -46515,7 +46565,8 @@
 				},
 				"eog": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"eopkg": {
@@ -46604,12 +46655,14 @@
 				},
 				"euse": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"evince": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"evtest": {
@@ -46621,12 +46674,14 @@
 				},
 				"eww": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exch": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exec": {
@@ -46654,7 +46709,8 @@
 				"expac": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"expect": {
@@ -46666,7 +46722,8 @@
 				},
 				"explodepkg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"export": {
@@ -47061,12 +47118,14 @@
 				},
 				"fs_cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fsadm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fsck": {
@@ -47098,13 +47157,15 @@
 				"fuzzel": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"fwconsole": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"fwupdmgr": {
@@ -47116,18 +47177,21 @@
 				},
 				"fwupdtool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gamemoderun": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gamescope": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"gbp": {
@@ -47151,7 +47215,8 @@
 				},
 				"gdbus": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gdebi": {
@@ -47162,7 +47227,8 @@
 				},
 				"gdisk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gedit": {
@@ -47177,12 +47243,14 @@
 				},
 				"gemma3": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gemma4": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"genfstab": {
@@ -47305,6 +47373,7 @@
 				"gio": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -47312,22 +47381,25 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"gksu": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gksudo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gnome-calculator": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2
@@ -47336,6 +47408,7 @@
 				"gnome-extensions": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -47344,6 +47417,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -47351,6 +47425,7 @@
 				"gnome-software": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -47358,6 +47433,7 @@
 				"gnome-terminal": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"ml": 2,
 						"pt_BR": 2
@@ -48059,7 +48135,8 @@
 				},
 				"gphoto2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gpm": {
@@ -48122,6 +48199,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -48129,6 +48207,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 1
 					}
 				},
@@ -48136,6 +48215,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -48143,6 +48223,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 1,
 						"tr": 2,
 						"zh": 1
@@ -48152,6 +48233,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"tr": 2,
 						"zh": 2
@@ -48160,23 +48242,27 @@
 				"grub-mkrescue": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"it": 2
 					}
 				},
 				"grub-mount": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"grub-probe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"grub-reboot": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -48185,6 +48271,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -48873,19 +48960,22 @@
 					"status": {
 						"en": 2,
 						"es": 1,
+						"it": 2,
 						"ko": 1,
 						"tr": 1
 					}
 				},
 				"ip-route-add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"ip-route-get": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -48968,6 +49058,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -50356,29 +50447,34 @@
 				},
 				"lxc-attach": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxc-checkconfig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxc-console": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"it": 2
 					}
 				},
 				"lxc-create": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"it": 2
 					}
 				},
 				"lxc-destroy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxc-info": {
@@ -50414,12 +50510,14 @@
 				},
 				"lxc-stop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxc-top": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxi": {
@@ -50524,6 +50622,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"marzban-cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"mashtree": {
@@ -52504,6 +52607,11 @@
 						"en": 2
 					}
 				},
+				"pct-fsck": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pct-list": {
 					"status": {
 						"en": 2
@@ -52755,6 +52863,7 @@
 				"pidof": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -53275,6 +53384,11 @@
 						"en": 2
 					}
 				},
+				"pvesm-add": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pvesubscription": {
 					"status": {
 						"en": 2
@@ -53312,6 +53426,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
@@ -53322,6 +53437,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 1,
 						"pt_BR": 1,
 						"tr": 1
@@ -53331,17 +53447,20 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pw-container": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pw-dot": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -53391,6 +53510,7 @@
 				"pw-dump": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 1,
 						"pt_BR": 1
 					}
@@ -53440,12 +53560,14 @@
 				},
 				"pw-jack": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pw-link": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"tr": 1
@@ -53454,6 +53576,7 @@
 				"pw-loopback": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 1,
 						"pt_BR": 1,
 						"tr": 1
@@ -53463,22 +53586,26 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pw-midi2play": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pw-midi2record": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pw-mididump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pw-midiplay": {
@@ -53571,6 +53698,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
@@ -53621,6 +53749,7 @@
 				"pw-profiler": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -53669,19 +53798,22 @@
 				},
 				"pw-reserve": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pw-top": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
 					}
 				},
 				"pw-v4l2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pwdx": {
@@ -53816,12 +53948,12 @@
 				},
 				"qm-disk": {
 					"status": {
-						"bn": 2,
+						"bn": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"ru": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1,
+						"ru": 1
 					}
 				},
 				"qm-guest": {
@@ -53842,6 +53974,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"qm-import": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qm-importdisk": {
@@ -53885,6 +54022,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"qm-importovf": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qm-list": {
@@ -54027,6 +54169,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"qm-remote-migrate": {
+					"status": {
+						"en": 2
 					}
 				},
 				"qm-rescan": {
@@ -57105,6 +57252,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 1,
 						"ta": 1
 					}
@@ -57113,6 +57261,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -57121,6 +57270,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -57129,6 +57279,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -57137,6 +57288,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -57145,6 +57297,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -57153,6 +57306,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -57161,6 +57315,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -57169,6 +57324,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"ta": 2
 					}
@@ -57528,6 +57684,16 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2
+					}
+				},
+				"ufw-disable": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ufw-enable": {
+					"status": {
+						"en": 2
 					}
 				},
 				"uinput": {
@@ -63817,6 +63983,7 @@
 				"shutdown": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -64494,7 +64661,7 @@
 				"id": 22,
 				"it": 18,
 				"ja": 17,
-				"ko": 91,
+				"ko": 94,
 				"lo": 8,
 				"ml": 7,
 				"nb": 7,
@@ -65420,7 +65587,8 @@
 				},
 				"dvdmaker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"enable-pnpdevice": {
@@ -65433,7 +65601,8 @@
 				"es": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"eventcreate": {
@@ -65447,7 +65616,8 @@
 				},
 				"excel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"exit": {
@@ -65479,7 +65649,8 @@
 				},
 				"expand-archive": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"explorer": {
@@ -65605,7 +65776,8 @@
 				},
 				"gc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gcb": {
@@ -65684,6 +65856,7 @@
 				"get-clipboard": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -67416,7 +67589,8 @@
 				},
 				"silverlight-installer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"sl": {
@@ -67531,12 +67705,14 @@
 				},
 				"start": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"start-process": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"start-service": {
@@ -67886,7 +68062,8 @@
 				},
 				"winword": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wmic": {
