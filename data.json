@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 28-Jul-26 02:00:11 CEST",
+	"last_update": "Wednesday, 29-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11711,6 +11711,11 @@
 						"uk": 1,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"fd-format": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fdfind": {
@@ -42508,7 +42513,7 @@
 				"ta": 6,
 				"th": 3,
 				"tr": 7,
-				"uk": 5,
+				"uk": 4,
 				"uz": 3,
 				"zh": 11,
 				"zh_TW": 3
@@ -48279,6 +48284,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -49065,12 +49071,14 @@
 				},
 				"ip-stats": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"ip-tuntap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"ip6tables": {
@@ -50442,7 +50450,8 @@
 				},
 				"lxc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"lxc-attach": {
@@ -57684,6 +57693,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"ta": 2
+					}
+				},
+				"ufw-allow": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ufw-disable": {
