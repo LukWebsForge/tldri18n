@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 29-Jul-26 02:00:10 CEST",
+	"last_update": "Thursday, 30-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -55163,6 +55163,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"scrub": {
+					"status": {
+						"en": 2
 					}
 				},
 				"scrun": {
