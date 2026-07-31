@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 30-Jul-26 02:00:10 CEST",
+	"last_update": "Friday, 31-Jul-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -48146,17 +48146,20 @@
 				},
 				"gpm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gpu-screen-recorder": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"grabc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"grim": {
@@ -64890,6 +64893,11 @@
 						"ko": 2,
 						"pl": 2,
 						"ta": 2
+					}
+				},
+				"choco-config": {
+					"status": {
+						"en": 2
 					}
 				},
 				"choco-feature": {
