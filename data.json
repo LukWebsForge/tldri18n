@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 01-Aug-26 02:00:10 CEST",
+	"last_update": "Sunday, 02-Aug-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -712,7 +712,7 @@
 				"bg": 4,
 				"bn": 6,
 				"bs": 5,
-				"ca": 4,
+				"ca": 5,
 				"cs": 5,
 				"da": 4,
 				"de": 11,
@@ -10088,9 +10088,45 @@
 				},
 				"docker-stop": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"nb": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"docker-swarm": {
@@ -21848,6 +21884,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"kwin_wayland": {
+					"status": {
+						"en": 2
 					}
 				},
 				"l2ping": {
@@ -35146,7 +35187,7 @@
 				"silicon": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"simple-mtpfs": {
@@ -49333,7 +49374,8 @@
 				},
 				"kernelstub": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kexec": {
@@ -49350,7 +49392,8 @@
 				},
 				"keyd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kill": {
@@ -49367,7 +49410,8 @@
 				},
 				"kinfocenter": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"kjv": {
@@ -49379,12 +49423,14 @@
 				"kmod": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"kmscon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"knock": {
@@ -54690,8 +54736,8 @@
 				"repo-remove": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"reportbug": {
@@ -64665,45 +64711,45 @@
 		},
 		"windows": {
 			"progress": {
-				"ar": 7,
+				"ar": 8,
 				"bg": 7,
-				"bn": 17,
-				"bs": 7,
-				"ca": 8,
-				"cs": 7,
-				"da": 7,
-				"de": 18,
+				"bn": 18,
+				"bs": 8,
+				"ca": 9,
+				"cs": 8,
+				"da": 8,
+				"de": 19,
 				"el": 7,
 				"en": 100,
 				"es": 78,
-				"fa": 8,
+				"fa": 9,
 				"fi": 7,
 				"fr": 15,
-				"hi": 28,
-				"id": 22,
-				"it": 18,
-				"ja": 17,
+				"hi": 29,
+				"id": 23,
+				"it": 19,
+				"ja": 18,
 				"ko": 94,
 				"lo": 8,
-				"ml": 7,
+				"ml": 8,
 				"nb": 7,
 				"ne": 8,
 				"nl": 32,
-				"no": 7,
-				"pl": 16,
+				"no": 8,
+				"pl": 17,
 				"pt_BR": 15,
 				"pt_PT": 8,
 				"ro": 7,
 				"ru": 17,
 				"sr": 7,
-				"sv": 8,
+				"sv": 9,
 				"ta": 20,
 				"th": 10,
 				"tr": 8,
-				"uk": 7,
+				"uk": 8,
 				"uz": 7,
 				"zh": 39,
-				"zh_TW": 17
+				"zh_TW": 18
 			},
 			"pages": {
 				"add-appxpackage": {
@@ -67360,8 +67406,45 @@
 				},
 				"saracmd-officeactivationscenario": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
-						"ko": 2
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"nb": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"saracmd-outlookcalendarchecktask": {
@@ -67409,8 +67492,45 @@
 				},
 				"saracmd-teamsaddinscenario": {
 					"status": {
+						"ar": 2,
+						"bg": 2,
+						"bn": 2,
+						"bs": 2,
+						"ca": 2,
+						"cs": 2,
+						"da": 2,
+						"de": 2,
+						"el": 2,
 						"en": 2,
-						"ko": 2
+						"es": 2,
+						"fa": 2,
+						"fi": 2,
+						"fr": 2,
+						"hi": 2,
+						"id": 2,
+						"it": 2,
+						"ja": 2,
+						"ko": 2,
+						"lo": 2,
+						"ml": 2,
+						"nb": 2,
+						"ne": 2,
+						"nl": 2,
+						"no": 2,
+						"pl": 2,
+						"pt_BR": 2,
+						"pt_PT": 2,
+						"ro": 2,
+						"ru": 2,
+						"sr": 2,
+						"sv": 2,
+						"ta": 2,
+						"th": 2,
+						"tr": 2,
+						"uk": 2,
+						"uz": 2,
+						"zh": 2,
+						"zh_TW": 2
 					}
 				},
 				"sc": {
