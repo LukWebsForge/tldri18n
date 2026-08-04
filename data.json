@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 03-Aug-26 02:00:10 CEST",
+	"last_update": "Tuesday, 04-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -726,7 +726,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 90,
+				"ko": 91,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -12234,27 +12234,32 @@
 				},
 				"flux": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flux-bootstrap": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flux-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flux-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flux-create": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fluxctl": {
