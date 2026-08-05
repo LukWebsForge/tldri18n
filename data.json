@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 04-Aug-26 02:00:10 CEST",
+	"last_update": "Wednesday, 05-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -726,7 +726,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 91,
+				"ko": 90,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -17886,6 +17886,11 @@
 						"ko": 2
 					}
 				},
+				"httrack": {
+					"status": {
+						"en": 2
+					}
+				},
 				"hub": {
 					"status": {
 						"en": 2,
@@ -21173,6 +21178,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"kcmshell6": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kdash": {
@@ -54015,7 +54025,7 @@
 						"en": 2,
 						"es": 1,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"ru": 1
 					}
 				},
