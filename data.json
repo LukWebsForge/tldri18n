@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 06-Aug-26 02:00:10 CEST",
+	"last_update": "Friday, 07-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -49436,7 +49436,7 @@
 				"kinfocenter": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"kjv": {
@@ -57135,7 +57135,7 @@
 				"systemsettings": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"systool": {
