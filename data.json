@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 10-Aug-26 02:00:08 CEST",
+	"last_update": "Tuesday, 11-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -30990,6 +30990,7 @@
 				"podman-export": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -31099,6 +31100,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -31106,13 +31108,15 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"podman-login": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"podman-machine": {
@@ -31135,6 +31139,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -31157,6 +31162,7 @@
 				"podman-save": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -43123,6 +43129,11 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"akmods": {
+					"status": {
+						"en": 2
 					}
 				},
 				"alien": {
