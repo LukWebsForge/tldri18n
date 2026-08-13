@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 12-Aug-26 02:00:10 CEST",
+	"last_update": "Thursday, 13-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16435,8 +16435,8 @@
 				"gofmt": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"zh": 2
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"gofumpt": {
@@ -31880,6 +31880,7 @@
 				"print.zsh": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -33599,7 +33600,8 @@
 				},
 				"recon-ng": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"recsel": {
@@ -33653,12 +33655,14 @@
 				},
 				"reg.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"regedit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"regex": {
@@ -33666,6 +33670,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -33714,7 +33719,8 @@
 				},
 				"reindexdb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"rekor-cli": {
@@ -33733,6 +33739,7 @@
 				"rename": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -33747,7 +33754,8 @@
 				},
 				"repomix": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"repren": {
@@ -33758,7 +33766,8 @@
 				},
 				"resend": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"resolvconf": {
@@ -42627,7 +42636,7 @@
 				"nl": 13,
 				"no": 3,
 				"pl": 8,
-				"pt_BR": 12,
+				"pt_BR": 11,
 				"pt_PT": 4,
 				"ro": 3,
 				"ru": 6,
@@ -46558,6 +46567,11 @@
 						"ko": 2
 					}
 				},
+				"edid-decode": {
+					"status": {
+						"en": 2
+					}
+				},
 				"edit": {
 					"status": {
 						"ar": 2,
@@ -47445,6 +47459,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"get-edid": {
+					"status": {
+						"en": 2
 					}
 				},
 				"getcap": {
