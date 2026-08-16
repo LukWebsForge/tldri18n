@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 15-Aug-26 02:00:09 CEST",
+	"last_update": "Sunday, 16-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -17196,6 +17196,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"hangman": {
+					"status": {
+						"en": 2
 					}
 				},
 				"hangups": {
@@ -49769,7 +49774,7 @@
 				"krfb-virtualmonitor": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"kscreen-console": {
@@ -55115,7 +55120,8 @@
 				},
 				"routel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"rpcclient": {
