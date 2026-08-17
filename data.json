@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 16-Aug-26 02:00:10 CEST",
+	"last_update": "Monday, 17-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -15351,14 +15351,14 @@
 					"status": {
 						"de": 1,
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"fr": 1,
-						"id": 2,
+						"id": 1,
 						"it": 1,
-						"ko": 2,
-						"pt_BR": 2,
+						"ko": 1,
+						"pt_BR": 1,
 						"tr": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"git-rename-branch": {
@@ -19919,7 +19919,7 @@
 				"irb": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"irssi": {
@@ -22913,8 +22913,8 @@
 				"lpoptions": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"lpq": {
@@ -22945,7 +22945,7 @@
 						"de": 1,
 						"en": 2,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"pt_BR": 1
 					}
 				},
@@ -51308,7 +51308,7 @@
 				"mmcli": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"mmdebstrap": {
