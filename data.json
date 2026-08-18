@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 17-Aug-26 02:00:10 CEST",
+	"last_update": "Tuesday, 18-Aug-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16477,6 +16477,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gomoku": {
+					"status": {
+						"en": 2
 					}
 				},
 				"google-chrome": {
@@ -56348,6 +56353,11 @@
 						"ko": 2
 					}
 				},
+				"switcherooctl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"swupd": {
 					"status": {
 						"en": 2,
@@ -60589,6 +60599,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"dtruss": {
+					"status": {
+						"en": 2
 					}
 				},
 				"du": {
