@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 18-Aug-26 02:00:11 CEST",
+	"last_update": "Wednesday, 19-Aug-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -36511,17 +36511,19 @@
 				"swaylock": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"swaymsg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"swaynag": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"swc": {
@@ -36550,7 +36552,8 @@
 				},
 				"syft": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"symfony": {
@@ -36562,7 +36565,7 @@
 				"sync": {
 					"status": {
 						"en": 2,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2
 					}
 				},
