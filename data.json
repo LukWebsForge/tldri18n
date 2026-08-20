@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 19-Aug-26 02:00:11 CEST",
+	"last_update": "Thursday, 20-Aug-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -102,7 +102,7 @@
 						"ko": 2,
 						"ne": 1,
 						"nl": 2,
-						"pl": 1,
+						"pl": 2,
 						"pt_BR": 1,
 						"pt_PT": 1,
 						"ru": 2,
@@ -726,7 +726,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 93,
+				"ko": 94,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -6890,6 +6890,11 @@
 						"zh_TW": 2
 					}
 				},
+				"colcrt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"colima": {
 					"status": {
 						"en": 2,
@@ -11589,7 +11594,7 @@
 				"f3probe": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"f3read": {
@@ -24409,6 +24414,11 @@
 						"ko": 2
 					}
 				},
+				"mmdblookup": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mmdc": {
 					"status": {
 						"en": 2,
@@ -27985,6 +27995,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"openssl-passwd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"openssl-prime": {
@@ -36796,17 +36811,20 @@
 				},
 				"terraform-apply": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-console": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-destroy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-fmt": {
@@ -36818,17 +36836,20 @@
 				},
 				"terraform-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-login": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-logout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-output": {
@@ -36847,22 +36868,26 @@
 				},
 				"terraform-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-taint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-untaint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-validate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terragrunt": {
@@ -36883,7 +36908,7 @@
 					"status": {
 						"en": 2,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1,
 						"zh": 2
@@ -36891,12 +36916,14 @@
 				},
 				"testdisk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"testparm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"testssl": {
@@ -36916,12 +36943,14 @@
 				"tex-fmt": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"texconfig": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"texcount": {
