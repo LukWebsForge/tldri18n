@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 20-Aug-26 02:00:09 CEST",
+	"last_update": "Friday, 21-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8733,7 +8733,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"dockdiver": {
@@ -17417,6 +17418,11 @@
 						"ko": 2
 					}
 				},
+				"herdr": {
+					"status": {
+						"en": 2
+					}
+				},
 				"heroku": {
 					"status": {
 						"en": 2,
@@ -21490,10 +21496,10 @@
 				},
 				"kitty": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"kiwi-ng": {
@@ -33279,6 +33285,7 @@
 				"rabbitmqctl-users": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -35477,6 +35484,11 @@
 						"zh": 2
 					}
 				},
+				"slideshow": {
+					"status": {
+						"en": 2
+					}
+				},
 				"slim": {
 					"status": {
 						"en": 2,
@@ -37039,7 +37051,8 @@
 				},
 				"ticketconverter.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tidy": {
@@ -37050,7 +37063,8 @@
 				},
 				"tidy-viewer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tifftopnm": {
@@ -37089,7 +37103,8 @@
 				},
 				"times": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"timetrap": {
@@ -37108,6 +37123,7 @@
 				"timg": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
@@ -37120,7 +37136,8 @@
 				"tio": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tip": {
@@ -42760,7 +42777,7 @@
 				"nl": 13,
 				"no": 3,
 				"pl": 8,
-				"pt_BR": 11,
+				"pt_BR": 12,
 				"pt_PT": 4,
 				"ro": 3,
 				"ru": 6,
@@ -53273,7 +53290,8 @@
 				"pkexec": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"pt_BR": 2
 					}
 				},
 				"pkgadd": {
@@ -55317,7 +55335,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"run_init": {
