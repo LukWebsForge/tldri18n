@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 21-Aug-26 02:00:10 CEST",
+	"last_update": "Saturday, 22-Aug-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -37405,7 +37405,8 @@
 				},
 				"tlsx": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tmpmail": {
@@ -37509,25 +37510,29 @@
 				"tofu": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tofu-fmt": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tofu-output": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tofu-plan": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"toipe": {
@@ -37545,7 +37550,8 @@
 				},
 				"tookie-osint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"topgrade": {
@@ -37588,22 +37594,26 @@
 				},
 				"tpm2": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tpm2-pcrextend": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tpm2-pcrread": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tpm2-pcrreset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tpp": {
@@ -55154,6 +55164,11 @@
 						"ko": 2
 					}
 				},
+				"rmpc": {
+					"status": {
+						"en": 2
+					}
+				},
 				"rnm": {
 					"status": {
 						"en": 2
@@ -57342,8 +57357,8 @@
 				"systemd-tmpfiles": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"systemd-tty-ask-password-agent": {
