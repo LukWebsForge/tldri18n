@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 22-Aug-26 02:00:09 CEST",
+	"last_update": "Sunday, 23-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -726,7 +726,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 94,
+				"ko": 95,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -35949,7 +35949,8 @@
 				},
 				"srftopam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"srm": {
@@ -35960,7 +35961,8 @@
 				},
 				"srun": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ss-local": {
@@ -36081,7 +36083,8 @@
 				},
 				"st": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"st-flash": {
@@ -36105,7 +36108,8 @@
 				},
 				"st.stat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"st4topgm": {
@@ -36240,7 +36244,8 @@
 				},
 				"stress-ng": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stressapptest": {
@@ -36430,7 +36435,8 @@
 				},
 				"supabase": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"supervisorctl": {
@@ -36461,7 +36467,8 @@
 				"suspend": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"sv": {
@@ -36473,7 +36480,8 @@
 				},
 				"svg2png": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"svgcleaner": {
@@ -36496,7 +36504,8 @@
 				},
 				"svgtopam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"svn": {
@@ -36520,7 +36529,8 @@
 				},
 				"sway": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"swaybg": {
@@ -37633,7 +37643,8 @@
 				"tqdm": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tr": {
@@ -37666,7 +37677,8 @@
 					"status": {
 						"de": 2,
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"trans": {
@@ -37816,7 +37828,8 @@
 				"trdsql": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tre": {
@@ -37846,13 +37859,15 @@
 				},
 				"treemd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"trip": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"trivy": {
@@ -37916,7 +37931,8 @@
 				},
 				"try-rs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ts": {
@@ -37989,18 +38005,21 @@
 				},
 				"tty-clock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ttyd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tuc": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tuckr": {
@@ -38017,12 +38036,14 @@
 				},
 				"tuitube": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tuptime": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"turbo": {
@@ -38033,12 +38054,14 @@
 				},
 				"tv": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tv.fzf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"twine": {
@@ -38067,12 +38090,14 @@
 				},
 				"twurl-accounts": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"twurl-authorize": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tye": {
@@ -38147,7 +38172,8 @@
 				},
 				"typos": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"typst": {
@@ -38159,7 +38185,8 @@
 				"tzconfig": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"u3d": {
@@ -38366,7 +38393,8 @@
 				},
 				"unhash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"unimatrix": {
@@ -38402,7 +38430,8 @@
 				},
 				"unity": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"unlink": {
@@ -38481,7 +38510,8 @@
 				},
 				"unsetopt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"until": {
@@ -47362,6 +47392,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"foremost": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fprintd": {
@@ -58069,6 +58104,11 @@
 					}
 				},
 				"ufw-enable": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ufw-status": {
 					"status": {
 						"en": 2
 					}
