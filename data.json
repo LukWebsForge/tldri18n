@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 23-Aug-26 02:00:10 CEST",
+	"last_update": "Monday, 24-Aug-26 02:00:09 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1342,6 +1342,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -2027,6 +2028,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"pt_BR": 2,
 						"zh": 2
 					}
 				},
@@ -8886,6 +8888,11 @@
 						"en": 2,
 						"ko": 2,
 						"ru": 2
+					}
+				},
+				"docker-compose-start": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-compose-stop": {
@@ -22440,6 +22447,11 @@
 						"ko": 2
 					}
 				},
+				"litert-lm": {
+					"status": {
+						"en": 2
+					}
+				},
 				"live-server": {
 					"status": {
 						"en": 2,
@@ -25095,6 +25107,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"multipass-transfer": {
+					"status": {
+						"en": 2
 					}
 				},
 				"multitail": {
@@ -31226,6 +31243,7 @@
 				"podman-save": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -34623,6 +34641,7 @@
 				"sambapipe.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -43429,7 +43448,13 @@
 						"id": 2,
 						"ko": 2,
 						"pl": 2,
+						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"ananicy-cpp": {
+					"status": {
+						"en": 2
 					}
 				},
 				"anbox": {
@@ -55486,6 +55511,11 @@
 						"ko": 2
 					}
 				},
+				"scalpel": {
+					"status": {
+						"en": 2
+					}
+				},
 				"scancel": {
 					"status": {
 						"en": 2,
@@ -60015,7 +60045,7 @@
 				"fr": 31,
 				"hi": 31,
 				"id": 46,
-				"it": 34,
+				"it": 33,
 				"ja": 1,
 				"ko": 88,
 				"lo": 1,
@@ -60474,6 +60504,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"container": {
+					"status": {
+						"en": 2
 					}
 				},
 				"coreaudiod": {
