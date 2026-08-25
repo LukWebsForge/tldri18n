@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 24-Aug-26 02:00:09 CEST",
+	"last_update": "Tuesday, 25-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -16575,6 +16575,11 @@
 						"ko": 1
 					}
 				},
+				"govulncheck": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gow": {
 					"status": {
 						"en": 2,
@@ -21860,6 +21865,11 @@
 						"en": 2,
 						"ko": 2,
 						"ru": 2
+					}
+				},
+				"kubectl-krew": {
+					"status": {
+						"en": 2
 					}
 				},
 				"kubectl-kustomize": {
@@ -31441,7 +31451,7 @@
 				"posh": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"postcss": {
@@ -39474,8 +39484,8 @@
 				"virsh-domblklist": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"virsh-help": {
@@ -48927,6 +48937,21 @@
 						"ko": 2
 					}
 				},
+				"hyprcursor-util": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hypridle": {
+					"status": {
+						"en": 2
+					}
+				},
+				"hyprlock": {
+					"status": {
+						"en": 2
+					}
+				},
 				"hyprpaper": {
 					"status": {
 						"en": 2
@@ -49911,6 +49936,11 @@
 					"status": {
 						"en": 2,
 						"ko": 1
+					}
+				},
+				"kscreenctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ksvgtopng5": {
