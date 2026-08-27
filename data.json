@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 26-Aug-26 02:00:10 CEST",
+	"last_update": "Thursday, 27-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -10453,6 +10453,11 @@
 						"it": 2,
 						"ko": 2,
 						"uk": 2
+					}
+				},
+				"dolos": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dolt": {
@@ -39491,6 +39496,11 @@
 						"pt_BR": 2
 					}
 				},
+				"virsh-domblkinfo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"virsh-domblklist": {
 					"status": {
 						"en": 2,
@@ -55870,6 +55880,11 @@
 					}
 				},
 				"setfont": {
+					"status": {
+						"en": 2
+					}
+				},
+				"setleds": {
 					"status": {
 						"en": 2
 					}
