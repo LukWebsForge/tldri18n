@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 27-Aug-26 02:00:10 CEST",
+	"last_update": "Friday, 28-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -55665,7 +55665,8 @@
 				},
 				"sealert": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2
 					}
 				},
 				"secon": {
