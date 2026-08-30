@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 29-Aug-26 02:00:08 CEST",
+	"last_update": "Sunday, 30-Aug-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12856,6 +12856,7 @@
 				"gawk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"ru": 2
 					}
@@ -36691,6 +36692,11 @@
 						"zh": 1
 					}
 				},
+				"tailcat": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tailscale": {
 					"status": {
 						"en": 2,
@@ -42873,7 +42879,7 @@
 				"es": 32,
 				"fa": 4,
 				"fi": 8,
-				"fr": 7,
+				"fr": 8,
 				"hi": 5,
 				"id": 8,
 				"it": 16,
@@ -46734,6 +46740,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"duff": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dump.exfat": {
@@ -54800,6 +54811,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -54807,6 +54819,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -54814,6 +54827,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -57913,6 +57927,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2,
@@ -57922,12 +57937,14 @@
 				},
 				"trash-empty": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"trash-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"trash-put": {
@@ -57975,12 +57992,14 @@
 				},
 				"trash-restore": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"trash-rm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"trashy": {
@@ -68121,6 +68140,7 @@
 				"set-alias": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
