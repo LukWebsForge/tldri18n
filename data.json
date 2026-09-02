@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 01-Sep-26 02:00:10 CEST",
+	"last_update": "Wednesday, 02-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8889,7 +8889,8 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"docker-compose-logs": {
@@ -8910,7 +8911,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"docker-compose-up": {
@@ -9222,7 +9224,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"docker-container-top": {
@@ -20716,6 +20719,31 @@
 						"ko": 2
 					}
 				},
+				"jj-file": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-file-annotate": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-file-list": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-file-search": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-file-show": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-git": {
 					"status": {
 						"en": 2,
@@ -22851,7 +22879,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"zh": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -23973,6 +24001,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -24296,6 +24325,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -28176,6 +28206,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -32013,6 +32044,7 @@
 				"printenv": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -34147,6 +34179,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -36520,6 +36553,7 @@
 				"surfraw": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -38800,6 +38834,7 @@
 				"uv-export": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -38807,12 +38842,14 @@
 				"uv-help": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"uv-init": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -38820,12 +38857,14 @@
 				"uv-lock": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"uv-pip": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -38833,6 +38872,7 @@
 				"uv-publish": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -38849,12 +38889,14 @@
 				"uv-remove": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"uv-run": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -38862,12 +38904,14 @@
 				"uv-self": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
 				"uv-sync": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2,
 						"zh": 2
 					}
@@ -39695,6 +39739,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -46615,6 +46660,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -47903,28 +47949,32 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuarch": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnub2sum": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnubase32": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnubase64": {
@@ -53539,6 +53589,7 @@
 				"pkgctl-repo": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -57283,12 +57334,14 @@
 				"systemctl-start": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
 				"systemctl-status": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
@@ -57296,6 +57349,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -58247,6 +58301,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
@@ -58255,6 +58310,17 @@
 					}
 				},
 				"ufw-allow": {
+					"status": {
+						"en": 2,
+						"fr": 2
+					}
+				},
+				"ufw-default": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ufw-delete": {
 					"status": {
 						"en": 2
 					}
@@ -58266,17 +58332,20 @@
 				},
 				"ufw-disable": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ufw-enable": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"ufw-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"fr": 2
 					}
 				},
 				"uinput": {
