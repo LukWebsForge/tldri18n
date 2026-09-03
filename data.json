@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 02-Sep-26 02:00:10 CEST",
+	"last_update": "Thursday, 03-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8321,6 +8321,11 @@
 						"ko": 2
 					}
 				},
+				"deallocvt": {
+					"status": {
+						"en": 2
+					}
+				},
 				"decaffeinate": {
 					"status": {
 						"en": 2,
@@ -8800,6 +8805,11 @@
 						"ko": 2
 					}
 				},
+				"docker-buildx-inspect": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-buildx-ls": {
 					"status": {
 						"en": 2,
@@ -8816,6 +8826,16 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"docker-buildx-stop": {
+					"status": {
+						"en": 2
+					}
+				},
+				"docker-buildx-use": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-buildx-version": {
@@ -22963,6 +22983,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"lore": {
+					"status": {
+						"en": 2
 					}
 				},
 				"lorem": {
@@ -42960,7 +42985,7 @@
 				"es": 32,
 				"fa": 4,
 				"fi": 8,
-				"fr": 8,
+				"fr": 13,
 				"hi": 5,
 				"id": 8,
 				"it": 16,
@@ -47981,625 +48006,725 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnubasename": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnubasenc": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnucat": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuchcon": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuchgrp": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuchmod": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuchown": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnucksum": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnucomm": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnucp": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnucsplit": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnucut": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnudate": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnudd": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnudf": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnudir": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnudircolors": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnudirname": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnudu": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuecho": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuenv": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuexpand": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuexpr": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnufactor": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnufalse": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnufmt": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnufold": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnugroups": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuhead": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuhostid": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuid": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuinstall": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnujoin": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnulink": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuln": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnulogname": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuls": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnumd5sum": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnumkdir": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnumkfifo": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnumknod": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnumktemp": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnumv": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnunice": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnunl": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnunohup": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnunproc": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnunumfmt": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuod": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnupaste": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnupathchk": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnupinky": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnupr": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuprintenv": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuprintf": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuptx": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnupwd": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnureadlink": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnurealpath": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnurm": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnurmdir": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuruncon": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuseq": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusha1sum": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusha224sum": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusha256sum": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusha384sum": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusha512sum": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnushred": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnushuf": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusleep": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusort": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusplit": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnustat": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnustdbuf": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnustty": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusum": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnusync": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutac": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutail": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutee": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutest": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutimeout": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutouch": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutr": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutrue": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutruncate": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutsort": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnutty": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuuname": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuunexpand": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuuniq": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuunlink": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuusers": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuvdir": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuwc": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuwho": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuwhoami": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"gnuyes": {
 					"status": {
 						"en": 2,
-						"fi": 2
+						"fi": 2,
+						"fr": 2
 					}
 				},
 				"goaccess": {
@@ -48751,6 +48876,11 @@
 						"ko": 2,
 						"tr": 2,
 						"zh": 2
+					}
+				},
+				"grub-mkfont": {
+					"status": {
+						"en": 2
 					}
 				},
 				"grub-mkrescue": {
