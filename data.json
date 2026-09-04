@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 03-Sep-26 02:00:10 CEST",
+	"last_update": "Friday, 04-Sep-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8796,13 +8796,15 @@
 				"docker-buildx-create": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-buildx-du": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-buildx-inspect": {
@@ -8813,19 +8815,22 @@
 				"docker-buildx-ls": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-buildx-prune": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-buildx-rm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"pt_BR": 2
 					}
 				},
 				"docker-buildx-stop": {
