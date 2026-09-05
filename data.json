@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 04-Sep-26 02:00:11 CEST",
+	"last_update": "Saturday, 05-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2831,6 +2831,11 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"aws-ecs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aws-eks": {
@@ -9458,7 +9463,8 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"docker-image-ls": {
@@ -9470,7 +9476,8 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"pl": 1
+						"pl": 1,
+						"zh": 2
 					}
 				},
 				"docker-image-pull": {
@@ -9481,7 +9488,8 @@
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"zh": 2
 					}
 				},
 				"docker-image-rm": {
@@ -9490,7 +9498,8 @@
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"zh": 2
 					}
 				},
 				"docker-image-save": {
@@ -9503,7 +9512,8 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"docker-image-tag": {
@@ -11928,6 +11938,7 @@
 						"ne": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -38959,6 +38970,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2,
 						"ru": 2
 					}
@@ -38966,6 +38978,7 @@
 				"uv-venv": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2,
 						"zh": 1
 					}
@@ -38973,6 +38986,7 @@
 				"uv-version": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -39028,12 +39042,14 @@
 				},
 				"v": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vacuumdb": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant": {
@@ -39047,94 +39063,112 @@
 				"vagrant-box": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-destroy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-global-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-halt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-plugin": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-port": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-reload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-resume": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-snapshot": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-ssh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-ssh-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-suspend": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-upload": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-validate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vagrant-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vainfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vala": {
@@ -39164,7 +39198,8 @@
 				},
 				"valkey-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"var-dump-server": {
@@ -39241,7 +39276,8 @@
 				},
 				"vboxmanage-modifyvm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vboxmanage-movevm": {
@@ -39320,7 +39356,8 @@
 				},
 				"vcluster": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vcpkg": {
@@ -39435,7 +39472,8 @@
 				},
 				"vet": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vf": {
@@ -39507,7 +39545,8 @@
 				},
 				"vibe": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vidir": {
@@ -39605,7 +39644,8 @@
 				},
 				"virsh-domblkinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virsh-domblklist": {
@@ -39617,7 +39657,8 @@
 				},
 				"virsh-dumpxml": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virsh-help": {
@@ -39699,17 +39740,20 @@
 				},
 				"virsh-snapshot-delete": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virsh-snapshot-dumpxml": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virsh-snapshot-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"virsh-undefine": {
@@ -39755,7 +39799,8 @@
 				},
 				"vitest": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"viu": {
@@ -39779,7 +39824,8 @@
 				},
 				"vkcube": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vladimyr": {
@@ -40400,6 +40446,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"woodpecker-cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"wordgrinder": {
@@ -42624,7 +42675,7 @@
 				"id": 50,
 				"it": 31,
 				"ja": 31,
-				"ko": 93,
+				"ko": 100,
 				"lo": 31,
 				"ml": 31,
 				"nb": 31,
@@ -42800,7 +42851,8 @@
 				"pfctl": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"pkg": {
@@ -42990,10 +43042,10 @@
 				"es": 32,
 				"fa": 4,
 				"fi": 8,
-				"fr": 13,
+				"fr": 14,
 				"hi": 5,
 				"id": 8,
-				"it": 16,
+				"it": 18,
 				"ja": 4,
 				"ko": 75,
 				"lo": 3,
@@ -43514,7 +43566,8 @@
 				},
 				"akmods": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"alien": {
@@ -43621,7 +43674,8 @@
 				},
 				"ananicy-cpp": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"anbox": {
@@ -45899,6 +45953,7 @@
 				"cryptsetup": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 1,
 						"zh": 1
 					}
@@ -45906,6 +45961,7 @@
 				"cryptsetup-luksformat": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -45913,6 +45969,7 @@
 				"cryptsetup-open": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -46856,7 +46913,8 @@
 				},
 				"duff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dump.exfat": {
@@ -46948,7 +47006,8 @@
 				},
 				"edid-decode": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"edit": {
@@ -48754,7 +48813,9 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -48966,18 +49027,21 @@
 				"gst-launch-1.0-pipewiresink": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"gst-launch-1.0-pipewiresrc": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"gst-launch-1.0-v4l2src": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -49768,6 +49832,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -49778,6 +49843,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -49788,6 +49854,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -50092,57 +50159,68 @@
 				},
 				"koji": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-buildinfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-call": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-cancel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-download-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-resubmit": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-tag-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-taginfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"koji-untag-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"konsave": {
@@ -51847,6 +51925,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -52509,6 +52588,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -53274,7 +53354,8 @@
 				},
 				"pct": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pct-clone": {
@@ -53618,6 +53699,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"ru": 2
@@ -53627,18 +53709,23 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"fr": 2,
+						"it": 2
 					}
 				},
 				"pipewire-avb": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"fr": 2,
+						"it": 2
 					}
 				},
 				"pipewire-pulse": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pirut": {
@@ -53682,6 +53769,7 @@
 				"pkgctl": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -53689,6 +53777,7 @@
 				"pkgctl-auth": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -53696,6 +53785,7 @@
 				"pkgctl-build": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -53703,6 +53793,7 @@
 				"pkgctl-db-update": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -53710,6 +53801,7 @@
 				"pkgctl-diff": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -53717,6 +53809,7 @@
 				"pkgctl-release": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -55282,8 +55375,8 @@
 				"readelf": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
+						"es": 1,
+						"ko": 1,
 						"zh": 1
 					}
 				},
@@ -55463,6 +55556,7 @@
 				"restorecon": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -57589,6 +57683,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
@@ -59025,6 +59120,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -59815,6 +59911,7 @@
 						"en": 2,
 						"es": 1,
 						"fa": 1,
+						"fr": 2,
 						"id": 1,
 						"ko": 1,
 						"nl": 2,
@@ -59868,6 +59965,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"it": 2,
 						"nl": 2,
 						"pl": 2
@@ -68088,6 +68186,7 @@
 				"saracmd": {
 					"status": {
 						"en": 2,
+						"fr": 2,
 						"ko": 2
 					}
 				},
