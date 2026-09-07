@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 06-Sep-26 02:00:11 CEST",
+	"last_update": "Monday, 07-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -731,7 +731,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 95,
+				"ko": 96,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -31376,52 +31376,62 @@
 				},
 				"poetry-about": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-cache": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-check": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-debug": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-env": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-export": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-help": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-init": {
@@ -37582,7 +37592,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
@@ -39849,7 +39859,8 @@
 				"vmtouch": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"volta": {
@@ -39927,22 +39938,26 @@
 				},
 				"wacli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-auth": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-contacts-alias-set": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-contacts-refresh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-contacts-search": {
@@ -52305,6 +52320,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -52742,7 +52758,7 @@
 						"en": 2,
 						"es": 2,
 						"fa": 2,
-						"fr": 1,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ko": 2,
@@ -56950,7 +56966,7 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"hi": 2,
 						"ja": 2,
 						"ko": 2,
@@ -58577,6 +58593,11 @@
 					"status": {
 						"en": 2,
 						"fr": 2
+					}
+				},
+				"ufw-version": {
+					"status": {
+						"en": 2
 					}
 				},
 				"uinput": {
