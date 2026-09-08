@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 07-Sep-26 02:00:10 CEST",
+	"last_update": "Tuesday, 08-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -722,7 +722,7 @@
 				"da": 4,
 				"de": 11,
 				"el": 4,
-				"en": 100,
+				"en": 99,
 				"es": 24,
 				"fa": 6,
 				"fi": 4,
@@ -10370,6 +10370,11 @@
 						"en": 2
 					}
 				},
+				"doctl-1-click": {
+					"status": {
+						"en": 2
+					}
+				},
 				"doctl-account": {
 					"status": {
 						"en": 2,
@@ -10392,6 +10397,16 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"doctl-billing-history": {
+					"status": {
+						"en": 2
+					}
+				},
+				"doctl-completion": {
+					"status": {
+						"en": 2
 					}
 				},
 				"doctl-compute-droplet": {
@@ -10454,6 +10469,11 @@
 						"ko": 2
 					}
 				},
+				"doctl-invoice": {
+					"status": {
+						"en": 2
+					}
+				},
 				"doctl-kubernetes-cluster": {
 					"status": {
 						"en": 2,
@@ -10470,6 +10490,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"doctl-vpcs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"doctum": {
@@ -19003,6 +19028,12 @@
 						"zh_TW": 2
 					}
 				},
+				"impacket-machine_role": {
+					"status": {
+						"en": 2,
+						"fr": 2
+					}
+				},
 				"impacket-mqtt_check": {
 					"status": {
 						"ar": 2,
@@ -20845,6 +20876,21 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"jj-operation-diff": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-operation-log": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-operation-show": {
+					"status": {
+						"en": 2
 					}
 				},
 				"jj-parallelize": {
@@ -23704,6 +23750,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"machine_role.py": {
+					"status": {
+						"en": 2
 					}
 				},
 				"macptopbm": {
@@ -31436,92 +31487,110 @@
 				},
 				"poetry-init": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-lock": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-new": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-publish": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-python": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-remove": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-self": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-shell": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-source": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-sync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-update": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"poetry-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pokeget": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"polybar": {
@@ -31540,7 +31609,8 @@
 				},
 				"pomo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pop": {
@@ -32509,7 +32579,8 @@
 				},
 				"pulumi-cancel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-config": {
@@ -36753,7 +36824,6 @@
 				},
 				"sync": {
 					"status": {
-						"en": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -55557,6 +55627,7 @@
 				"resolvectl": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
@@ -56932,6 +57003,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"sync": {
+					"status": {
+						"en": 2
 					}
 				},
 				"synopkg": {
@@ -60507,7 +60583,7 @@
 				"id": 46,
 				"it": 33,
 				"ja": 1,
-				"ko": 88,
+				"ko": 87,
 				"lo": 1,
 				"ml": 1,
 				"nb": 1,
@@ -60518,7 +60594,7 @@
 				"pt_BR": 47,
 				"pt_PT": 33,
 				"ro": 1,
-				"ru": 39,
+				"ru": 38,
 				"sr": 1,
 				"sv": 1,
 				"ta": 31,
@@ -65017,6 +65093,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"sync": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sysctl": {
