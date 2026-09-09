@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 08-Sep-26 02:00:10 CEST",
+	"last_update": "Wednesday, 09-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -5557,7 +5557,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
@@ -20845,7 +20845,7 @@
 				"jj-git-remote": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"jj-interdiff": {
@@ -32586,12 +32586,14 @@
 				"pulumi-config": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"ko": 2
 					}
 				},
 				"pulumi-console": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-destroy": {
@@ -32648,22 +32650,26 @@
 				"pulumi-env": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-gen-completion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-import": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-install": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-login": {
@@ -32675,28 +32681,33 @@
 				},
 				"pulumi-logout": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-new": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-org": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-plugin": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-policy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-preview": {
@@ -32708,12 +32719,14 @@
 				"pulumi-refresh": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-schema": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-stack": {
@@ -32769,13 +32782,15 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ko": 2,
 						"nl": 2
 					}
 				},
 				"pulumi-state": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"ko": 2
 					}
 				},
 				"pulumi-up": {
@@ -56181,6 +56196,7 @@
 				"semanage-fcontext": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2
 					}
@@ -56198,6 +56214,7 @@
 				"semanage-permissive": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2
 					}
