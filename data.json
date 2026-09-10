@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 09-Sep-26 02:00:10 CEST",
+	"last_update": "Thursday, 10-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2835,7 +2835,8 @@
 				},
 				"aws-ecs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"aws-eks": {
@@ -10367,12 +10368,14 @@
 				},
 				"doctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"doctl-1-click": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"doctl-account": {
@@ -10401,12 +10404,14 @@
 				},
 				"doctl-billing-history": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"doctl-completion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"doctl-compute-droplet": {
@@ -10471,7 +10476,8 @@
 				},
 				"doctl-invoice": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"doctl-kubernetes-cluster": {
@@ -10494,7 +10500,8 @@
 				},
 				"doctl-vpcs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"doctum": {
@@ -10528,7 +10535,8 @@
 				},
 				"dolos": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dolt": {
@@ -17313,7 +17321,8 @@
 				},
 				"hangman": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hangups": {
@@ -17523,7 +17532,8 @@
 				"herdr": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"heroku": {
@@ -18032,7 +18042,8 @@
 				},
 				"httrack": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hub": {
@@ -19031,7 +19042,8 @@
 				"impacket-machine_role": {
 					"status": {
 						"en": 2,
-						"fr": 2
+						"fr": 2,
+						"ko": 2
 					}
 				},
 				"impacket-mqtt_check": {
@@ -20804,12 +20816,14 @@
 				},
 				"jj-file-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"jj-file-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"jj-git": {
@@ -22601,7 +22615,8 @@
 				},
 				"litert-lm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"live-server": {
@@ -41669,7 +41684,7 @@
 				"z": {
 					"status": {
 						"en": 2,
-						"fr": 1,
+						"fr": 2,
 						"ja": 1,
 						"ko": 2,
 						"zh": 2
@@ -56110,6 +56125,7 @@
 				"secon": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -67979,7 +67995,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"hi": 1,
 						"id": 2,
 						"it": 1,
@@ -69160,7 +69176,7 @@
 						"bn": 2,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"hi": 2,
 						"id": 2,
 						"it": 2,
