@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 10-Sep-26 02:00:10 CEST",
+	"last_update": "Friday, 11-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -731,7 +731,7 @@
 				"id": 14,
 				"it": 18,
 				"ja": 6,
-				"ko": 96,
+				"ko": 97,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -15810,6 +15810,7 @@
 						"hi": 1,
 						"id": 1,
 						"it": 1,
+						"ja": 2,
 						"ko": 1,
 						"pt_BR": 1,
 						"ru": 2,
@@ -20801,17 +20802,20 @@
 				},
 				"jj-file": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"jj-file-annotate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"jj-file-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"jj-file-search": {
@@ -20894,17 +20898,20 @@
 				},
 				"jj-operation-diff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"jj-operation-log": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"jj-operation-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"jj-parallelize": {
@@ -23065,7 +23072,8 @@
 				},
 				"lore": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"lorem": {
@@ -23769,7 +23777,8 @@
 				},
 				"machine_role.py": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"macptopbm": {
@@ -32861,12 +32870,14 @@
 				},
 				"pulumi-version": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-whoami": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pup": {
@@ -33958,6 +33969,7 @@
 				"redshift": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -34515,6 +34527,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"rumdl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"run-help": {
@@ -35607,6 +35624,7 @@
 					"status": {
 						"ar": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -38320,6 +38338,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"tw": {
+					"status": {
+						"en": 2
 					}
 				},
 				"twine": {
