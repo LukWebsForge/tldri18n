@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 13-Sep-26 02:00:10 CEST",
+	"last_update": "Monday, 14-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -737,7 +737,7 @@
 				"nb": 4,
 				"ne": 4,
 				"nl": 19,
-				"no": 5,
+				"no": 4,
 				"pl": 6,
 				"pt_BR": 13,
 				"pt_PT": 5,
@@ -16018,6 +16018,11 @@
 						"ko": 2
 					}
 				},
+				"git-unpack-objects": {
+					"status": {
+						"en": 2
+					}
+				},
 				"git-update-index": {
 					"status": {
 						"en": 2,
@@ -20905,13 +20910,18 @@
 				"jj-file": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"jj-file-annotate": {
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"jj-file-chmod": {
+					"status": {
+						"en": 2
 					}
 				},
 				"jj-file-list": {
@@ -20930,6 +20940,16 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"jj-file-track": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-file-untrack": {
+					"status": {
+						"en": 2
 					}
 				},
 				"jj-git": {
@@ -36011,38 +36031,45 @@
 				"snmpget": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"ko": 2
 					}
 				},
 				"snmpgetnext": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snmpnetstat": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 1,
+						"ko": 2
 					}
 				},
 				"snmpset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snmpstatus": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snmptable": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snmptest": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"snmpwalk": {
@@ -37066,7 +37093,8 @@
 				},
 				"tailcat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tailscale": {
@@ -37083,12 +37111,14 @@
 				},
 				"tailscale-funnel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tailscale-set": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tailscale-ssh": {
