@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 14-Sep-26 02:00:10 CEST",
+	"last_update": "Tuesday, 15-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -730,7 +730,7 @@
 				"hi": 6,
 				"id": 14,
 				"it": 18,
-				"ja": 8,
+				"ja": 9,
 				"ko": 97,
 				"lo": 4,
 				"ml": 4,
@@ -14247,6 +14247,7 @@
 						"en": 2,
 						"fr": 2,
 						"id": 2,
+						"ja": 2,
 						"ko": 2,
 						"ro": 2,
 						"ta": 2,
@@ -14456,6 +14457,7 @@
 						"fr": 2,
 						"id": 2,
 						"it": 2,
+						"ja": 2,
 						"ko": 2,
 						"ta": 2,
 						"tr": 2,
@@ -14623,6 +14625,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ja": 2,
 						"ko": 2,
 						"tr": 2,
 						"zh": 2
@@ -14793,6 +14796,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ja": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -14801,6 +14805,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ja": 2,
 						"ko": 2,
 						"zh": 2
 					}
@@ -14808,6 +14813,7 @@
 				"git-cvsexportcommit": {
 					"status": {
 						"en": 2,
+						"ja": 2,
 						"ko": 2
 					}
 				},
@@ -14932,6 +14938,7 @@
 				"git-fast-export": {
 					"status": {
 						"en": 2,
+						"ja": 2,
 						"ko": 2
 					}
 				},
@@ -14987,6 +14994,7 @@
 				"git-for-each-repo": {
 					"status": {
 						"en": 2,
+						"ja": 2,
 						"ko": 2
 					}
 				},
@@ -15079,6 +15087,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"ja": 2,
 						"ko": 2
 					}
 				},
@@ -15294,6 +15303,7 @@
 				"git-merge-index": {
 					"status": {
 						"en": 2,
+						"ja": 2,
 						"ko": 2,
 						"ro": 2
 					}
@@ -15308,6 +15318,7 @@
 				"git-merge-one-file": {
 					"status": {
 						"en": 2,
+						"ja": 2,
 						"ko": 2,
 						"ro": 2
 					}
@@ -15756,6 +15767,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ja": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -15930,6 +15942,7 @@
 						"en": 2,
 						"fr": 2,
 						"it": 2,
+						"ja": 2,
 						"ko": 2,
 						"tr": 2
 					}
@@ -16045,6 +16058,7 @@
 				"git-update-server-info": {
 					"status": {
 						"en": 2,
+						"ja": 2,
 						"ko": 2
 					}
 				},
@@ -16089,6 +16103,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"ja": 2,
 						"ko": 1,
 						"nl": 2
 					}
@@ -20871,6 +20886,11 @@
 						"ko": 2
 					}
 				},
+				"jj-converge": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-describe": {
 					"status": {
 						"en": 2,
@@ -21124,6 +21144,11 @@
 						"ko": 2
 					}
 				},
+				"jj-sparse": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-split": {
 					"status": {
 						"en": 2,
@@ -21170,6 +21195,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"jj-workspace": {
+					"status": {
+						"en": 2
 					}
 				},
 				"jless": {
@@ -37141,7 +37171,8 @@
 				},
 				"talosctl": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tar": {
@@ -37214,7 +37245,8 @@
 				"tcpreplay": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tcsh": {
@@ -37225,7 +37257,8 @@
 				},
 				"tdf": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tea": {
@@ -37461,12 +37494,14 @@
 				},
 				"tgcloud": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tginfo": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tgpt": {
@@ -37478,12 +37513,14 @@
 				},
 				"tgsend": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tgutil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"theharvester": {
@@ -37495,7 +37532,8 @@
 				},
 				"then": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"thinkjettopbm": {
@@ -37604,7 +37642,8 @@
 				},
 				"tip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"tldr": {
@@ -40262,32 +40301,38 @@
 				},
 				"wacli-contacts-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-contacts-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-contacts-tags-add": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-messages-context": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-messages-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-messages-search": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-messages-show": {
@@ -56145,6 +56190,7 @@
 				"runcon": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
