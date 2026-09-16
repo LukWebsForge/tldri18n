@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 15-Sep-26 02:00:10 CEST",
+	"last_update": "Wednesday, 16-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -8792,17 +8792,22 @@
 				},
 				"docker-build": {
 					"status": {
-						"de": 2,
+						"de": 1,
 						"en": 2,
-						"fr": 2,
-						"id": 2,
+						"fr": 1,
+						"id": 1,
 						"it": 1,
-						"ja": 2,
-						"ko": 2,
-						"pt_BR": 2,
+						"ja": 1,
+						"ko": 1,
+						"pt_BR": 1,
 						"tr": 1,
-						"zh": 2,
-						"zh_TW": 2
+						"zh": 1,
+						"zh_TW": 1
+					}
+				},
+				"docker-buildx-build": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-buildx-create": {
@@ -16752,6 +16757,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gopls": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gops": {
@@ -40337,22 +40347,26 @@
 				},
 				"wacli-messages-show": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-send-file": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-send-text": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wacli-sync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wafw00f": {
@@ -40376,7 +40390,8 @@
 				},
 				"wait4x": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wait4x-http": {
@@ -40559,7 +40574,8 @@
 				},
 				"webpmux": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"webstorm": {
@@ -40583,12 +40599,14 @@
 				"wezterm": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"wezterm-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wfuzz": {
@@ -40628,7 +40646,8 @@
 				"whatweb": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"whence": {
@@ -40745,7 +40764,8 @@
 				"wikiman": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"wikit": {
@@ -43397,7 +43417,7 @@
 				"ca": 7,
 				"cs": 4,
 				"da": 3,
-				"de": 8,
+				"de": 7,
 				"el": 3,
 				"en": 100,
 				"es": 32,
@@ -43416,7 +43436,7 @@
 				"nl": 13,
 				"no": 3,
 				"pl": 8,
-				"pt_BR": 12,
+				"pt_BR": 11,
 				"pt_PT": 4,
 				"ro": 3,
 				"ru": 6,
@@ -43427,7 +43447,7 @@
 				"tr": 7,
 				"uk": 4,
 				"uz": 3,
-				"zh": 11,
+				"zh": 10,
 				"zh_TW": 3
 			},
 			"pages": {
@@ -44569,6 +44589,12 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"arch-update": {
+					"status": {
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"archey": {
@@ -51787,6 +51813,7 @@
 				"matchpathcon": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -59704,6 +59731,11 @@
 						"ta": 1
 					}
 				},
+				"wine-net": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wine-reg": {
 					"status": {
 						"en": 2
@@ -59735,6 +59767,46 @@
 					}
 				},
 				"wine-reg-query": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wine-sc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wine-start": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wine-uninstaller": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wineboot": {
+					"status": {
+						"en": 2
+					}
+				},
+				"winecfg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"winedbg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"winepath": {
+					"status": {
+						"en": 2
+					}
+				},
+				"wineserver": {
 					"status": {
 						"en": 2
 					}
@@ -63895,6 +63967,7 @@
 						"fi": 2,
 						"fr": 2,
 						"id": 2,
+						"ml": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
