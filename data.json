@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 16-Sep-26 02:00:10 CEST",
+	"last_update": "Thursday, 17-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -1469,6 +1469,11 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"aft-mtp-cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ag": {
@@ -7088,8 +7093,8 @@
 				"compopt": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"composer": {
@@ -13779,7 +13784,7 @@
 				"gh-extension": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"gh-formatting": {
@@ -20982,6 +20987,11 @@
 						"en": 2
 					}
 				},
+				"jj-fix": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-git": {
 					"status": {
 						"en": 2,
@@ -21038,6 +21048,11 @@
 						"en": 2
 					}
 				},
+				"jj-help": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-interdiff": {
 					"status": {
 						"en": 2,
@@ -21048,6 +21063,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"jj-metaedit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"jj-new": {
@@ -21124,6 +21144,11 @@
 						"ko": 2
 					}
 				},
+				"jj-redo": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-resolve": {
 					"status": {
 						"en": 2,
@@ -21146,6 +21171,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"jj-sign": {
+					"status": {
+						"en": 2
 					}
 				},
 				"jj-simplify-parents": {
@@ -21205,6 +21235,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"jj-unsign": {
+					"status": {
+						"en": 2
 					}
 				},
 				"jj-workspace": {
@@ -40797,7 +40832,8 @@
 				},
 				"wishlist": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wkhtmltopdf": {
@@ -40809,17 +40845,20 @@
 				"wlc": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"wlsunset": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wn": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -40831,7 +40870,8 @@
 				},
 				"woodpecker-cli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"wordgrinder": {
@@ -59797,6 +59837,16 @@
 					}
 				},
 				"winedbg": {
+					"status": {
+						"en": 2
+					}
+				},
+				"winedump": {
+					"status": {
+						"en": 2
+					}
+				},
+				"winemaker": {
 					"status": {
 						"en": 2
 					}
