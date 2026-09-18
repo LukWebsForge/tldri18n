@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 17-Sep-26 02:00:10 CEST",
+	"last_update": "Friday, 18-Sep-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -722,7 +722,7 @@
 				"da": 4,
 				"de": 11,
 				"el": 4,
-				"en": 99,
+				"en": 100,
 				"es": 24,
 				"fa": 6,
 				"fi": 4,
@@ -6923,8 +6923,8 @@
 				"colima": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"colon": {
@@ -15011,7 +15011,7 @@
 				"git-force-clone": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"git-fork": {
@@ -15583,7 +15583,7 @@
 				"git-repack": {
 					"status": {
 						"en": 2,
-						"fr": 1,
+						"fr": 2,
 						"it": 1,
 						"ja": 2,
 						"ko": 1,
@@ -20841,6 +20841,11 @@
 						"ko": 2
 					}
 				},
+				"jj-arrange": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-bisect": {
 					"status": {
 						"en": 2,
@@ -20988,6 +20993,11 @@
 					}
 				},
 				"jj-fix": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-gerrit": {
 					"status": {
 						"en": 2
 					}
@@ -21167,6 +21177,11 @@
 						"ko": 2
 					}
 				},
+				"jj-root": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-show": {
 					"status": {
 						"en": 2,
@@ -21238,6 +21253,11 @@
 					}
 				},
 				"jj-unsign": {
+					"status": {
+						"en": 2
+					}
+				},
+				"jj-util": {
 					"status": {
 						"en": 2
 					}
@@ -27589,8 +27609,8 @@
 				"npm-token": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"ru": 2
+						"ko": 1,
+						"ru": 1
 					}
 				},
 				"npm-uninstall": {
@@ -28672,7 +28692,7 @@
 				"packtpub": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"packwiz": {
@@ -37119,12 +37139,6 @@
 						"ko": 2
 					}
 				},
-				"sync": {
-					"status": {
-						"ko": 2,
-						"nl": 2
-					}
-				},
 				"syncthing": {
 					"status": {
 						"en": 2,
@@ -40947,18 +40961,21 @@
 				"x": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"x-ping": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"x-tping": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -40972,6 +40989,7 @@
 				"x8": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -41023,7 +41041,8 @@
 				},
 				"xdelta3": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xe": {
@@ -46335,7 +46354,7 @@
 				"cpupower": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"create-image": {
@@ -50016,7 +50035,7 @@
 				"ionice": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"iostat": {
@@ -57354,7 +57373,9 @@
 				},
 				"sync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"synopkg": {
@@ -60985,7 +61006,7 @@
 				"id": 46,
 				"it": 33,
 				"ja": 1,
-				"ko": 87,
+				"ko": 88,
 				"lo": 1,
 				"ml": 1,
 				"nb": 1,
@@ -65500,7 +65521,9 @@
 				},
 				"sync": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"sysctl": {
@@ -67260,9 +67283,9 @@
 				"gcrane-completion": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"get-acl": {
@@ -67823,7 +67846,7 @@
 				"mimikatz": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 1
 					}
 				},
 				"mimikatz-crypto": {
@@ -68356,8 +68379,8 @@
 				"query": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"rd": {
