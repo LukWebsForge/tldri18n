@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 18-Sep-26 02:00:11 CEST",
+	"last_update": "Saturday, 19-Sep-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -21182,6 +21182,11 @@
 						"en": 2
 					}
 				},
+				"jj-run": {
+					"status": {
+						"en": 2
+					}
+				},
 				"jj-show": {
 					"status": {
 						"en": 2,
@@ -41095,7 +41100,8 @@
 				},
 				"xkbcli": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xkcdpass": {
@@ -41119,14 +41125,15 @@
 				},
 				"xlsclients": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"xmake": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"xml": {
@@ -41771,7 +41778,8 @@
 				},
 				"yamllint": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"yank": {
@@ -41791,12 +41799,14 @@
 				},
 				"yara": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"yarac": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"yard": {
@@ -41851,6 +41861,7 @@
 				"yek": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -41877,7 +41888,8 @@
 				},
 				"yj": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ykinfo": {
@@ -41980,6 +41992,7 @@
 				"ytmdl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -42017,12 +42030,14 @@
 				"zabbix_agent2": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"zabbix_agentd": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -47836,7 +47851,7 @@
 				"faketime": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"fallocate": {
@@ -53042,6 +53057,11 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2
+					}
+				},
+				"opi": {
+					"status": {
+						"en": 2
 					}
 				},
 				"opkg": {
@@ -60253,8 +60273,13 @@
 					"status": {
 						"ca": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
+					}
+				},
+				"xfreerdp3": {
+					"status": {
+						"en": 2
 					}
 				},
 				"xfs_admin": {
