@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 20-Sep-26 02:00:11 CEST",
+	"last_update": "Monday, 21-Sep-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -448,7 +448,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"ta": 1,
 						"tr": 1,
 						"uk": 1,
@@ -718,7 +718,7 @@
 				"bn": 6,
 				"bs": 5,
 				"ca": 4,
-				"cs": 5,
+				"cs": 4,
 				"da": 4,
 				"de": 11,
 				"el": 4,
@@ -727,11 +727,11 @@
 				"fa": 6,
 				"fi": 4,
 				"fr": 12,
-				"hi": 6,
+				"hi": 5,
 				"id": 14,
 				"it": 18,
 				"ja": 9,
-				"ko": 97,
+				"ko": 98,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -740,9 +740,9 @@
 				"no": 4,
 				"pl": 6,
 				"pt_BR": 13,
-				"pt_PT": 5,
+				"pt_PT": 4,
 				"ro": 5,
-				"ru": 11,
+				"ru": 12,
 				"sr": 4,
 				"sv": 5,
 				"ta": 6,
@@ -1399,7 +1399,7 @@
 						"nl": 2,
 						"pl": 1,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -8811,6 +8811,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
+						"ru": 2,
 						"tr": 1,
 						"zh": 1,
 						"zh_TW": 1
@@ -8957,7 +8958,8 @@
 				"docker-compose-start": {
 					"status": {
 						"en": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"docker-compose-stop": {
@@ -8965,6 +8967,7 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -9020,41 +9023,14 @@
 				},
 				"docker-container-diff": {
 					"status": {
-						"ar": 1,
 						"bn": 2,
-						"bs": 1,
-						"ca": 1,
-						"cs": 1,
-						"da": 1,
-						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fa": 1,
 						"fr": 2,
-						"hi": 1,
 						"id": 2,
-						"it": 1,
-						"ja": 1,
 						"ko": 2,
-						"lo": 1,
-						"ml": 1,
-						"ne": 1,
 						"nl": 2,
-						"no": 1,
-						"pl": 1,
-						"pt_BR": 1,
-						"pt_PT": 1,
-						"ro": 1,
-						"ru": 2,
-						"sr": 1,
-						"sv": 1,
-						"ta": 1,
-						"th": 1,
-						"tr": 1,
-						"uk": 1,
-						"uz": 1,
-						"zh": 1,
-						"zh_TW": 1
+						"ru": 2
 					}
 				},
 				"docker-container-exec": {
@@ -9152,80 +9128,27 @@
 				},
 				"docker-container-rename": {
 					"status": {
-						"ar": 1,
 						"bn": 2,
-						"bs": 1,
-						"ca": 1,
-						"cs": 1,
-						"da": 1,
-						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fa": 1,
 						"fr": 2,
-						"hi": 1,
 						"id": 2,
-						"it": 1,
-						"ja": 1,
 						"ko": 2,
-						"lo": 1,
-						"ml": 1,
-						"ne": 1,
 						"nl": 2,
-						"no": 1,
-						"pl": 1,
-						"pt_BR": 1,
-						"pt_PT": 1,
-						"ro": 1,
-						"ru": 2,
-						"sr": 1,
-						"sv": 1,
-						"ta": 1,
-						"th": 1,
-						"tr": 1,
-						"uk": 1,
-						"uz": 1,
-						"zh": 1,
-						"zh_TW": 1
+						"ru": 2
 					}
 				},
 				"docker-container-rm": {
 					"status": {
-						"ar": 1,
 						"bn": 2,
-						"bs": 1,
-						"ca": 1,
-						"cs": 1,
-						"da": 1,
-						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fa": 1,
 						"fr": 2,
-						"hi": 1,
 						"id": 2,
-						"it": 1,
-						"ja": 1,
 						"ko": 2,
-						"lo": 1,
-						"ml": 1,
-						"ne": 1,
 						"nl": 2,
-						"no": 1,
-						"pl": 1,
-						"pt_BR": 1,
-						"pt_PT": 1,
-						"ro": 1,
 						"ru": 2,
-						"sr": 1,
-						"sv": 1,
-						"ta": 1,
-						"th": 1,
-						"tr": 1,
-						"uk": 1,
-						"uz": 1,
-						"zh": 2,
-						"zh_TW": 1
+						"zh": 2
 					}
 				},
 				"docker-container-run": {
@@ -9283,41 +9206,13 @@
 				},
 				"docker-container-top": {
 					"status": {
-						"ar": 1,
 						"bn": 2,
-						"bs": 1,
-						"ca": 1,
-						"cs": 1,
-						"da": 1,
-						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fa": 1,
-						"fr": 1,
-						"hi": 1,
 						"id": 2,
-						"it": 1,
-						"ja": 1,
 						"ko": 2,
-						"lo": 1,
-						"ml": 1,
-						"ne": 1,
 						"nl": 2,
-						"no": 1,
-						"pl": 1,
-						"pt_BR": 1,
-						"pt_PT": 1,
-						"ro": 1,
-						"ru": 2,
-						"sr": 1,
-						"sv": 1,
-						"ta": 1,
-						"th": 1,
-						"tr": 1,
-						"uk": 1,
-						"uz": 1,
-						"zh": 1,
-						"zh_TW": 1
+						"ru": 2
 					}
 				},
 				"docker-container-update": {
@@ -9475,6 +9370,7 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -9487,6 +9383,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -9500,6 +9397,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 1,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -9512,6 +9410,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -9522,6 +9421,7 @@
 						"fr": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -9535,6 +9435,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2,
 						"zh": 2
 					}
@@ -9545,7 +9446,8 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"docker-images": {
@@ -9599,6 +9501,7 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -9651,7 +9554,8 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"docker-logs": {
@@ -9716,6 +9620,7 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -10029,7 +9934,8 @@
 				"docker-search": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"docker-secret": {
@@ -10379,7 +10285,8 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"docsify": {
@@ -11166,7 +11073,6 @@
 						"ja": 1,
 						"ko": 1,
 						"lo": 1,
-						"ml": 1,
 						"ne": 1,
 						"nl": 2,
 						"no": 1,
@@ -11702,6 +11608,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"ko": 2,
 						"pl": 2,
 						"pt_BR": 2,
@@ -15469,7 +15376,7 @@
 						"ko": 1,
 						"nl": 2,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"tr": 1,
 						"uk": 1,
 						"zh": 1
@@ -17278,6 +17185,11 @@
 						"ko": 2
 					}
 				},
+				"gtrash": {
+					"status": {
+						"en": 2
+					}
+				},
 				"guacd": {
 					"status": {
 						"en": 2,
@@ -18384,7 +18296,6 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2,
-						"pt_PT": 1,
 						"ru": 2,
 						"zh": 2
 					}
@@ -27623,7 +27534,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"npm-uninstall": {
@@ -30271,7 +30182,7 @@
 						"ja": 1,
 						"ko": 1,
 						"nl": 2,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1,
 						"zh_TW": 1
 					}
@@ -42127,18 +42038,21 @@
 				"zapier-test": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"zapier-validate": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
 				"zapier-versions": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -42343,37 +42257,44 @@
 				},
 				"zeroclaw": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-agent": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-channel": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-cron": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-daemon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-doctor": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-gateway": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-hardware": {
@@ -43506,7 +43427,7 @@
 				"bg": 3,
 				"bn": 6,
 				"bs": 3,
-				"ca": 7,
+				"ca": 6,
 				"cs": 4,
 				"da": 3,
 				"de": 7,
@@ -43520,7 +43441,7 @@
 				"id": 8,
 				"it": 18,
 				"ja": 4,
-				"ko": 75,
+				"ko": 74,
 				"lo": 3,
 				"ml": 4,
 				"nb": 3,
@@ -50317,32 +50238,11 @@
 				"ip-route-list": {
 					"status": {
 						"ar": 2,
-						"bs": 1,
-						"ca": 1,
-						"da": 1,
-						"de": 1,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
-						"hi": 1,
-						"id": 1,
-						"it": 1,
-						"ja": 1,
-						"ko": 1,
-						"lo": 1,
-						"ml": 1,
-						"ne": 1,
 						"nl": 2,
-						"no": 1,
-						"pt_BR": 1,
-						"pt_PT": 1,
 						"ru": 2,
-						"sv": 1,
 						"ta": 2,
-						"th": 1,
-						"tr": 1,
-						"uk": 1,
-						"zh": 1,
 						"zh_TW": 2
 					}
 				},
@@ -55356,7 +55256,7 @@
 						"es": 1,
 						"ko": 1,
 						"nl": 2,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"qm-guest": {
@@ -69702,7 +69602,7 @@
 						"id": 1,
 						"ja": 1,
 						"ko": 1,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
