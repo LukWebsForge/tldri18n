@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 21-Sep-26 02:00:11 CEST",
+	"last_update": "Tuesday, 22-Sep-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -3775,10 +3775,7 @@
 						"es": 2,
 						"id": 2,
 						"it": 2,
-						"ko": 1,
 						"nl": 2,
-						"pl": 1,
-						"pt_BR": 1,
 						"pt_PT": 1
 					}
 				},
@@ -8819,14 +8816,16 @@
 				},
 				"docker-buildx-build": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"docker-buildx-create": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"docker-buildx-du": {
@@ -8845,14 +8844,16 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"docker-buildx-prune": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"docker-buildx-rm": {
@@ -8869,7 +8870,8 @@
 				},
 				"docker-buildx-use": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"docker-buildx-version": {
@@ -9229,7 +9231,8 @@
 				"docker-context": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"docker-cp": {
@@ -9609,6 +9612,7 @@
 						"it": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -9627,7 +9631,8 @@
 				"docker-node": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"docker-ps": {
@@ -9945,6 +9950,7 @@
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -9955,6 +9961,7 @@
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -10137,6 +10144,7 @@
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -10148,6 +10156,7 @@
 						"ja": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -12767,7 +12776,7 @@
 				"function": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -14126,7 +14135,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"id": 2,
 						"it": 1,
 						"ja": 2,
@@ -14510,7 +14519,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"id": 2,
 						"it": 1,
 						"ja": 2,
@@ -15394,7 +15403,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"id": 2,
 						"it": 2,
 						"ja": 2,
@@ -15678,7 +15687,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"it": 1,
 						"ja": 2,
 						"ko": 2,
@@ -40778,6 +40787,11 @@
 						"ko": 2
 					}
 				},
+				"witr": {
+					"status": {
+						"en": 2
+					}
+				},
 				"wkhtmltopdf": {
 					"status": {
 						"en": 2,
@@ -42299,47 +42313,56 @@
 				},
 				"zeroclaw-hardware": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-integrations": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-migrate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-models": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-onboard": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-service": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-skills": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zeroclaw-status": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"zerotier-cli": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"zh": 2
 					}
@@ -42347,6 +42370,7 @@
 				"zerotier-idtool": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"zh": 2
 					}
 				},
@@ -42604,6 +42628,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 2,
 						"zh": 2
@@ -44770,6 +44795,11 @@
 						"es": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"asusctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"at": {
