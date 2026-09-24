@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 23-Sep-26 02:00:11 CEST",
+	"last_update": "Thursday, 24-Sep-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7841,6 +7841,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -7859,6 +7860,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -8347,7 +8349,8 @@
 				},
 				"deallocvt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"decaffeinate": {
@@ -8594,6 +8597,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 1,
 						"ja": 1,
 						"ko": 2,
@@ -8738,7 +8742,8 @@
 				},
 				"dnote": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dnsmasq": {
@@ -8822,6 +8827,7 @@
 				"docker-buildx-build": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -8842,7 +8848,8 @@
 				},
 				"docker-buildx-inspect": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"docker-buildx-ls": {
@@ -8870,7 +8877,8 @@
 				},
 				"docker-buildx-stop": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"docker-buildx-use": {
@@ -12159,6 +12167,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -26603,6 +26612,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"id": 2,
 						"it": 2,
 						"ko": 2,
 						"pl": 2,
@@ -31458,6 +31468,11 @@
 						"pt_BR": 2
 					}
 				},
+				"podman-commit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"podman-compose": {
 					"status": {
 						"en": 2,
@@ -31465,6 +31480,11 @@
 						"fr": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"podman-container-commit": {
+					"status": {
+						"en": 2
 					}
 				},
 				"podman-export": {
