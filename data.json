@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 29-Sep-26 02:00:12 CEST",
+	"last_update": "Wednesday, 30-Sep-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11823,10 +11823,10 @@
 				"fc": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"zh": 2
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"zh": 1
 					}
 				},
 				"fc-cache": {
@@ -18603,6 +18603,16 @@
 						"ko": 2
 					}
 				},
+				"icoextract": {
+					"status": {
+						"en": 2
+					}
+				},
+				"icolist": {
+					"status": {
+						"en": 2
+					}
+				},
 				"icontopbm": {
 					"status": {
 						"en": 2,
@@ -18814,7 +18824,7 @@
 				"ifs": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"ignite": {
@@ -31621,6 +31631,7 @@
 						"fr": 2,
 						"ja": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2
 					}
@@ -31630,6 +31641,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -31645,6 +31657,7 @@
 						"es": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -31667,6 +31680,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -31761,6 +31775,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -31784,7 +31799,8 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"podman-machine": {
@@ -31792,6 +31808,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -31800,6 +31817,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -31816,6 +31834,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -31824,6 +31843,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
+						"nl": 2,
 						"pt_BR": 2
 					}
 				},
@@ -32599,10 +32619,10 @@
 				"printf": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"procs": {
@@ -35639,7 +35659,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"zh": 1
 					}
 				},
@@ -39147,7 +39167,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"zh": 1
 					}
 				},
@@ -43132,7 +43152,7 @@
 				"ml": 3,
 				"nb": 3,
 				"ne": 3,
-				"nl": 7,
+				"nl": 100,
 				"no": 3,
 				"pl": 3,
 				"pt_BR": 3,
@@ -43153,7 +43173,8 @@
 				"boot": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"cd": {
@@ -43214,7 +43235,8 @@
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"cls": {
@@ -43222,136 +43244,158 @@
 						"en": 2,
 						"fr": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
 				"config": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"copy": {
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"del": {
 					"status": {
 						"en": 2,
 						"fr": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"dir": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"exit": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"imgmount": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"ipxnet": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"keyb": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"loadfix": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"loadhigh": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"md": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"mem": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"mixer": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"mount": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"path": {
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"nl": 2,
 						"zh": 2
 					}
 				},
 				"rd": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"ren": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"rescan": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"set": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"type": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"ver": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				}
 			}
@@ -46094,16 +46138,16 @@
 				},
 				"cat": {
 					"status": {
-						"bn": 2,
+						"bn": 1,
 						"en": 2,
 						"es": 1,
 						"hi": 1,
-						"it": 2,
+						"it": 1,
 						"ko": 1,
 						"ml": 1,
-						"nl": 2,
+						"nl": 1,
 						"pt_BR": 1,
-						"ru": 2,
+						"ru": 1,
 						"uk": 1,
 						"zh": 1,
 						"zh_TW": 1
@@ -59560,6 +59604,11 @@
 						"fr": 2
 					}
 				},
+				"ufw-limit": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ufw-status": {
 					"status": {
 						"en": 2,
@@ -61527,7 +61576,7 @@
 				"id": 46,
 				"it": 33,
 				"ja": 1,
-				"ko": 95,
+				"ko": 97,
 				"lo": 1,
 				"ml": 37,
 				"nb": 1,
@@ -65470,12 +65519,14 @@
 				"herd": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"herd-list": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"hidd": {
@@ -65504,7 +65555,8 @@
 				},
 				"installer": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"internetsharing": {
@@ -65573,7 +65625,8 @@
 				},
 				"leaks": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"lipo": {
@@ -65677,6 +65730,7 @@
 					"status": {
 						"en": 2,
 						"id": 2,
+						"ko": 2,
 						"ru": 2
 					}
 				},
@@ -66631,7 +66685,7 @@
 				"ml": 0,
 				"nb": 0,
 				"ne": 0,
-				"nl": 90,
+				"nl": 100,
 				"no": 0,
 				"pl": 81,
 				"pt_BR": 0,
@@ -66785,7 +66839,8 @@
 				"zoneadm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				}
 			}
