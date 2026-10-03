@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 02-Oct-26 02:00:11 CEST",
+	"last_update": "Saturday, 03-Oct-26 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -754,7 +754,7 @@
 				"fr": 12,
 				"hi": 5,
 				"id": 14,
-				"it": 18,
+				"it": 17,
 				"ja": 9,
 				"ko": 98,
 				"lo": 4,
@@ -23091,6 +23091,11 @@
 						"ko": 2
 					}
 				},
+				"llm-install": {
+					"status": {
+						"en": 2
+					}
+				},
 				"llm-keys": {
 					"status": {
 						"en": 2
@@ -24234,6 +24239,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"mado": {
+					"status": {
+						"en": 2
 					}
 				},
 				"maestral": {
@@ -37125,7 +37135,22 @@
 				"stripe": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
+					}
+				},
+				"stripe-docs": {
+					"status": {
+						"en": 2
+					}
+				},
+				"stripe-listen": {
+					"status": {
+						"en": 2
+					}
+				},
+				"stripe-logs": {
+					"status": {
+						"en": 2
 					}
 				},
 				"stty": {
@@ -61710,20 +61735,20 @@
 				"en": 100,
 				"es": 74,
 				"fa": 1,
-				"fi": 38,
+				"fi": 37,
 				"fr": 38,
-				"hi": 31,
+				"hi": 30,
 				"id": 46,
 				"it": 33,
 				"ja": 1,
-				"ko": 97,
+				"ko": 96,
 				"lo": 1,
 				"ml": 37,
 				"nb": 1,
 				"ne": 1,
 				"nl": 51,
 				"no": 1,
-				"pl": 41,
+				"pl": 40,
 				"pt_BR": 47,
 				"pt_PT": 32,
 				"ro": 1,
@@ -61735,8 +61760,8 @@
 				"tr": 30,
 				"uk": 1,
 				"uz": 1,
-				"zh": 54,
-				"zh_TW": 31
+				"zh": 53,
+				"zh_TW": 30
 			},
 			"pages": {
 				"aa": {
@@ -61885,6 +61910,11 @@
 						"ko": 2
 					}
 				},
+				"appinstalld": {
+					"status": {
+						"en": 2
+					}
+				},
 				"applecamerad": {
 					"status": {
 						"en": 2,
@@ -61894,6 +61924,11 @@
 						"pt_BR": 2,
 						"th": 2,
 						"zh": 2
+					}
+				},
+				"appleeventsd": {
+					"status": {
+						"en": 2
 					}
 				},
 				"appsleepd": {
