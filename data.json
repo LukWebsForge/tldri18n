@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 03-Oct-26 02:00:12 CEST",
+	"last_update": "Sunday, 04-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -17262,6 +17262,26 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gst-launch-1.0-tcpclientsink": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-tcpclientsrc": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-tcpserversink": {
+					"status": {
+						"en": 2
+					}
+				},
+				"gst-launch-1.0-tcpserversrc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gst-launch-1.0-uridecodebin": {
@@ -46309,7 +46329,7 @@
 						"ml": 1,
 						"nl": 2,
 						"pt_BR": 1,
-						"ru": 1,
+						"ru": 2,
 						"uk": 1,
 						"zh": 1,
 						"zh_TW": 1
