@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 06-Oct-26 02:00:12 CEST",
+	"last_update": "Wednesday, 07-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -759,7 +759,7 @@
 				"id": 14,
 				"it": 17,
 				"ja": 9,
-				"ko": 98,
+				"ko": 97,
 				"lo": 4,
 				"ml": 4,
 				"nb": 4,
@@ -6044,7 +6044,7 @@
 						"pt_BR": 2,
 						"ro": 2,
 						"ru": 2,
-						"tr": 1,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 1
 					}
@@ -8911,6 +8911,7 @@
 				"docker-buildx-build": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2
@@ -37785,6 +37786,21 @@
 						"ko": 2
 					}
 				},
+				"terraform-get": {
+					"status": {
+						"en": 2
+					}
+				},
+				"terraform-graph": {
+					"status": {
+						"en": 2
+					}
+				},
+				"terraform-import": {
+					"status": {
+						"en": 2
+					}
+				},
 				"terraform-init": {
 					"status": {
 						"en": 2,
@@ -38941,6 +38957,12 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"tte": {
+					"status": {
+						"en": 2,
+						"pt_BR": 2
 					}
 				},
 				"tts": {
@@ -44002,7 +44024,7 @@
 				"fr": 14,
 				"hi": 5,
 				"id": 8,
-				"it": 18,
+				"it": 17,
 				"ja": 4,
 				"ko": 74,
 				"lo": 3,
@@ -46156,6 +46178,11 @@
 						"pt_BR": 2
 					}
 				},
+				"btrfs-receive": {
+					"status": {
+						"en": 2
+					}
+				},
 				"btrfs-rescue": {
 					"status": {
 						"en": 2,
@@ -46185,6 +46212,11 @@
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
+					}
+				},
+				"btrfs-send": {
+					"status": {
+						"en": 2
 					}
 				},
 				"btrfs-subvolume": {
@@ -61793,7 +61825,7 @@
 				"id": 46,
 				"it": 33,
 				"ja": 1,
-				"ko": 96,
+				"ko": 98,
 				"lo": 1,
 				"ml": 37,
 				"nb": 1,
@@ -66256,7 +66288,8 @@
 				},
 				"powermetrics": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"ps": {
@@ -66270,7 +66303,8 @@
 				},
 				"pwpolicy": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"qlmanage": {
@@ -66299,7 +66333,8 @@
 				},
 				"rev": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"route": {
@@ -66453,7 +66488,8 @@
 				},
 				"spindump": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"split": {
@@ -66534,7 +66570,8 @@
 				"tag": {
 					"status": {
 						"en": 2,
-						"es": 2
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"tail": {
