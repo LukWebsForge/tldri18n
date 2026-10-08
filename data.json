@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 07-Oct-26 02:00:11 CEST",
+	"last_update": "Thursday, 08-Oct-26 02:00:15 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -6044,6 +6044,7 @@
 						"pt_BR": 2,
 						"ro": 2,
 						"ru": 2,
+						"sw": 2,
 						"tr": 2,
 						"zh": 2,
 						"zh_TW": 1
@@ -25066,6 +25067,7 @@
 						"ro": 2,
 						"ru": 2,
 						"sr": 1,
+						"sw": 2,
 						"ta": 1,
 						"tr": 1,
 						"zh": 1,
@@ -29433,6 +29435,11 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2
+					}
+				},
+				"pass-cli": {
+					"status": {
+						"en": 2
 					}
 				},
 				"pass-otp": {
@@ -41244,6 +41251,7 @@
 						"ru": 2,
 						"sr": 2,
 						"sv": 2,
+						"sw": 2,
 						"ta": 2,
 						"th": 2,
 						"tr": 2,
@@ -61825,7 +61833,7 @@
 				"id": 46,
 				"it": 33,
 				"ja": 1,
-				"ko": 98,
+				"ko": 99,
 				"lo": 1,
 				"ml": 37,
 				"nb": 1,
@@ -61906,7 +61914,8 @@
 				},
 				"aerospace": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"afinfo": {
@@ -61997,7 +62006,8 @@
 				},
 				"appinstalld": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"applecamerad": {
@@ -62013,7 +62023,8 @@
 				},
 				"appleeventsd": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"appsleepd": {
@@ -66592,7 +66603,8 @@
 				},
 				"tccutil": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terminal-notifier": {
@@ -66641,7 +66653,8 @@
 				},
 				"trash": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"uname": {
@@ -67123,7 +67136,7 @@
 				"de": 19,
 				"el": 7,
 				"en": 100,
-				"es": 78,
+				"es": 79,
 				"fa": 9,
 				"fi": 7,
 				"fr": 17,
@@ -67131,7 +67144,7 @@
 				"id": 22,
 				"it": 19,
 				"ja": 18,
-				"ko": 93,
+				"ko": 94,
 				"lo": 8,
 				"ml": 8,
 				"nb": 7,
@@ -67195,7 +67208,8 @@
 				},
 				"basicmaker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"bcdboot": {
@@ -67351,7 +67365,8 @@
 				},
 				"choco-config": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"choco-feature": {
@@ -68463,6 +68478,7 @@
 				"gethelpcmd-teamsaddinscenario": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -69020,12 +69036,14 @@
 				},
 				"moviemk": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"msaccess": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"msedge": {
@@ -69237,7 +69255,8 @@
 				},
 				"planmaker": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"pnputil": {
