@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 08-Oct-26 02:00:15 CEST",
+	"last_update": "Friday, 09-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -28723,69 +28723,80 @@
 				"openssl-dgst": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-genpkey": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-genrsa": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-passwd": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-prime": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-rand": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-req": {
 					"status": {
 						"ar": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-s_client": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-speed": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-ts": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openssl-x509": {
 					"status": {
 						"ar": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"openstack-flavor": {
@@ -33608,6 +33619,7 @@
 						"ru": 2,
 						"sw": 2,
 						"th": 1,
+						"zh": 2,
 						"zh_TW": 1
 					}
 				},
@@ -50175,6 +50187,11 @@
 						"en": 2
 					}
 				},
+				"grub-mkrelpath": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grub-mkrescue": {
 					"status": {
 						"en": 2,
@@ -55288,6 +55305,11 @@
 						"en": 2
 					}
 				},
+				"ppa-purge": {
+					"status": {
+						"en": 2
+					}
+				},
 				"pridecat": {
 					"status": {
 						"en": 2,
@@ -57176,6 +57198,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"sbpctl": {
+					"status": {
+						"en": 2
 					}
 				},
 				"scalpel": {
