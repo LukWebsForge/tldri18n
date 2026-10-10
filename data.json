@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 09-Oct-26 02:00:11 CEST",
+	"last_update": "Saturday, 10-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -770,7 +770,7 @@
 				"pt_BR": 13,
 				"pt_PT": 4,
 				"ro": 5,
-				"ru": 12,
+				"ru": 13,
 				"sr": 4,
 				"sv": 5,
 				"sw": 0,
@@ -1306,6 +1306,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1317,6 +1318,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1328,6 +1330,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1339,6 +1342,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -1360,7 +1364,8 @@
 				"adb-install-multiple": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"adb-kill-server": {
@@ -1369,7 +1374,8 @@
 						"fr": 2,
 						"id": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"adb-logcat": {
@@ -1382,6 +1388,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1393,6 +1400,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1404,6 +1412,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -1443,7 +1452,8 @@
 						"fr": 2,
 						"id": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"adb-uninstall": {
@@ -1454,6 +1464,7 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -2317,6 +2328,7 @@
 						"id": 1,
 						"it": 2,
 						"ko": 1,
+						"nl": 2,
 						"pt_BR": 1,
 						"zh": 1
 					}
@@ -6261,13 +6273,15 @@
 				"cheat": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"cheatshh": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"checkov": {
@@ -12454,6 +12468,16 @@
 						"ko": 2
 					}
 				},
+				"flux-suspend": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flux-uninstall": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fluxctl": {
 					"status": {
 						"en": 2,
@@ -17012,67 +17036,78 @@
 						"en": 2,
 						"es": 2,
 						"ja": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-build": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-clean": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-dependencies": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-dependencyinsight": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-init": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-projects": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-properties": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-tasks": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-test": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gradle-wrapper": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"grafana-cli": {
@@ -34189,6 +34224,7 @@
 				"rabbitmqctl-vhosts": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -41678,6 +41714,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -53261,7 +53298,8 @@
 				"navi": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"nl": 2
 					}
 				},
 				"ncal": {
