@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 10-Oct-26 02:00:11 CEST",
+	"last_update": "Sunday, 11-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -25940,61 +25940,71 @@
 						"ja": 2,
 						"ko": 2,
 						"pt_BR": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
 				"mvn-archetype": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"mvn-compile": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"mvn-dependency": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 1,
+						"ru": 2
 					}
 				},
 				"mvn-deploy": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"mvn-generate-sources": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"mvn-idea": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"mvn-install": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"mvn-package": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"mvn-site": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"mycli": {
