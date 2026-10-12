@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 11-Oct-26 02:00:11 CEST",
+	"last_update": "Monday, 12-Oct-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -7202,6 +7202,7 @@
 						"de": 2,
 						"en": 2,
 						"es": 2,
+						"fr": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -8567,6 +8568,7 @@
 						"nl": 2,
 						"ru": 2,
 						"ta": 2,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 1
 					}
@@ -16359,55 +16361,64 @@
 				"glab-alias": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"glab-auth": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"glab-issue": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"glab-mr": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 1,
+						"ru": 2
 					}
 				},
 				"glab-mr-create": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"glab-mr-merge": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"glab-pipeline": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"glab-release": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"glab-repo": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gladtex": {
@@ -23716,6 +23727,7 @@
 						"sv": 2,
 						"ta": 2,
 						"th": 2,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 1
 					}
@@ -25930,6 +25942,7 @@
 						"ro": 2,
 						"ru": 2,
 						"ta": 1,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 1
 					}
@@ -31866,6 +31879,7 @@
 				"podman-commit": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -35002,6 +35016,7 @@
 						"ru": 2,
 						"sv": 1,
 						"ta": 1,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 1
 					}
@@ -67219,7 +67234,7 @@
 				"id": 22,
 				"it": 19,
 				"ja": 18,
-				"ko": 94,
+				"ko": 99,
 				"lo": 8,
 				"ml": 8,
 				"nb": 7,
@@ -68969,83 +68984,98 @@
 				"mimikatz": {
 					"status": {
 						"en": 2,
-						"it": 1
+						"it": 1,
+						"ko": 2
 					}
 				},
 				"mimikatz-crypto": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-dpapi": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-event": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-kerberos": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-lsadump": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-misc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-net": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-privilege": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-process": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-sekurlsa": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-service": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-standard": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-token": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mimikatz-vault": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"mkdir": {
