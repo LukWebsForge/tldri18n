@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 13-Oct-26 02:00:11 CEST",
+	"last_update": "Wednesday, 14-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -937,7 +937,8 @@
 				},
 				"2048": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"2to3": {
@@ -2689,6 +2690,11 @@
 						"zh": 2
 					}
 				},
+				"avifdec": {
+					"status": {
+						"en": 2
+					}
+				},
 				"avo": {
 					"status": {
 						"en": 2,
@@ -3834,6 +3840,7 @@
 						"es": 2,
 						"id": 2,
 						"it": 2,
+						"ko": 2,
 						"nl": 2,
 						"pt_PT": 1
 					}
@@ -8496,7 +8503,8 @@
 				},
 				"deno-fmt": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dep": {
@@ -10973,7 +10981,8 @@
 				},
 				"dumpkeys": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"dumpntlminfo.py": {
@@ -11257,55 +11266,64 @@
 				"elasticsearch-certutil": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"elasticsearch-create-enrollment-token": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"elasticsearch-croneval": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"elasticsearch-keystore": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"elasticsearch-node": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"elasticsearch-reset-password": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"elasticsearch-saml-metadata": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"elasticsearch-syskeygen": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"elasticsearch-users": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"electron-packager": {
@@ -11832,7 +11850,8 @@
 				},
 				"far2l": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fast": {
@@ -38725,6 +38744,11 @@
 						"ru": 2
 					}
 				},
+				"trackfetch": {
+					"status": {
+						"en": 2
+					}
+				},
 				"traefik": {
 					"status": {
 						"de": 2,
@@ -45192,6 +45216,7 @@
 				"apt-list": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"it": 2,
 						"ko": 2
 					}
@@ -48608,6 +48633,7 @@
 				"findmnt": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -52302,6 +52328,7 @@
 				"lsblk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"nl": 2,
 						"pt_BR": 2,
