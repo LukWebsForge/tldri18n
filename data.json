@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 14-Oct-26 02:00:11 CEST",
+	"last_update": "Thursday, 15-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -770,7 +770,7 @@
 				"pt_BR": 13,
 				"pt_PT": 4,
 				"ro": 5,
-				"ru": 13,
+				"ru": 14,
 				"sr": 4,
 				"sv": 5,
 				"sw": 0,
@@ -34315,28 +34315,32 @@
 						"en": 2,
 						"id": 1,
 						"ko": 1,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"ru": 2
 					}
 				},
 				"rails-console": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rails-db": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rails-destroy": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rails-generate": {
@@ -34344,28 +34348,32 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2,
-						"pt_BR": 1
+						"pt_BR": 1,
+						"ru": 2
 					}
 				},
 				"rails-new": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rails-routes": {
 					"status": {
 						"en": 2,
 						"id": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rails-server": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"railway": {
@@ -39917,7 +39925,7 @@
 						"en": 2,
 						"ko": 1,
 						"nl": 1,
-						"ru": 1,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -53246,6 +53254,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
@@ -53286,6 +53295,7 @@
 				"mountpoint": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
