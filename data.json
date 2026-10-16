@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 15-Oct-26 02:00:11 CEST",
+	"last_update": "Friday, 16-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2691,6 +2691,11 @@
 					}
 				},
 				"avifdec": {
+					"status": {
+						"en": 2
+					}
+				},
+				"avifenc": {
 					"status": {
 						"en": 2
 					}
@@ -6459,6 +6464,11 @@
 						"ko": 2
 					}
 				},
+				"cjpeg": {
+					"status": {
+						"en": 2
+					}
+				},
 				"cjxl": {
 					"status": {
 						"en": 2,
@@ -8797,6 +8807,11 @@
 						"en": 2,
 						"fa": 2,
 						"ko": 2
+					}
+				},
+				"djpeg": {
+					"status": {
+						"en": 2
 					}
 				},
 				"djxl": {
@@ -11888,6 +11903,7 @@
 				"fastfetch": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -11958,7 +11974,8 @@
 				},
 				"fcrackzip": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fd": {
@@ -12494,12 +12511,14 @@
 				},
 				"flux-suspend": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"flux-uninstall": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"fluxctl": {
@@ -14138,7 +14157,8 @@
 				},
 				"gh-stack": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"gh-status": {
@@ -16166,7 +16186,8 @@
 				},
 				"git-unpack-objects": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"git-update-index": {
@@ -26219,6 +26240,7 @@
 					"status": {
 						"da": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -39924,7 +39946,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 1,
+						"nl": 2,
 						"ru": 2,
 						"zh": 1
 					}
@@ -44141,7 +44163,7 @@
 				"da": 3,
 				"de": 7,
 				"el": 3,
-				"en": 100,
+				"en": 99,
 				"es": 32,
 				"fa": 4,
 				"fi": 8,
@@ -45763,7 +45785,6 @@
 				},
 				"avifenc": {
 					"status": {
-						"en": 2,
 						"es": 2,
 						"ko": 2
 					}
@@ -59969,6 +59990,11 @@
 						"fr": 2
 					}
 				},
+				"ufw-app": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ufw-default": {
 					"status": {
 						"en": 2
@@ -60032,6 +60058,7 @@
 				"umount": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"nl": 2
 					}
