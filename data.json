@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 18-Oct-26 02:00:13 CEST",
+	"last_update": "Monday, 19-Oct-26 02:00:12 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -2700,7 +2700,9 @@
 				},
 				"avifenc": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"avo": {
@@ -7008,6 +7010,21 @@
 						"zh_TW": 2
 					}
 				},
+				"colab": {
+					"status": {
+						"en": 2
+					}
+				},
+				"colab-exec": {
+					"status": {
+						"en": 2
+					}
+				},
+				"colab-run": {
+					"status": {
+						"en": 2
+					}
+				},
 				"colcrt": {
 					"status": {
 						"en": 2,
@@ -10780,6 +10797,11 @@
 						"ko": 2
 					}
 				},
+				"dot2gxl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dotenvx": {
 					"status": {
 						"en": 2,
@@ -10803,13 +10825,15 @@
 				"dotnet-add-package": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"dotnet-add-reference": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"dotnet-build": {
@@ -10825,7 +10849,8 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"dotnet-publish": {
@@ -10849,20 +10874,23 @@
 				"dotnet-run": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"dotnet-test": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"dotnet-tool": {
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"pl": 2
+						"pl": 2,
+						"ru": 2
 					}
 				},
 				"dotty": {
@@ -34935,6 +34963,7 @@
 				"rg": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2,
@@ -35709,6 +35738,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"sbx": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sc_analysis_dump": {
@@ -44173,7 +44207,7 @@
 				"da": 3,
 				"de": 7,
 				"el": 3,
-				"en": 99,
+				"en": 100,
 				"es": 32,
 				"fa": 4,
 				"fi": 8,
@@ -45794,12 +45828,6 @@
 						"zh_TW": 2
 					}
 				},
-				"avifenc": {
-					"status": {
-						"es": 2,
-						"ko": 2
-					}
-				},
 				"away": {
 					"status": {
 						"en": 2,
@@ -46020,6 +46048,7 @@
 					"status": {
 						"ar": 1,
 						"en": 2,
+						"es": 2,
 						"ko": 1,
 						"pl": 1,
 						"pt_BR": 1,
@@ -46329,10 +46358,10 @@
 				"btrfs-property": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"it": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"es": 1,
+						"it": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"btrfs-receive": {
@@ -52971,6 +53000,11 @@
 						"zh": 1
 					}
 				},
+				"mirrorselect": {
+					"status": {
+						"en": 2
+					}
+				},
 				"mke2fs": {
 					"status": {
 						"en": 2,
@@ -57680,6 +57714,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"setterm": {
+					"status": {
+						"en": 2
 					}
 				},
 				"setup-alpine": {
