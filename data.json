@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 19-Oct-26 02:00:12 CEST",
+	"last_update": "Tuesday, 20-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -11016,6 +11016,7 @@
 					"status": {
 						"de": 1,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2,
 						"zh": 2
@@ -18068,71 +18069,82 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-accounts": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-add": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-aregister": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-balance": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-balancesheet": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-import": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-incomestatement": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-print": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-ui": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hledger-web": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"hlsq": {
@@ -48648,6 +48660,7 @@
 				"fdisk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fa": 2,
 						"hi": 2,
 						"ko": 2,
@@ -53014,6 +53027,7 @@
 				"mkfs": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"it": 2,
 						"ko": 2,
@@ -58360,6 +58374,7 @@
 				"swapoff": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
