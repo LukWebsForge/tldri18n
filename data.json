@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 20-Oct-26 02:00:11 CEST",
+	"last_update": "Wednesday, 21-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12586,19 +12586,19 @@
 				"fmtutil": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"fmtutil-sys": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"fmtutil-user": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"fnm": {
@@ -58381,6 +58381,7 @@
 				"swapon": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
