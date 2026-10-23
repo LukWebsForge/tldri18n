@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 22-Oct-26 02:00:12 CEST",
+	"last_update": "Friday, 23-Oct-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -44248,7 +44248,7 @@
 				"fr": 14,
 				"hi": 5,
 				"id": 8,
-				"it": 17,
+				"it": 18,
 				"ja": 4,
 				"ko": 74,
 				"lo": 3,
@@ -50298,6 +50298,11 @@
 						"ko": 2
 					}
 				},
+				"grdctl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grim": {
 					"status": {
 						"en": 2,
@@ -55681,7 +55686,8 @@
 				},
 				"pvesm": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pvesm-add": {
@@ -55696,12 +55702,14 @@
 				},
 				"pveum": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pveversion": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pvremove": {
