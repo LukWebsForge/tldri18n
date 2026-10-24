@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 23-Oct-26 02:00:10 CEST",
+	"last_update": "Saturday, 24-Oct-26 02:00:10 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -770,7 +770,7 @@
 				"pt_BR": 13,
 				"pt_PT": 4,
 				"ro": 5,
-				"ru": 14,
+				"ru": 15,
 				"sr": 4,
 				"sv": 5,
 				"sw": 0,
@@ -12516,49 +12516,57 @@
 				"flux": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"flux-bootstrap": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"flux-build": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"flux-check": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"flux-create": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"flux-suspend": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"flux-uninstall": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"fluxctl": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"fly": {
@@ -28342,76 +28350,88 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"nxc-ftp": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxc-ldap": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxc-mssql": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxc-nfs": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxc-rdp": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxc-smb": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxc-ssh": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxc-vnc": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxc-winrm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxc-wmi": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nxcdb": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"nyxt": {
@@ -48965,6 +48985,7 @@
 				"fstrim": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
