@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 24-Oct-26 02:00:10 CEST",
+	"last_update": "Sunday, 25-Oct-26 02:00:11 CEST",
 	"languages": [
 		"en",
 		"ar",
@@ -12546,6 +12546,31 @@
 						"en": 2,
 						"ko": 2,
 						"ru": 2
+					}
+				},
+				"flux-delete": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flux-export": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flux-get": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flux-reconcile": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flux-resume": {
+					"status": {
+						"en": 2
 					}
 				},
 				"flux-suspend": {
@@ -31274,37 +31299,43 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
 				"pixi-config": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"pixi-global": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"pixi-project": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"pixi-task": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"pixiecore": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"pixterm": {
@@ -34310,59 +34341,68 @@
 				"rabbitmq-diagnostics": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rabbitmq-plugins": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rabbitmq-queues": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rabbitmq-streams": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rabbitmq-upgrade": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rabbitmqctl": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rabbitmqctl-cluster": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rabbitmqctl-users": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rabbitmqctl-vhosts": {
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"rabin2": {
@@ -36680,6 +36720,7 @@
 				"sniffer.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -53277,6 +53318,7 @@
 				"mkswap": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 1
 					}
 				},
@@ -57947,7 +57989,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"uk": 1,
 						"zh": 1
 					}
@@ -60991,6 +61033,7 @@
 				"wipefs": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2
 					}
 				},
