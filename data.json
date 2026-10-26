@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 25-Oct-26 02:00:11 CEST",
+	"last_update": "Monday, 26-Oct-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -16379,13 +16379,15 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
 				"gitlab-backup": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"gitlab-ctl": {
@@ -16393,6 +16395,7 @@
 						"en": 2,
 						"es": 2,
 						"ko": 1,
+						"ru": 2,
 						"tr": 1
 					}
 				},
@@ -16400,6 +16403,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -29180,9 +29184,9 @@
 				"pactl": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"pt_BR": 2
+						"es": 1,
+						"ko": 1,
+						"pt_BR": 1
 					}
 				},
 				"pageres": {
