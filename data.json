@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 26-Oct-26 01:00:11 CET",
+	"last_update": "Tuesday, 27-Oct-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -746,7 +746,7 @@
 				"bn": 6,
 				"bs": 5,
 				"ca": 4,
-				"cs": 5,
+				"cs": 4,
 				"da": 4,
 				"de": 11,
 				"el": 4,
@@ -8839,8 +8839,8 @@
 				"djxl": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"ko": 2
+						"es": 1,
+						"ko": 1
 					}
 				},
 				"dlv": {
@@ -12664,7 +12664,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"nl": 2
+						"nl": 1
 					}
 				},
 				"forever": {
@@ -17493,6 +17493,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gst-launch-1.0-vulkanh264enc": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gst-play-1.0": {
@@ -41477,12 +41482,12 @@
 				},
 				"who": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2,
-						"zh": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1,
+						"zh": 1
 					}
 				},
 				"whoami": {
@@ -57966,6 +57971,11 @@
 						"ko": 2
 					}
 				},
+				"sio": {
+					"status": {
+						"en": 2
+					}
+				},
 				"size": {
 					"status": {
 						"en": 2,
@@ -58124,6 +58134,11 @@
 						"en": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"sos": {
+					"status": {
+						"en": 2
 					}
 				},
 				"spa-acp-tool": {
