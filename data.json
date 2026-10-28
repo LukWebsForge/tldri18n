@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 27-Oct-26 01:00:12 CET",
+	"last_update": "Wednesday, 28-Oct-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -28323,7 +28323,8 @@
 				"nvidia-smi": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"zh_TW": 2
 					}
 				},
 				"nvidia-smi-mig": {
@@ -37832,37 +37833,43 @@
 				"tailscale": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"tailscale-file": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"tailscale-funnel": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"tailscale-set": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"tailscale-ssh": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"tailscale-up": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"takeout": {
@@ -53383,10 +53390,10 @@
 				"modprobe": {
 					"status": {
 						"en": 2,
-						"es": 2,
-						"it": 2,
-						"ko": 2,
-						"zh": 2
+						"es": 1,
+						"it": 1,
+						"ko": 1,
+						"zh": 1
 					}
 				},
 				"module": {
@@ -55380,13 +55387,15 @@
 				},
 				"pkgdiff": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pkgfile": {
 					"status": {
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -55394,12 +55403,14 @@
 				"pkginfo": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pkgmk": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -55408,17 +55419,20 @@
 						"ca": 2,
 						"en": 2,
 						"es": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pkgstats": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pkgtool": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"plasma-apply-colorscheme": {
@@ -55726,17 +55740,20 @@
 				"pve-firewall": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pveam": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pvecm": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
@@ -55748,12 +55765,14 @@
 				"pveperf": {
 					"status": {
 						"en": 2,
+						"it": 2,
 						"ko": 2
 					}
 				},
 				"pvesh": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"it": 2
 					}
 				},
 				"pvesm": {
