@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 28-Oct-26 01:00:12 CET",
+	"last_update": "Thursday, 29-Oct-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6795,7 +6795,8 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"tr": 1
+						"tr": 1,
+						"zh": 2
 					}
 				},
 				"cmark": {
@@ -7617,14 +7618,16 @@
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"cppcheck": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"zh": 2
 					}
 				},
 				"cppclean": {
@@ -9123,7 +9126,8 @@
 						"en": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"ru": 2
+						"ru": 2,
+						"zh": 2
 					}
 				},
 				"docker-compose-start": {
@@ -12028,6 +12032,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"fd-type": {
+					"status": {
+						"en": 2
 					}
 				},
 				"fdfind": {
@@ -16838,7 +16847,8 @@
 						"it": 2,
 						"ja": 2,
 						"ko": 2,
-						"tr": 2
+						"tr": 2,
+						"zh": 2
 					}
 				},
 				"go-test": {
@@ -21948,7 +21958,7 @@
 				"k3d": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"k3s": {
@@ -36144,6 +36154,11 @@
 						"ko": 2
 					}
 				},
+				"sesh": {
+					"status": {
+						"en": 2
+					}
+				},
 				"set": {
 					"status": {
 						"en": 2,
@@ -39523,7 +39538,7 @@
 						"ar": 1,
 						"en": 2,
 						"ko": 1,
-						"zh": 2
+						"zh": 1
 					}
 				},
 				"umask": {
@@ -60164,6 +60179,7 @@
 				"udisksctl": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
