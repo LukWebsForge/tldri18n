@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 05-Nov-26 01:00:13 CET",
+	"last_update": "Friday, 06-Nov-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -35173,6 +35173,7 @@
 				"reg.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -37562,6 +37563,11 @@
 						"id": 2,
 						"ko": 2,
 						"zh": 2
+					}
+				},
+				"ssimulacra2": {
+					"status": {
+						"en": 2
 					}
 				},
 				"sslscan": {
@@ -49387,16 +49393,16 @@
 				},
 				"free": {
 					"status": {
-						"bn": 2,
-						"ca": 2,
+						"bn": 1,
+						"ca": 1,
 						"en": 2,
-						"es": 2,
-						"hi": 2,
-						"id": 2,
-						"ko": 2,
-						"nl": 2,
-						"pt_BR": 2,
-						"ru": 2
+						"es": 1,
+						"hi": 1,
+						"id": 1,
+						"ko": 1,
+						"nl": 1,
+						"pt_BR": 1,
+						"ru": 1
 					}
 				},
 				"fs_cli": {
