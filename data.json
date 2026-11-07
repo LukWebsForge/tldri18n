@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 06-Nov-26 01:00:12 CET",
+	"last_update": "Saturday, 07-Nov-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -778,7 +778,7 @@
 				"pt_BR": 13,
 				"pt_PT": 4,
 				"ro": 5,
-				"ru": 15,
+				"ru": 16,
 				"sr": 4,
 				"sv": 5,
 				"sw": 4,
@@ -18913,74 +18913,86 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-api": {
 					"status": {
 						"de": 2,
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-config": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-cr": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-iam": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-ks": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-login": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-logout": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-regions": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-target": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-update": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ibmcloud-version": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ic": {
@@ -38177,7 +38189,7 @@
 					"status": {
 						"en": 2,
 						"ko": 1,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"tailscale-set": {
@@ -44705,7 +44717,7 @@
 				"nl": 21,
 				"no": 3,
 				"pl": 8,
-				"pt_BR": 11,
+				"pt_BR": 12,
 				"pt_PT": 4,
 				"ro": 3,
 				"ru": 7,
@@ -46155,7 +46167,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"pt_BR": 2
 					}
 				},
 				"ausyscall": {
@@ -49402,7 +49415,7 @@
 						"ko": 1,
 						"nl": 1,
 						"pt_BR": 1,
-						"ru": 1
+						"ru": 2
 					}
 				},
 				"fs_cli": {
@@ -51521,7 +51534,7 @@
 				"ionice": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"iostat": {
@@ -71432,6 +71445,7 @@
 				"ventoy2disk": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
