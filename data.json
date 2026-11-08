@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 07-Nov-26 01:00:12 CET",
+	"last_update": "Sunday, 08-Nov-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -44720,7 +44720,7 @@
 				"pt_BR": 12,
 				"pt_PT": 4,
 				"ro": 3,
-				"ru": 7,
+				"ru": 8,
 				"sr": 3,
 				"sv": 3,
 				"sw": 3,
@@ -49451,6 +49451,11 @@
 						"ko": 2
 					}
 				},
+				"fuseiso": {
+					"status": {
+						"en": 2
+					}
+				},
 				"fuser": {
 					"status": {
 						"en": 2,
@@ -51571,6 +51576,7 @@
 						"fr": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
@@ -51580,6 +51586,7 @@
 						"es": 1,
 						"it": 2,
 						"ko": 1,
+						"ru": 2,
 						"tr": 1
 					}
 				},
@@ -51587,13 +51594,15 @@
 					"status": {
 						"en": 2,
 						"es": 1,
-						"it": 2
+						"it": 2,
+						"ru": 2
 					}
 				},
 				"ip-monitor": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ru": 2
 					}
 				},
 				"ip-neighbor": {
@@ -51602,6 +51611,7 @@
 						"es": 1,
 						"ko": 1,
 						"nl": 2,
+						"ru": 2,
 						"tr": 1
 					}
 				},
@@ -51652,7 +51662,8 @@
 				"ip-netconf": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ru": 2
 					}
 				},
 				"ip-route": {
@@ -51661,13 +51672,15 @@
 						"es": 1,
 						"it": 2,
 						"ko": 1,
+						"ru": 2,
 						"tr": 1
 					}
 				},
 				"ip-route-add": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ru": 2
 					}
 				},
 				"ip-route-get": {
@@ -51675,7 +51688,8 @@
 						"en": 2,
 						"es": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"ip-route-list": {
@@ -51739,19 +51753,22 @@
 						"es": 2,
 						"it": 2,
 						"ko": 2,
+						"ru": 2,
 						"tr": 2
 					}
 				},
 				"ip-stats": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ru": 2
 					}
 				},
 				"ip-tuntap": {
 					"status": {
 						"en": 2,
-						"it": 2
+						"it": 2,
+						"ru": 2
 					}
 				},
 				"ip6tables": {
