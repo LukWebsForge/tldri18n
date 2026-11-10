@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 09-Nov-26 01:00:11 CET",
+	"last_update": "Tuesday, 10-Nov-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6093,6 +6093,7 @@
 						"es": 2,
 						"fa": 1,
 						"fr": 1,
+						"he": 2,
 						"hi": 1,
 						"id": 2,
 						"it": 2,
@@ -6174,6 +6175,7 @@
 						"es": 2,
 						"fa": 1,
 						"fr": 2,
+						"he": 2,
 						"hi": 2,
 						"id": 2,
 						"it": 2,
@@ -6504,7 +6506,8 @@
 				},
 				"cjpeg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"cjxl": {
@@ -7049,7 +7052,8 @@
 				},
 				"colab": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"colab-exec": {
@@ -7059,7 +7063,8 @@
 				},
 				"colab-run": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"colcrt": {
@@ -8881,7 +8886,8 @@
 				},
 				"djpeg": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"djxl": {
@@ -16151,6 +16157,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"he": 2,
 						"it": 1,
 						"ja": 2,
 						"ko": 2,
@@ -16307,7 +16314,7 @@
 						"id": 1,
 						"it": 1,
 						"ja": 2,
-						"ko": 1,
+						"ko": 2,
 						"pt_BR": 1,
 						"ru": 2,
 						"tr": 1,
@@ -16595,6 +16602,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"gitman": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gitmoji": {
@@ -23575,7 +23587,8 @@
 				},
 				"llm-models": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"llvd": {
@@ -25682,7 +25695,8 @@
 				},
 				"mold": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"molecule": {
@@ -37800,12 +37814,14 @@
 				},
 				"stripe-listen": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stripe-logs": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"stty": {
@@ -38411,7 +38427,8 @@
 				},
 				"terraform-graph": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"terraform-import": {
@@ -41338,7 +41355,8 @@
 				},
 				"vllm-chat": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"vmtouch": {
@@ -41638,7 +41656,8 @@
 				},
 				"watchman": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ko": 2
 					}
 				},
 				"watson": {
@@ -41688,6 +41707,7 @@
 				"wcurl": {
 					"status": {
 						"en": 2,
+						"ko": 2,
 						"nl": 2,
 						"pl": 2,
 						"ru": 2
@@ -44723,7 +44743,7 @@
 				"ml": 9,
 				"nb": 3,
 				"ne": 3,
-				"nl": 21,
+				"nl": 20,
 				"no": 3,
 				"pl": 8,
 				"pt_BR": 11,
@@ -53570,6 +53590,11 @@
 					}
 				},
 				"mirrorselect": {
+					"status": {
+						"en": 2
+					}
+				},
+				"mkarchiso": {
 					"status": {
 						"en": 2
 					}
