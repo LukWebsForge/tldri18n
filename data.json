@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 10-Nov-26 01:00:12 CET",
+	"last_update": "Wednesday, 11-Nov-26 01:00:13 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -76,7 +76,7 @@
 				"pt_BR": 63,
 				"pt_PT": 59,
 				"ro": 0,
-				"ru": 63,
+				"ru": 95,
 				"sr": 0,
 				"sv": 0,
 				"sw": 0,
@@ -388,7 +388,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"pm-install-create": {
@@ -396,7 +397,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"pm-install-existing": {
@@ -405,7 +407,8 @@
 						"es": 2,
 						"it": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"pm-install-write": {
@@ -413,7 +416,8 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"pm-list": {
@@ -425,6 +429,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 1
 					}
 				},
@@ -436,6 +441,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"ru": 2,
 						"zh": 2
 					}
 				},
@@ -444,7 +450,8 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"screencap": {
@@ -4210,6 +4217,11 @@
 						"ko": 2
 					}
 				},
+				"botan": {
+					"status": {
+						"en": 2
+					}
+				},
 				"bower": {
 					"status": {
 						"en": 2,
@@ -4890,28 +4902,32 @@
 				"bun-pm": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-bin": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-cache": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-hash": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-ls": {
@@ -4920,43 +4936,50 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-migrate": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-pack": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-pkg": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-scan": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-trust": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-pm-version": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"bun-publish": {
@@ -44738,7 +44761,7 @@
 				"id": 8,
 				"it": 18,
 				"ja": 4,
-				"ko": 74,
+				"ko": 73,
 				"lo": 3,
 				"ml": 9,
 				"nb": 3,
@@ -49316,6 +49339,11 @@
 						"ko": 2
 					}
 				},
+				"flatpak-config": {
+					"status": {
+						"en": 2
+					}
+				},
 				"flatpak-install": {
 					"status": {
 						"en": 2
@@ -49341,6 +49369,11 @@
 						"es": 1,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"flatpak-uninstall": {
+					"status": {
+						"en": 2
 					}
 				},
 				"flatpak-update": {
@@ -60763,6 +60796,11 @@
 					"status": {
 						"en": 2,
 						"ru": 2
+					}
+				},
+				"ufw-reject": {
+					"status": {
+						"en": 2
 					}
 				},
 				"ufw-reload": {
