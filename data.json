@@ -1,5 +1,5 @@
 {
-	"last_update": "Wednesday, 11-Nov-26 01:00:13 CET",
+	"last_update": "Thursday, 12-Nov-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -3120,63 +3120,72 @@
 						"id": 2,
 						"it": 2,
 						"ko": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"ru": 2
 					}
 				},
 				"aws-s3-ls": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"aws-s3-mb": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"aws-s3-mv": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"aws-s3-presign": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"aws-s3-rb": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"aws-s3-rm": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"aws-s3-sync": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"aws-s3-website": {
 					"status": {
 						"en": 2,
 						"it": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"aws-s3api": {
@@ -49340,6 +49349,11 @@
 					}
 				},
 				"flatpak-config": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flatpak-history": {
 					"status": {
 						"en": 2
 					}
