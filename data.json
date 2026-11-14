@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 13-Nov-26 01:00:13 CET",
+	"last_update": "Saturday, 14-Nov-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -5719,6 +5719,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -12144,6 +12145,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 1,
+						"tr": 2,
 						"uk": 1,
 						"zh": 2,
 						"zh_TW": 2
@@ -13404,6 +13406,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ta": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -69929,7 +69932,7 @@
 				"mimikatz": {
 					"status": {
 						"en": 2,
-						"it": 1,
+						"it": 2,
 						"ko": 2
 					}
 				},
