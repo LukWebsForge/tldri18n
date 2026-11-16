@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 15-Nov-26 01:00:11 CET",
+	"last_update": "Monday, 16-Nov-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -788,7 +788,7 @@
 				"pt_BR": 13,
 				"pt_PT": 4,
 				"ro": 5,
-				"ru": 16,
+				"ru": 17,
 				"si": 0,
 				"sr": 4,
 				"sv": 5,
@@ -6693,6 +6693,11 @@
 						"pt_BR": 2
 					}
 				},
+				"clang-repl": {
+					"status": {
+						"en": 2
+					}
+				},
 				"clang-tidy": {
 					"status": {
 						"de": 2,
@@ -6875,7 +6880,7 @@
 						"it": 1,
 						"ko": 2,
 						"nl": 2,
-						"tr": 1,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -7333,6 +7338,7 @@
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -7523,7 +7529,8 @@
 						"ko": 2,
 						"nl": 2,
 						"pl": 2,
-						"pt_BR": 2
+						"pt_BR": 2,
+						"tr": 2
 					}
 				},
 				"convmv": {
@@ -8814,7 +8821,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
-						"tr": 1
+						"tr": 2
 					}
 				},
 				"dijkstra": {
@@ -11341,7 +11348,7 @@
 						"pt_BR": 1,
 						"ru": 2,
 						"sr": 1,
-						"tr": 1,
+						"tr": 2,
 						"zh": 1,
 						"zh_TW": 1
 					}
@@ -11425,7 +11432,7 @@
 						"sv": 1,
 						"ta": 1,
 						"th": 1,
-						"tr": 1,
+						"tr": 2,
 						"uk": 1,
 						"uz": 1,
 						"zh": 1,
@@ -14669,7 +14676,7 @@
 						"ro": 2,
 						"ru": 2,
 						"ta": 2,
-						"tr": 1,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -15149,7 +15156,7 @@
 						"ja": 2,
 						"ko": 2,
 						"pt_BR": 2,
-						"tr": 1,
+						"tr": 2,
 						"uk": 1,
 						"zh": 2
 					}
@@ -15579,7 +15586,7 @@
 					"status": {
 						"en": 2,
 						"ko": 2,
-						"tr": 1
+						"tr": 2
 					}
 				},
 				"git-ignore-io": {
@@ -15770,14 +15777,6 @@
 				"git-merge-into": {
 					"status": {
 						"en": 2,
-						"ko": 2,
-						"ro": 2
-					}
-				},
-				"git-merge-one-file": {
-					"status": {
-						"en": 2,
-						"ja": 2,
 						"ko": 2,
 						"ro": 2
 					}
@@ -16006,7 +16005,7 @@
 						"ja": 2,
 						"ko": 1,
 						"pt_BR": 1,
-						"tr": 1,
+						"tr": 2,
 						"zh": 1
 					}
 				},
@@ -16132,7 +16131,7 @@
 						"ja": 2,
 						"ko": 1,
 						"nl": 2,
-						"tr": 1
+						"tr": 2
 					}
 				},
 				"git-rm": {
@@ -16358,7 +16357,7 @@
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
-						"tr": 1
+						"tr": 2
 					}
 				},
 				"git-status": {
@@ -21660,52 +21659,61 @@
 				"jj-git-clone": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 1,
+						"ru": 2
 					}
 				},
 				"jj-git-colocation": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"jj-git-export": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"jj-git-fetch": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-git-import": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"jj-git-init": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-git-push": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-git-remote": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 1,
+						"ru": 2
 					}
 				},
 				"jj-git-root": {
 					"status": {
 						"en": 2,
-						"nl": 2
+						"nl": 2,
+						"ru": 2
 					}
 				},
 				"jj-help": {
@@ -22673,7 +22681,7 @@
 				"kodi-send": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 1
 					}
 				},
 				"komac": {
@@ -24981,7 +24989,7 @@
 						"pt_BR": 2,
 						"ru": 2,
 						"ta": 1,
-						"tr": 1,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -37762,6 +37770,7 @@
 				"stdbuf": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"hi": 2,
 						"ko": 2,
 						"nl": 2
@@ -43104,7 +43113,7 @@
 						"pl": 2,
 						"pt_BR": 1,
 						"ru": 2,
-						"tr": 1,
+						"tr": 2,
 						"zh": 2
 					}
 				},
