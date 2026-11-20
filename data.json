@@ -1,5 +1,5 @@
 {
-	"last_update": "Thursday, 19-Nov-26 01:00:12 CET",
+	"last_update": "Friday, 20-Nov-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -7231,7 +7231,7 @@
 						"it": 1,
 						"ko": 2,
 						"pt_BR": 1,
-						"tr": 1,
+						"tr": 2,
 						"zh": 1
 					}
 				},
@@ -7693,7 +7693,7 @@
 						"ro": 2,
 						"ru": 2,
 						"ta": 2,
-						"tr": 1,
+						"tr": 2,
 						"zh": 2,
 						"zh_TW": 2
 					}
@@ -8474,7 +8474,7 @@
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
-						"tr": 1
+						"tr": 2
 					}
 				},
 				"dbeaver": {
@@ -14949,7 +14949,7 @@
 						"id": 1,
 						"ja": 2,
 						"ko": 1,
-						"tr": 1,
+						"tr": 2,
 						"zh": 1
 					}
 				},
@@ -15768,7 +15768,7 @@
 						"ko": 1,
 						"nl": 2,
 						"ro": 1,
-						"tr": 1,
+						"tr": 2,
 						"uk": 1,
 						"zh": 1
 					}
@@ -16698,8 +16698,8 @@
 				"gitstats": {
 					"status": {
 						"en": 2,
-						"id": 1,
-						"ko": 1
+						"id": 2,
+						"ko": 2
 					}
 				},
 				"gitui": {
@@ -18022,7 +18022,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"fa": 1,
+						"fa": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -33973,8 +33973,8 @@
 				"pulumi-login": {
 					"status": {
 						"en": 2,
-						"es": 1,
-						"ko": 1
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"pulumi-logout": {
@@ -34250,25 +34250,25 @@
 				},
 				"pwd": {
 					"status": {
-						"ar": 1,
+						"ar": 2,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"he": 2,
-						"hi": 1,
-						"id": 1,
+						"hi": 2,
+						"id": 2,
 						"it": 2,
-						"ja": 1,
-						"ko": 1,
+						"ja": 2,
+						"ko": 2,
 						"lo": 1,
 						"nb": 2,
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
 						"sw": 2,
-						"th": 1,
+						"th": 2,
 						"zh": 2,
-						"zh_TW": 1
+						"zh_TW": 2
 					}
 				},
 				"pwgen": {
@@ -34783,7 +34783,7 @@
 				"r2e": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"rabbitmq-diagnostics": {
@@ -37182,7 +37182,7 @@
 				"snmpget": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -37195,7 +37195,7 @@
 				"snmpnetstat": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -38611,7 +38611,7 @@
 					"status": {
 						"en": 2,
 						"ja": 1,
-						"ko": 1,
+						"ko": 2,
 						"nl": 2,
 						"pl": 1,
 						"zh": 1
@@ -41515,8 +41515,8 @@
 				"vulkaninfo": {
 					"status": {
 						"en": 2,
-						"es": 1,
-						"ko": 1
+						"es": 2,
+						"ko": 2
 					}
 				},
 				"w": {
@@ -42302,7 +42302,7 @@
 				"xgettext": {
 					"status": {
 						"en": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"xh": {
@@ -46862,7 +46862,7 @@
 				"bridge": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -47878,7 +47878,7 @@
 					"status": {
 						"en": 2,
 						"es": 2,
-						"ko": 1
+						"ko": 2
 					}
 				},
 				"curlie": {
@@ -48132,9 +48132,9 @@
 				},
 				"dialog": {
 					"status": {
-						"ar": 1,
+						"ar": 2,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -49336,7 +49336,7 @@
 				"fincore": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -51173,7 +51173,7 @@
 				"gtk-launch": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -51580,7 +51580,7 @@
 				"ifstatus": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -51777,7 +51777,7 @@
 				"ip-maddress": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"it": 2,
 						"ru": 2
 					}
@@ -52129,7 +52129,7 @@
 				"iwinfo": {
 					"status": {
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"ko": 2
 					}
 				},
@@ -52936,7 +52936,7 @@
 				"logread": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"logrotate": {
@@ -60785,7 +60785,7 @@
 				"ubuntu-drivers": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"ubuntu-security-status": {
@@ -60797,7 +60797,7 @@
 				"ubus": {
 					"status": {
 						"en": 2,
-						"es": 1
+						"es": 2
 					}
 				},
 				"uci": {
@@ -60910,6 +60910,11 @@
 						"ru": 2
 					}
 				},
+				"ufw-logging": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ufw-reject": {
 					"status": {
 						"en": 2
@@ -60921,6 +60926,11 @@
 					}
 				},
 				"ufw-reset": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ufw-show": {
 					"status": {
 						"en": 2
 					}
