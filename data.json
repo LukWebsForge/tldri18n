@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 20-Nov-26 01:00:11 CET",
+	"last_update": "Saturday, 21-Nov-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -763,7 +763,7 @@
 				"bn": 6,
 				"bs": 5,
 				"ca": 4,
-				"cs": 5,
+				"cs": 4,
 				"da": 4,
 				"de": 11,
 				"el": 4,
@@ -773,7 +773,7 @@
 				"fi": 4,
 				"fr": 12,
 				"he": 0,
-				"hi": 5,
+				"hi": 6,
 				"id": 14,
 				"it": 17,
 				"ja": 8,
@@ -6805,6 +6805,11 @@
 						"nl": 2
 					}
 				},
+				"clock-rs": {
+					"status": {
+						"en": 2
+					}
+				},
 				"clockwork-cli": {
 					"status": {
 						"en": 2,
@@ -7338,6 +7343,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"hi": 2,
 						"it": 2,
 						"ko": 2,
 						"nl": 2,
@@ -17499,6 +17505,11 @@
 						"ru": 2
 					}
 				},
+				"grafana": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grafana-cli": {
 					"status": {
 						"en": 2,
@@ -17509,6 +17520,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"grafana-server": {
+					"status": {
+						"en": 2
 					}
 				},
 				"grap": {
@@ -18186,6 +18202,11 @@
 						"en": 2,
 						"es": 2,
 						"ko": 2
+					}
+				},
+				"helm-upgrade": {
+					"status": {
+						"en": 2
 					}
 				},
 				"helmfile": {
@@ -22183,6 +22204,7 @@
 				"jupyter": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ko": 2,
 						"pt_BR": 2,
 						"zh": 2
@@ -31481,6 +31503,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 1,
 						"it": 2,
 						"ko": 2,
@@ -34413,6 +34436,7 @@
 						"en": 2,
 						"es": 2,
 						"fr": 2,
+						"hi": 2,
 						"id": 2,
 						"it": 1,
 						"ja": 2,
@@ -36937,11 +36961,11 @@
 				},
 				"shred": {
 					"status": {
-						"ar": 2,
+						"ar": 1,
 						"en": 2,
-						"es": 2,
-						"ko": 2,
-						"nl": 2
+						"es": 1,
+						"ko": 1,
+						"nl": 1
 					}
 				},
 				"shuf": {
@@ -40426,6 +40450,7 @@
 						"ar": 2,
 						"en": 2,
 						"es": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2,
 						"ru": 2,
@@ -47848,9 +47873,9 @@
 				"csplit": {
 					"status": {
 						"en": 2,
-						"es": 2,
+						"es": 1,
 						"ko": 1,
-						"nl": 2,
+						"nl": 1,
 						"pt_BR": 1
 					}
 				},
@@ -49449,6 +49474,11 @@
 					}
 				},
 				"flatpak-override": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flatpak-ps": {
 					"status": {
 						"en": 2
 					}
@@ -60265,6 +60295,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"team-fortress-2": {
+					"status": {
+						"en": 2
 					}
 				},
 				"tegrastats": {
