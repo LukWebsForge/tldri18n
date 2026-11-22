@@ -1,5 +1,5 @@
 {
-	"last_update": "Saturday, 21-Nov-26 01:00:12 CET",
+	"last_update": "Sunday, 22-Nov-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -18127,7 +18127,7 @@
 						"en": 2,
 						"fa": 2,
 						"fr": 2,
-						"it": 1,
+						"it": 2,
 						"ko": 2,
 						"nl": 2,
 						"pt_BR": 2,
@@ -21640,41 +21640,48 @@
 				"jj-file-annotate": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-file-chmod": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-file-list": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-file-search": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-file-show": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-file-track": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"jj-file-untrack": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"jj-fix": {
@@ -21795,40 +21802,47 @@
 				},
 				"jj-operation-abandon": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"jj-operation-diff": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-operation-integrate": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"jj-operation-log": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-operation-restore": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"jj-operation-revert": {
 					"status": {
-						"en": 2
+						"en": 2,
+						"ru": 2
 					}
 				},
 				"jj-operation-show": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-parallelize": {
@@ -58995,6 +59009,11 @@
 						"en": 2,
 						"id": 2,
 						"ko": 2
+					}
+				},
+				"starbound": {
+					"status": {
+						"en": 2
 					}
 				},
 				"startx": {
