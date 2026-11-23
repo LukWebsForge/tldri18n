@@ -1,5 +1,5 @@
 {
-	"last_update": "Sunday, 22-Nov-26 01:00:11 CET",
+	"last_update": "Monday, 23-Nov-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -6936,7 +6936,7 @@
 						"ca": 1,
 						"en": 2,
 						"es": 2,
-						"fr": 1,
+						"fr": 2,
 						"ko": 2,
 						"ml": 1,
 						"nl": 2,
@@ -12287,6 +12287,7 @@
 						"ar": 2,
 						"de": 1,
 						"en": 2,
+						"hi": 2,
 						"it": 1,
 						"ja": 2,
 						"ko": 2,
@@ -12308,6 +12309,7 @@
 					"status": {
 						"de": 2,
 						"en": 2,
+						"hi": 2,
 						"it": 2,
 						"ja": 2,
 						"ko": 2
@@ -16160,7 +16162,7 @@
 						"de": 1,
 						"en": 2,
 						"es": 1,
-						"fr": 1,
+						"fr": 2,
 						"id": 1,
 						"it": 1,
 						"ja": 2,
@@ -17655,6 +17657,7 @@
 				"gst-launch-1.0": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -24322,6 +24325,11 @@
 						"nl": 2
 					}
 				},
+				"lua-language-server": {
+					"status": {
+						"en": 2
+					}
+				},
 				"luac": {
 					"status": {
 						"en": 2,
@@ -28371,7 +28379,8 @@
 				"npm-stars": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-start": {
@@ -28537,7 +28546,8 @@
 				"npm-unstar": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"npm-update": {
@@ -38624,6 +38634,11 @@
 					"status": {
 						"en": 2,
 						"ko": 2
+					}
+				},
+				"terraform-version": {
+					"status": {
+						"en": 2
 					}
 				},
 				"terraform-workspace": {
@@ -61386,6 +61401,7 @@
 				"v4l2-ctl": {
 					"status": {
 						"en": 2,
+						"hi": 2,
 						"ko": 2
 					}
 				},
