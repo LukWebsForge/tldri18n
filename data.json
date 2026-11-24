@@ -1,5 +1,5 @@
 {
-	"last_update": "Monday, 23-Nov-26 01:00:12 CET",
+	"last_update": "Tuesday, 24-Nov-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -39071,6 +39071,11 @@
 						"ko": 2
 					}
 				},
+				"tlmgr-init-usertree": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tlmgr-install": {
 					"status": {
 						"en": 2,
@@ -60973,6 +60978,11 @@
 						"ru": 2
 					}
 				},
+				"ufw-insert": {
+					"status": {
+						"en": 2
+					}
+				},
 				"ufw-limit": {
 					"status": {
 						"en": 2,
@@ -60980,6 +60990,11 @@
 					}
 				},
 				"ufw-logging": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ufw-prepend": {
 					"status": {
 						"en": 2
 					}
@@ -60995,6 +61010,11 @@
 					}
 				},
 				"ufw-reset": {
+					"status": {
+						"en": 2
+					}
+				},
+				"ufw-route": {
 					"status": {
 						"en": 2
 					}
