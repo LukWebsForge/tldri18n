@@ -1,5 +1,5 @@
 {
-	"last_update": "Tuesday, 24-Nov-26 01:00:11 CET",
+	"last_update": "Thursday, 26-Nov-26 01:00:11 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -14163,6 +14163,11 @@
 						"ko": 2
 					}
 				},
+				"gh-co": {
+					"status": {
+						"en": 2
+					}
+				},
 				"gh-codespace": {
 					"status": {
 						"en": 2,
@@ -16755,11 +16760,21 @@
 						"ru": 2
 					}
 				},
+				"glab-co": {
+					"status": {
+						"en": 2
+					}
+				},
 				"glab-issue": {
 					"status": {
 						"en": 2,
 						"ko": 2,
 						"ru": 2
+					}
+				},
+				"glab-label": {
+					"status": {
+						"en": 2
 					}
 				},
 				"glab-mr": {
@@ -16802,6 +16817,11 @@
 						"en": 2,
 						"ko": 2,
 						"ru": 2
+					}
+				},
+				"glab-variable": {
+					"status": {
+						"en": 2
 					}
 				},
 				"gladtex": {
@@ -21559,37 +21579,43 @@
 				"jj-config-edit": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-config-get": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-config-list": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-config-path": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-config-set": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-config-unset": {
 					"status": {
 						"en": 2,
-						"ko": 2
+						"ko": 2,
+						"ru": 2
 					}
 				},
 				"jj-converge": {
@@ -22027,6 +22053,7 @@
 				"jj-workspace-root": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -25665,6 +25692,7 @@
 						"es": 1,
 						"fa": 1,
 						"fr": 1,
+						"he": 2,
 						"hi": 1,
 						"id": 1,
 						"it": 1,
@@ -26505,6 +26533,7 @@
 						"el": 2,
 						"en": 2,
 						"es": 2,
+						"he": 2,
 						"hi": 1,
 						"id": 2,
 						"it": 1,
@@ -32752,6 +32781,11 @@
 						"nl": 2
 					}
 				},
+				"podman-volume": {
+					"status": {
+						"en": 2
+					}
+				},
 				"poetry": {
 					"status": {
 						"de": 2,
@@ -38806,6 +38840,7 @@
 				"ticketconverter.py": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -38852,6 +38887,7 @@
 				"timeout": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -39339,6 +39375,7 @@
 						"en": 2,
 						"es": 1,
 						"fa": 1,
+						"he": 2,
 						"hi": 1,
 						"id": 1,
 						"ko": 1,
@@ -44877,7 +44914,7 @@
 				"bn": 5,
 				"bs": 3,
 				"ca": 6,
-				"cs": 4,
+				"cs": 3,
 				"da": 3,
 				"de": 7,
 				"el": 3,
@@ -44907,7 +44944,7 @@
 				"sr": 3,
 				"sv": 3,
 				"sw": 3,
-				"ta": 6,
+				"ta": 5,
 				"th": 3,
 				"tr": 7,
 				"uk": 4,
@@ -45870,6 +45907,11 @@
 						"zh_TW": 2
 					}
 				},
+				"apt-autoremove": {
+					"status": {
+						"en": 2
+					}
+				},
 				"apt-cache": {
 					"status": {
 						"bn": 2,
@@ -46001,6 +46043,11 @@
 						"pl": 2,
 						"ru": 2,
 						"uk": 2
+					}
+				},
+				"apt-remove": {
+					"status": {
+						"en": 2
 					}
 				},
 				"aptitude": {
@@ -47740,6 +47787,11 @@
 						"es": 1,
 						"ko": 1,
 						"pl": 1
+					}
+				},
+				"counter-strike-1.6": {
+					"status": {
+						"en": 2
 					}
 				},
 				"counter-strike-2": {
@@ -49524,6 +49576,11 @@
 						"ko": 2
 					}
 				},
+				"flatpak-remotes": {
+					"status": {
+						"en": 2
+					}
+				},
 				"flatpak-run": {
 					"status": {
 						"en": 2,
@@ -51132,6 +51189,11 @@
 						"en": 2
 					}
 				},
+				"grub-mkimage": {
+					"status": {
+						"en": 2
+					}
+				},
 				"grub-mkrelpath": {
 					"status": {
 						"en": 2
@@ -51143,6 +51205,11 @@
 						"es": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"grub-mkstandalone": {
+					"status": {
+						"en": 2
 					}
 				},
 				"grub-mount": {
@@ -62429,7 +62496,7 @@
 					"status": {
 						"ca": 1,
 						"en": 2,
-						"es": 1,
+						"es": 2,
 						"fa": 1,
 						"fr": 2,
 						"id": 1,
