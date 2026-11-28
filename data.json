@@ -1,5 +1,5 @@
 {
-	"last_update": "Friday, 27-Nov-26 01:00:12 CET",
+	"last_update": "Saturday, 28-Nov-26 01:00:12 CET",
 	"languages": [
 		"en",
 		"ar",
@@ -1943,6 +1943,7 @@
 						"nl": 2,
 						"pt_BR": 2,
 						"ru": 2,
+						"tr": 2,
 						"zh": 2
 					}
 				},
@@ -3744,6 +3745,11 @@
 						"ko": 2
 					}
 				},
+				"baidupcs-go": {
+					"status": {
+						"en": 2
+					}
+				},
 				"balena": {
 					"status": {
 						"en": 2,
@@ -4416,6 +4422,11 @@
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"brew-deps": {
+					"status": {
+						"en": 2
 					}
 				},
 				"brew-info": {
@@ -9443,6 +9454,11 @@
 						"ru": 2
 					}
 				},
+				"docker-container-restart": {
+					"status": {
+						"en": 2
+					}
+				},
 				"docker-container-rm": {
 					"status": {
 						"bn": 2,
@@ -10081,6 +10097,11 @@
 						"uz": 2,
 						"zh": 2,
 						"zh_TW": 2
+					}
+				},
+				"docker-restart": {
+					"status": {
+						"en": 2
 					}
 				},
 				"docker-rm": {
@@ -10981,6 +11002,11 @@
 						"zh_TW": 2
 					}
 				},
+				"dotnet-add": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dotnet-add-package": {
 					"status": {
 						"en": 2,
@@ -11012,6 +11038,11 @@
 						"ru": 2
 					}
 				},
+				"dotnet-package-add": {
+					"status": {
+						"en": 2
+					}
+				},
 				"dotnet-publish": {
 					"status": {
 						"en": 2,
@@ -11019,6 +11050,11 @@
 						"ko": 2,
 						"pl": 2,
 						"ru": 2
+					}
+				},
+				"dotnet-reference-add": {
+					"status": {
+						"en": 2
 					}
 				},
 				"dotnet-restore": {
@@ -15057,7 +15093,7 @@
 						"ko": 1,
 						"nl": 2,
 						"ta": 1,
-						"tr": 1,
+						"tr": 2,
 						"zh": 1
 					}
 				},
@@ -15469,7 +15505,7 @@
 						"it": 1,
 						"ja": 2,
 						"ko": 1,
-						"tr": 1,
+						"tr": 2,
 						"uk": 1
 					}
 				},
@@ -16639,7 +16675,7 @@
 						"it": 1,
 						"ja": 2,
 						"ko": 1,
-						"tr": 1
+						"tr": 2
 					}
 				},
 				"git-write-tree": {
@@ -16851,6 +16887,11 @@
 						"en": 2,
 						"ko": 2,
 						"ru": 2
+					}
+				},
+				"glab-schedule": {
+					"status": {
+						"en": 2
 					}
 				},
 				"glab-ssh-key": {
@@ -32779,6 +32820,11 @@
 						"pt_BR": 2
 					}
 				},
+				"podman-network": {
+					"status": {
+						"en": 2
+					}
+				},
 				"podman-ps": {
 					"status": {
 						"en": 2,
@@ -36944,6 +36990,7 @@
 					"status": {
 						"bs": 1,
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 1,
 						"nl": 2,
@@ -39350,6 +39397,11 @@
 						"zh_TW": 2
 					}
 				},
+				"toe": {
+					"status": {
+						"en": 2
+					}
+				},
 				"tofu": {
 					"status": {
 						"en": 2,
@@ -39496,6 +39548,7 @@
 				"traceroute": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"ja": 2,
 						"ko": 2,
 						"nl": 2,
@@ -42160,6 +42213,7 @@
 					"status": {
 						"ar": 2,
 						"en": 2,
+						"es": 2,
 						"id": 2,
 						"ko": 2,
 						"nl": 2,
@@ -42376,6 +42430,7 @@
 				"xargs": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"fr": 2,
 						"ko": 1,
 						"nl": 2,
@@ -42554,6 +42609,7 @@
 					"status": {
 						"bn": 2,
 						"en": 2,
+						"es": 2,
 						"ko": 2,
 						"nl": 2
 					}
@@ -44983,7 +45039,7 @@
 				"pt_BR": 11,
 				"pt_PT": 4,
 				"ro": 3,
-				"ru": 8,
+				"ru": 7,
 				"si": 0,
 				"sr": 3,
 				"sv": 3,
@@ -46111,6 +46167,11 @@
 					}
 				},
 				"apt-remove": {
+					"status": {
+						"en": 2
+					}
+				},
+				"apt-update": {
 					"status": {
 						"en": 2
 					}
@@ -49635,11 +49696,31 @@
 						"en": 2
 					}
 				},
+				"flatpak-remote-add": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flatpak-remote-delete": {
+					"status": {
+						"en": 2
+					}
+				},
 				"flatpak-remote-info": {
 					"status": {
 						"en": 2,
 						"it": 2,
 						"ko": 2
+					}
+				},
+				"flatpak-remote-ls": {
+					"status": {
+						"en": 2
+					}
+				},
+				"flatpak-remote-modify": {
+					"status": {
+						"en": 2
 					}
 				},
 				"flatpak-remotes": {
@@ -52869,6 +52950,7 @@
 				"lid.idutils": {
 					"status": {
 						"en": 2,
+						"es": 2,
 						"nl": 2
 					}
 				},
@@ -60352,6 +60434,11 @@
 						"es": 2,
 						"ko": 2,
 						"nl": 2
+					}
+				},
+				"systemd-sysinstall": {
+					"status": {
+						"en": 2
 					}
 				},
 				"systemd-sysusers": {
